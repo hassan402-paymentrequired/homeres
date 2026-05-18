@@ -32,7 +32,9 @@ export default function CheckoutPage() {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        alert('Order placed successfully! Thank you for shopping with Hemere.');
+        alert(
+            'Preview only — no order was placed. Thank you for reviewing the Homère checkout experience.',
+        );
     };
 
     const inputStyle: React.CSSProperties = {
@@ -96,7 +98,7 @@ export default function CheckoutPage() {
                         textDecoration: 'none',
                     }}
                 >
-                    HEMERE
+                    Homère
                 </Link>
                 <Link
                     href="/"

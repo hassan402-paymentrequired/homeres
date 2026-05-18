@@ -1,6 +1,8 @@
 /* eslint-disable curly */
 'use client';
+import { Link } from '@inertiajs/react';
 import React, { useState } from 'react';
+import { BRAND } from '@/data/brand';
 
 export default function SiteFooter() {
   const [email, setEmail] = useState('');
@@ -153,8 +155,8 @@ export default function SiteFooter() {
       >
         {/* Column 1: Brand */}
         <div>
-          <a
-            href="#"
+          <Link
+            href="/"
             style={{
               fontFamily: '"Proza Libre", sans-serif',
               fontSize: '20px',
@@ -168,7 +170,7 @@ export default function SiteFooter() {
             }}
           >
             Homère
-          </a>
+          </Link>
           <p
             style={{
               fontFamily: 'Poppins, sans-serif',
@@ -243,17 +245,15 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
           </h3>
           <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
             {[
-              'Terms of Service',
-              'Privacy Policy',
-              'Shipping',
-              'Returns & Refunds',
-              'Legal Notice',
-              'FAQ',
-              'My Account',
+              { label: 'About Us', href: '/about' },
+              { label: 'Design Studio', href: '/services' },
+              { label: 'Contact', href: '/contact' },
+              { label: 'Shop All', href: '/shop' },
+              { label: 'FAQ', href: '/contact' },
             ].map((item) => (
-              <li key={item} style={{ marginBottom: '10px' }}>
-                <a
-                  href="#"
+              <li key={item.label} style={{ marginBottom: '10px' }}>
+                <Link
+                  href={item.href}
                   style={{
                     fontFamily: 'Poppins, sans-serif',
                     fontSize: '12px',
@@ -270,8 +270,8 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
                     (e.currentTarget as HTMLAnchorElement).style.color = '#4a4a4a';
                   }}
                 >
-                  {item}
-                </a>
+                  {item.label}
+                </Link>
               </li>
             ))}
           </ul>
@@ -296,7 +296,7 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
           <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
             <li style={{ marginBottom: '12px' }}>
               <a
-                href="tel:+234850000000"
+                href={BRAND.phoneHref}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -319,12 +319,12 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 1.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.77a16 16 0 0 0 6.29 6.29l.95-.95a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
                 </svg>
-                +234 8050 000 000
+                {BRAND.phone}
               </a>
             </li>
             <li style={{ marginBottom: '12px' }}>
               <a
-                href="#contact"
+                href={`mailto:${BRAND.email}`}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -348,10 +348,9 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                   <polyline points="22,6 12,13 2,6" />
                 </svg>
-                Email us:
+                {BRAND.email}
               </a>
             </li>
-            <strong>homerenigerialimited@gmail.com</strong>
           </ul>
         </div>
 
@@ -371,39 +370,34 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
           >
             Our Stores
           </h3>
-          {[
-            { city: 'Lagos', address: 'Lagos mainland' },
-            { city: 'Abuja', address: 'Muhammad bello highway' },
-            { city: 'Ikeji', address: 'Government building' },
-          ].map((store) => (
-            <div key={store.city} style={{ marginBottom: '16px' }}>
-              <p
-                style={{
-                  fontFamily: 'Poppins, sans-serif',
-                  fontSize: '12px',
-                  fontWeight: 500,
-                  letterSpacing: '1px',
-                  textTransform: 'uppercase',
-                  color: '#060606',
-                  margin: '0 0 2px',
-                }}
-              >
-                {store.city}
-              </p>
-              <p
-                style={{
-                  fontFamily: 'Poppins, sans-serif',
-                  fontSize: '12px',
-                  fontWeight: 300,
-                  letterSpacing: '0.5px',
-                  color: '#4a4a4a',
-                  margin: 0,
-                }}
-              >
-                {store.address}
-              </p>
-            </div>
-          ))}
+          <div style={{ marginBottom: '16px' }}>
+            <p
+              style={{
+                fontFamily: 'Poppins, sans-serif',
+                fontSize: '12px',
+                fontWeight: 500,
+                letterSpacing: '1px',
+                textTransform: 'uppercase',
+                color: '#060606',
+                margin: '0 0 2px',
+              }}
+            >
+              Victoria Island, Lagos
+            </p>
+            <p
+              style={{
+                fontFamily: 'Poppins, sans-serif',
+                fontSize: '12px',
+                fontWeight: 300,
+                letterSpacing: '0.5px',
+                color: '#4a4a4a',
+                margin: 0,
+                lineHeight: 1.6,
+              }}
+            >
+              {BRAND.address}
+            </p>
+          </div>
         </div>
       </div>
 
@@ -431,7 +425,7 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
             margin: 0,
           }}
         >
-          &copy; 2026 Homère
+          &copy; 2026 {BRAND.legalName}
         </p>
         <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
           {['Visa', 'Mastercard', 'PayPal', 'Apple Pay', 'Google Pay'].map((method) => (

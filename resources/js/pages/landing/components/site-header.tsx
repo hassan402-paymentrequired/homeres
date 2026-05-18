@@ -1,84 +1,12 @@
 /* eslint-disable @stylistic/padding-line-between-statements */
 import { Link } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
+import PreviewBanner from '@/components/storefront/preview-banner';
 import { useCart } from '@/context/CartContext';
+import { MAIN_NAV } from '@/data/navigation';
 import { home, login } from '@/routes';
 
-interface NavItem {
-    label: string;
-    href: string;
-    hasDropdown?: boolean;
-    children?: { label: string; href: string }[];
-}
-
-const navItems: NavItem[] = [
-    { label: 'New Arrivals', href: '#new-arrivals' },
-    {
-        label: 'Furniture',
-        href: '#furniture',
-        hasDropdown: true,
-        children: [
-            { label: 'Sofas & Armchairs', href: '#sofas' },
-            { label: 'Tables & Desks', href: '#tables' },
-            { label: 'Storage', href: '#storage' },
-            { label: 'Beds & Bedroom', href: '#beds' },
-        ],
-    },
-    {
-        label: 'Lighting',
-        href: '#lighting',
-        hasDropdown: true,
-        children: [
-            { label: 'Pendant Lights', href: '#pendant' },
-            { label: 'Floor Lamps', href: '#floor-lamps' },
-            { label: 'Table Lamps', href: '#table-lamps' },
-            { label: 'Wall Lights', href: '#wall-lights' },
-        ],
-    },
-    {
-        label: 'Home Accessories',
-        href: '#home-accessories',
-        hasDropdown: true,
-        children: [
-            { label: 'Decorative Objects', href: '#objects' },
-            { label: 'Vases & Vessels', href: '#vases' },
-            { label: 'Mirrors', href: '#mirrors' },
-            { label: 'Trays & Bowls', href: '#trays' },
-        ],
-    },
-    {
-        label: 'Candles & Fragrance',
-        href: '#candles',
-        hasDropdown: true,
-        children: [
-            { label: 'Scented Candles', href: '#scented' },
-            { label: 'Diffusers', href: '#diffusers' },
-            { label: 'Room Sprays', href: '#sprays' },
-        ],
-    },
-    {
-        label: 'Coffee Table Books',
-        href: '#books',
-        hasDropdown: true,
-        children: [
-            { label: 'Architecture', href: '#architecture' },
-            { label: 'Art & Design', href: '#art' },
-            { label: 'Fashion', href: '#fashion' },
-        ],
-    },
-    {
-        label: 'Textiles',
-        href: '#textiles',
-        hasDropdown: true,
-        children: [
-            { label: 'Cushions', href: '#cushions' },
-            { label: 'Throws', href: '#throws' },
-            { label: 'Rugs', href: '#rugs' },
-        ],
-    },
-    { label: 'Design Studio', href: '#studio' },
-    { label: 'About Us', href: '#about' },
-];
+const navItems = MAIN_NAV;
 
 // Breakpoint for mobile (matches CSS media query below)
 const MOBILE_BREAKPOINT = 768;
@@ -145,28 +73,7 @@ export default function SiteHeader() {
                 }
             `}</style>
 
-            {/* Announcement bar */}
-            <div
-                style={{
-                    background: '#ffffff',
-                    borderBottom: '1px solid #e8e8e1',
-                    textAlign: 'center',
-                    padding: '8px 30px',
-                }}
-            >
-                <p
-                    style={{
-                        fontFamily: 'Poppins, sans-serif',
-                        fontSize: '12px',
-                        fontWeight: 400,
-                        letterSpacing: '1.5px',
-                        color: '#060606',
-                        margin: 0,
-                    }}
-                >
-                    🚀 new campaign goes here
-                </p>
-            </div>
+            <PreviewBanner />
 
             {/* Main header */}
             <header
@@ -251,7 +158,7 @@ export default function SiteHeader() {
                         >
                             <img
                                 src="/logo.png"
-                                alt="Hemere logo"
+                                alt="Homère logo"
                                 style={{
                                     width: '88px',
                                     height: '44px',
@@ -443,7 +350,7 @@ export default function SiteHeader() {
                                 onMouseEnter={() => item.hasDropdown && setOpenDropdown(item.label)}
                                 onMouseLeave={() => setOpenDropdown(null)}
                             >
-                                <a
+                                <Link
                                     href={item.href}
                                     className="site-header-nav-link"
                                     style={{
@@ -479,7 +386,7 @@ export default function SiteHeader() {
                                             <polyline points="2,3 5,7 8,3" />
                                         </svg>
                                     )}
-                                </a>
+                                </Link>
 
                                 {/* Dropdown */}
                                 {item.hasDropdown && item.children && (
@@ -500,7 +407,7 @@ export default function SiteHeader() {
                                         }}
                                     >
                                         {item.children.map((child) => (
-                                            <a
+                                            <Link
                                                 key={child.label}
                                                 href={child.href}
                                                 className="site-header-dropdown-item"
@@ -520,7 +427,7 @@ export default function SiteHeader() {
                                                 }}
                                             >
                                                 {child.label}
-                                            </a>
+                                            </Link>
                                         ))}
                                     </div>
                                 )}
@@ -632,7 +539,7 @@ export default function SiteHeader() {
                                         {mobileExpandedItem === item.label && item.children && (
                                             <div style={{ background: '#f9f9f7' }}>
                                                 {item.children.map((child) => (
-                                                    <a
+                                                    <Link
                                                         key={child.label}
                                                         href={child.href}
                                                         onClick={() => setMobileOpen(false)}
@@ -650,13 +557,13 @@ export default function SiteHeader() {
                                                         }}
                                                     >
                                                         {child.label}
-                                                    </a>
+                                                    </Link>
                                                 ))}
                                             </div>
                                         )}
                                     </>
                                 ) : (
-                                    <a
+                                    <Link
                                         href={item.href}
                                         onClick={() => setMobileOpen(false)}
                                         style={{
@@ -673,7 +580,7 @@ export default function SiteHeader() {
                                         }}
                                     >
                                         {item.label}
-                                    </a>
+                                    </Link>
                                 )}
                             </div>
                         ))}

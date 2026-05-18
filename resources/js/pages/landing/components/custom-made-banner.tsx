@@ -1,4 +1,6 @@
+import { Link } from '@inertiajs/react';
 import React, { useRef, useEffect, useState } from 'react';
+import { BRAND } from '@/data/brand';
 
 export default function CustomMadeBanner() {
   const [visible, setVisible] = useState(false);
@@ -93,10 +95,10 @@ observer.observe(ref.current);
               marginBottom: '32px'
             }}>
             
-            At Homère Nigeria Limited, we blend timeless elegance with contemporary trends to offer a unique shopping experience. Our curated collections are designed to inspire and delight, making it easy for you to find the perfect pieces to elevate your home’s ambiance. From luxurious furniture to enchanting home fragrances, each item is selected with an eye for detail and a commitment to excellence. Discover the Homere difference today and let us help you create a space that truly feels like home.
+            At {BRAND.legalName}, we blend timeless elegance with contemporary trends to offer a unique shopping experience. From luxurious furniture to enchanting home fragrances, each piece is selected with an eye for detail and a commitment to excellence.
           </p>
-          <a
-            href="#contact"
+          <Link
+            href="/services"
             style={{
               display: 'inline-block',
               background: '#ffffff',
@@ -121,7 +123,7 @@ observer.observe(ref.current);
             }}>
             
             More information
-          </a>
+          </Link>
         </div>
       </div>
     </section>);
