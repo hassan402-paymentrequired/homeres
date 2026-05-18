@@ -37,7 +37,7 @@ observer.observe(ref.current);
       <img
        src="/assets/images/Globe top gold 3.jpg"
         // {/* src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80" */}
-        alt="Hemere bespoke interior design studio with custom furniture and architectural details"
+        alt="Homère bespoke interior design studio with custom furniture and architectural details"
         className="absolute inset-0 w-full h-full object-cover"
         style={{ filter: 'brightness(0.45)' }} />
       
@@ -80,7 +80,7 @@ observer.observe(ref.current);
               marginBottom: '20px'
             }}>
             
-            HEMERE Bespoke Design Service
+            Homère Bespoke Design Service
           </h2>
           <p
             style={{

@@ -16,7 +16,7 @@ const slides: Slide[] = [
   id: 1,
   image: "/assets/images/Baobab collection Aurum diffuser_.jpg",
   alt: 'Minimalist living room with warm wooden tones and soft lighting',
-  headline: 'Welcome to HEMERE',
+  headline: 'Welcome to Homère',
   subline: 'Timeless interior design with a recognisable signature',
   cta: 'Explore Collections',
   ctaHref: '#collections'

@@ -19,7 +19,7 @@ const newArrivals: Product[] = [
 {
   id: 1,
   name: 'Floor lamp Cassini - gold',
-  brand: 'HEMERE',
+  brand: 'Homère',
   price: '₦ 14485.00',
   image: "/assets/images/Floor lamp Cassini - gold 2.jpg",
   alt: 'Matte travertine decorative vessel with organic form, 28cm height',
@@ -31,7 +31,7 @@ const newArrivals: Product[] = [
 {
   id: 2,
   name: 'Candle — Amber Oud 220g',
-  brand: 'HEMERE',
+  brand: 'Homère',
   price: '₦ 6448.00',
   image: "/assets/images/Golden Minnie Mouse - standing.jpg",
   alt: 'Luxury amber oud scented candle in glass vessel, 220g',
@@ -43,7 +43,7 @@ const newArrivals: Product[] = [
 {
   id: 3,
   name: 'Cub winder - cover brown',
-  brand: 'HEMERE',
+  brand: 'Homère',
   price: '₦ 9445.00',
   image: "/assets/images/Cub winder - cover brown .jpg",
   alt: 'Ivory boucle cushion with textured weave, 50x50cm',
@@ -54,7 +54,7 @@ const newArrivals: Product[] = [
 {
   id: 4,
   name: 'Globo tray',
-  brand: 'HEMERE',
+  brand: 'Homère',
   price: '₦ 14445.00',
   image: "/assets/images/Globo tray 2.jpg",
   alt: 'Smoked glass statement vase with elongated silhouette, 22cm wide 40cm tall',
@@ -66,7 +66,7 @@ const newArrivals: Product[] = [
 {
   id: 5,
   name: 'Book — The Art of Interiors',
-  brand: 'HEMERE',
+  brand: 'Homère',
   price: '₦ 5448.00',
   image: "/assets/images/Globe Top gold .jpg",
   alt: 'Coffee table book featuring curated interior design photography',

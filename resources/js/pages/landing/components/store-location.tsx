@@ -15,32 +15,32 @@ interface Store {
 const stores: Store[] = [
 {
   id: 1,
-  type: 'HEMERE FLAGSHIP STORE',
-  name: 'HEMERE FLAGSHIP STORE',
+  type: 'Homère FLAGSHIP STORE',
+  name: 'Homère FLAGSHIP STORE',
   city: 'Lagos',
   address: '/ Lagos mainland',
   image: 'https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800&q=80',
-  alt: 'Hemere flagship store interior in Amsterdam with curated furniture displays',
+  alt: 'Homère flagship store interior in Amsterdam with curated furniture displays',
   href: '#amsterdam'
 },
 {
   id: 2,
-  type: 'HEMERE HOME STUDIO',
-  name: 'HEMERE HOME STUDIO',
+  type: 'Homère HOME STUDIO',
+  name: 'Homère HOME STUDIO',
   city: 'Abuja',
   address: '/ Muhammad bello highway',
   image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80',
-  alt: 'Hemere home studio in Rotterdam showcasing interior design services',
+  alt: 'Homère home studio in Rotterdam showcasing interior design services',
   href: '#rotterdam'
 },
 {
   id: 3,
-  type: 'HEMERE DESIGN GALLERY',
-  name: 'HEMERE DESIGN GALLERY',
+  type: 'Homère DESIGN GALLERY',
+  name: 'Homère DESIGN GALLERY',
   city: 'Ikeja',
   address: '/ Government building',
   image: '/assets/images/coming.jpg',
-  alt: 'Hemere design gallery in Berlin featuring exclusive furniture and art pieces',
+  alt: 'Homère design gallery in Berlin featuring exclusive furniture and art pieces',
   href: '#berlin'
 }];
 

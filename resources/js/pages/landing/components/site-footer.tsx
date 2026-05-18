@@ -50,7 +50,7 @@ export default function SiteFooter() {
                 marginBottom: '6px',
               }}
             >
-              Join the HEMERE list
+              Join the Homère list
             </h3>
             <p
               style={{
@@ -167,7 +167,7 @@ export default function SiteFooter() {
               marginBottom: '16px',
             }}
           >
-            HEMERE
+            Homère
           </a>
           <p
             style={{
@@ -431,7 +431,7 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
             margin: 0,
           }}
         >
-          &copy; 2026 HEMERE
+          &copy; 2026 Homère
         </p>
         <div style={{ display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap' }}>
           {['Visa', 'Mastercard', 'PayPal', 'Apple Pay', 'Google Pay'].map((method) => (
