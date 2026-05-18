@@ -1,0 +1,109 @@
+@import 'tailwindcss';
+
+@import 'tw-animate-css';
+
+@source '../views';
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+
+@custom-variant dark (&:is(.dark *));
+
+
+@theme {
+  /* Colors - Primary */
+  --color-primary-light: #4da6ff;
+  --color-primary: #0078ff;
+  --color-primary-dark: #0057b8;
+
+  /* Colors - Secondary */
+  --color-secondary-light: #f8f9fa;
+  --color-secondary: #e9ecef;
+  --color-secondary-dark: #dee2e6;
+  --color-hemere-foreground: #333;
+
+  /* Colors - Hemere */
+  --color-hemere-black: #060606;
+  --color-hemere-white: #ffffff;
+  --color-hemere-border: #e8e8e1;
+  --color-hemere-footer: #e8e8e1;
+  --color-hemere-btn: #000000;
+  --color-hemere-btn-text: #ffffff;
+  --color-hemere-muted: #6b6b6b;
+  --color-hemere-light-gray: #f5f5f3;
+
+  /* Font Families */
+  --font-poppins: "Poppins", sans-serif;
+  --font-family-heading: "Proza Libre", sans-serif;
+
+  /* Font Sizes */
+  --font-size-nav: 12px;
+  --line-height-nav: 1.1;
+  --letter-spacing-nav: 2.4px;
+
+  --font-size-body-sm: 12px;
+  --line-height-body-sm: 1.6;
+  --letter-spacing-body-sm: 0.9px;
+
+  --font-size-body-base: 14px;
+  --line-height-body-base: 1.6;
+  --letter-spacing-body-base: 0.9px;
+
+  --font-size-h1: calc(29px * 0.85);
+  --line-height-h1: 1.1;
+  --letter-spacing-h1: 0.025em;
+
+  --font-size-h2: calc(29px * 0.63);
+  --line-height-h2: 1.1;
+  --letter-spacing-h2: 0.025em;
+
+  --font-size-h3: calc(29px * 0.57);
+  --line-height-h3: 1.1;
+  --letter-spacing-h3: 0.025em;
+
+  --font-size-display: 29px;
+  --line-height-display: 1.1;
+  --letter-spacing-display: 0.025em;
+
+  /* Max Widths */
+  --width-page: 1500px;
+  --width-page-narrow: 1000px;
+
+  /* Spacing */
+  --spacing-gutter: 30px;
+  --spacing-grid-gap: 22px;
+
+  /* Border Radius */
+  --radius-product: 10px;
+
+  /* Transition Timing Functions */
+  --ease-slide: cubic-bezier(0.165, 0.84, 0.44, 1);
+
+  /* Transition Durations */
+  --duration-slide: 250ms;
+
+  /* Keyframes */
+  @keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes slideInLeft {
+    0% { opacity: 0; transform: translateX(-30px); }
+    100% { opacity: 1; transform: translateX(0); }
+  }
+
+  /* Animations */
+  --animate-fade-in-up: fadeInUp 0.6s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+  --animate-fade-in: fadeIn 0.8s ease forwards;
+  --animate-slide-in-left: slideInLeft 0.6s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+
+/* @media (max-width: 900px) {
+          .desktop-nav { display: none !important; background: red; }
+          .mobile-menu-btn { display: flex !important; }
+          .hidden-mobile { display: none !important; }
+        } */
+}
