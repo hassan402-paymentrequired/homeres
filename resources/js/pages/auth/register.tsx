@@ -8,6 +8,7 @@ import { Form, Head, Link } from '@inertiajs/react';
 // import { Spinner } from '@/components/ui/spinner';
 // import { login } from '@/routes';
 import { useState } from 'react';
+import { home } from '@/routes';
 import { store } from '@/routes/register';
 
 type Props = {
@@ -15,6 +16,8 @@ type Props = {
 };
 
 export default function Register({ passwordRules }: Props) {
+    void passwordRules;
+
     const [form, setForm] = useState({
         firstName: '',
         lastName: '',
@@ -66,7 +69,7 @@ export default function Register({ passwordRules }: Props) {
                 disableWhileProcessing
                 className="flex flex-col gap-6"
             >
-                {({ processing, errors }) => (
+                {() => (
                     <div
                         style={{
                             fontFamily: 'Poppins, sans-serif',
@@ -89,21 +92,29 @@ export default function Register({ passwordRules }: Props) {
                             }}
                         >
                             <Link
-                                href="/"
+                                href={home().url}
                                 style={{
-                                    fontFamily: '"Proza Libre", sans-serif',
-                                    fontSize: '22px',
-                                    fontWeight: 500,
-                                    letterSpacing: '0.12em',
-                                    textTransform: 'uppercase',
-                                    color: '#060606',
                                     textDecoration: 'none',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    minHeight: '64px',
+                                    flexShrink: 0,
                                 }}
                             >
-                                HEMERE
+                                <img
+                                    src="/logo.png"
+                                    alt="Homère logo"
+                                    style={{
+                                        width: '88px',
+                                        height: '44px',
+                                        objectFit: 'contain',
+                                        display: 'block',
+                                    }}
+                                />
                             </Link>
                             <Link
-                                href="/"
+                                href={home().url}
                                 style={{
                                     fontFamily: 'Poppins, sans-serif',
                                     fontSize: '11px',
@@ -172,7 +183,7 @@ export default function Register({ passwordRules }: Props) {
                                             margin: 0,
                                         }}
                                     >
-                                        Join Hemere for a curated living
+                                        Join Homère for a curated living
                                         experience
                                     </p>
                                 </div>

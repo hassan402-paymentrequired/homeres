@@ -9,6 +9,7 @@ import { Form, Head, Link } from '@inertiajs/react';
 // import { Spinner } from '@/components/ui/spinner';
 // import { register } from '@/routes';
 import { useState } from 'react';
+import { home } from '@/routes';
 import { store } from '@/routes/login';
 // import { request } from '@/routes/password';
 
@@ -69,7 +70,7 @@ export default function Login({
                 resetOnSuccess={['password']}
                 className="flex flex-col gap-6"
             >
-                {({ processing, errors }) => (
+                {() => (
                     <div
                         style={{
                             fontFamily: 'Poppins, sans-serif',
@@ -92,21 +93,29 @@ export default function Login({
                             }}
                         >
                             <Link
-                                href="/"
+                                href={home().url}
                                 style={{
-                                    fontFamily: '"Proza Libre", sans-serif',
-                                    fontSize: '22px',
-                                    fontWeight: 500,
-                                    letterSpacing: '0.12em',
-                                    textTransform: 'uppercase',
-                                    color: '#060606',
                                     textDecoration: 'none',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    minHeight: '64px',
+                                    flexShrink: 0,
                                 }}
                             >
-                                HEMERE
+                                <img
+                                    src="/logo.png"
+                                    alt="Homère logo"
+                                    style={{
+                                        width: '88px',
+                                        height: '44px',
+                                        objectFit: 'contain',
+                                        display: 'block',
+                                    }}
+                                />
                             </Link>
                             <Link
-                                href="/"
+                                href={home().url}
                                 style={{
                                     fontFamily: 'Poppins, sans-serif',
                                     fontSize: '11px',
@@ -175,7 +184,7 @@ export default function Login({
                                             margin: 0,
                                         }}
                                     >
-                                        Welcome back to Hemere
+                                        Welcome back to Homère
                                     </p>
                                 </div>
 
@@ -386,7 +395,7 @@ export default function Login({
                                         margin: 0,
                                     }}
                                 >
-                                    New to Hemere?{' '}
+                                    New to Homère?{' '}
                                     <Link
                                         href="/register"
                                         style={{

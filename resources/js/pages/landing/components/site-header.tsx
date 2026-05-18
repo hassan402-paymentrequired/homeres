@@ -89,7 +89,6 @@ export default function SiteHeader() {
     const [mobileExpandedItem, setMobileExpandedItem] = useState<string | null>(null);
     const [searchValue, setSearchValue] = useState('');
     const [isScrolled, setIsScrolled] = useState(false);
-    const [isMobile, setIsMobile] = useState(false);
     const { openCart, totalItems } = useCart();
 
     // Track scroll position to hide/show the nav bar
@@ -104,8 +103,6 @@ export default function SiteHeader() {
     useEffect(() => {
         const updateMobile = () => {
             const mobileViewport = window.innerWidth < MOBILE_BREAKPOINT;
-
-            setIsMobile(mobileViewport);
 
             if (!mobileViewport) {
                 setMobileOpen(false);
