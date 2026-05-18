@@ -1,8 +1,8 @@
 /* eslint-disable @stylistic/padding-line-between-statements */
+import { Link } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
 import { useCart } from '@/context/CartContext';
-import { Link } from '@inertiajs/react';
-import { login } from '@/routes';
+import { home, login } from '@/routes';
 
 interface NavItem {
     label: string;
@@ -102,16 +102,20 @@ export default function SiteHeader() {
 
     // Track viewport width for responsive behaviour
     useEffect(() => {
-        const updateMobile = () => setIsMobile(window.innerWidth < MOBILE_BREAKPOINT);
+        const updateMobile = () => {
+            const mobileViewport = window.innerWidth < MOBILE_BREAKPOINT;
+
+            setIsMobile(mobileViewport);
+
+            if (!mobileViewport) {
+                setMobileOpen(false);
+            }
+        };
+
         updateMobile();
         window.addEventListener('resize', updateMobile);
         return () => window.removeEventListener('resize', updateMobile);
     }, []);
-
-    // Close mobile menu on resize to desktop
-    useEffect(() => {
-        if (!isMobile) setMobileOpen(false);
-    }, [isMobile]);
 
     const toggleMobileItem = (label: string) => {
         setMobileExpandedItem((prev) => (prev === label ? null : label));
@@ -135,6 +139,8 @@ export default function SiteHeader() {
                     .header-cart-label { display: none !important; }
                     .header-mobile-btn { display: flex !important; }
                     .desktop-nav { display: none !important; }
+                    .header-left-group { min-width: 0; }
+                    .header-logo-link { gap: 0 !important; }
                 }
                 @media (min-width: 768px) {
                     .header-mobile-btn { display: none !important; }
@@ -187,26 +193,17 @@ export default function SiteHeader() {
                         gap: '16px',
                     }}
                 >
-                    {/* Logo — on mobile when scrolled, show hamburger inline with logo */}
-                    <a
-                        href="#"
+                    <div
                         style={{
-                            fontFamily: '"Proza Libre", sans-serif',
-                            fontSize: '22px',
-                            fontWeight: 500,
-                            letterSpacing: '0.12em',
-                            textTransform: 'uppercase',
-                            color: '#060606',
-                            textDecoration: 'none',
-                            flexShrink: 0,
                             display: 'flex',
                             alignItems: 'center',
-                            gap: '8px',
+                            gap: '12px',
+                            flexShrink: 0,
                         }}
                     >
-                        {/* On mobile, always show hamburger icon to the left of the logo */}
                         <button
-                            className="header-mobile-btn uppercase"
+                            type="button"
+                            className="header-mobile-btn"
                             onClick={() => setMobileOpen((v) => !v)}
                             style={{
                                 background: 'none',
@@ -242,8 +239,31 @@ export default function SiteHeader() {
                                 )}
                             </svg>
                         </button>
-                        Homère
-                    </a>
+
+                        <Link
+                            href={home().url}
+                            className="header-left-group header-logo-link"
+                            style={{
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                minHeight: '64px',
+                                textDecoration: 'none',
+                                flexShrink: 0,
+                            }}
+                        >
+                            <img
+                                src="/logo.png"
+                                alt="Hemere logo"
+                                style={{
+                                    width: '88px',
+                                    height: '44px',
+                                    objectFit: 'contain',
+                                    display: 'block',
+                                }}
+                            />
+                        </Link>
+                    </div>
 
                     {/* Search bar — hidden on mobile */}
                     <div
@@ -588,7 +608,6 @@ export default function SiteHeader() {
                                                 color: '#060606',
                                                 textDecoration: 'none',
                                                 padding: '14px 20px',
-                                                borderBottom: '1px solid #f0f0ec',
                                                 background: 'none',
                                                 border: 'none',
                                                 borderBottom: '1px solid #f0f0ec',
