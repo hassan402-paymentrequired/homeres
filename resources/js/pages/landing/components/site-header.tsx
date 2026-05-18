@@ -206,7 +206,7 @@ export default function SiteHeader() {
                     >
                         {/* On mobile, always show hamburger icon to the left of the logo */}
                         <button
-                            className="header-mobile-btn"
+                            className="header-mobile-btn uppercase"
                             onClick={() => setMobileOpen((v) => !v)}
                             style={{
                                 background: 'none',
@@ -242,7 +242,7 @@ export default function SiteHeader() {
                                 )}
                             </svg>
                         </button>
-                        HEMERE
+                        Homère
                     </a>
 
                     {/* Search bar — hidden on mobile */}

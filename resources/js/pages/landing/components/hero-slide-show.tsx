@@ -14,7 +14,7 @@ interface Slide {
 const slides: Slide[] = [
 {
   id: 1,
-  image: "https://images.unsplash.com/photo-1640776536206-2de2f74b4fd5",
+  image: "/assets/images/Baobab collection Aurum diffuser_.jpg",
   alt: 'Minimalist living room with warm wooden tones and soft lighting',
   headline: 'Welcome to HEMERE',
   subline: 'Timeless interior design with a recognisable signature',
@@ -23,7 +23,7 @@ const slides: Slide[] = [
 },
 {
   id: 2,
-  image: "https://images.unsplash.com/photo-1719368420509-059a3b22579e",
+  image: "/assets/images/Vase-the-grand-smoke.jpg",
   alt: 'Elegant bedroom interior with curated furniture and ambient lighting',
   headline: 'Curated Living',
   subline: 'Every piece tells a story of craftsmanship and beauty',
@@ -32,7 +32,7 @@ const slides: Slide[] = [
 },
 {
   id: 3,
-  image: "https://images.unsplash.com/photo-1655224652169-7c7e207aa897",
+  image: "/assets/images/Sitting-white-Mickey.jpg",
   alt: 'Modern dining area with designer chairs and statement pendant lighting',
   headline: 'Design Studio',
   subline: 'Bespoke interiors crafted to your vision',

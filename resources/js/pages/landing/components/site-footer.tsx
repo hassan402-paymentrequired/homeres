@@ -180,8 +180,7 @@ export default function SiteFooter() {
               marginBottom: '20px',
             }}
           >
-            Timeless interior design with a recognisable signature. Curated furniture, lighting, and accessories for the discerning home.
-          </p>
+Discover the art of elegant living with Homère Nigeria Limited. Transform your home into a sanctuary of style and comfort today          </p>
           {/* Social links */}
           <div style={{ marginBottom: '8px' }}>
             <p
@@ -349,9 +348,10 @@ export default function SiteFooter() {
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                   <polyline points="22,6 12,13 2,6" />
                 </svg>
-                Email us
+                Email us:
               </a>
             </li>
+            <strong>homerenigerialimited@gmail.com</strong>
           </ul>
         </div>
 

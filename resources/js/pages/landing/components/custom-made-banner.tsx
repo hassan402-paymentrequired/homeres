@@ -35,7 +35,8 @@ observer.observe(ref.current);
       
       {/* Background image */}
       <img
-        src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80"
+       src="/assets/images/Globe top gold 3.jpg"
+        // {/* src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80" */}
         alt="Hemere bespoke interior design studio with custom furniture and architectural details"
         className="absolute inset-0 w-full h-full object-cover"
         style={{ filter: 'brightness(0.45)' }} />
@@ -48,7 +49,7 @@ observer.observe(ref.current);
         
         <div
           style={{
-            maxWidth: '560px',
+            maxWidth: '660px',
             opacity: visible ? 1 : 0,
             transform: visible ? 'translateY(0)' : 'translateY(24px)',
             transition: 'opacity 0.7s ease, transform 0.7s ease'
@@ -92,8 +93,7 @@ observer.observe(ref.current);
               marginBottom: '32px'
             }}>
             
-            From concept to completion, our design studio crafts interiors that are entirely your own.
-            Custom furniture, bespoke lighting, and curated accessories — all tailored to your vision.
+            At Homère Nigeria Limited, we blend timeless elegance with contemporary trends to offer a unique shopping experience. Our curated collections are designed to inspire and delight, making it easy for you to find the perfect pieces to elevate your home’s ambiance. From luxurious furniture to enchanting home fragrances, each item is selected with an eye for detail and a commitment to excellence. Discover the Homere difference today and let us help you create a space that truly feels like home.
           </p>
           <a
             href="#contact"
