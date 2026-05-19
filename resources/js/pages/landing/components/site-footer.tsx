@@ -21,37 +21,42 @@ export default function SiteFooter() {
         color: '#0f0f0f',
       }}
     >
-      {/* Newsletter strip */}
       <div
-        className="newsletter-section"
         style={{
-          background: '#060606',
-          padding: '40px 30px',
+          maxWidth: '1500px',
+          margin: '0 auto',
+          padding: '48px 30px 0',
         }}
       >
         <div
-          className="newsletter-inner"
+          className="footer-newsletter"
           style={{
-            maxWidth: '1500px',
-            margin: '0 auto',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            gap: '32px',
-            flexWrap: 'wrap',
+            marginBottom: '40px',
+            paddingBottom: '40px',
+            borderBottom: '1px solid rgba(6, 6, 6, 0.12)',
           }}
         >
-          <div>
-            <h3
+          <div
+            className="footer-newsletter-inner"
+            style={{
+              display: 'flex',
+              alignItems: 'flex-end',
+              justifyContent: 'space-between',
+              gap: '32px',
+              flexWrap: 'wrap',
+            }}
+          >
+            <div style={{ flex: '1 1 240px', minWidth: 0 }}>
+              <h3
               style={{
                 fontFamily: '"Proza Libre", sans-serif',
                 fontSize: 'calc(29px * 0.57)',
                 fontWeight: 500,
                 letterSpacing: '0.025em',
                 textTransform: 'uppercase',
-                color: '#ffffff',
+                color: '#060606',
                 lineHeight: 1.1,
-                marginBottom: '6px',
+                marginBottom: '8px',
               }}
             >
               Join the Homère list
@@ -62,16 +67,18 @@ export default function SiteFooter() {
                 fontSize: '12px',
                 fontWeight: 300,
                 letterSpacing: '0.5px',
-                color: 'rgba(255,255,255,0.65)',
+                color: '#6b6b6b',
                 margin: 0,
+                maxWidth: '420px',
+                lineHeight: 1.6,
               }}
             >
               Curated interiors. Collectible accessories. 10% off when you subscribe.
             </p>
-          </div>
-          {!subscribed ? (
+            </div>
+            {!subscribed ? (
             <form
-              className="newsletter-form"
+              className="footer-newsletter-form"
               onSubmit={handleSubscribe}
               style={{ display: 'flex', gap: '0', flex: '1 1 320px', minWidth: 0, maxWidth: '100%' }}
             >
@@ -88,7 +95,7 @@ export default function SiteFooter() {
                   letterSpacing: '0.5px',
                   color: '#060606',
                   background: '#ffffff',
-                  border: 'none',
+                  border: '1px solid rgba(6, 6, 6, 0.15)',
                   borderRadius: 0,
                   padding: '12px 20px',
                   width: '100%',
@@ -99,31 +106,21 @@ export default function SiteFooter() {
               />
               <button
                 type="submit"
+                className="footer-newsletter-submit"
                 style={{
-                  background: '#ffffff',
-                  color: '#060606',
+                  background: '#060606',
+                  color: '#ffffff',
                   fontFamily: 'Poppins, sans-serif',
                   fontSize: '11px',
                   fontWeight: 500,
                   letterSpacing: '2px',
                   textTransform: 'uppercase',
                   padding: '12px 24px',
-                  border: '1px solid #ffffff',
-                  borderLeft: '1px solid #e8e8e1',
+                  border: '1px solid #060606',
                   cursor: 'pointer',
                   borderRadius: 0,
                   transition: 'background 0.3s ease, color 0.3s ease',
                   whiteSpace: 'nowrap',
-                }}
-                onMouseEnter={(e) => {
-                  (e.currentTarget as HTMLButtonElement).style.background = '#060606';
-                  (e.currentTarget as HTMLButtonElement).style.color = '#ffffff';
-                  (e.currentTarget as HTMLButtonElement).style.borderColor = '#ffffff';
-                }}
-                onMouseLeave={(e) => {
-                  (e.currentTarget as HTMLButtonElement).style.background = '#ffffff';
-                  (e.currentTarget as HTMLButtonElement).style.color = '#060606';
-                  (e.currentTarget as HTMLButtonElement).style.borderColor = '#ffffff';
                 }}
               >
                 Subscribe
@@ -135,29 +132,26 @@ export default function SiteFooter() {
                 fontFamily: 'Poppins, sans-serif',
                 fontSize: '13px',
                 fontWeight: 400,
-                letterSpacing: '1px',
-                color: '#ffffff',
+                letterSpacing: '0.5px',
+                color: '#060606',
                 margin: 0,
               }}
             >
               Thank you for subscribing!
             </p>
           )}
+          </div>
         </div>
-      </div>
 
-      {/* Main footer */}
-      <div
-        style={{
-          maxWidth: '1500px',
-          margin: '0 auto',
-          padding: '48px 30px 32px',
-          display: 'grid',
-          gridTemplateColumns: 'repeat(4, 1fr)',
-          gap: '40px',
-        }}
-        className="footer-grid"
-      >
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(4, 1fr)',
+            gap: '40px',
+            paddingBottom: '32px',
+          }}
+          className="footer-grid"
+        >
         {/* Column 1: Brand */}
         <div>
           <Link
@@ -406,6 +400,7 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
             </p>
           </div>
         </div>
+        </div>
       </div>
 
       {/* Bottom bar */}
@@ -456,28 +451,25 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
       </div>
 
       <style>{`
+        .footer-newsletter-submit:hover {
+          background: #2a2a2a !important;
+        }
         @media (max-width: 768px) {
-          .newsletter-section { padding: 32px 20px !important; }
-          .newsletter-inner {
+          .footer-newsletter-inner {
             flex-direction: column !important;
             align-items: stretch !important;
           }
-          .newsletter-inner > div:first-child {
-            width: 100%;
-          }
-          .newsletter-form {
+          .footer-newsletter-form {
             flex-direction: column !important;
             width: 100% !important;
             flex: 1 1 100% !important;
           }
-          .newsletter-form input {
+          .footer-newsletter-form input {
             width: 100% !important;
-            border-left: none !important;
           }
-          .newsletter-form button {
+          .footer-newsletter-form button {
             width: 100% !important;
-            border-left: none !important;
-            border-top: 1px solid #e8e8e1 !important;
+            border-top: 1px solid rgba(6, 6, 6, 0.15) !important;
           }
         }
         @media (max-width: 900px) {

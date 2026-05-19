@@ -14,7 +14,7 @@ interface Slide {
 const slides: Slide[] = [
 {
   id: 1,
-  image: "/assets/images/Baobab collection Aurum diffuser_.jpg",
+  image: "/assets/images/banners/RNI-Films-IMG-17222E29-7C9D-4AA4-B607-37D6B87427D0.JPG",
   alt: 'Minimalist living room with warm wooden tones and soft lighting',
   headline: 'Welcome to Homère',
   subline: 'Timeless interior design with a recognisable signature',
@@ -23,7 +23,7 @@ const slides: Slide[] = [
 },
 {
   id: 2,
-  image: "/assets/images/Vase-the-grand-smoke.jpg",
+  image: "/assets/images/banners/RNI-Films-IMG-E3283BD3-CE56-4F93-80B2-B28B430E385C.jpg",
   alt: 'Elegant bedroom interior with curated furniture and ambient lighting',
   headline: 'Curated Living',
   subline: 'Every piece tells a story of craftsmanship and beauty',
@@ -32,7 +32,7 @@ const slides: Slide[] = [
 },
 {
   id: 3,
-  image: "/assets/images/Sitting-white-Mickey.jpg",
+  image: "/assets/images/Baobab collection Platinum_.jpg",
   alt: 'Modern dining area with designer chairs and statement pendant lighting',
   headline: 'Design Studio',
   subline: 'Bespoke interiors crafted to your vision',

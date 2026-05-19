@@ -1,6 +1,7 @@
 import { Head } from '@inertiajs/react';
 import { BRAND } from '@/data/brand';
 import StorefrontShell from '@/components/storefront/storefront-shell';
+import StoreLocations from '@/pages/landing/components/store-location';
 
 const headingStyle: React.CSSProperties = {
     fontFamily: '"Proza Libre", sans-serif',
@@ -80,6 +81,7 @@ export default function AboutPage() {
                     functionality of your living space.
                 </p>
             </div>
+            <StoreLocations />
         </StorefrontShell>
     );
 }

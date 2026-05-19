@@ -1,5 +1,5 @@
 import { Link } from '@inertiajs/react';
-import { useRef, useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 interface Collection {
     id: number;
@@ -7,6 +7,8 @@ interface Collection {
     image: string;
     alt: string;
     slug: string;
+    /** Varies tile height for masonry rhythm */
+    aspectRatio: string;
 }
 
 const collections: Collection[] = [
@@ -16,6 +18,7 @@ const collections: Collection[] = [
         image: '/assets/images/Globe top gold 3.jpg',
         alt: 'Curated home decor including vases, mirrors, and wall art',
         slug: 'home-decor',
+        aspectRatio: '4/5',
     },
     {
         id: 2,
@@ -23,6 +26,7 @@ const collections: Collection[] = [
         image: 'https://img.rocket.new/generatedImages/rocket_gen_img_13d13c4a5-1772135351858.png',
         alt: 'Luxury candles and home fragrance collection',
         slug: 'home-fragrances',
+        aspectRatio: '3/4',
     },
     {
         id: 3,
@@ -30,6 +34,7 @@ const collections: Collection[] = [
         image: '/assets/images/Globo tray 2.jpg',
         alt: 'Decorative bowls, trays, cushions, and accessories',
         slug: 'home-accessories',
+        aspectRatio: '1/1',
     },
     {
         id: 4,
@@ -37,6 +42,7 @@ const collections: Collection[] = [
         image: '/assets/images/Crystal cut ashtray 2.jpg',
         alt: 'Designer furniture including sofas, tables, and storage',
         slug: 'furniture',
+        aspectRatio: '5/6',
     },
     {
         id: 5,
@@ -44,6 +50,7 @@ const collections: Collection[] = [
         image: '/assets/images/Golden Chandelier-1.jpg',
         alt: 'Statement lighting including chandeliers and floor lamps',
         slug: 'lighting',
+        aspectRatio: '2/3',
     },
     {
         id: 6,
@@ -51,6 +58,7 @@ const collections: Collection[] = [
         image: '/assets/images/Floor lamp Cassini - gold 2.jpg',
         alt: 'Latest additions to the Homère collection',
         slug: 'new-arrivals',
+        aspectRatio: '4/5',
     },
 ];
 
@@ -79,6 +87,7 @@ export default function CollectionsGrid() {
         <section
             id="collections"
             ref={ref}
+            className="collections-section"
             style={{ padding: '48px 30px', maxWidth: '1500px', margin: '0 auto' }}
         >
             <h2
@@ -96,14 +105,7 @@ export default function CollectionsGrid() {
             >
                 Shop by Category
             </h2>
-            <div
-                style={{
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(3, 1fr)',
-                    gap: '22px',
-                }}
-                className="collections-grid"
-            >
+            <div className="collections-masonry">
                 {collections.map((col, idx) => (
                     <Link
                         key={col.id}
@@ -112,17 +114,18 @@ export default function CollectionsGrid() {
                                 ? '/shop/new-arrivals'
                                 : `/shop/${col.slug}`
                         }
+                        className="collections-masonry-item"
                         style={{
-                            textDecoration: 'none',
                             opacity: visible ? 1 : 0,
                             transform: visible ? 'translateY(0)' : 'translateY(20px)',
                             transition: `opacity 0.5s ease ${idx * 0.08}s, transform 0.5s ease ${idx * 0.08}s`,
                         }}
                     >
                         <div
+                            className="collections-masonry-card"
                             style={{
                                 position: 'relative',
-                                aspectRatio: '4/5',
+                                aspectRatio: col.aspectRatio,
                                 overflow: 'hidden',
                                 background: '#f5f5f3',
                             }}
@@ -130,19 +133,22 @@ export default function CollectionsGrid() {
                             <img
                                 src={col.image}
                                 alt={col.alt}
+                                loading="lazy"
+                                className="collections-masonry-img"
                                 style={{
                                     width: '100%',
                                     height: '100%',
                                     objectFit: 'cover',
-                                    transition: 'transform 0.6s ease',
+                                    display: 'block',
                                 }}
                             />
                             <div
+                                className="collections-masonry-overlay"
                                 style={{
                                     position: 'absolute',
                                     inset: 0,
                                     background:
-                                        'linear-gradient(to top, rgba(6,6,6,0.55) 0%, transparent 60%)',
+                                        'linear-gradient(to top, rgba(6,6,6,0.6) 0%, rgba(6,6,6,0.05) 55%, transparent 100%)',
                                     display: 'flex',
                                     alignItems: 'flex-end',
                                     padding: '20px',
@@ -166,11 +172,58 @@ export default function CollectionsGrid() {
                 ))}
             </div>
             <style>{`
-                @media (max-width: 900px) {
-                    .collections-grid { grid-template-columns: repeat(2, 1fr) !important; }
+                .collections-section {
+                    width: 100%;
+                    max-width: 100%;
+                    box-sizing: border-box;
+                    overflow-x: hidden;
                 }
-                @media (max-width: 560px) {
-                    .collections-grid { grid-template-columns: 1fr !important; }
+                .collections-masonry {
+                    column-count: 3;
+                    column-gap: 22px;
+                    width: 100%;
+                }
+                .collections-masonry-item {
+                    display: block;
+                    width: 100%;
+                    break-inside: avoid;
+                    margin-bottom: 22px;
+                    text-decoration: none;
+                }
+                .collections-masonry-img {
+                    transition: transform 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+                }
+                .collections-masonry-item:hover .collections-masonry-img {
+                    transform: scale(1.06);
+                }
+                .collections-masonry-item:hover .collections-masonry-overlay {
+                    background: linear-gradient(
+                        to top,
+                        rgba(6, 6, 6, 0.72) 0%,
+                        rgba(6, 6, 6, 0.12) 50%,
+                        transparent 100%
+                    );
+                }
+                @media (max-width: 900px) {
+                    .collections-masonry {
+                        column-count: 2;
+                        column-gap: 16px;
+                    }
+                    .collections-masonry-item {
+                        margin-bottom: 16px;
+                    }
+                }
+                @media (max-width: 480px) {
+                    .collections-section {
+                        padding: 40px 16px !important;
+                    }
+                    .collections-masonry {
+                        column-count: 2;
+                        column-gap: 12px;
+                    }
+                    .collections-masonry-item {
+                        margin-bottom: 12px;
+                    }
                 }
             `}</style>
         </section>
