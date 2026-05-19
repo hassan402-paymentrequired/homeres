@@ -41,10 +41,26 @@ const slides: Slide[] = [
 }];
 
 
+function markSlideImageLoaded(
+  setLoaded: React.Dispatch<React.SetStateAction<boolean[]>>,
+  idx: number,
+) {
+  setLoaded((prev) => {
+    if (prev[idx]) {
+      return prev;
+    }
+
+    const next = [...prev];
+    next[idx] = true;
+
+    return next;
+  });
+}
+
 export default function HeroSlideshow() {
   const [current, setCurrent] = useState(0);
   const [paused, setPaused] = useState(false);
-  const [loaded, setLoaded] = useState<boolean[]>([false, false, false]);
+  const [loaded, setLoaded] = useState<boolean[]>(() => slides.map(() => false));
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
@@ -61,13 +77,23 @@ clearInterval(intervalRef.current);
     };
   }, [paused]);
 
-  const handleImageLoad = (idx: number) => {
-    setLoaded((prev) => {
-      const next = [...prev];
-      next[idx] = true;
-
-      return next;
+  useEffect(() => {
+    slides.forEach((slide, idx) => {
+      const preload = new Image();
+      preload.onload = () => markSlideImageLoaded(setLoaded, idx);
+      preload.onerror = () => markSlideImageLoaded(setLoaded, idx);
+      preload.src = slide.image;
     });
+  }, []);
+
+  const handleImageRef = (idx: number) => (img: HTMLImageElement | null) => {
+    if (!img) {
+      return;
+    }
+
+    if (img.complete && img.naturalWidth > 0) {
+      markSlideImageLoaded(setLoaded, idx);
+    }
   };
 
   return (
@@ -85,10 +111,12 @@ clearInterval(intervalRef.current);
         aria-hidden={idx !== current}>
         
           <img
+            ref={handleImageRef(idx)}
             src={slide.image}
             alt={slide.alt}
             className="absolute inset-0 h-full w-full object-cover object-center"
-            onLoad={() => handleImageLoad(idx)}
+            onLoad={() => markSlideImageLoaded(setLoaded, idx)}
+            onError={() => markSlideImageLoaded(setLoaded, idx)}
             style={{
               opacity: loaded[idx] ? 1 : 0,
               transition: 'opacity 0.5s ease',
