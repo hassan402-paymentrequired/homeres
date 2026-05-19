@@ -54,6 +54,8 @@ const ICONS: Record<string, ReactNode> = {
 
 const HIGHLIGHT_INDEX = 2;
 const SLIDE_INTERVAL_MS = 6000;
+const WHY_SECTION_BG =
+    'https://images.unsplash.com/photo-1719368420509-059a3b22579e?auto=format&fit=crop&w=2000&q=80';
 
 function TestimonialSlider({ enabled }: { enabled: boolean }) {
     const [activeIndex, setActiveIndex] = useState(0);
@@ -164,14 +166,20 @@ export default function WhyHomere() {
             ref={ref}
             className="why-section"
             style={{
+                position: 'relative',
                 padding: '72px 30px',
-                background: '#f5f5f3',
                 borderTop: '1px solid #e8e8e1',
                 borderBottom: '1px solid #e8e8e1',
                 overflow: 'hidden',
             }}
         >
-            <div className="why-inner" style={{ maxWidth: '1500px', margin: '0 auto' }}>
+            <div
+                className="why-section-bg"
+                aria-hidden="true"
+                style={{ backgroundImage: `url(${WHY_SECTION_BG})` }}
+            />
+            <div className="why-section-scrim" aria-hidden />
+            <div className="why-inner" style={{ maxWidth: '1500px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
                 <div
                     className="why-layout"
                     style={{
@@ -271,6 +279,19 @@ export default function WhyHomere() {
             </div>
 
             <style>{`
+                .why-section-bg {
+                    position: absolute;
+                    inset: 0;
+                    background-size: cover;
+                    background-position: center;
+                    z-index: 0;
+                }
+                .why-section-scrim {
+                    position: absolute;
+                    inset: 0;
+                    background: rgba(245, 245, 243, 0.9);
+                    z-index: 0;
+                }
                 .why-layout {
                     display: grid;
                     grid-template-columns: minmax(0, 380px) minmax(0, 1fr);

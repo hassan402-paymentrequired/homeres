@@ -169,6 +169,36 @@ export default function SiteHeader() {
                                 </svg>
                             </button>
                             <Link
+                                href="/wishlist"
+                                style={{
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    gap: '6px',
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '11px',
+                                    fontWeight: 300,
+                                    letterSpacing: '1.5px',
+                                    textTransform: 'uppercase',
+                                    color: '#060606',
+                                    textDecoration: 'none',
+                                }}
+                            >
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+                                </svg>
+                                <span className="header-wishlist-label">Wishlist</span>
+                            </Link>
+                        </div>
+                        <div className="header-center">
+                            <Link href={home().url} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textDecoration: 'none' }}>
+                                <img src="/logo.png" alt="Homère logo" style={{ width: '88px', height: '44px', objectFit: 'contain', display: 'block' }} />
+                            </Link>
+                        </div>
+                        <div className="header-right">
+                            <button type="button" className="header-icon-btn" onClick={openSearch} aria-label="Open search">
+                                {searchIcon}
+                            </button>
+                            <Link
                                 href={login().url}
                                 style={{
                                     display: 'flex',
@@ -188,22 +218,6 @@ export default function SiteHeader() {
                                     <circle cx="12" cy="7" r="4" />
                                 </svg>
                                 <span className="header-account-label">Account</span>
-                            </Link>
-                        </div>
-                        <div className="header-center">
-                            <Link href={home().url} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textDecoration: 'none' }}>
-                                <img src="/logo.png" alt="Homère logo" style={{ width: '88px', height: '44px', objectFit: 'contain', display: 'block' }} />
-                            </Link>
-                        </div>
-                        <div className="header-right">
-                            <button type="button" className="header-icon-btn" onClick={openSearch} aria-label="Open search">
-                                {searchIcon}
-                            </button>
-                            <Link href="/wishlist" style={{ display: 'flex', alignItems: 'center', gap: '6px', fontFamily: 'Poppins, sans-serif', fontSize: '11px', fontWeight: 300, letterSpacing: '1.5px', textTransform: 'uppercase', color: '#060606', textDecoration: 'none' }}>
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-                                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
-                                </svg>
-                                <span className="header-wishlist-label">Wishlist</span>
                             </Link>
                             <button type="button" onClick={openCart} style={{ display: 'flex', alignItems: 'center', gap: '6px', fontFamily: 'Poppins, sans-serif', fontSize: '11px', fontWeight: 300, letterSpacing: '1.5px', textTransform: 'uppercase', color: '#060606', position: 'relative', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }} aria-label="Open shopping bag">
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
