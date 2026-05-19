@@ -23,12 +23,14 @@ export default function SiteFooter() {
     >
       {/* Newsletter strip */}
       <div
+        className="newsletter-section"
         style={{
           background: '#060606',
           padding: '40px 30px',
         }}
       >
         <div
+          className="newsletter-inner"
           style={{
             maxWidth: '1500px',
             margin: '0 auto',
@@ -69,8 +71,9 @@ export default function SiteFooter() {
           </div>
           {!subscribed ? (
             <form
+              className="newsletter-form"
               onSubmit={handleSubscribe}
-              style={{ display: 'flex', gap: '0', flexShrink: 0 }}
+              style={{ display: 'flex', gap: '0', flex: '1 1 320px', minWidth: 0, maxWidth: '100%' }}
             >
               <input
                 type="email"
@@ -88,7 +91,9 @@ export default function SiteFooter() {
                   border: 'none',
                   borderRadius: 0,
                   padding: '12px 20px',
-                  width: '280px',
+                  width: '100%',
+                  minWidth: 0,
+                  flex: '1 1 auto',
                   outline: 'none',
                 }}
               />
@@ -451,6 +456,30 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
       </div>
 
       <style>{`
+        @media (max-width: 768px) {
+          .newsletter-section { padding: 32px 20px !important; }
+          .newsletter-inner {
+            flex-direction: column !important;
+            align-items: stretch !important;
+          }
+          .newsletter-inner > div:first-child {
+            width: 100%;
+          }
+          .newsletter-form {
+            flex-direction: column !important;
+            width: 100% !important;
+            flex: 1 1 100% !important;
+          }
+          .newsletter-form input {
+            width: 100% !important;
+            border-left: none !important;
+          }
+          .newsletter-form button {
+            width: 100% !important;
+            border-left: none !important;
+            border-top: 1px solid #e8e8e1 !important;
+          }
+        }
         @media (max-width: 900px) {
           .footer-grid { grid-template-columns: repeat(2, 1fr) !important; }
         }

@@ -59,6 +59,7 @@ export default function ProductQuickView({
 
     return (
         <div
+            className="quick-view-overlay"
             style={{
                 position: 'fixed',
                 inset: 0,
@@ -82,11 +83,13 @@ export default function ProductQuickView({
 
             {/* Modal */}
             <div
+                className="quick-view-modal"
                 style={{
                     position: 'relative',
                     background: '#ffffff',
                     width: '100%',
                     maxWidth: '860px',
+                    maxHeight: 'calc(100vh - 40px)',
                     display: 'grid',
                     gridTemplateColumns: '1fr 1fr',
                     overflow: 'hidden',
@@ -129,9 +132,11 @@ export default function ProductQuickView({
 
                 {/* Image */}
                 <div
+                    className="quick-view-image"
                     style={{
                         aspectRatio: '3/4',
                         background: '#f5f5f3',
+                        minHeight: 0,
                         overflow: 'hidden',
                         position: 'relative',
                     }}
@@ -168,8 +173,11 @@ export default function ProductQuickView({
 
                 {/* Details */}
                 <div
+                    className="quick-view-details"
                     style={{
                         padding: '40px 36px',
+                        overflowY: 'auto',
+                        minHeight: 0,
                         display: 'flex',
                         flexDirection: 'column',
                         justifyContent: 'center',
@@ -414,7 +422,7 @@ export default function ProductQuickView({
                             borderTop: '1px solid #f0f0ec',
                         }}
                     >
-                        <div style={{ display: 'flex', gap: '20px' }}>
+                        <div className="quick-view-meta" style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
                             {[
                                 {
                                     icon: (
@@ -492,6 +500,41 @@ export default function ProductQuickView({
                     </div>
                 </div>
             </div>
+
+            <style>{`
+                @media (max-width: 768px) {
+                    .quick-view-overlay {
+                        padding: 0 !important;
+                        align-items: flex-end !important;
+                    }
+                    .quick-view-modal {
+                        max-width: 100% !important;
+                        max-height: 92vh !important;
+                        grid-template-columns: 1fr !important;
+                    }
+                    .quick-view-image {
+                        aspect-ratio: 4/3 !important;
+                        max-height: 42vh;
+                    }
+                    .quick-view-details {
+                        padding: 24px 20px 28px !important;
+                        max-height: 50vh;
+                        overflow-y: auto;
+                    }
+                    .quick-view-meta {
+                        flex-direction: column !important;
+                        gap: 10px !important;
+                    }
+                }
+                @media (max-width: 480px) {
+                    .quick-view-overlay {
+                        align-items: stretch !important;
+                    }
+                    .quick-view-modal {
+                        max-height: 100vh !important;
+                    }
+                }
+            `}</style>
         </div>
     );
 }

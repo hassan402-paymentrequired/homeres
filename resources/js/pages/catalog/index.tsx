@@ -108,7 +108,7 @@ export default function CatalogPage({
     return (
         <StorefrontShell>
             <Head title={pageTitle} />
-            <div style={{ maxWidth: '1500px', margin: '0 auto', padding: '48px 30px' }}>
+            <div className="catalog-page" style={{ maxWidth: '1500px', margin: '0 auto', padding: '48px 30px' }}>
                 <nav
                     style={{
                         display: 'flex',
@@ -158,6 +158,7 @@ export default function CatalogPage({
                 </nav>
 
                 <div
+                    className="catalog-header"
                     style={{
                         display: 'flex',
                         alignItems: 'flex-end',
@@ -196,7 +197,7 @@ export default function CatalogPage({
                             </span>
                         </p>
                     </div>
-                    <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                    <div className="catalog-toolbar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
                         <select
                             value={sort}
                             onChange={(e) => setSort(e.target.value as SortOption)}
@@ -250,7 +251,7 @@ export default function CatalogPage({
                         gridTemplateColumns: '220px 1fr',
                         gap: '40px',
                     }}
-                    className="catalog-layout"
+                    className="catalog-layout catalog-main"
                 >
                     <aside>
                         <p
@@ -453,7 +454,9 @@ export default function CatalogPage({
                                           gap: '22px',
                                       }
                             }
-                            className={viewMode === 'grid' ? 'catalog-grid' : undefined}
+                            className={
+                                viewMode === 'grid' ? 'catalog-grid' : 'catalog-list'
+                            }
                         >
                             {products.map((product, idx) => (
                                 <ProductCard key={product.id} product={product} index={idx} />
@@ -463,14 +466,29 @@ export default function CatalogPage({
                 </div>
             </div>
             <style>{`
-                @media (max-width: 900px) {
-                    .catalog-layout { grid-template-columns: 1fr !important; }
-                }
                 @media (max-width: 1100px) {
                     .catalog-grid { grid-template-columns: repeat(3, 1fr) !important; }
                 }
+                @media (max-width: 900px) {
+                    .catalog-layout { grid-template-columns: 1fr !important; gap: 28px !important; }
+                    .catalog-page { padding: 32px 20px !important; }
+                    .catalog-header { flex-direction: column !important; align-items: stretch !important; }
+                    .catalog-header h1 { font-size: calc(29px * 0.7) !important; }
+                    .catalog-toolbar { width: 100%; }
+                    .catalog-toolbar select,
+                    .catalog-toolbar button { flex: 1; min-width: 0; }
+                }
                 @media (max-width: 640px) {
-                    .catalog-grid { grid-template-columns: repeat(2, 1fr) !important; }
+                    .catalog-page { padding: 24px 16px !important; }
+                    .catalog-grid { grid-template-columns: repeat(2, 1fr) !important; gap: 16px !important; }
+                    .catalog-toolbar { flex-direction: column !important; }
+                    .catalog-toolbar select,
+                    .catalog-toolbar button { width: 100% !important; }
+                    .catalog-list > * { flex-direction: column !important; }
+                    .catalog-list img { width: 100% !important; max-width: none !important; }
+                }
+                @media (max-width: 400px) {
+                    .catalog-grid { grid-template-columns: 1fr !important; }
                 }
             `}</style>
         </StorefrontShell>
