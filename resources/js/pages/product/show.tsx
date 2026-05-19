@@ -1,11 +1,14 @@
 import { Head, Link } from '@inertiajs/react';
 import { useState } from 'react';
+import ImageLightbox from '@/components/storefront/image-lightbox';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontShell from '@/components/storefront/storefront-shell';
+import { useCart } from '@/context/CartContext';
 import {
     getProductById,
     getRelatedProducts,
 } from '@/data/mock-products';
+import { mockProductToCartItem } from '@/lib/cart';
 interface ProductShowProps {
     id: string;
 }
@@ -15,6 +18,9 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
     const [activeImage, setActiveImage] = useState(0);
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
+    const [lightboxOpen, setLightboxOpen] = useState(false);
+    const { addItem, openCart } = useCart();
+
     if (!product) {
         return (
             <StorefrontShell>
@@ -49,8 +55,15 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
     const related = getRelatedProducts(product);
 
     const handleAddToCart = () => {
+        for (let i = 0; i < quantity; i++) {
+            addItem(mockProductToCartItem(product));
+        }
+
         setAdded(true);
-        setTimeout(() => setAdded(false), 2000);
+        setTimeout(() => {
+            setAdded(false);
+            openCart();
+        }, 800);
     };
 
     return (
@@ -132,12 +145,21 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                                 </button>
                             ))}
                         </div>
-                        <div style={{ flex: 1, aspectRatio: '3/4', background: '#f5f5f3', position: 'relative' }}>
-                            <img
-                                src={product.images[activeImage]?.src}
-                                alt={product.images[activeImage]?.alt}
-                                style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                            />
+                            <div
+                                style={{
+                                    flex: 1,
+                                    aspectRatio: '3/4',
+                                    background: '#f5f5f3',
+                                    position: 'relative',
+                                    cursor: 'zoom-in',
+                                }}
+                                onClick={() => setLightboxOpen(true)}
+                            >
+                                <img
+                                    src={product.images[activeImage]?.src}
+                                    alt={product.images[activeImage]?.alt}
+                                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                                />
                             {product.isNew && (
                                 <span
                                     style={{
@@ -230,10 +252,51 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                 </div>
             )}
 
+            {lightboxOpen && product.images[activeImage] && (
+                <ImageLightbox
+                    src={product.images[activeImage].src}
+                    alt={product.images[activeImage].alt}
+                    onClose={() => setLightboxOpen(false)}
+                />
+            )}
+
+            <div
+                className="pdp-mobile-bar"
+                style={{
+                    display: 'none',
+                    position: 'fixed',
+                    bottom: 0,
+                    left: 0,
+                    right: 0,
+                    padding: '12px 20px',
+                    background: '#fff',
+                    borderTop: '1px solid #e8e8e1',
+                    zIndex: 40,
+                }}
+            >
+                <button
+                    type="button"
+                    onClick={handleAddToCart}
+                    style={{
+                        width: '100%',
+                        background: '#060606',
+                        color: '#fff',
+                        padding: '14px',
+                        border: 'none',
+                        fontSize: '12px',
+                        letterSpacing: '2px',
+                        textTransform: 'uppercase',
+                    }}
+                >
+                    Add to bag
+                </button>
+            </div>
+
             <style>{`
                 @media (max-width: 900px) {
                     .product-layout { grid-template-columns: 1fr !important; }
                     .related-grid { grid-template-columns: repeat(2, 1fr) !important; }
+                    .pdp-mobile-bar { display: block !important; }
                 }
             `}</style>
         </StorefrontShell>

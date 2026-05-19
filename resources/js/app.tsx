@@ -6,6 +6,7 @@ import AppLayout from '@/layouts/app-layout';
 import AuthLayout from '@/layouts/auth-layout';
 import SettingsLayout from '@/layouts/settings/layout';
 import { CartProvider } from './context/CartContext';
+import { WishlistProvider } from './context/WishlistContext';
 import CartModal from './pages/landing/components/cart-modal';
 
 const appName = import.meta.env.VITE_APP_NAME || 'Laravel';
@@ -20,6 +21,8 @@ createInertiaApp({
             case name.startsWith('services/'):
             case name.startsWith('contact/'):
             case name.startsWith('catalog/'):
+            case name.startsWith('help/'):
+            case name.startsWith('wishlist/'):
                 return null;
             case name.startsWith('checkout/'):
                 return null;
@@ -38,9 +41,11 @@ createInertiaApp({
         return (
             <TooltipProvider delayDuration={0}>
                 <CartProvider>
-                    {app}
-                    <CartModal />
-                    <Toaster />
+                    <WishlistProvider>
+                        {app}
+                        <CartModal />
+                        <Toaster />
+                    </WishlistProvider>
                 </CartProvider>
             </TooltipProvider>
         );

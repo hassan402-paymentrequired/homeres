@@ -94,7 +94,14 @@ export default function StoreLocations() {
                                     }}
                                 />
                             </div>
-                            <div style={{ padding: '32px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                            <div
+                                style={{
+                                    padding: '32px',
+                                    display: 'flex',
+                                    flexDirection: 'column',
+                                    justifyContent: 'center',
+                                }}
+                            >
                                 <p
                                     style={{
                                         fontFamily: 'Poppins, sans-serif',
@@ -125,12 +132,35 @@ export default function StoreLocations() {
                                         fontSize: '12px',
                                         fontWeight: 300,
                                         color: '#6b6b6b',
-                                        margin: 0,
+                                        margin: '0 0 8px',
                                         lineHeight: 1.7,
                                     }}
                                 >
                                     {store.address}
                                 </p>
+                                <p
+                                    style={{
+                                        fontFamily: 'Poppins, sans-serif',
+                                        fontSize: '11px',
+                                        color: '#999',
+                                        margin: '0 0 8px',
+                                    }}
+                                >
+                                    {BRAND.storeHours}
+                                </p>
+                                <a
+                                    href={BRAND.mapUrl}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    style={{
+                                        fontSize: '11px',
+                                        letterSpacing: '1px',
+                                        textTransform: 'uppercase',
+                                        color: '#060606',
+                                    }}
+                                >
+                                    Get directions →
+                                </a>
                             </div>
                         </div>
                     </Link>

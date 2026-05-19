@@ -8,6 +8,9 @@ export const BRAND = {
     phoneHref: 'tel:+2349115754421',
     address:
         'G5, Landmark Boulevard, Lagos Water Corporation Road, Eti-Osa II, Victoria Island, Lagos',
+    mapUrl:
+        'https://maps.google.com/?q=Landmark+Boulevard+Victoria+Island+Lagos',
+    storeHours: 'Mon–Sat 10:00–19:00 · Sun 12:00–17:00',
     founded: 2021,
     founder: 'Gina Walschots',
 } as const;

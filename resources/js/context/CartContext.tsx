@@ -13,8 +13,10 @@ export interface CartItem {
 interface CartContextType {
     items: CartItem[];
     isOpen: boolean;
+    orderNote: string;
     openCart: () => void;
     closeCart: () => void;
+    setOrderNote: (note: string) => void;
     addItem: (item: Omit<CartItem, 'quantity'>) => void;
     removeItem: (id: string) => void;
     updateQuantity: (id: string, quantity: number) => void;
@@ -24,39 +26,10 @@ interface CartContextType {
 
 const CartContext = createContext<CartContextType | null>(null);
 
-const defaultItems: CartItem[] = [
-    {
-        id: '1',
-        category: 'Furniture',
-        name: 'Pantheon Armchair',
-        price: 2850,
-        quantity: 1,
-        image: 'https://img.rocket.new/generatedImages/rocket_gen_img_16d8eaa84-1773371982097.png',
-        alt: 'Elegant Pantheon armchair in cream fabric with wooden legs',
-    },
-    {
-        id: '2',
-        category: 'Lighting',
-        name: 'Eclipse Pendant',
-        price: 3200,
-        quantity: 1,
-        image: 'https://img.rocket.new/generatedImages/rocket_gen_img_1e0ebb487-1779096448227.png',
-        alt: 'Eclipse pendant light with brushed brass finish and circular shade',
-    },
-    {
-        id: '3',
-        category: 'Home Accessories',
-        name: 'Halo Vase',
-        price: 1950,
-        quantity: 1,
-        image: 'https://img.rocket.new/generatedImages/rocket_gen_img_1389cd6c2-1772869406131.png',
-        alt: 'Halo ceramic vase in matte white with curved silhouette',
-    },
-];
-
 export function CartProvider({ children }: { children: React.ReactNode }) {
-    const [items, setItems] = useState<CartItem[]>(defaultItems);
+    const [items, setItems] = useState<CartItem[]>([]);
     const [isOpen, setIsOpen] = useState(false);
+    const [orderNote, setOrderNote] = useState('');
 
     const openCart = useCallback(() => setIsOpen(true), []);
     const closeCart = useCallback(() => setIsOpen(false), []);
@@ -102,8 +75,10 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
             value={{
                 items,
                 isOpen,
+                orderNote,
                 openCart,
                 closeCart,
+                setOrderNote,
                 addItem,
                 removeItem,
                 updateQuantity,

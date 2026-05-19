@@ -1,8 +1,11 @@
 /* eslint-disable @stylistic/padding-line-between-statements */
 import { Link } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
+import MegaMenu from '@/components/storefront/mega-menu';
 import PreviewBanner from '@/components/storefront/preview-banner';
+import SearchOverlay from '@/components/storefront/search-overlay';
 import { useCart } from '@/context/CartContext';
+import { CATEGORIES } from '@/data/categories';
 import { MAIN_NAV } from '@/data/navigation';
 import { home, login } from '@/routes';
 
@@ -16,8 +19,11 @@ export default function SiteHeader() {
     const [mobileOpen, setMobileOpen] = useState(false);
     const [mobileExpandedItem, setMobileExpandedItem] = useState<string | null>(null);
     const [searchValue, setSearchValue] = useState('');
+    const [searchOpen, setSearchOpen] = useState(false);
     const [isScrolled, setIsScrolled] = useState(false);
     const { openCart, totalItems } = useCart();
+
+    const openSearch = () => setSearchOpen(true);
 
     // Track scroll position to hide/show the nav bar
     useEffect(() => {
@@ -200,6 +206,8 @@ export default function SiteHeader() {
                             }}
                         />
                         <button
+                            type="button"
+                            onClick={openSearch}
                             style={{
                                 position: 'absolute',
                                 right: '10px',
@@ -236,6 +244,25 @@ export default function SiteHeader() {
                             flexShrink: 0,
                         }}
                     >
+                        <Link
+                            href="/wishlist"
+                            style={{
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: '6px',
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '11px',
+                                fontWeight: 300,
+                                letterSpacing: '1.5px',
+                                textTransform: 'uppercase',
+                                color: '#060606',
+                                textDecoration: 'none',
+                            }}
+                            className="header-account-label"
+                        >
+                            Wishlist
+                        </Link>
+
                         <Link
                             href={login().url}
                             style={{
@@ -388,50 +415,16 @@ export default function SiteHeader() {
                                     )}
                                 </Link>
 
-                                {/* Dropdown */}
-                                {item.hasDropdown && item.children && (
-                                    <div
-                                        style={{
-                                            position: 'absolute',
-                                            top: '100%',
-                                            left: 0,
-                                            background: '#ffffff',
-                                            border: '1px solid #e8e8e1',
-                                            minWidth: '200px',
-                                            zIndex: 100,
-                                            opacity: openDropdown === item.label ? 1 : 0,
-                                            pointerEvents: openDropdown === item.label ? 'auto' : 'none',
-                                            transform: openDropdown === item.label ? 'translateY(0)' : 'translateY(-6px)',
-                                            transition: 'opacity 0.2s ease, transform 0.2s ease',
-                                            boxShadow: '0 10px 25px rgba(0,0,0,0.08)',
-                                        }}
-                                    >
-                                        {item.children.map((child) => (
-                                            <Link
-                                                key={child.label}
-                                                href={child.href}
-                                                className="site-header-dropdown-item"
-                                                style={{
-                                                    display: 'block',
-                                                    fontFamily: 'Poppins, sans-serif',
-                                                    fontSize: '11px',
-                                                    fontWeight: 300,
-                                                    letterSpacing: '1.5px',
-                                                    textTransform: 'uppercase',
-                                                    color: '#060606',
-                                                    textDecoration: 'none',
-                                                    padding: '11px 20px',
-                                                    borderBottom: '1px solid #f0f0ec',
-                                                    transition: 'background 0.15s ease',
-                                                    background: 'transparent',
-                                                }}
-                                            >
-                                                {child.label}
-                                            </Link>
-                                        ))}
-                                    </div>
-                                )}
-                            </div>
+                                {item.categorySlug && (
+                                    <MegaMenu
+                                        category={
+                                            CATEGORIES.find(
+                                                (c) => c.slug === item.categorySlug,
+                                            )!
+                                        }
+                                        isOpen={openDropdown === item.label}
+                                    />
+                                )}                            </div>
                         ))}
                     </div>
                 </nav>
@@ -472,6 +465,8 @@ export default function SiteHeader() {
                                     }}
                                 />
                                 <button
+                                    type="button"
+                                    onClick={openSearch}
                                     style={{
                                         position: 'absolute',
                                         right: '10px',
@@ -587,6 +582,12 @@ export default function SiteHeader() {
                     </nav>
                 )}
             </header>
+
+            <SearchOverlay
+                isOpen={searchOpen}
+                onClose={() => setSearchOpen(false)}
+                initialQuery={searchValue}
+            />
         </>
     );
 }

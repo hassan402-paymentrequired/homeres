@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { Link } from '@inertiajs/react';
 import { useCart } from '@/context/CartContext';
+import { home } from '@/routes';
 
 export default function CheckoutPage() {
     const { items, subtotal } = useCart();
@@ -86,20 +87,28 @@ export default function CheckoutPage() {
                     zIndex: 10,
                 }}
             >
-                <Link
-                    href="/"
-                    style={{
-                        fontFamily: '"Proza Libre", sans-serif',
-                        fontSize: '22px',
-                        fontWeight: 500,
-                        letterSpacing: '0.12em',
-                        textTransform: 'uppercase',
-                        color: '#060606',
-                        textDecoration: 'none',
-                    }}
-                >
-                    Homère
-                </Link>
+                  <Link
+                                href={home().url}
+                                style={{
+                                    textDecoration: 'none',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    minHeight: '64px',
+                                    flexShrink: 0,
+                                }}
+                            >
+                                <img
+                                    src="/logo.png"
+                                    alt="Homère logo"
+                                    style={{
+                                        width: '88px',
+                                        height: '44px',
+                                        objectFit: 'contain',
+                                        display: 'block',
+                                    }}
+                                />
+                            </Link>
                 <Link
                     href="/"
                     style={{

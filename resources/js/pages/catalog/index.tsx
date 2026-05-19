@@ -1,5 +1,5 @@
 import { Head, Link } from '@inertiajs/react';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontShell from '@/components/storefront/storefront-shell';
 import { CATEGORIES, findCategory } from '@/data/categories';
@@ -13,7 +13,11 @@ import {
 interface CatalogPageProps {
     category?: string | null;
     filter?: 'new' | null;
+    sub?: string | null;
+    q?: string | null;
 }
+
+type ViewMode = 'grid' | 'list';
 
 type SortOption = 'featured' | 'price-asc' | 'price-desc' | 'name';
 
@@ -35,11 +39,24 @@ function sortProducts(products: MockProduct[], sort: SortOption): MockProduct[] 
 export default function CatalogPage({
     category = null,
     filter = null,
+    sub = null,
+    q = null,
 }: CatalogPageProps) {
     const [sort, setSort] = useState<SortOption>('featured');
-    const [subcategory, setSubcategory] = useState<string | null>(null);
+    const [subcategory, setSubcategory] = useState<string | null>(sub);
+    const [newOnly, setNewOnly] = useState(false);
+    const [maxPrice, setMaxPrice] = useState<number | null>(null);
+    const [viewMode, setViewMode] = useState<ViewMode>('grid');
+
+    useEffect(() => {
+        setSubcategory(sub);
+    }, [sub]);
 
     const categoryMeta = findCategory(category ?? undefined);
+    const priceCeiling = useMemo(
+        () => Math.max(...MOCK_PRODUCTS.map((p) => p.price)),
+        [],
+    );
 
     const products = useMemo(() => {
         let list: MockProduct[];
@@ -52,17 +69,35 @@ export default function CatalogPage({
             list = MOCK_PRODUCTS;
         }
 
+        if (q?.trim()) {
+            const term = q.trim().toLowerCase();
+            list = list.filter(
+                (p) =>
+                    p.name.toLowerCase().includes(term) ||
+                    p.category.toLowerCase().includes(term),
+            );
+        }
+
         if (subcategory) {
             list = list.filter((p) => p.subcategorySlug === subcategory);
         }
 
-        return sortProducts(list, sort);
-    }, [category, filter, sort, subcategory]);
+        if (newOnly) {
+            list = list.filter((p) => p.isNew);
+        }
 
-    const pageTitle =
-        filter === 'new'
-            ? 'New Arrivals'
-            : categoryMeta?.label ?? 'All Products';
+        if (maxPrice !== null) {
+            list = list.filter((p) => p.price <= maxPrice);
+        }
+
+        return sortProducts(list, sort);
+    }, [category, filter, sort, subcategory, q, newOnly, maxPrice]);
+
+    const pageTitle = q?.trim()
+        ? `Search: ${q}`
+        : filter === 'new'
+          ? 'New Arrivals'
+          : categoryMeta?.label ?? 'All Products';
 
     const pageDescription =
         filter === 'new'
@@ -161,22 +196,52 @@ export default function CatalogPage({
                             </span>
                         </p>
                     </div>
-                    <select
-                        value={sort}
-                        onChange={(e) => setSort(e.target.value as SortOption)}
-                        style={{
-                            fontFamily: 'Poppins, sans-serif',
-                            fontSize: '12px',
-                            padding: '10px 14px',
-                            border: '1px solid #e8e8e1',
-                            background: '#fff',
-                        }}
-                    >
-                        <option value="featured">Sort: Featured</option>
-                        <option value="price-asc">Price: Low to High</option>
-                        <option value="price-desc">Price: High to Low</option>
-                        <option value="name">Name: A–Z</option>
-                    </select>
+                    <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                        <select
+                            value={sort}
+                            onChange={(e) => setSort(e.target.value as SortOption)}
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '12px',
+                                padding: '10px 14px',
+                                border: '1px solid #e8e8e1',
+                                background: '#fff',
+                            }}
+                        >
+                            <option value="featured">Sort: Featured</option>
+                            <option value="price-asc">Price: Low to High</option>
+                            <option value="price-desc">Price: High to Low</option>
+                            <option value="name">Name: A–Z</option>
+                        </select>
+                        <button
+                            type="button"
+                            onClick={() => setViewMode('grid')}
+                            style={{
+                                padding: '10px 12px',
+                                border: '1px solid #e8e8e1',
+                                background: viewMode === 'grid' ? '#060606' : '#fff',
+                                color: viewMode === 'grid' ? '#fff' : '#060606',
+                                cursor: 'pointer',
+                                fontSize: '11px',
+                            }}
+                        >
+                            Grid
+                        </button>
+                        <button
+                            type="button"
+                            onClick={() => setViewMode('list')}
+                            style={{
+                                padding: '10px 12px',
+                                border: '1px solid #e8e8e1',
+                                background: viewMode === 'list' ? '#060606' : '#fff',
+                                color: viewMode === 'list' ? '#fff' : '#060606',
+                                cursor: 'pointer',
+                                fontSize: '11px',
+                            }}
+                        >
+                            List
+                        </button>
+                    </div>
                 </div>
 
                 <div
@@ -247,6 +312,63 @@ export default function CatalogPage({
                                 </li>
                             ))}
                         </ul>
+                        <p
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '10px',
+                                fontWeight: 500,
+                                letterSpacing: '2px',
+                                textTransform: 'uppercase',
+                                margin: '24px 0 12px',
+                            }}
+                        >
+                            Refine
+                        </p>
+                        <label
+                            style={{
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: '8px',
+                                fontSize: '12px',
+                                marginBottom: '12px',
+                                cursor: 'pointer',
+                            }}
+                        >
+                            <input
+                                type="checkbox"
+                                checked={newOnly}
+                                onChange={(e) => setNewOnly(e.target.checked)}
+                            />
+                            New only
+                        </label>
+                        <label
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '11px',
+                                display: 'block',
+                                marginBottom: '6px',
+                            }}
+                        >
+                            Max price:{' '}
+                            {maxPrice
+                                ? `₦${maxPrice.toLocaleString('en-NG')}`
+                                : 'Any'}
+                        </label>
+                        <input
+                            type="range"
+                            min={50000}
+                            max={priceCeiling}
+                            step={50000}
+                            value={maxPrice ?? priceCeiling}
+                            onChange={(e) =>
+                                setMaxPrice(
+                                    Number(e.target.value) >= priceCeiling
+                                        ? null
+                                        : Number(e.target.value),
+                                )
+                            }
+                            style={{ width: '100%', marginBottom: '24px' }}
+                        />
                         {categoryMeta?.children && (
                             <>
                                 <p
@@ -259,7 +381,7 @@ export default function CatalogPage({
                                         margin: '0 0 12px',
                                     }}
                                 >
-                                    Filter
+                                    Type
                                 </p>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                                     <li style={{ marginBottom: '6px' }}>
@@ -318,12 +440,20 @@ export default function CatalogPage({
                         </p>
                     ) : (
                         <div
-                            style={{
-                                display: 'grid',
-                                gridTemplateColumns: 'repeat(4, 1fr)',
-                                gap: '22px',
-                            }}
-                            className="catalog-grid"
+                            style={
+                                viewMode === 'list'
+                                    ? {
+                                          display: 'flex',
+                                          flexDirection: 'column',
+                                          gap: '16px',
+                                      }
+                                    : {
+                                          display: 'grid',
+                                          gridTemplateColumns: 'repeat(4, 1fr)',
+                                          gap: '22px',
+                                      }
+                            }
+                            className={viewMode === 'grid' ? 'catalog-grid' : undefined}
                         >
                             {products.map((product, idx) => (
                                 <ProductCard key={product.id} product={product} index={idx} />

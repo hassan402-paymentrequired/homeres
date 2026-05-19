@@ -2,10 +2,19 @@
 import React, { useEffect } from 'react';
 import { useCart } from '@/context/CartContext';
 import { Link } from '@inertiajs/react';
+import { formatNaira } from '@/lib/cart';
 import { checkout } from '@/routes';
 
 export default function CartModal() {
-    const { items, isOpen, closeCart, updateQuantity, subtotal } = useCart();
+    const {
+        items,
+        isOpen,
+        closeCart,
+        updateQuantity,
+        subtotal,
+        orderNote,
+        setOrderNote,
+    } = useCart();
 
     // Lock body scroll when open
     useEffect(() => {
@@ -139,6 +148,19 @@ export default function CartModal() {
                                 <path d="M16 10a4 4 0 0 1-8 0" />
                             </svg>
                             Your bag is empty
+                            <Link
+                                href="/shop"
+                                onClick={closeCart}
+                                style={{
+                                    marginTop: '8px',
+                                    fontSize: '11px',
+                                    letterSpacing: '2px',
+                                    textTransform: 'uppercase',
+                                    color: '#060606',
+                                }}
+                            >
+                                Continue shopping
+                            </Link>
                         </div>
                     ) : (
                         items.map((item) => (
@@ -295,10 +317,7 @@ export default function CartModal() {
                                             letterSpacing: '0.5px',
                                         }}
                                     >
-                                        ₦
-                                        {(
-                                            item.price * item.quantity
-                                        ).toLocaleString('en-EU')}
+                                        {formatNaira(item.price * item.quantity)}
                                     </p>
                                 </div>
                             </div>
@@ -344,13 +363,40 @@ export default function CartModal() {
                                     letterSpacing: '0.5px',
                                 }}
                             >
-                                ₦
-                                {subtotal.toLocaleString('en-EU', {
-                                    minimumFractionDigits: 2,
-                                })}
+                                {formatNaira(subtotal)}
                             </span>
                         </div>
 
+                        <label
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '10px',
+                                fontWeight: 500,
+                                letterSpacing: '1.5px',
+                                textTransform: 'uppercase',
+                                color: '#6b6b6b',
+                                display: 'block',
+                                marginBottom: '6px',
+                            }}
+                        >
+                            Order note
+                        </label>
+                        <textarea
+                            value={orderNote}
+                            onChange={(e) => setOrderNote(e.target.value)}
+                            placeholder="Special instructions (preview only)"
+                            rows={2}
+                            style={{
+                                width: '100%',
+                                marginBottom: '12px',
+                                padding: '10px',
+                                border: '1px solid #e8e8e1',
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '12px',
+                                boxSizing: 'border-box',
+                                resize: 'vertical',
+                            }}
+                        />
                         <p
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
@@ -361,7 +407,7 @@ export default function CartModal() {
                                 margin: '0 0 20px',
                             }}
                         >
-                            Shipping and taxes calculated at checkout
+                            Shipping within Nigeria calculated at checkout. Taxes included where applicable.
                         </p>
 
                         {/* Proceed to Checkout */}

@@ -19,7 +19,7 @@ const slides: Slide[] = [
   headline: 'Welcome to Homère',
   subline: 'Timeless interior design with a recognisable signature',
   cta: 'Explore Collections',
-  ctaHref: '#collections'
+  ctaHref: '/shop'
 },
 {
   id: 2,
@@ -28,7 +28,7 @@ const slides: Slide[] = [
   headline: 'Curated Living',
   subline: 'Every piece tells a story of craftsmanship and beauty',
   cta: 'New Arrivals',
-  ctaHref: '#new-arrivals'
+  ctaHref: '/shop/new-arrivals'
 },
 {
   id: 3,
@@ -37,7 +37,7 @@ const slides: Slide[] = [
   headline: 'Design Studio',
   subline: 'Bespoke interiors crafted to your vision',
   cta: 'Our Studio',
-  ctaHref: '#studio'
+  ctaHref: '/services'
 }];
 
 

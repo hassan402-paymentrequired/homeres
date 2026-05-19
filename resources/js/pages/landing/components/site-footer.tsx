@@ -249,7 +249,9 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
               { label: 'Design Studio', href: '/services' },
               { label: 'Contact', href: '/contact' },
               { label: 'Shop All', href: '/shop' },
-              { label: 'FAQ', href: '/contact' },
+              { label: 'FAQ', href: '/help/faq' },
+              { label: 'Shipping', href: '/help/shipping' },
+              { label: 'Returns', href: '/help/returns' },
             ].map((item) => (
               <li key={item.label} style={{ marginBottom: '10px' }}>
                 <Link
