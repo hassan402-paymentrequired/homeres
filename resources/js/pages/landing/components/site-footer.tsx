@@ -22,6 +22,7 @@ export default function SiteFooter() {
       }}
     >
       <div
+        className="footer-wrapper"
         style={{
           maxWidth: '1500px',
           margin: '0 auto',
@@ -36,17 +37,8 @@ export default function SiteFooter() {
             borderBottom: '1px solid rgba(6, 6, 6, 0.12)',
           }}
         >
-          <div
-            className="footer-newsletter-inner"
-            style={{
-              display: 'flex',
-              alignItems: 'flex-end',
-              justifyContent: 'space-between',
-              gap: '32px',
-              flexWrap: 'wrap',
-            }}
-          >
-            <div style={{ flex: '1 1 240px', minWidth: 0 }}>
+          <div className="footer-newsletter-inner">
+            <div className="footer-newsletter-copy">
               <h3
               style={{
                 fontFamily: '"Proza Libre", sans-serif',
@@ -80,7 +72,6 @@ export default function SiteFooter() {
             <form
               className="footer-newsletter-form"
               onSubmit={handleSubscribe}
-              style={{ display: 'flex', gap: '0', flex: '1 1 320px', minWidth: 0, maxWidth: '100%' }}
             >
               <input
                 type="email"
@@ -100,7 +91,6 @@ export default function SiteFooter() {
                   padding: '12px 20px',
                   width: '100%',
                   minWidth: 0,
-                  flex: '1 1 auto',
                   outline: 'none',
                 }}
               />
@@ -127,16 +117,7 @@ export default function SiteFooter() {
               </button>
             </form>
           ) : (
-            <p
-              style={{
-                fontFamily: 'Poppins, sans-serif',
-                fontSize: '13px',
-                fontWeight: 400,
-                letterSpacing: '0.5px',
-                color: '#060606',
-                margin: 0,
-              }}
-            >
+            <p className="footer-newsletter-success">
               Thank you for subscribing!
             </p>
           )}
@@ -451,25 +432,81 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
       </div>
 
       <style>{`
+        .footer-newsletter-inner {
+          display: flex;
+          align-items: flex-end;
+          justify-content: space-between;
+          gap: 32px;
+          flex-wrap: wrap;
+        }
+        .footer-newsletter-copy {
+          flex: 1 1 240px;
+          min-width: 0;
+        }
+        .footer-newsletter-form {
+          display: flex;
+          flex: 1 1 320px;
+          min-width: 0;
+          max-width: 100%;
+          gap: 0;
+        }
+        .footer-newsletter-form input {
+          flex: 1 1 auto;
+          box-sizing: border-box;
+        }
+        .footer-newsletter-success {
+          font-family: Poppins, sans-serif;
+          font-size: 13px;
+          font-weight: 400;
+          letter-spacing: 0.5px;
+          color: #060606;
+          margin: 0;
+          flex: 1 1 320px;
+          max-width: 100%;
+        }
         .footer-newsletter-submit:hover {
           background: #2a2a2a !important;
         }
         @media (max-width: 768px) {
+          .footer-newsletter {
+            margin-bottom: 32px !important;
+            padding-bottom: 32px !important;
+          }
           .footer-newsletter-inner {
             flex-direction: column !important;
             align-items: stretch !important;
+            justify-content: flex-start !important;
+            gap: 20px !important;
+          }
+          .footer-newsletter-copy {
+            flex: none !important;
+            width: 100% !important;
+          }
+          .footer-newsletter-copy p {
+            max-width: none !important;
+          }
+          .footer-newsletter-form,
+          .footer-newsletter-success {
+            flex: none !important;
+            width: 100% !important;
           }
           .footer-newsletter-form {
             flex-direction: column !important;
-            width: 100% !important;
-            flex: 1 1 100% !important;
           }
           .footer-newsletter-form input {
             width: 100% !important;
+            flex: none !important;
+            box-sizing: border-box !important;
           }
           .footer-newsletter-form button {
             width: 100% !important;
             border-top: 1px solid rgba(6, 6, 6, 0.15) !important;
+          }
+        }
+        @media (max-width: 480px) {
+          .footer-wrapper {
+            padding-left: 16px !important;
+            padding-right: 16px !important;
           }
         }
         @media (max-width: 900px) {

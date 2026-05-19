@@ -84,14 +84,17 @@ clearInterval(intervalRef.current);
         style={{ opacity: idx === current ? 1 : 0, zIndex: idx === current ? 1 : 0 }}
         aria-hidden={idx !== current}>
         
-          {/* Background image */}
           <img
-          src={slide.image}
-          alt={slide.alt}
-          className="absolute inset-0 w-full h-full object-cover"
-          onLoad={() => handleImageLoad(idx)}
-          style={{ opacity: loaded[idx] ? 1 : 0, transition: 'opacity 0.5s ease' }} />
-        
+            src={slide.image}
+            alt={slide.alt}
+            className="absolute inset-0 h-full w-full object-cover object-center"
+            onLoad={() => handleImageLoad(idx)}
+            style={{
+              opacity: loaded[idx] ? 1 : 0,
+              transition: 'opacity 0.5s ease',
+            }}
+          />
+
           {/* Dark overlay */}
           <div className="absolute inset-0 bg-black" style={{ opacity: 0.35 }} />
           {/* Content */}

@@ -39,7 +39,7 @@ const collections: Collection[] = [
     {
         id: 4,
         name: 'Furniture',
-        image: '/assets/images/Crystal cut ashtray 2.jpg',
+        image: '/assets/images/banners/RNI-Films-IMG-A063D280-72CF-4163-B202-E9F064D4A550.jpg',
         alt: 'Designer furniture including sofas, tables, and storage',
         slug: 'furniture',
         aspectRatio: '5/6',
