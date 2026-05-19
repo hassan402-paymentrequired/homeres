@@ -1,5 +1,5 @@
 import { Head, Link } from '@inertiajs/react';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useState, type CSSProperties, type ReactNode } from 'react';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontShell from '@/components/storefront/storefront-shell';
 import { CATEGORIES, findCategory } from '@/data/categories';
@@ -36,6 +36,118 @@ function sortProducts(products: MockProduct[], sort: SortOption): MockProduct[] 
     }
 }
 
+const chipStyle = (active: boolean): CSSProperties => ({
+    flexShrink: 0,
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '11px',
+    fontWeight: active ? 500 : 300,
+    letterSpacing: '0.3px',
+    padding: '8px 14px',
+    border: `1px solid ${active ? '#060606' : '#e8e8e1'}`,
+    background: active ? '#060606' : '#ffffff',
+    color: active ? '#ffffff' : '#6b6b6b',
+    textDecoration: 'none',
+    cursor: 'pointer',
+    whiteSpace: 'nowrap',
+});
+
+function FilterChip({
+    active,
+    href,
+    onClick,
+    children,
+}: {
+    active: boolean;
+    href?: string;
+    onClick?: () => void;
+    children: ReactNode;
+}) {
+    const style = chipStyle(active);
+
+    if (href) {
+        return (
+            <Link href={href} style={style}>
+                {children}
+            </Link>
+        );
+    }
+
+    return (
+        <button
+            type="button"
+            onClick={onClick}
+            style={{
+                ...style,
+                border: `1px solid ${active ? '#060606' : '#e8e8e1'}`,
+            }}
+        >
+            {children}
+        </button>
+    );
+}
+
+function CatalogRefineFilters({
+    newOnly,
+    setNewOnly,
+    maxPrice,
+    setMaxPrice,
+    priceCeiling,
+}: {
+    newOnly: boolean;
+    setNewOnly: (value: boolean) => void;
+    maxPrice: number | null;
+    setMaxPrice: (value: number | null) => void;
+    priceCeiling: number;
+}) {
+    return (
+        <>
+            <label
+                style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '8px',
+                    fontSize: '12px',
+                    marginBottom: '12px',
+                    cursor: 'pointer',
+                }}
+            >
+                <input
+                    type="checkbox"
+                    checked={newOnly}
+                    onChange={(e) => setNewOnly(e.target.checked)}
+                />
+                New only
+            </label>
+            <label
+                style={{
+                    fontFamily: 'Poppins, sans-serif',
+                    fontSize: '11px',
+                    display: 'block',
+                    marginBottom: '6px',
+                }}
+            >
+                Max price:{' '}
+                {maxPrice ? `₦${maxPrice.toLocaleString('en-NG')}` : 'Any'}
+            </label>
+            <input
+                type="range"
+                min={50000}
+                max={priceCeiling}
+                step={50000}
+                value={maxPrice ?? priceCeiling}
+                onChange={(e) =>
+                    setMaxPrice(
+                        Number(e.target.value) >= priceCeiling
+                            ? null
+                            : Number(e.target.value),
+                    )
+                }
+                style={{ width: '100%' }}
+            />
+        </>
+    );
+}
+
 export default function CatalogPage({
     category = null,
     filter = null,
@@ -47,10 +159,36 @@ export default function CatalogPage({
     const [newOnly, setNewOnly] = useState(false);
     const [maxPrice, setMaxPrice] = useState<number | null>(null);
     const [viewMode, setViewMode] = useState<ViewMode>('grid');
+    const [filtersOpen, setFiltersOpen] = useState(false);
 
     useEffect(() => {
         setSubcategory(sub);
     }, [sub]);
+
+    useEffect(() => {
+        if (!filtersOpen) {
+            return;
+        }
+
+        const prev = document.body.style.overflow;
+        document.body.style.overflow = 'hidden';
+
+        return () => {
+            document.body.style.overflow = prev;
+        };
+    }, [filtersOpen]);
+
+    useEffect(() => {
+        const onKey = (e: KeyboardEvent) => {
+            if (e.key === 'Escape') {
+                setFiltersOpen(false);
+            }
+        };
+
+        window.addEventListener('keydown', onKey);
+
+        return () => window.removeEventListener('keydown', onKey);
+    }, []);
 
     const categoryMeta = findCategory(category ?? undefined);
     const priceCeiling = useMemo(
@@ -104,6 +242,14 @@ export default function CatalogPage({
             ? 'The latest additions to our curated collection.'
             : categoryMeta?.description ??
               'Browse our full preview catalogue of luxury home decor.';
+
+    const activeFilterCount =
+        (newOnly ? 1 : 0) + (maxPrice !== null ? 1 : 0) + (subcategory ? 1 : 0);
+
+    const clearRefineFilters = () => {
+        setNewOnly(false);
+        setMaxPrice(null);
+    };
 
     return (
         <StorefrontShell>
@@ -193,7 +339,7 @@ export default function CatalogPage({
                         >
                             {pageDescription}{' '}
                             <span style={{ color: '#999' }}>
-                                ({products.length} sample products)
+                                ({products.length} products)
                             </span>
                         </p>
                     </div>
@@ -248,12 +394,79 @@ export default function CatalogPage({
                 <div
                     style={{
                         display: 'grid',
-                        gridTemplateColumns: '220px 1fr',
+                        gridTemplateColumns: 'minmax(0, 220px) minmax(0, 1fr)',
                         gap: '40px',
                     }}
                     className="catalog-layout catalog-main"
                 >
-                    <aside>
+                    <div className="catalog-mobile-filters">
+                        <div className="catalog-chip-row" aria-label="Categories">
+                            <FilterChip active={!category && !filter} href="/shop">
+                                All
+                            </FilterChip>
+                            <FilterChip active={filter === 'new'} href="/shop/new-arrivals">
+                                New
+                            </FilterChip>
+                            {CATEGORIES.map((cat) => (
+                                <FilterChip
+                                    key={cat.slug}
+                                    active={category === cat.slug}
+                                    href={`/shop/${cat.slug}`}
+                                >
+                                    {cat.label}
+                                </FilterChip>
+                            ))}
+                        </div>
+
+                        {categoryMeta?.children && (
+                            <div
+                                className="catalog-chip-row catalog-type-row"
+                                aria-label="Product type"
+                            >
+                                <FilterChip
+                                    active={!subcategory}
+                                    onClick={() => setSubcategory(null)}
+                                >
+                                    All {categoryMeta.label}
+                                </FilterChip>
+                                {categoryMeta.children.map((child) => (
+                                    <FilterChip
+                                        key={child.slug}
+                                        active={subcategory === child.slug}
+                                        onClick={() => setSubcategory(child.slug)}
+                                    >
+                                        {child.label}
+                                    </FilterChip>
+                                ))}
+                            </div>
+                        )}
+
+                        <div className="catalog-mobile-actions">
+                            <button
+                                type="button"
+                                className="catalog-filters-trigger"
+                                onClick={() => setFiltersOpen(true)}
+                                aria-expanded={filtersOpen}
+                            >
+                                Filters
+                                {activeFilterCount > 0 ? ` (${activeFilterCount})` : ''}
+                            </button>
+                            {activeFilterCount > 0 && (
+                                <button
+                                    type="button"
+                                    className="catalog-filters-clear"
+                                    onClick={() => {
+                                        clearRefineFilters();
+                                        setSubcategory(null);
+                                    }}
+                                >
+                                    Clear
+                                </button>
+                            )}
+                        </div>
+                    </div>
+
+                    <aside className="catalog-sidebar">
                         <p
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
@@ -325,51 +538,15 @@ export default function CatalogPage({
                         >
                             Refine
                         </p>
-                        <label
-                            style={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: '8px',
-                                fontSize: '12px',
-                                marginBottom: '12px',
-                                cursor: 'pointer',
-                            }}
-                        >
-                            <input
-                                type="checkbox"
-                                checked={newOnly}
-                                onChange={(e) => setNewOnly(e.target.checked)}
+                        <div style={{ marginBottom: '24px' }}>
+                            <CatalogRefineFilters
+                                newOnly={newOnly}
+                                setNewOnly={setNewOnly}
+                                maxPrice={maxPrice}
+                                setMaxPrice={setMaxPrice}
+                                priceCeiling={priceCeiling}
                             />
-                            New only
-                        </label>
-                        <label
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '11px',
-                                display: 'block',
-                                marginBottom: '6px',
-                            }}
-                        >
-                            Max price:{' '}
-                            {maxPrice
-                                ? `₦${maxPrice.toLocaleString('en-NG')}`
-                                : 'Any'}
-                        </label>
-                        <input
-                            type="range"
-                            min={50000}
-                            max={priceCeiling}
-                            step={50000}
-                            value={maxPrice ?? priceCeiling}
-                            onChange={(e) =>
-                                setMaxPrice(
-                                    Number(e.target.value) >= priceCeiling
-                                        ? null
-                                        : Number(e.target.value),
-                                )
-                            }
-                            style={{ width: '100%', marginBottom: '24px' }}
-                        />
+                        </div>
                         {categoryMeta?.children && (
                             <>
                                 <p
@@ -437,7 +614,7 @@ export default function CatalogPage({
                                 color: '#6b6b6b',
                             }}
                         >
-                            No sample products in this category yet.
+                            No products in this category yet.
                         </p>
                     ) : (
                         <div
@@ -465,12 +642,191 @@ export default function CatalogPage({
                     )}
                 </div>
             </div>
+
+            {filtersOpen && (
+                <div
+                    className="catalog-filter-overlay"
+                    role="presentation"
+                    onClick={() => setFiltersOpen(false)}
+                >
+                    <div
+                        className="catalog-filter-drawer"
+                        role="dialog"
+                        aria-modal="true"
+                        aria-label="Filters"
+                        onClick={(e) => e.stopPropagation()}
+                    >
+                        <div
+                            style={{
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'space-between',
+                                marginBottom: '24px',
+                            }}
+                        >
+                            <p
+                                style={{
+                                    fontFamily: '"Proza Libre", sans-serif',
+                                    fontSize: '18px',
+                                    fontWeight: 500,
+                                    textTransform: 'uppercase',
+                                    margin: 0,
+                                    color: '#060606',
+                                }}
+                            >
+                                Refine
+                            </p>
+                            <button
+                                type="button"
+                                onClick={() => setFiltersOpen(false)}
+                                aria-label="Close filters"
+                                style={{
+                                    background: 'none',
+                                    border: 'none',
+                                    fontSize: '24px',
+                                    lineHeight: 1,
+                                    cursor: 'pointer',
+                                    color: '#060606',
+                                    padding: '4px',
+                                }}
+                            >
+                                ×
+                            </button>
+                        </div>
+
+                        <CatalogRefineFilters
+                            newOnly={newOnly}
+                            setNewOnly={setNewOnly}
+                            maxPrice={maxPrice}
+                            setMaxPrice={setMaxPrice}
+                            priceCeiling={priceCeiling}
+                        />
+
+                        {activeFilterCount > 0 && (
+                            <button
+                                type="button"
+                                className="catalog-filters-clear"
+                                onClick={clearRefineFilters}
+                                style={{ marginTop: '20px' }}
+                            >
+                                Reset refine
+                            </button>
+                        )}
+
+                        <button
+                            type="button"
+                            className="catalog-filters-apply"
+                            onClick={() => setFiltersOpen(false)}
+                        >
+                            Show {products.length} results
+                        </button>
+                    </div>
+                </div>
+            )}
+
             <style>{`
+                .catalog-page {
+                    width: 100%;
+                    max-width: 100%;
+                    box-sizing: border-box;
+                }
+                .catalog-layout {
+                    min-width: 0;
+                }
+                .catalog-mobile-filters { display: none; }
+                .catalog-filter-overlay {
+                    position: fixed;
+                    inset: 0;
+                    z-index: 150;
+                    background: rgba(6, 6, 6, 0.45);
+                }
+                .catalog-filter-drawer {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    bottom: 0;
+                    width: min(320px, 88vw);
+                    background: #ffffff;
+                    padding: 24px 20px 32px;
+                    overflow-y: auto;
+                    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.12);
+                }
+                .catalog-filters-trigger,
+                .catalog-filters-apply {
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    font-weight: 500;
+                    letter-spacing: 2px;
+                    text-transform: uppercase;
+                    padding: 12px 16px;
+                    border: 1px solid #060606;
+                    background: #060606;
+                    color: #ffffff;
+                    cursor: pointer;
+                }
+                .catalog-filters-clear {
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    font-weight: 400;
+                    letter-spacing: 0.5px;
+                    padding: 12px 16px;
+                    border: 1px solid #e8e8e1;
+                    background: #ffffff;
+                    color: #6b6b6b;
+                    cursor: pointer;
+                }
+                .catalog-filters-apply {
+                    width: 100%;
+                    margin-top: 28px;
+                }
                 @media (max-width: 1100px) {
                     .catalog-grid { grid-template-columns: repeat(3, 1fr) !important; }
                 }
                 @media (max-width: 900px) {
-                    .catalog-layout { grid-template-columns: 1fr !important; gap: 28px !important; }
+                    .catalog-page {
+                        overflow-x: hidden;
+                    }
+                    .catalog-layout {
+                        grid-template-columns: minmax(0, 1fr) !important;
+                        gap: 20px !important;
+                    }
+                    .catalog-layout > * {
+                        min-width: 0;
+                    }
+                    .catalog-sidebar { display: none !important; }
+                    .catalog-mobile-filters {
+                        display: block !important;
+                        width: 100%;
+                        max-width: 100%;
+                        min-width: 0;
+                        overflow: hidden;
+                    }
+                    .catalog-chip-row {
+                        display: flex;
+                        gap: 8px;
+                        width: 100%;
+                        max-width: 100%;
+                        min-width: 0;
+                        overflow-x: auto;
+                        overflow-y: hidden;
+                        -webkit-overflow-scrolling: touch;
+                        scrollbar-width: none;
+                        padding-bottom: 4px;
+                    }
+                    .catalog-chip-row::-webkit-scrollbar { display: none; }
+                    .catalog-type-row { margin-top: 10px; }
+                    .catalog-mobile-actions {
+                        display: flex;
+                        gap: 8px;
+                        margin-top: 12px;
+                        min-width: 0;
+                    }
+                    .catalog-filters-trigger { flex: 1; min-width: 0; }
+                    .catalog-grid,
+                    .catalog-list {
+                        min-width: 0;
+                        width: 100%;
+                    }
                     .catalog-page { padding: 32px 20px !important; }
                     .catalog-header { flex-direction: column !important; align-items: stretch !important; }
                     .catalog-header h1 { font-size: calc(29px * 0.7) !important; }
