@@ -30,7 +30,7 @@ export default function WishlistPage() {
                         margin: '0 0 32px',
                     }}
                 >
-                    Saved on this device only (preview — no account sync).
+                    Saved on this device.
                 </p>
                 {products.length === 0 ? (
                     <div style={{ textAlign: 'center', padding: '48px 0' }}>
