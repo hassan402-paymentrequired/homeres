@@ -167,7 +167,7 @@ export default function WhyHomere() {
             className="why-section"
             style={{
                 position: 'relative',
-                padding: '72px 30px',
+                padding: '10px 20px',
                 borderTop: '1px solid #e8e8e1',
                 borderBottom: '1px solid #e8e8e1',
                 overflow: 'hidden',
