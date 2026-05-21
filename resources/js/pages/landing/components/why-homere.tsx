@@ -104,7 +104,7 @@ function TestimonialSlider({ enabled }: { enabled: boolean }) {
                 ))}
             </div>
 
-            <div className="why-testimonial-controls">
+            {/* <div className="why-testimonial-controls"> */}
                 {/* <button
                     type="button"
                     className="why-testimonial-nav"
@@ -113,7 +113,7 @@ function TestimonialSlider({ enabled }: { enabled: boolean }) {
                 >
                     ←
                 </button> */}
-                <div className="why-testimonial-dots" role="tablist" aria-label="Testimonial slides">
+                {/* <div className="why-testimonial-dots" role="tablist" aria-label="Testimonial slides">
                     {TESTIMONIALS.map((t, idx) => (
                         <button
                             key={t.author}
@@ -125,7 +125,7 @@ function TestimonialSlider({ enabled }: { enabled: boolean }) {
                             onClick={() => goTo(idx)}
                         />
                     ))}
-                </div>
+                </div> */}
                 {/* <button
                     type="button"
                     className="why-testimonial-nav"
@@ -134,7 +134,7 @@ function TestimonialSlider({ enabled }: { enabled: boolean }) {
                 >
                     →
                 </button> */}
-            </div>
+            {/* </div> */}
         </div>
     );
 }
@@ -173,6 +173,9 @@ export default function WhyHomere() {
                 overflow: 'hidden',
             }}
         >
+            <div className="why-section-media" aria-hidden="true">
+                <img src={WHY_SECTION_BG} alt="" loading="lazy" />
+            </div>
             <div className="why-inner">
                 <div
                     className="why-layout"
@@ -242,9 +245,6 @@ export default function WhyHomere() {
                     </div>
 
                     <div className="why-benefits-panel">
-                        <div className="why-section-media" aria-hidden="true">
-                            <img src={WHY_SECTION_BG} alt="" loading="lazy" />
-                        </div>
                         <div className="why-bento">
                         {WHY_CHOOSE.map((item, idx) => {
                             const isHighlight = idx === HIGHLIGHT_INDEX;
@@ -282,19 +282,6 @@ export default function WhyHomere() {
                 .why-section {
                     background: #f5f5f3;
                 }
-                .why-inner {
-                    max-width: 1500px;
-                    margin: 0 auto;
-                    position: relative;
-                    z-index: 1;
-                    width: 100%;
-                    min-width: 0;
-                }
-                .why-intro-panel,
-                .why-benefits-panel {
-                    min-width: 0;
-                    max-width: 100%;
-                }
                 .why-section-media {
                     position: absolute;
                     inset: 0;
@@ -313,11 +300,26 @@ export default function WhyHomere() {
                     position: absolute;
                     inset: 0;
                     background: linear-gradient(
-                        135deg,
-                        rgba(245, 245, 243, 0.92) 0%,
-                        rgba(245, 245, 243, 0.75) 45%,
-                        rgba(245, 245, 243, 0.55) 100%
+                        to right,
+                        rgba(245, 245, 243, 0.9) 0%,
+                        rgba(245, 245, 243, 0.78) 30%,
+                        rgba(245, 245, 243, 0.55) 50%,
+                        rgba(245, 245, 243, 0.35) 70%,
+                        rgba(245, 245, 243, 0.2) 100%
                     );
+                }
+                .why-inner {
+                    max-width: 1500px;
+                    margin: 0 auto;
+                    position: relative;
+                    z-index: 1;
+                    width: 100%;
+                    min-width: 0;
+                }
+                .why-intro-panel,
+                .why-benefits-panel {
+                    min-width: 0;
+                    max-width: 100%;
                 }
                 .why-intro-panel {
                     padding: 0;
@@ -333,8 +335,6 @@ export default function WhyHomere() {
                     align-items: stretch;
                 }
                 .why-benefits-panel {
-                    position: relative;
-                    overflow: hidden;
                     display: flex;
                     flex-direction: column;
                     height: 100%;
