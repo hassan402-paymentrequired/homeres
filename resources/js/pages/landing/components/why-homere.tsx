@@ -173,13 +173,7 @@ export default function WhyHomere() {
                 overflow: 'hidden',
             }}
         >
-            <div
-                className="why-section-bg"
-                aria-hidden="true"
-                style={{ backgroundImage: `url(${WHY_SECTION_BG})` }}
-            />
-            <div className="why-section-scrim" aria-hidden />
-            <div className="why-inner" style={{ maxWidth: '1500px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
+            <div className="why-inner">
                 <div
                     className="why-layout"
                     style={{
@@ -188,7 +182,7 @@ export default function WhyHomere() {
                         transition: 'opacity 0.7s ease, transform 0.7s ease',
                     }}
                 >
-                    <div className="why-intro">
+                    <div className="why-intro-panel">
                         <p
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
@@ -247,14 +241,19 @@ export default function WhyHomere() {
                         <TestimonialSlider enabled={visible} />
                     </div>
 
-                    <div className="why-bento">
+                    <div className="why-benefits-panel">
+                        <div className="why-section-media" aria-hidden="true">
+                            <img src={WHY_SECTION_BG} alt="" loading="lazy" />
+                        </div>
+                        <div className="why-bento">
                         {WHY_CHOOSE.map((item, idx) => {
                             const isHighlight = idx === HIGHLIGHT_INDEX;
+                            const isLast = idx === WHY_CHOOSE.length - 1;
 
                             return (
                                 <article
                                     key={item.title}
-                                    className={`why-card${isHighlight ? ' why-card--highlight' : ''}`}
+                                    className={`why-card${isHighlight ? ' why-card--highlight' : ''}${isLast ? ' why-card--wide' : ''}`}
                                     style={{
                                         opacity: visible ? 1 : 0,
                                         transform: visible ? 'translateY(0)' : 'translateY(20px)',
@@ -274,29 +273,72 @@ export default function WhyHomere() {
                                 </article>
                             );
                         })}
+                        </div>
                     </div>
                 </div>
             </div>
 
             <style>{`
-                .why-section-bg {
-                    position: absolute;
-                    inset: 0;
-                    background-size: cover;
-                    background-position: center;
-                    z-index: 0;
+                .why-section {
+                    background: #f5f5f3;
                 }
-                .why-section-scrim {
+                .why-inner {
+                    max-width: 1500px;
+                    margin: 0 auto;
+                    position: relative;
+                    z-index: 1;
+                    width: 100%;
+                    min-width: 0;
+                }
+                .why-intro-panel,
+                .why-benefits-panel {
+                    min-width: 0;
+                    max-width: 100%;
+                }
+                .why-section-media {
                     position: absolute;
                     inset: 0;
-                    background: rgba(245, 245, 243, 0.9);
                     z-index: 0;
+                    pointer-events: none;
+                }
+                .why-section-media img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    object-position: center;
+                    display: block;
+                }
+                .why-section-media::after {
+                    content: '';
+                    position: absolute;
+                    inset: 0;
+                    background: linear-gradient(
+                        135deg,
+                        rgba(245, 245, 243, 0.92) 0%,
+                        rgba(245, 245, 243, 0.75) 45%,
+                        rgba(245, 245, 243, 0.55) 100%
+                    );
+                }
+                .why-intro-panel {
+                    padding: 0;
+                    display: flex;
+                    flex-direction: column;
+                    height: 100%;
+                    min-height: 0;
                 }
                 .why-layout {
                     display: grid;
-                    grid-template-columns: minmax(0, 380px) minmax(0, 1fr);
-                    gap: 48px;
-                    align-items: start;
+                    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+                    gap: 24px;
+                    align-items: stretch;
+                }
+                .why-benefits-panel {
+                    position: relative;
+                    overflow: hidden;
+                    display: flex;
+                    flex-direction: column;
+                    height: 100%;
+                    min-height: 0;
                 }
                 .why-stats {
                     display: flex;
@@ -304,7 +346,7 @@ export default function WhyHomere() {
                     gap: 20px 28px;
                     margin-bottom: 28px;
                     padding-bottom: 28px;
-                    border-bottom: 1px solid #e0e0d8;
+                    border-bottom: 1px solid rgba(224, 224, 216, 0.9);
                 }
                 .why-stat {
                     display: flex;
@@ -328,6 +370,10 @@ export default function WhyHomere() {
                 }
                 .why-testimonial-slider {
                     margin-top: 4px;
+                    flex: 1;
+                    display: flex;
+                    flex-direction: column;
+                    min-height: 0;
                 }
                 .why-testimonial-label {
                     font-family: Poppins, sans-serif;
@@ -340,15 +386,18 @@ export default function WhyHomere() {
                 }
                 .why-testimonial-viewport {
                     position: relative;
-                    min-height: 200px;
+                    flex: 1;
+                    min-height: 160px;
                 }
                 .why-testimonial-slide {
                     position: absolute;
                     inset: 0;
                     margin: 0;
                     padding: 28px 24px;
-                    background: #ffffff;
-                    border: 1px solid #e8e8e1;
+                    background: rgba(255, 255, 255, 0.9);
+                    backdrop-filter: blur(12px);
+                    -webkit-backdrop-filter: blur(12px);
+                    border: 1px solid rgba(232, 232, 225, 0.95);
                     border-left: 3px solid #060606;
                     opacity: 0;
                     visibility: hidden;
@@ -424,32 +473,46 @@ export default function WhyHomere() {
                     transform: scale(1.15);
                 }
                 .why-bento {
+                    position: relative;
+                    z-index: 1;
                     display: grid;
-                    grid-template-columns: repeat(2, minmax(0, 1fr));
-                    gap: 18px;
+                    grid-template-columns: repeat(3, minmax(0, 1fr));
+                    grid-template-rows: repeat(2, minmax(0, 1fr));
+                    gap: 16px;
+                    flex: 1;
+                    min-height: 0;
+                    box-sizing: border-box;
+                    align-items: stretch;
                 }
                 .why-card {
-                    background: #ffffff;
-                    border: 1px solid #e8e8e1;
-                    padding: 24px 22px;
+                    background: rgba(255, 255, 255, 0.88);
+                    backdrop-filter: blur(14px);
+                    -webkit-backdrop-filter: blur(14px);
+                    border: 1px solid rgba(232, 232, 225, 0.9);
+                    padding: 20px 18px;
                     display: flex;
                     flex-direction: column;
-                    gap: 10px;
+                    gap: 8px;
                     min-height: 0;
+                    height: 100%;
                 }
                 .why-card:hover {
                     border-color: #d0d0c8;
                     box-shadow: 0 12px 32px rgba(6, 6, 6, 0.06);
                 }
                 .why-card--highlight {
-                    grid-column: 1 / -1;
-                    background: #060606;
-                    border-color: #060606;
+                    background: rgba(6, 6, 6, 0.9);
+                    backdrop-filter: blur(16px);
+                    -webkit-backdrop-filter: blur(16px);
+                    border-color: rgba(6, 6, 6, 0.95);
                     color: #ffffff;
                 }
                 .why-card--highlight:hover {
                     border-color: #060606;
                     box-shadow: 0 16px 40px rgba(6, 6, 6, 0.2);
+                }
+                .why-card--wide {
+                    grid-column: span 2;
                 }
                 .why-card--highlight .why-card-index,
                 .why-card--highlight .why-card-icon,
@@ -492,12 +555,45 @@ export default function WhyHomere() {
                     font-weight: 300;
                     color: #6b6b6b;
                     margin: 0;
-                    line-height: 1.75;
+                    line-height: 1.65;
                 }
                 @media (max-width: 1024px) {
                     .why-layout {
                         grid-template-columns: 1fr;
-                        gap: 36px;
+                        gap: 28px;
+                    }
+                    .why-intro-panel,
+                    .why-benefits-panel {
+                        height: auto;
+                    }
+                    .why-testimonial-slider {
+                        flex: none;
+                    }
+                    .why-testimonial-viewport {
+                        flex: none;
+                        min-height: 200px;
+                    }
+                    .why-bento {
+                        flex: none;
+                        grid-template-rows: auto auto;
+                        min-height: 0;
+                    }
+                    .why-card {
+                        height: auto;
+                        min-height: 140px;
+                    }
+                    .why-benefits-panel {
+                        min-height: 0;
+                    }
+                    .why-section-media::after {
+                        background: linear-gradient(
+                            to bottom,
+                            rgba(245, 245, 243, 0.88) 0%,
+                            rgba(245, 245, 243, 0.72) 100%
+                        );
+                    }
+                    .why-intro-panel {
+                        padding: 0;
                     }
                 }
                 @media (max-width: 640px) {
@@ -506,9 +602,14 @@ export default function WhyHomere() {
                     }
                     .why-bento {
                         grid-template-columns: 1fr;
+                        grid-template-rows: auto;
                     }
-                    .why-card--highlight {
+                    .why-card--highlight,
+                    .why-card--wide {
                         grid-column: auto;
+                    }
+                    .why-card {
+                        height: auto;
                     }
                     .why-stat-value {
                         font-size: 24px;
