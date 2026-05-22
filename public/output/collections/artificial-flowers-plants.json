@@ -1,0 +1,4229 @@
+{
+  "handle": "artificial-flowers-plants",
+  "label": "Flowers & Plants",
+  "url": "https://arowonen.com/collections/artificial-flowers-plants",
+  "scraped_at": "2026-05-22T15:59:11.879Z",
+  "product_count": 76,
+  "products": [
+    {
+      "id": 15740677390668,
+      "title": "Hydrangea Stem - Evelyn Collection - Liora Dark Pink - 70cm",
+      "handle": "hydrangea-stem-evelyn-collection-liora-dark-pink-70cm",
+      "url": "https://arowonen.com/products/hydrangea-stem-evelyn-collection-liora-dark-pink-70cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2026-05-06T12:10:28+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2026-05-06T12:12:55+02:00",
+      "available": true,
+      "price_min": 35,
+      "price_max": 35,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57468898148684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6074.heic?v=1778062349",
+          "alt": null,
+          "width": 2120,
+          "height": 2006
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6074.heic?v=1778062349",
+      "description_html": "<p>Elegant hydrangea stem from the Evelyn Collection, featuring rich Liora dark pink blooms. This 70cm artificial stem brings timeless beauty to any arrangement, bouquet, or home décor display. The lifelike petals and natural stem structure create an authentic look that lasts indefinitely without watering or maintenance. Perfect for florists, event designers, and home decorators seeking premium quality botanicals that maintain their charm year-round.</p>"
+    },
+    {
+      "id": 15740613525836,
+      "title": "Hydrangea Stem - Evelyn Collection - Liora Soft Pink - 52cm",
+      "handle": "hydrangea-stem-evelyn-collection-liora-soft-pink-52cm",
+      "url": "https://arowonen.com/products/hydrangea-stem-evelyn-collection-liora-soft-pink-52cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2026-05-06T11:50:38+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2026-05-06T11:54:11+02:00",
+      "available": true,
+      "price_min": 35,
+      "price_max": 35,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57468777300300,
+          "title": "Default Title",
+          "sku": null,
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6073.heic?v=1778061206",
+          "alt": null,
+          "width": 2098,
+          "height": 1786
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6073.heic?v=1778061206",
+      "description_html": "Elegant hydrangea stem from the Evelyn Collection, featuring delicate Liora soft pink blooms. This 52cm artificial stem brings timeless beauty to any arrangement, bouquet, or home décor display. The lifelike petals and natural stem structure create an authentic look that lasts indefinitely without watering or maintenance. Perfect for florists, event designers, and home decorators seeking premium quality botanicals that maintain their charm year-round."
+    },
+    {
+      "id": 15740568928588,
+      "title": "Peony Stem - Evelyn collection - Pink 52cm",
+      "handle": "peony-stem-evelyn-collection-pink-52cm",
+      "url": "https://arowonen.com/products/peony-stem-evelyn-collection-pink-52cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2026-05-06T11:34:13+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2026-05-06T11:37:23+02:00",
+      "available": true,
+      "price_min": 35,
+      "price_max": 35,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57468675391820,
+          "title": "Default Title",
+          "sku": null,
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6065.heic?v=1778060231",
+          "alt": null,
+          "width": 2578,
+          "height": 2488
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6065.heic?v=1778060231",
+      "description_html": "<p>Elevate your floral arrangements with this stunning pink peony stem from the Evelyn Collection. Standing at 52cm, this premium bloom features delicate, full petals in a romantic tone that brings warmth and elegance to any space. Perfect for weddings, events, or everyday décor, this peony stem adds a touch of luxury and natural beauty to your designs. Ideal for florists and home decorators seeking high-quality, long-lasting florals.</p>"
+    },
+    {
+      "id": 15740556509516,
+      "title": "Peony Stem - Evelyn Collection - Soft Pink 52cm",
+      "handle": "peony-stem-evelyn-collection-soft-pink-52cm",
+      "url": "https://arowonen.com/products/peony-stem-evelyn-collection-soft-pink-52cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2026-05-06T11:29:43+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2026-05-06T11:33:01+02:00",
+      "available": true,
+      "price_min": 35,
+      "price_max": 35,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57468655763788,
+          "title": "Default Title",
+          "sku": null,
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6067.heic?v=1778060316",
+          "alt": null,
+          "width": 3024,
+          "height": 2518
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6067.heic?v=1778060316",
+      "description_html": "Elevate your floral arrangements with this stunning soft pink peony stem from the Evelyn Collection. Standing at 52cm, this premium bloom features delicate, full petals in a romantic blush tone that brings warmth and elegance to any space. Perfect for weddings, events, or everyday décor, this peony stem adds a touch of luxury and natural beauty to your designs. Ideal for florists and home decorators seeking high-quality, long-lasting florals."
+    },
+    {
+      "id": 15472174956876,
+      "title": "Magnolia Branch - Cream  - 103cm",
+      "handle": "magnolia-branch-cream-103cm",
+      "url": "https://arowonen.com/products/magnolia-branch-cream-103cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-20T14:21:31+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-12-20T16:11:03+01:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56285734502732,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149108.png?v=1766237996",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149108.png?v=1766237996",
+      "description_html": "<p>Magnolia is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 15401646915916,
+      "title": "Hydrangea Stem - Evelyn Collection - Liora White - 70cm",
+      "handle": "hydrangea-stem-evelyn-collection-liora-white-70cm",
+      "url": "https://arowonen.com/products/hydrangea-stem-evelyn-collection-liora-white-70cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-24T17:31:15+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-24T17:31:20+01:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56053922070860,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.29.08.png?v=1764001816",
+          "alt": null,
+          "width": 1604,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.28.48.png?v=1764001816",
+          "alt": null,
+          "width": 1594,
+          "height": 1592
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.29.14.png?v=1764001816",
+          "alt": null,
+          "width": 1590,
+          "height": 1590
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.29.01.png?v=1764001816",
+          "alt": null,
+          "width": 1600,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.28.54.png?v=1764001816",
+          "alt": null,
+          "width": 1590,
+          "height": 1594
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.29.08.png?v=1764001816",
+      "description_html": "<div class=\"text-special-sm\">\n<meta charset=\"utf-8\">\n<div class=\"text-special-sm\">\n<meta charset=\"utf-8\">\n<div class=\"text-special-sm\">Bring a serene elegance to your home with this Bouquet of White Hydrangeas.</div>\n<span class=\"text-lg underline cursor-pointer\"></span>\n</div>\n<span class=\"text-lg underline cursor-pointer\"></span>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 15401622339916,
+      "title": "Cymbidium Orchids - Evelyn Collection - Pink",
+      "handle": "cymbidium-orchids-evelyn-collection-pink",
+      "url": "https://arowonen.com/products/cymbidium-orchids-evelyn-collection-pink",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-24T17:23:49+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-24T17:24:03+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56053827404108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.09.png?v=1764001876",
+          "alt": null,
+          "width": 1598,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.15.png?v=1764001876",
+          "alt": null,
+          "width": 1598,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.29.png?v=1764001876",
+          "alt": null,
+          "width": 1592,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.01.png?v=1764001366",
+          "alt": null,
+          "width": 1596,
+          "height": 1592
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.20.22.png?v=1764001366",
+          "alt": null,
+          "width": 1596,
+          "height": 1596
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.09.png?v=1764001876",
+      "description_html": "<div class=\"text-special-sm\">Transform your space with the luxurious charm of this exquisite bouquet of cymbidium orchids in pink tones.</div>\n<p> </p>"
+    },
+    {
+      "id": 15401617260876,
+      "title": "Cymbidium Orchids - Evelyn Collection - Soft Pink",
+      "handle": "cymbidium-orchids-evelyn-collection-soft-pink",
+      "url": "https://arowonen.com/products/cymbidium-orchids-evelyn-collection-soft-pink",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-24T17:21:43+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-24T17:23:28+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56053810463052,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.09.png?v=1764001876",
+          "alt": null,
+          "width": 1598,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.22.png?v=1764001857",
+          "alt": null,
+          "width": 1588,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.29.png?v=1764001876",
+          "alt": null,
+          "width": 1592,
+          "height": 1594
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.01.png?v=1764001366",
+          "alt": null,
+          "width": 1596,
+          "height": 1592
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.20.22.png?v=1764001366",
+          "alt": null,
+          "width": 1596,
+          "height": 1596
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2025-11-24om17.21.09.png?v=1764001876",
+      "description_html": "<div class=\"text-special-sm\">Transform your space with the luxurious charm of this exquisite bouquet of cymbidium orchids in soft pink tones.</div>\n<p> </p>"
+    },
+    {
+      "id": 15398791938380,
+      "title": "Lily Branch - Blooming Pink - 100cm",
+      "handle": "lily-branch-blooming-pink-100cm-1",
+      "url": "https://arowonen.com/products/lily-branch-blooming-pink-100cm-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2025-11-23T15:12:16+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-23T15:13:23+01:00",
+      "available": true,
+      "price_min": 45,
+      "price_max": 45,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56040283603276,
+          "title": "Default Title",
+          "sku": null,
+          "price": "45.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/154343_czkyznryeq4qqjqm_84813b42-6870-4e7a-aba8-a8b5a18d72aa.png?v=1763907166",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/154343_czkyznryeq4qqjqm_84813b42-6870-4e7a-aba8-a8b5a18d72aa.png?v=1763907166",
+      "description_html": "<p>The Asian lily stands as the most prevalent lily variety throughout the Netherlands, celebrated for its commanding presence and botanical significance. This 100cm blooming pink lily branch showcases the distinctive trumpet-shaped flowers that define the species, available in an impressive spectrum of hues—from pristine whites and vibrant reds to the exotic Turkish varieties. Whether displayed as a single-coloured specimen or multi-hued arrangement, the lily brings refined elegance to any setting. Symbolizing purity and happiness, this botanical specimen serves as both a decorative element and a meaningful gift, embodying timeless grace and natural beauty.</p>"
+    },
+    {
+      "id": 15398765494604,
+      "title": "Clematis Branch - Purple - 113cm",
+      "handle": "clematis-branch-purple-113cm-1",
+      "url": "https://arowonen.com/products/clematis-branch-purple-113cm-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2025-11-23T15:10:34+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-23T15:11:50+01:00",
+      "available": true,
+      "price_min": 45,
+      "price_max": 45,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56040192311628,
+          "title": "Default Title",
+          "sku": null,
+          "price": "45.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/131147_7437e4d4-6c76-4076-8478-74b522a42c24.png?v=1763907055",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/131147_7437e4d4-6c76-4076-8478-74b522a42c24.png?v=1763907055",
+      "description_html": "<p>Clematis has become a valued addition to the world of climbing plants. This plant is known for its characteristic star-shaped flowers, which come in numerous varieties and colour shades. The 113 cm purple clematis branch brings elegance and refinement to your interior or garden. With its graceful inflorescence, clematis symbolises inner beauty and refinement. An excellent choice for those looking for a botanical accent with both visual and symbolic value.</p>"
+    },
+    {
+      "id": 15398252282188,
+      "title": "Needle Branch - Pine Green - 114cm",
+      "handle": "needle-branch-pine-green-114cm",
+      "url": "https://arowonen.com/products/needle-branch-pine-green-114cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "KERST",
+        "X-Mas"
+      ],
+      "created_at": "2025-11-23T14:35:46+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-23T14:39:10+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56038175277388,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/zsrqwwbdu0xbostzgbpd_088047c7-d630-42ba-b8aa-881248a01966.png?v=1763905146",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/zsrqwwbdu0xbostzgbpd_088047c7-d630-42ba-b8aa-881248a01966.png?v=1763905146",
+      "description_html": "<p>Elevate your interior design with this lifelike artificial pine needle branch, standing at an impressive 114 cm. Crafted with meticulous attention to detail, it captures the natural beauty of fresh greenery without requiring maintenance. Perfect for creating sophisticated floral arrangements, filling empty corners, or adding depth to existing décor schemes. The verdant needle foliage brings warmth and organic texture to any space, whether displayed solo in a tall vase or combined with complementary stems for a fuller composition. An ideal solution for those seeking year-round botanical aesthetics with lasting durability.</p>"
+    },
+    {
+      "id": 14927832023372,
+      "title": "Tulip Branch - Peach - 71cm",
+      "handle": "tulip-branch-peach-71cm-1",
+      "url": "https://arowonen.com/products/tulip-branch-peach-71cm-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-06-10T17:30:45+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-06-10T17:31:16+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52728211636556,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Screenshot2025-06-10at17.30.05.png?v=1749569463",
+          "alt": null,
+          "width": 1944,
+          "height": 1774
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Screenshot2025-06-10at17.30.05.png?v=1749569463",
+      "description_html": "<p>Dutch as it gets, the tulip. This is what everyone thinks, but unfortunately this is not true. In fact, this oh so “Dutch” pride comes originally from Turkey. Sultans there wore a tulip on their turban. Can you feel it coming? The flower thus received the name tulipan.</p>"
+    },
+    {
+      "id": 14887042580812,
+      "title": "Tulip Mona - White - 71cm",
+      "handle": "tulip-mona-white-71cm-1",
+      "url": "https://arowonen.com/products/tulip-mona-white-71cm-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2025-05-17T14:24:30+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:24:57+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52572005433676,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/145898_ude4t9mathmjoo9s.png?v=1727003270",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/145898_ude4t9mathmjoo9s.png?v=1727003270",
+      "description_html": "<p>Dutch as it gets, the tulip. This is what everyone thinks, but unfortunately this is not true. In fact, this oh so “Dutch” pride comes originally from Turkey. Sultans there wore a tulip on their turban. Can you feel it coming? The flower thus received the name tulipan.</p>"
+    },
+    {
+      "id": 14887035797836,
+      "title": "Eucalyptus Branch - Green - 123cm",
+      "handle": "eucalyptus-branch-green-123cm",
+      "url": "https://arowonen.com/products/eucalyptus-branch-green-123cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T14:16:29+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:18:20+02:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571955036492,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121257.png?v=1747484259",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121257.png?v=1747484259",
+      "description_html": "<p>To Aborigines, the Eucalyptus has sacred significance. According to them, it represents the subdivision into underworld, earth and heaven. In the spiritual world, the Eucalyptus has a purifying meaning. Negative energies disappear if you burn a eucalyptus leaf on that spot.</p>"
+    },
+    {
+      "id": 14887031439692,
+      "title": "Rose Branch - Creme - 91cm",
+      "handle": "rose-branch-creme-91cm",
+      "url": "https://arowonen.com/products/rose-branch-creme-91cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS",
+        "VDAY"
+      ],
+      "created_at": "2025-05-17T14:09:00+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:09:34+02:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571913388364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156229_wlilkyuht6uhgwc0.png?v=1747483771",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156229_wlilkyuht6uhgwc0.png?v=1747483771",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. It is therefore not for nothing the most sold flower during Valentine's Day. The rose has extensive symbolism and varies by colour but also by number.  Meaning: love, affection, happiness and peace.</p>"
+    },
+    {
+      "id": 14887030784332,
+      "title": "Rose Branch - Peach - 91cm",
+      "handle": "rose-branch-peach-91cm",
+      "url": "https://arowonen.com/products/rose-branch-peach-91cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS",
+        "VDAY"
+      ],
+      "created_at": "2025-05-17T14:07:12+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:07:58+02:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571908964684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156230_psgjhnx3dfb0qvpi.png?v=1747483653",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156230_psgjhnx3dfb0qvpi.png?v=1747483653",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. It is therefore not for nothing the most sold flower during Valentine's Day. The rose has extensive symbolism and varies by colour but also by number.  Meaning: love, affection, happiness and peace.</p>"
+    },
+    {
+      "id": 14887030260044,
+      "title": "Rose Branch - Creme - 96cm",
+      "handle": "rose-branch-creme-96cm",
+      "url": "https://arowonen.com/products/rose-branch-creme-96cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS",
+        "VDAY"
+      ],
+      "created_at": "2025-05-17T14:05:41+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:06:50+02:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571904409932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156233_njybzb2cumfddhxk.png?v=1747483563",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/156233_njybzb2cumfddhxk.png?v=1747483563",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. It is therefore not for nothing the most sold flower during Valentine's Day. The rose has extensive symbolism and varies by colour but also by number.  Meaning: love, affection, happiness and peace.</p>"
+    },
+    {
+      "id": 14887029670220,
+      "title": "Chrysant Branch -  Orange - 76cm",
+      "handle": "chrysant-branch-orange-76cm",
+      "url": "https://arowonen.com/products/chrysant-branch-orange-76cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T14:04:33+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:05:11+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571901591884,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159077.png?v=1747483700",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159077-4.jpg?v=1747483700",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159077.png?v=1747483700",
+      "description_html": "<p>You either love them or find them incredibly boring; chrysanthemums. Fair is fair, this flower has a somewhat stuffy image. But maybe that's because we don't really know that the chrysanthemum is a versatile flower that works very well in bouquets. Meaning: happiness, health and honesty.</p>"
+    },
+    {
+      "id": 14887028425036,
+      "title": "Chrysant Branch -  Orange  Red - 76cm",
+      "handle": "chrysant-branch-orange-red-76cm",
+      "url": "https://arowonen.com/products/chrysant-branch-orange-red-76cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T14:02:07+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:03:41+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571893596492,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159078_1.png?v=1747483361",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159078-4.jpg?v=1747483360",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159078_1.png?v=1747483361",
+      "description_html": "<p>You either love them or find them incredibly boring; chrysanthemums. Fair is fair, this flower has a somewhat stuffy image. But maybe that's because we don't really know that the chrysanthemum is a versatile flower that works very well in bouquets. Meaning: happiness, health and honesty.</p>"
+    },
+    {
+      "id": 14887027573068,
+      "title": "Branch - Phalaenopsis  - Pink - 110cm",
+      "handle": "branch-phalaenopsis-pink-110cm",
+      "url": "https://arowonen.com/products/branch-phalaenopsis-pink-110cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T14:00:10+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T14:01:38+02:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571888484684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150824_etguuvbq9vxnpq0w_1.png?v=1747483232",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150824_etguuvbq9vxnpq0w_1.png?v=1747483232",
+      "description_html": "<p>Phalaenopsis, comes from the Greek “phalaina” (moth) and “opsis” (similar). And indeed, the flowers of the Phalaenopsis resemble flying moth butterflies. Because of this, the plant is also called butterfly orchid. The flowers come in purple, pink, salmon, white and yellow and often have a creative speckled or striped pattern.</p>"
+    },
+    {
+      "id": 14887024722252,
+      "title": "Hydrangea Branch - Purple - 115cm",
+      "handle": "hydrangea-branch-purple-115cm",
+      "url": "https://arowonen.com/products/hydrangea-branch-purple-115cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:54:40+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:55:52+02:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571866136908,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/152106_ejquigw25ckfglkp_1.png?v=1747482915",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/152106_ejquigw25ckfglkp_1.png?v=1747482915",
+      "description_html": "<p>Hydrangea is a popular flower and can be beautifully incorporated into bouquets. The flower is available in many colours: white, pink, red, blue and purple. Some hydrangeas are even multi-coloured. Besides the globular hydrangea, there is also one in a pointed shape. Meaning: surprising, understanding, impulsiveness mar also instability.</p>"
+    },
+    {
+      "id": 14887023444300,
+      "title": "Celastrus Branch - Orange - 109cm",
+      "handle": "celastrus-branch-orange-109cm",
+      "url": "https://arowonen.com/products/celastrus-branch-orange-109cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:51:49+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:53:40+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571857748300,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153000_rclyxf7ltsu6jnqv.png?v=1747482740",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153000_rclyxf7ltsu6jnqv.png?v=1747482740",
+      "description_html": null
+    },
+    {
+      "id": 14887022887244,
+      "title": "Physalis Branch - Orange - 145cm",
+      "handle": "physalis-branch-orange-145cm",
+      "url": "https://arowonen.com/products/physalis-branch-orange-145cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:50:17+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:51:39+02:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571853455692,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/155771_9sfpf6iaj5xpytn6_1.png?v=1747482658",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/155771_9sfpf6iaj5xpytn6_1.png?v=1747482658",
+      "description_html": "<p>Lampion plant (Physalis) is a genus of 75 to 90 species of plants in the nightshade family (Solanaceae). The botanical name Physalis means bladder, and is derived from the shape of the outgrown calyx of the true lantern plant (Physalis alkekengi) that encloses the fruit after flowering. The true lantern plant is the only representative of this genus in Europe; most of the other species are native to Mexico.</p>"
+    },
+    {
+      "id": 14887020626252,
+      "title": "Hydrangea Branch - Peach - 74cm",
+      "handle": "hydrangea-branch-peach-74cm",
+      "url": "https://arowonen.com/products/hydrangea-branch-peach-74cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:43:46+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:45:43+02:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571830223180,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/154952_2djhqkags1vwdebu.png?v=1747482287",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/154952_2djhqkags1vwdebu.png?v=1747482287",
+      "description_html": "<p><meta charset=\"utf-8\">Hydrangea is a popular flower and can be beautifully incorporated into bouquets. The flower is available in many colours: white, pink, red, blue and purple. Some hydrangeas are even multi-coloured. Besides the globular hydrangea, there is also one in a pointed shape. Meaning: surprising, understanding, impulsiveness mar also instability.<br></p>"
+    },
+    {
+      "id": 14887019282764,
+      "title": "Chrysant Branch -  Lavend Purple - 64cm",
+      "handle": "chrysant-branch-lavend-purple-64cm",
+      "url": "https://arowonen.com/products/chrysant-branch-lavend-purple-64cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:41:36+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:42:32+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571819475276,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157799_1.png?v=1747482128",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157799-4.jpg?v=1747482127",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157799_1.png?v=1747482128",
+      "description_html": "<p><meta charset=\"utf-8\">You either love them or find them incredibly boring; chrysanthemums. Fair is fair, this flower has a somewhat stuffy image. But maybe that's because we don't really know that the chrysanthemum is a versatile flower that works very well in bouquets. Meaning: Happiness, health and honesty.<br></p>"
+    },
+    {
+      "id": 14887017709900,
+      "title": "Chrysant Branch -  Lavend Creme  - 64cm",
+      "handle": "chrysant-branch-lavend-creme-64cm",
+      "url": "https://arowonen.com/products/chrysant-branch-lavend-creme-64cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:37:31+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:38:54+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571802927436,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157801.png?v=1747481891",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157801-4.jpg?v=1747481891",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157801.png?v=1747481891",
+      "description_html": "<p><meta charset=\"utf-8\">You either love them or find them incredibly boring; chrysanthemums. Fair is fair, this flower has a somewhat stuffy image. But maybe that's because we don't really know that the chrysanthemum is a versatile flower that works very well in bouquets. Meaning: Happiness, health and honesty.<br></p>"
+    },
+    {
+      "id": 14887017283916,
+      "title": "Chrysant Branch -  Orange brown - 64cm",
+      "handle": "chrysant-branch-orange-brown-64cm",
+      "url": "https://arowonen.com/products/chrysant-branch-orange-brown-64cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:36:13+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:37:08+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571799650636,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157803_1.png?v=1747481810",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157803-4.jpg?v=1747481809",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157803_1.png?v=1747481810",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">You either love them or find them incredibly boring; chrysanthemums. Fair is fair, this flower has a somewhat stuffy image. But maybe that's because we don't really know that the chrysanthemum is a versatile flower that works very well in bouquets. Meaning: Happiness, health and honesty.<br></p>"
+    },
+    {
+      "id": 14887016464716,
+      "title": "Eucalyptus Branch - Pink - 114cm",
+      "handle": "eucalyptus-branch-pink-114cm",
+      "url": "https://arowonen.com/products/eucalyptus-branch-pink-114cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:34:23+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:35:45+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571791917388,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159350_1.png?v=1747481718",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159350-4.jpg?v=1747481717",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/159350_1.png?v=1747481718",
+      "description_html": "<p>To Aborigines, the Eucalyptus has sacred significance. According to them, it represents the subdivision into underworld, earth and heaven. In the spiritual world, the Eucalyptus has a purifying meaning. Negative energies disappear if you burn a eucalyptus leaf on that spot.</p>"
+    },
+    {
+      "id": 14887015481676,
+      "title": "Hibiscus Branch - Orange - 84cm",
+      "handle": "hibiscus-branch-orange-84cm",
+      "url": "https://arowonen.com/products/hibiscus-branch-orange-84cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:31:43+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:34:00+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571785920844,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/146478_kkeicbreavoeovm7.png?v=1747481579",
+          "alt": null,
+          "width": 1082,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/146478_kkeicbreavoeovm7.png?v=1747481579",
+      "description_html": "<p>The hibiscus has shiny fresh green leaves and the flowers consist of 5 petals surrounded by 5 sepals. Hibiscus is a popular flower that stands out in a beautiful bouquet, in short, highly recommended. Meaning: rare beauty</p>"
+    },
+    {
+      "id": 14887013253452,
+      "title": "Lily Branch - Orange - 80cm",
+      "handle": "lily-branch-orange-80cm",
+      "url": "https://arowonen.com/products/lily-branch-orange-80cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T13:25:37+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T13:29:49+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571766260044,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157947_1.png?v=1747481271",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157947-4.jpg?v=1747481270",
+          "alt": null,
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/157947_1.png?v=1747481271",
+      "description_html": "<p>The Asian lily, the lilium, is the most common lily in the Netherlands. The large, trumpet-shaped flowers come in a wide range of colours, both single and multi-coloured. Well-known varieties are the white lily, the red lily and the Turkish lily. Meaning: Purity and happiness</p>"
+    },
+    {
+      "id": 14886906331468,
+      "title": "Tulip Branch - Pink - 71cm",
+      "handle": "tulip-branch-pink-71cm",
+      "url": "https://arowonen.com/products/tulip-branch-pink-71cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-05-17T11:53:26+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T11:54:20+02:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52571316453708,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tp8ncu8ffotstecwqiec.png?v=1747475642",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tp8ncu8ffotstecwqiec.png?v=1747475642",
+      "description_html": "<p>Dutch as it gets, the tulip. This is what everyone thinks, but unfortunately this is not true. In fact, this oh so “Dutch” pride comes originally from Turkey. Sultans there wore a tulip on their turban. Can you feel it coming? The flower thus received the name tulipan.</p>"
+    },
+    {
+      "id": 14690384838988,
+      "title": "Leaf Branch - Green - 173cm",
+      "handle": "leaf-branch-green-173cm",
+      "url": "https://arowonen.com/products/leaf-branch-green-173cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-02-02T14:36:49+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-02-02T14:37:32+01:00",
+      "available": true,
+      "price_min": 35,
+      "price_max": 35,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51897467797836,
+          "title": "Default Title",
+          "sku": null,
+          "price": "35.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CAE64154-BC88-46CF-B1E6-09112BA9A64B.png?v=1738503456",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CAE64154-BC88-46CF-B1E6-09112BA9A64B.png?v=1738503456",
+      "description_html": null
+    },
+    {
+      "id": 14679965368652,
+      "title": "Ficus - Green - 150cm",
+      "handle": "kopie-ficus-green-150cm",
+      "url": "https://arowonen.com/products/kopie-ficus-green-150cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T17:22:37+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T17:23:31+01:00",
+      "available": true,
+      "price_min": 339,
+      "price_max": 339,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51861616034124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "339.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7DC53590-8CDD-4031-B422-01954979C752.png?v=1737995014",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7DC53590-8CDD-4031-B422-01954979C752.png?v=1737995014",
+      "description_html": null
+    },
+    {
+      "id": 14679376789836,
+      "title": "Cymbidium Branch - Green - 93cm",
+      "handle": "cymbidium-branch-green-93cm",
+      "url": "https://arowonen.com/products/cymbidium-branch-green-93cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T13:47:37+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:49:02+01:00",
+      "available": true,
+      "price_min": 69,
+      "price_max": 69,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859745014092,
+          "title": "Default Title",
+          "sku": null,
+          "price": "69.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/138367.png?v=1763906711",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/138367.png?v=1763906711",
+      "description_html": "<p>One of the reasons it is a favorite flower of yours is because of its beautiful meaning. Because in China, the Cymbidium has been a symbol of valued and respected friendship for centuries. The flower is also considered with us as a special gift between friends and girlfriends. There are also varieties that give off a delicate, sweet fragrance. The Chinese sage Confusius described that scent as “the king of fragrances. Meaning: valued and respected friendship</p>"
+    },
+    {
+      "id": 14679365910860,
+      "title": "Magnolia Branch - Mystic Mauve  - 138cm",
+      "handle": "kopie-magnolia-branch-mystic-mauve-138cm",
+      "url": "https://arowonen.com/products/kopie-magnolia-branch-mystic-mauve-138cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T13:41:19+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:45:28+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 59,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859702382924,
+          "title": "Default Title",
+          "sku": null,
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9AB3AEE7-9B40-45D8-BB9F-8F419FE27AB2.png?v=1737981933",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9AB3AEE7-9B40-45D8-BB9F-8F419FE27AB2.png?v=1737981933",
+      "description_html": "<p>Magnolia is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 14679359127884,
+      "title": "Palm Stem - Baoase - 225cm",
+      "handle": "palm-stem-baoase-225cm",
+      "url": "https://arowonen.com/products/palm-stem-baoase-225cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T13:37:08+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:37:52+01:00",
+      "available": false,
+      "price_min": 99,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859669156172,
+          "title": "Default Title",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": false,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/559B76A0-BBA0-4D73-AF69-E5B705CAE981.png?v=1737981475",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/559B76A0-BBA0-4D73-AF69-E5B705CAE981.png?v=1737981475",
+      "description_html": null
+    },
+    {
+      "id": 14679312957772,
+      "title": "Magnolia Branch - Mystic Mauve  - 103cm",
+      "handle": "magnolia-branch-mystic-mauve-103cm",
+      "url": "https://arowonen.com/products/magnolia-branch-mystic-mauve-103cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T13:14:00+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:14:46+01:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859457868108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9435AD0C-1219-4774-8BE7-8AC00F8937DA.png?v=1737980089",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9435AD0C-1219-4774-8BE7-8AC00F8937DA.png?v=1737980089",
+      "description_html": "<p>Magnolia is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 14679308730700,
+      "title": "Blossom Branch - Pink Paradise - 84cm",
+      "handle": "blossom-branch-pink-paradise-84cm",
+      "url": "https://arowonen.com/products/blossom-branch-pink-paradise-84cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T13:08:23+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:09:58+01:00",
+      "available": true,
+      "price_min": 20,
+      "price_max": 20,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859407929676,
+          "title": "Default Title",
+          "sku": null,
+          "price": "20.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/43668EE5-5234-4CFE-8F60-B019703804BF.png?v=1737979797",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/43668EE5-5234-4CFE-8F60-B019703804BF.png?v=1737979797",
+      "description_html": "<p data-mce-fragment=\"1\">Each blossom on this branch carries a soft pink hue, reminiscent of a blissful paradise. The gentle, pastel tones of the petals seem to whisper tales of springtime and renewal, evoking feelings of warmth and joy in those who behold them.</p>"
+    },
+    {
+      "id": 14679298736460,
+      "title": "Branch - Anthurium - Red - 81cm",
+      "handle": "branch-anthurium-red-81cm",
+      "url": "https://arowonen.com/products/branch-anthurium-red-81cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T12:59:30+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:01:02+01:00",
+      "available": false,
+      "price_min": 22.95,
+      "price_max": 22.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859316736332,
+          "title": "Default Title",
+          "sku": null,
+          "price": "22.95",
+          "compare_at_price": null,
+          "available": false,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/B3252F2C-D9A1-4EE2-82B6-7368F8B0EE41.png?v=1737979267",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/B3252F2C-D9A1-4EE2-82B6-7368F8B0EE41.png?v=1737979267",
+      "description_html": "<div class=\"product-info-main__description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description-description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<br data-mce-fragment=\"1\"><br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14679293788492,
+      "title": "Gladiolus Stem - Soft Pink - 101cm",
+      "handle": "kopie-gladiolus-stem-soft-pink-101cm",
+      "url": "https://arowonen.com/products/kopie-gladiolus-stem-soft-pink-101cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-27T12:54:42+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T12:55:41+01:00",
+      "available": false,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51859276824908,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": false,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AFF12489-D753-421F-8A59-4E1BFC6906E4.png?v=1737978945",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AFF12489-D753-421F-8A59-4E1BFC6906E4.png?v=1737978945",
+      "description_html": "<p>The gladiolus is unmistakable thanks to its long stems and double row of flowers, there is not one like it. Not for nothing, then, do you see this flower in our bouquets Meaning: strength, victory and pride</p>"
+    },
+    {
+      "id": 14675335545164,
+      "title": "Rose Branch - Dali Pink - 69cm",
+      "handle": "rose-branch-dali-pink-69cm",
+      "url": "https://arowonen.com/products/rose-branch-dali-pink-69cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS",
+        "VDAY"
+      ],
+      "created_at": "2025-01-24T16:14:36+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-24T16:15:58+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51843908010316,
+          "title": "Default Title",
+          "sku": "",
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/31395522-316B-4953-BA11-9E7021B95B4B.png?v=1737731757",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/31395522-316B-4953-BA11-9E7021B95B4B.png?v=1737731757",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. Therefore, it is not for nothing the most sold flower during Valentine's Day. The rose has an extensive symbolism and differs by color but also by number.  Meaning: love, affection, happiness and peace</p>"
+    },
+    {
+      "id": 14675317948748,
+      "title": "Moss Branch - Twig - 142cm",
+      "handle": "moss-branch-twig-142cm",
+      "url": "https://arowonen.com/products/moss-branch-twig-142cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-24T16:05:33+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-24T16:07:04+01:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51843856204108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3BA2F039-E190-4A59-85A1-733EDC324898.png?v=1737731220",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3BA2F039-E190-4A59-85A1-733EDC324898.png?v=1737731220",
+      "description_html": null
+    },
+    {
+      "id": 14675239371084,
+      "title": "Blossom Branch - Soft Pink Mirage - 109cm",
+      "handle": "blossom-branch-soft-pink-mirage-109cm",
+      "url": "https://arowonen.com/products/blossom-branch-soft-pink-mirage-109cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-24T15:27:21+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-24T15:28:01+01:00",
+      "available": true,
+      "price_min": 25,
+      "price_max": 25,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51843620569420,
+          "title": "Default Title",
+          "sku": null,
+          "price": "25.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6BEA3DE0-7D35-4F68-9533-95522C3BFC2E.png?v=1778417304",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6BEA3DE0-7D35-4F68-9533-95522C3BFC2E.png?v=1778417304",
+      "description_html": "Blossom, of course, represents spring, new beginnings and growth. The cherry blossom has extra meaning in Japan. Here this type of blossom, sakura, stands for life and that we cannot control it. Weather conditions, in the case of the blossom literally and in the case of a human life figuratively, determine the length of the blooming period. Some types of blossoms will shine for a shorter time than others and it is very important to enjoy the blooming period to the fullest. Meaning: happiness, beauty<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 14675224592716,
+      "title": "Blossom Branch - White Paradise - 127cm",
+      "handle": "blossom-branch-white-paradise-127cm",
+      "url": "https://arowonen.com/products/blossom-branch-white-paradise-127cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-24T15:19:59+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-24T15:22:09+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 59,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51843584950604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121582.png?v=1769004945",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121582.png?v=1769004945",
+      "description_html": "<p>Each delicate blossom adorning the branch boasts a pristine white hue, evoking visions of a serene paradise where purity reigns supreme. The petals, like delicate whispers of silk, unfurl gracefully to reveal a heart of subtle beauty and understated splendor.</p>"
+    },
+    {
+      "id": 14675201851724,
+      "title": "Clematis Branch - Serenity Blue - 114cm",
+      "handle": "clematis-branch-serenity-blue-114cm",
+      "url": "https://arowonen.com/products/clematis-branch-serenity-blue-114cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-01-24T15:11:03+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-24T15:12:30+01:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51843521249612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0164.png?v=1737727929",
+          "alt": null,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0164.png?v=1737727929",
+      "description_html": "<p>The clematis has become the well-known star among climbing plants. Available in many varieties and colors, the clematis is characterized by its star-shaped flowers. Meaning: Inner beauty</p>"
+    },
+    {
+      "id": 14663621411148,
+      "title": "Rose Pandora - Soft Pink - 38cm",
+      "handle": "rose-pandora-soft-pink-38cm",
+      "url": "https://arowonen.com/products/rose-pandora-soft-pink-38cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "RAMADAN GIFTS",
+        "VDAY"
+      ],
+      "created_at": "2025-01-19T16:12:13+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T16:13:24+01:00",
+      "available": true,
+      "price_min": 14.95,
+      "price_max": 14.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51807556469068,
+          "title": "Default Title",
+          "sku": null,
+          "price": "14.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6112.heic?v=1778417606",
+          "alt": null,
+          "width": 4032,
+          "height": 3024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/11c9a92b-7f51-4649-974a-5a2f36294db5.jpg?v=1737299597",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6112.heic?v=1778417606",
+      "description_html": "<div class=\"product-info-main__description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description-description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">The rose has been the flower of love and romance for centuries. It is therefore not without reason that it is the most sold flower during Valentine's Day. The rose has extensive symbolism and differs per color but also per number.  Meaning: Love, affection, happiness and peace</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n</div>\n</div>\n<br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 9339915174220,
+      "title": "Cordyline Stem - Burgundy Red - 100cm",
+      "handle": "cordyline-stem-burgundy-red-100cm",
+      "url": "https://arowonen.com/products/cordyline-stem-burgundy-red-100cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-11-24T14:19:14+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:10:59+01:00",
+      "available": true,
+      "price_min": 45,
+      "price_max": 45,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 49098370416972,
+          "title": "Default Title",
+          "sku": "",
+          "price": "45.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153552_ifkrcp6l45sddwpp.png?v=1732454371",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153552_ifkrcp6l45sddwpp.png?v=1732454371",
+      "description_html": null
+    },
+    {
+      "id": 9339907244364,
+      "title": "Kentia Palm - Green - 220cm",
+      "handle": "kentia-palm-green-220cm",
+      "url": "https://arowonen.com/products/kentia-palm-green-220cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-11-24T14:01:13+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-26T13:46:17+01:00",
+      "available": true,
+      "price_min": 899,
+      "price_max": 899,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 49098304061772,
+          "title": "Default Title",
+          "sku": "",
+          "price": "899.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/126404.png?v=1732453315",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/126404.png?v=1732453315",
+      "description_html": "<p>Palms usually have a sham stem. The plants develop a single stem with a single growing point. The stem consists of stacked leaf bases and contains no bark. This also prevents the plant from growing in thickness like real trees. The leaf surface is often shiny and covered with wax, or folded</p>"
+    },
+    {
+      "id": 9255087472972,
+      "title": "Plant - Fishtail - H152cm",
+      "handle": "plant-fishtail-h152cm",
+      "url": "https://arowonen.com/products/plant-fishtail-h152cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T13:27:45+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-02-02T14:30:43+01:00",
+      "available": true,
+      "price_min": 189,
+      "price_max": 189,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754599493964,
+          "title": "Default Title",
+          "sku": "",
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/144732.png?v=1727004483",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/144732-3.jpg?v=1727004482",
+          "alt": null,
+          "width": 675,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/144732.png?v=1727004483",
+      "description_html": "<p>Palms usually have a sham stem. The plants develop a single stem with a single growing point. The stem consists of stacked leaf bases and contains no bark. This also prevents the plant from growing in thickness like real trees. The leaf surface is often glossy and covered with wax, or pleated</p>"
+    },
+    {
+      "id": 9255083114828,
+      "title": "Plant - Alocasia - H91cm",
+      "handle": "plant-alocasia-h91cm",
+      "url": "https://arowonen.com/products/plant-alocasia-h91cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T13:20:57+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-02-02T12:42:37+01:00",
+      "available": true,
+      "price_min": 275,
+      "price_max": 275,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754581963084,
+          "title": "Default Title",
+          "sku": "",
+          "price": "275.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120099.png?v=1727004075",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120099-3.jpg?v=1727004074",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120099.png?v=1727004075",
+      "description_html": null
+    },
+    {
+      "id": 9255078789452,
+      "title": "Branch - Magnolia - Green - 99cm",
+      "handle": "branch-magnolia-green-99cm",
+      "url": "https://arowonen.com/products/branch-magnolia-green-99cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T13:12:37+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T14:38:13+01:00",
+      "available": true,
+      "price_min": 55,
+      "price_max": 55,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754572230988,
+          "title": "Default Title",
+          "sku": null,
+          "price": "55.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/147014_aeuslmaltjcoy5rb.png?v=1727003570",
+          "alt": null,
+          "width": 1082,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/147014_aeuslmaltjcoy5rb.png?v=1727003570",
+      "description_html": "<p>Magnolia (Dutch name beaver tree) is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 9255077806412,
+      "title": "Lemon Branch - Symphony - 124cm",
+      "handle": "lemon-branch-symphony-124cm",
+      "url": "https://arowonen.com/products/lemon-branch-symphony-124cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-09-22T13:10:58+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T14:25:48+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 59,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754569052492,
+          "title": "Default Title",
+          "sku": "",
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143551.png?v=1727003472",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143551.png?v=1727003472",
+      "description_html": "<p>The lemon (Citrus limon) is the yellow citrus fruit of the lemon tree. The fruit color is variable, with variety and the amount of shade being particularly influential. A variety that usually produces yellow lemons will produce green fruit in shade, even when mature.</p>"
+    },
+    {
+      "id": 9255076495692,
+      "title": "Mandevilla Branch - Blue - 114cm",
+      "handle": "mandevilla-branch-blue-114cm",
+      "url": "https://arowonen.com/products/mandevilla-branch-blue-114cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-09-22T13:08:36+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-12-15T12:25:11+01:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754561614156,
+          "title": "Default Title",
+          "sku": "",
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/136315.png?v=1727003329",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/136315.png?v=1727003329",
+      "description_html": "<p>Sundaville (Mandevilla or Dipladenia) is a great climbing plant for a planter on the patio or balcony. This climbing plant, originally from Central and South America blooms all summer with fantastic, trumpet-shaped flowers, in shades of white, pink and bright red.</p>"
+    },
+    {
+      "id": 9255075086668,
+      "title": "Branch - Fishtail - Green - 130cm",
+      "handle": "branch-fishtail-green-130cm",
+      "url": "https://arowonen.com/products/branch-fishtail-green-130cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T13:06:03+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:58:53+01:00",
+      "available": true,
+      "price_min": 65,
+      "price_max": 65,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754554896716,
+          "title": "Default Title",
+          "sku": null,
+          "price": "65.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150514.png?v=1727003178",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150514.png?v=1727003178",
+      "description_html": "<p>Palms usually have a sham stem. The plants develop a single stem with a single growing point. The stem consists of stacked leaf bases and contains no bark. This also prevents the plant from growing in thickness like real trees. The leaf surface is often glossy and covered with wax, or pleated</p>"
+    },
+    {
+      "id": 9255069974860,
+      "title": "Branch - Peony - Pink - 52cm",
+      "handle": "branch-peony-creme-52cm-copy",
+      "url": "https://arowonen.com/products/branch-peony-creme-52cm-copy",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:55:52+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-02-02T14:59:45+01:00",
+      "available": true,
+      "price_min": 20,
+      "price_max": 20,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754531434828,
+          "title": "Default Title",
+          "sku": "",
+          "price": "20.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149202.png?v=1727002564",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149202.png?v=1727002564",
+      "description_html": "<p>The peony: from ugly duckling to beautiful swan. Few plants conjure up such impressive flowers as the peony. The peony in bud is actually just an ugly duckling. Once flowering begins, however, it is as if an explosion takes place: in no time, an incredible amount of delicate leaves emerge. Significance: happy life and health</p>"
+    },
+    {
+      "id": 9255069352268,
+      "title": "Branch - Peony - Creme - 52cm",
+      "handle": "branch-peony-creme-52cm",
+      "url": "https://arowonen.com/products/branch-peony-creme-52cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:55:02+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:53:30+01:00",
+      "available": true,
+      "price_min": 20,
+      "price_max": 20,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754527633740,
+          "title": "Default Title",
+          "sku": null,
+          "price": "20.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149203.png?v=1727002521",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149203.png?v=1727002521",
+      "description_html": "<p>The peony: from ugly duckling to beautiful swan. Few plants conjure up such impressive flowers as the peony. The peony in bud is actually just an ugly duckling. Once flowering begins, however, it is as if an explosion takes place: in no time, an incredible amount of delicate leaves emerge. Significance: happy life and health</p>"
+    },
+    {
+      "id": 9255068795212,
+      "title": "Branch - Peony - Creme - 57cm",
+      "handle": "branch-peony-creme-57cm",
+      "url": "https://arowonen.com/products/branch-peony-creme-57cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:53:43+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:53:46+01:00",
+      "available": true,
+      "price_min": 25,
+      "price_max": 25,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754526257484,
+          "title": "Default Title",
+          "sku": null,
+          "price": "25.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149235.png?v=1727002458",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149235.png?v=1727002458",
+      "description_html": "<p>The peony: from ugly duckling to beautiful swan. Few plants conjure up such impressive flowers as the peony. The peony in bud is actually just an ugly duckling. Once flowering begins, however, it is as if an explosion takes place: in no time, an incredible amount of delicate leaves emerge. Significance: happy life and health</p>"
+    },
+    {
+      "id": 9255068172620,
+      "title": "Branch - Hydrangea - Creme - 48cm",
+      "handle": "branch-hortensia-creme-48cm",
+      "url": "https://arowonen.com/products/branch-hortensia-creme-48cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:52:47+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-05-17T12:16:13+02:00",
+      "available": true,
+      "price_min": 15,
+      "price_max": 15,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754520752460,
+          "title": "Default Title",
+          "sku": null,
+          "price": "15.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153829_nbmtb6u5lojohl5c.png?v=1727002381",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/153829_nbmtb6u5lojohl5c.png?v=1727002381",
+      "description_html": "<p>Hydrangea is a popular flower and can be beautifully incorporated into bouquets. The flower comes in many colors: white, pink, red, blue and purple. Some hydrangeas are even multi-colored. Besides the globular hydrangea, there is also one in point shape. Meaning: surprising, understanding, impulsiveness mar also instability</p>"
+    },
+    {
+      "id": 9255067681100,
+      "title": "Branch - Rose - Sunset - 59cm",
+      "handle": "branch-rose-sunset-59cm",
+      "url": "https://arowonen.com/products/branch-rose-sunset-59cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "VDAY"
+      ],
+      "created_at": "2024-09-22T12:51:38+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:59:26+01:00",
+      "available": true,
+      "price_min": 19,
+      "price_max": 19,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754517475660,
+          "title": "Default Title",
+          "sku": null,
+          "price": "19.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149210.png?v=1727002310",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149210.png?v=1727002310",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. Therefore, it is not for nothing the most sold flower during Valentine's Day. The rose has an extensive symbolism and differs by color but also by number.  Meaning: love, affection, happiness and peace</p>"
+    },
+    {
+      "id": 9255065125196,
+      "title": "Lily Branch - Lavend Oasis - 132cm",
+      "handle": "lily-branch-lavend-oasis-132cm",
+      "url": "https://arowonen.com/products/lily-branch-lavend-oasis-132cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:45:29+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:45:48+01:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754506236236,
+          "title": "Default Title",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/151050.png?v=1727001942",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/151050.png?v=1727001942",
+      "description_html": "<p>The Asiatic lily, the lilium, is the most common lily in the Netherlands. The large, trumpet-shaped flowers come in a wide range of colors, both single and multi-colored. Well-known varieties are the white lily, the red lily and the Turkish lily. Meaning: purity and happiness</p>"
+    },
+    {
+      "id": 9255064699212,
+      "title": "Lemon Branch - Symphony - 92cm",
+      "handle": "lemon-branch-symphony-92cm",
+      "url": "https://arowonen.com/products/lemon-branch-symphony-92cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:44:24+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:51:26+01:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754502107468,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143547.png?v=1727001878",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143547.png?v=1727001878",
+      "description_html": "<p>The lemon (Citrus limon) is the yellow citrus fruit of the lemon tree. The fruit color is variable, with variety and the amount of shade being particularly influential. A variety that usually produces yellow lemons will produce green fruit in shade, even when mature.</p>"
+    },
+    {
+      "id": 9255063912780,
+      "title": "Gladiolus Stem - Pink - 101cm",
+      "handle": "gladiolus-stem-pink-101cm",
+      "url": "https://arowonen.com/products/gladiolus-stem-pink-101cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:43:04+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:50:00+01:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754500010316,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150450.png?v=1727001798",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/150450.png?v=1727001798",
+      "description_html": "<p>The gladiolus is unmistakable thanks to its long stems and double row of flowers, there is not one like it. Not for nothing, then, do you see this flower in our bouquets Meaning: strength, victory and pride</p>"
+    },
+    {
+      "id": 9255061258572,
+      "title": "Magnolia Branch - Mystic Cream  - 138cm",
+      "handle": "magnolia-branch-mystic-cream-138cm",
+      "url": "https://arowonen.com/products/magnolia-branch-mystic-cream-138cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-09-22T12:36:59+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T12:53:40+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 59,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754488246604,
+          "title": "Default Title",
+          "sku": "",
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149096.png?v=1727001455",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149096.png?v=1727001455",
+      "description_html": "<p>Magnolia is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 9255060799820,
+      "title": "Branch - Hydrangea - Green - 86cm",
+      "handle": "branch-hortensia-green-86cm",
+      "url": "https://arowonen.com/products/branch-hortensia-green-86cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:35:37+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T16:09:01+01:00",
+      "available": true,
+      "price_min": 65,
+      "price_max": 65,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754486378828,
+          "title": "Default Title",
+          "sku": null,
+          "price": "65.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sbuihlkzcz0nxngubz9c.png?v=1737299319",
+          "alt": null,
+          "width": 646,
+          "height": 566
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sbuihlkzcz0nxngubz9c.png?v=1737299319",
+      "description_html": "<p>Hydrangea is a popular flower and can be beautifully incorporated into bouquets. The flower comes in many colors: white, pink, red, blue and purple. Some hydrangeas are even multi-colored. Besides the globular hydrangea, there is also one in point shape. Meaning: surprising, understanding, impulsiveness mar also instability</p>"
+    },
+    {
+      "id": 9255058735436,
+      "title": "Branch - Rose - Fuchsia - 56cm",
+      "handle": "branch-rose-fuchsia-56cm-1",
+      "url": "https://arowonen.com/products/branch-rose-fuchsia-56cm-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "VDAY"
+      ],
+      "created_at": "2024-09-22T12:31:19+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:43:13+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754478514508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/142704.png?v=1727001109",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/142704.png?v=1727001109",
+      "description_html": "<p>For centuries, the rose has been the flower of love and romance. Therefore, it is not for nothing the most sold flower during Valentine's Day. The rose has an extensive symbolism and differs by color but also by number.  Meaning: love, affection, happiness and peace</p>"
+    },
+    {
+      "id": 9255058014540,
+      "title": "Lily Branch - Soft Pink - 113cm",
+      "handle": "lilly-branch-soft-pink-113cm",
+      "url": "https://arowonen.com/products/lilly-branch-soft-pink-113cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-09-22T12:29:34+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:46:44+01:00",
+      "available": true,
+      "price_min": 25,
+      "price_max": 25,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754476220748,
+          "title": "Default Title",
+          "sku": null,
+          "price": "25.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143172.png?v=1727000998",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143172.png?v=1727000998",
+      "description_html": "<p>The Asiatic lily, the lilium, is the most common lily in the Netherlands. The large, trumpet-shaped flowers come in a wide range of colors, both single and multi-colored. Well-known varieties are the white lily, the red lily and the Turkish lily. Meaning: purity and happiness</p>"
+    },
+    {
+      "id": 9255056441676,
+      "title": "Magnolia Branch - Lavend - 184cm",
+      "handle": "magnolia-branch-lavend-184cm",
+      "url": "https://arowonen.com/products/magnolia-branch-lavend-184cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-09-22T12:26:11+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T17:01:46+01:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48754472354124,
+          "title": "Default Title",
+          "sku": "",
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143517.png?v=1727000822",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143517.png?v=1727000822",
+      "description_html": "<p>Magnolia is the name of the type genus of the Magnolia family (Magnoliaceae).  Magnolias have undifferentiated petals: the flowers have a flower cover consisting of flower petals (tepals).</p>"
+    },
+    {
+      "id": 8967114293580,
+      "title": "Fern Branch - Orange - 108cm",
+      "handle": "fern-branch-orange-108cm",
+      "url": "https://arowonen.com/products/fern-branch-orange-108cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-04-13T12:35:59+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-03-29T13:04:34+01:00",
+      "available": true,
+      "price_min": 15,
+      "price_max": 15,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47994831995212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "15.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/148376.png?v=1713004589",
+          "alt": null,
+          "width": 1389,
+          "height": 1152
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/148376.png?v=1713004589",
+      "description_html": "<div class=\"product-info-main__description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description-description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">Before he drowned, he threw the flowers quickly at his maiden and shouted, \"Don't forget me.\" Forget-me-not has a strong symbolic value. The flower represents fidelity and infinite love. The garden bloomer easily spreads itself in your garden, you just come across the flowers again the following year. Meaning: sincerity</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n<div class=\"product-info-main__specification  with-description\" data-mce-fragment=\"1\"></div>\n<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 8967105937740,
+      "title": "Leaf Branch - Green  - 99cm",
+      "handle": "leaf-branch-green-99cm",
+      "url": "https://arowonen.com/products/leaf-branch-green-99cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-04-13T12:29:37+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:52:21+01:00",
+      "available": true,
+      "price_min": 14.95,
+      "price_max": 14.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47994808074572,
+          "title": "Default Title",
+          "sku": null,
+          "price": "14.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/139407_8ljjwo5ihu55ygtp.png?v=1713004207",
+          "alt": null,
+          "width": 1389,
+          "height": 1152
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/139407_8ljjwo5ihu55ygtp.png?v=1713004207",
+      "description_html": "Leaf Branch - Green - 99cm"
+    },
+    {
+      "id": 8967102202188,
+      "title": "Berry Branch - Achéne Orange - 133cm",
+      "handle": "berry-branch-achene-orange-133cm",
+      "url": "https://arowonen.com/products/berry-branch-achene-orange-133cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "KERST",
+        "X-Mas"
+      ],
+      "created_at": "2024-04-13T12:25:47+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-11-23T14:40:26+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47994787660108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/133717.png?v=1713003969",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/133717.png?v=1713003969",
+      "description_html": "<div class=\"product-info-main__description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description-description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">Truly an autumn article a nice addition to any bouquet</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n</div>\n</div>\n<br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 8965409800524,
+      "title": "Blossom Branch - Soft Pink Paradise - 127cm",
+      "handle": "blossom-branch-soft-pink-paradise-127cm",
+      "url": "https://arowonen.com/products/blossom-branch-soft-pink-paradise-127cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES"
+      ],
+      "created_at": "2024-04-12T17:39:13+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T14:28:59+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 59,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47987074629964,
+          "title": "Default Title",
+          "sku": "",
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121581.png?v=1712936606",
+          "alt": null,
+          "width": 1389,
+          "height": 1152
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121581.png?v=1712936606",
+      "description_html": "Blossom, of course, represents spring, new beginnings and growth. The cherry blossom has extra meaning in Japan. Here this type of blossom, sakura, stands for life and that we cannot control it. Weather conditions, in the case of the blossom literally and in the case of a human life figuratively, determine the length of the blooming period. Some types of blossoms will shine for a shorter time than others and it is very important to enjoy the blooming period to the fullest. Meaning: happiness, beauty<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 8946752192844,
+      "title": "Maple Branch - Serine Yellow - 119cm",
+      "handle": "maple-branch-serine-yellow-119cm",
+      "url": "https://arowonen.com/products/maple-branch-serine-yellow-119cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2024-04-02T17:17:10+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-27T13:03:35+01:00",
+      "available": true,
+      "price_min": 55,
+      "price_max": 55,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47922156044620,
+          "title": "Default Title",
+          "sku": "",
+          "price": "55.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143033.png?v=1713003569",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ESDOORNTAKGEEL.jpg?v=1713003568",
+          "alt": null,
+          "width": 1368,
+          "height": 1992
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/143033.png?v=1713003569",
+      "description_html": "<p>Maple or maple (Acer) is a genus of deciduous trees and shrubs. The double fruit is sometimes called 'helicopter'.</p>\n<p> </p>"
+    },
+    {
+      "id": 8946728730956,
+      "title": "Leaf Branch - Fern Green - 138cm",
+      "handle": "leaf-branch-fern-green-138cm",
+      "url": "https://arowonen.com/products/leaf-branch-fern-green-138cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-04-02T16:59:31+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T15:03:51+01:00",
+      "available": true,
+      "price_min": 49,
+      "price_max": 49,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47922104533324,
+          "title": "Default Title",
+          "sku": null,
+          "price": "49.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149408.png?v=1713003643",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PALMTAKGROEN.jpg?v=1713003642",
+          "alt": null,
+          "width": 1600,
+          "height": 1975
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/149408.png?v=1713003643",
+      "description_html": "Leaf Branch - Fern Green - 138cm"
+    },
+    {
+      "id": 8946705432908,
+      "title": "Strelitzia Stem - Orange - 95 cm",
+      "handle": "strelitzia-stem-orange-95-cm",
+      "url": "https://arowonen.com/products/strelitzia-stem-orange-95-cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-04-02T16:46:14+02:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-02-02T14:59:04+01:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47922042732876,
+          "title": "Default Title",
+          "sku": "",
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121068_96219b1f-1fe0-408a-9fb9-ec93bb11c5a4.png?v=1713003687",
+          "alt": null,
+          "width": 1085,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STRELITZIASTEELORANJE_1.jpg?v=1713003685",
+          "alt": null,
+          "width": 1600,
+          "height": 2183
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/boeketgeel_2_716af4ba-4121-4056-85c8-0e3c43da2a07.jpg?v=1713003685",
+          "alt": null,
+          "width": 1600,
+          "height": 2073
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/121068_96219b1f-1fe0-408a-9fb9-ec93bb11c5a4.png?v=1713003687",
+      "description_html": "The Strelitzia is also called the 'bird of paradise flower'. That is not surprising, because in the warm places where it grows, the birds use the bract as a perch so that the flower opens. This flower does well in striking bouquets, but also likes to shine in a vase for three or four at your home. Meaning: FREEDOM, IMMORTALITY."
+    },
+    {
+      "id": 8913237410124,
+      "title": "Blossom Branch - White Paradise - 84cm",
+      "handle": "blossom-branch-white-paradise-84cm",
+      "url": "https://arowonen.com/products/blossom-branch-white-paradise-84cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-15T15:29:26+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T14:21:12+01:00",
+      "available": true,
+      "price_min": 20,
+      "price_max": 20,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47832353145164,
+          "title": "Default Title",
+          "sku": null,
+          "price": "20.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-104_b9159add-0131-4b69-b2fc-5b57612c0127.jpg?v=1710513088",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-28-kopie-3.jpg?v=1710513088",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-29-kopie.jpg?v=1710513088",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-104_b9159add-0131-4b69-b2fc-5b57612c0127.jpg?v=1710513088",
+      "description_html": "<p>Each delicate blossom adorning the branch boasts a pristine white hue, evoking visions of a serene paradise where purity reigns supreme. The petals, like delicate whispers of silk, unfurl gracefully to reveal a heart of subtle beauty and understated splendor.</p>"
+    },
+    {
+      "id": 8913056497996,
+      "title": "Blossom Branch - Soft Pink Paradise - 84cm",
+      "handle": "blossom-branch-soft-pink-paradise-84cm",
+      "url": "https://arowonen.com/products/blossom-branch-soft-pink-paradise-84cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-15T13:44:03+01:00",
+      "updated_at": "2026-05-22T17:59:12+02:00",
+      "published_at": "2025-01-19T13:56:40+01:00",
+      "available": true,
+      "price_min": 20,
+      "price_max": 20,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47831982244172,
+          "title": "Default Title",
+          "sku": "",
+          "price": "20.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia1.jpg?v=1710506648",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia0.jpg?v=1710506646",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia4.jpg?v=1710506646",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia3.jpg?v=1710506647",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia2.jpg?v=1710506647",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Delia1.jpg?v=1710506648",
+      "description_html": "<p data-mce-fragment=\"1\">Each blossom on this branch carries a soft pink hue, reminiscent of a blissful paradise. The gentle, pastel tones of the petals seem to whisper tales of springtime and renewal, evoking feelings of warmth and joy in those who behold them.</p>"
+    }
+  ]
+}

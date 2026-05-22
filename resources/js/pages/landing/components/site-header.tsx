@@ -5,19 +5,178 @@ import MegaMenu from '@/components/storefront/mega-menu';
 import PreviewBanner from '@/components/storefront/preview-banner';
 import SearchOverlay from '@/components/storefront/search-overlay';
 import { useCart } from '@/context/CartContext';
-import { CATEGORIES } from '@/data/categories';
-import { MAIN_NAV } from '@/data/navigation';
+import {
+    MAIN_NAV,
+    hasDropdown,
+    navItemHref,
+    navLinkHref,
+    type StorefrontNavItem,
+} from '@/data/navigation';
 import { home, login } from '@/routes';
 
 const navItems = MAIN_NAV;
 
-// Breakpoint for mobile (matches CSS media query below)
 const MOBILE_BREAKPOINT = 768;
+
+function MobileNavSection({
+    item,
+    onNavigate,
+}: {
+    item: StorefrontNavItem;
+    onNavigate: () => void;
+}) {
+    const [expanded, setExpanded] = useState(false);
+    const dropdown = hasDropdown(item);
+
+    if (!dropdown) {
+        return (
+            <Link
+                href={navItemHref(item)}
+                onClick={onNavigate}
+                style={mobileLinkStyle}
+            >
+                {item.label}
+            </Link>
+        );
+    }
+
+    return (
+        <div>
+            <button
+                type="button"
+                onClick={() => setExpanded((v) => !v)}
+                style={mobileToggleStyle}
+            >
+                {item.label}
+                <Chevron expanded={expanded} />
+            </button>
+            {expanded && (
+                <div style={{ background: '#f9f9f7' }}>
+                    {item.columns?.map((column) => (
+                        <div key={column.title ?? column.links[0]?.handle}>
+                            {column.title && (
+                                <p style={mobileGroupHeadingStyle}>{column.title}</p>
+                            )}
+                            {column.links.map((entry) => (
+                                <Link
+                                    key={`${entry.handle}-${entry.label}`}
+                                    href={navLinkHref(entry)}
+                                    onClick={onNavigate}
+                                    style={mobileChildStyle}
+                                >
+                                    {entry.label}
+                                </Link>
+                            ))}
+                        </div>
+                    ))}
+
+                    {item.links && !item.columns &&
+                        item.links.map((entry) => (
+                            <Link
+                                key={entry.handle}
+                                href={navLinkHref(entry)}
+                                onClick={onNavigate}
+                                style={mobileChildStyle}
+                            >
+                                {entry.label}
+                            </Link>
+                        ))}
+
+                    {item.handle && (
+                        <Link
+                            href={navItemHref(item)}
+                            onClick={onNavigate}
+                            style={{ ...mobileChildStyle, fontWeight: 500, color: '#060606' }}
+                        >
+                            Browse all {item.label.toLowerCase()}
+                        </Link>
+                    )}
+                </div>
+            )}
+        </div>
+    );
+}
+
+function Chevron({ expanded }: { expanded: boolean }) {
+    return (
+        <svg
+            width="10"
+            height="10"
+            viewBox="0 0 10 10"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.5"
+            style={{
+                transform: expanded ? 'rotate(180deg)' : 'rotate(0deg)',
+                transition: 'transform 0.2s ease',
+                flexShrink: 0,
+            }}
+        >
+            <polyline points="2,3 5,7 8,3" />
+        </svg>
+    );
+}
+
+const mobileLinkStyle: React.CSSProperties = {
+    display: 'block',
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '12px',
+    fontWeight: 300,
+    letterSpacing: '2px',
+    textTransform: 'uppercase',
+    color: '#060606',
+    textDecoration: 'none',
+    padding: '14px 20px',
+    borderBottom: '1px solid #f0f0ec',
+};
+
+const mobileToggleStyle: React.CSSProperties = {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: '100%',
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '12px',
+    fontWeight: 300,
+    letterSpacing: '2px',
+    textTransform: 'uppercase',
+    color: '#060606',
+    padding: '14px 20px',
+    background: 'none',
+    border: 'none',
+    borderBottom: '1px solid #f0f0ec',
+    cursor: 'pointer',
+    textAlign: 'left',
+};
+
+const mobileChildStyle: React.CSSProperties = {
+    display: 'block',
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '11px',
+    fontWeight: 300,
+    letterSpacing: '1.5px',
+    textTransform: 'uppercase',
+    color: '#444',
+    textDecoration: 'none',
+    padding: '11px 32px',
+    borderBottom: '1px solid #ebebeb',
+};
+
+const mobileGroupHeadingStyle: React.CSSProperties = {
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '10px',
+    fontWeight: 500,
+    letterSpacing: '2px',
+    textTransform: 'uppercase',
+    color: '#999',
+    margin: 0,
+    padding: '12px 32px 6px',
+};
 
 export default function SiteHeader() {
     const [openDropdown, setOpenDropdown] = useState<string | null>(null);
     const [mobileOpen, setMobileOpen] = useState(false);
-    const [mobileExpandedItem, setMobileExpandedItem] = useState<string | null>(null);
+    const [desktopNavOpen, setDesktopNavOpen] = useState(false);
     const [searchOpen, setSearchOpen] = useState(false);
     const [isScrolled, setIsScrolled] = useState(false);
     const { openCart, totalItems } = useCart();
@@ -25,14 +184,9 @@ export default function SiteHeader() {
     const openSearch = () => setSearchOpen(true);
     const closeSearch = () => setSearchOpen(false);
 
-    const searchIcon = (
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-            <circle cx="11" cy="11" r="8" />
-            <line x1="21" y1="21" x2="16.65" y2="16.65" />
-        </svg>
-    );
+    const activeDropdownItem = navItems.find((item) => item.label === openDropdown);
+    const showDesktopNav = !isScrolled || desktopNavOpen;
 
-    // Track scroll position to hide/show the nav bar
     useEffect(() => {
         const updateScrolled = () => setIsScrolled(window.scrollY > 0);
         updateScrolled();
@@ -40,13 +194,19 @@ export default function SiteHeader() {
         return () => window.removeEventListener('scroll', updateScrolled);
     }, []);
 
-    // Track viewport width for responsive behaviour
+    useEffect(() => {
+        if (!isScrolled) {
+            setDesktopNavOpen(false);
+            setOpenDropdown(null);
+        }
+    }, [isScrolled]);
+
     useEffect(() => {
         const updateMobile = () => {
-            const mobileViewport = window.innerWidth < MOBILE_BREAKPOINT;
-
-            if (!mobileViewport) {
+            if (window.innerWidth >= MOBILE_BREAKPOINT) {
                 setMobileOpen(false);
+            } else {
+                setDesktopNavOpen(false);
             }
         };
 
@@ -55,18 +215,28 @@ export default function SiteHeader() {
         return () => window.removeEventListener('resize', updateMobile);
     }, []);
 
-    const toggleMobileItem = (label: string) => {
-        setMobileExpandedItem((prev) => (prev === label ? null : label));
+    const toggleDesktopNav = () => {
+        setDesktopNavOpen((open) => {
+            if (open) {
+                setOpenDropdown(null);
+            }
+
+            return !open;
+        });
     };
+
+    const searchIcon = (
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+            <circle cx="11" cy="11" r="8" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" />
+        </svg>
+    );
 
     return (
         <>
             <style>{`
                 .site-header-nav-link:hover {
                     color: #6b6b6b !important;
-                }
-                .site-header-dropdown-item:hover {
-                    background: #f5f5f3 !important;
                 }
                 .header-row {
                     display: grid;
@@ -101,6 +271,12 @@ export default function SiteHeader() {
                     padding: 4px;
                     color: #060606;
                 }
+                .desktop-nav-row {
+                    display: flex;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
                 @media (max-width: 767px) {
                     .header-account-label { display: none !important; }
                     .header-cart-label { display: none !important; }
@@ -112,12 +288,25 @@ export default function SiteHeader() {
                 @media (min-width: 768px) {
                     .header-mobile-btn { display: none !important; }
                     .mobile-nav { display: none !important; }
+                    .header-desktop-menu-btn { display: flex !important; }
+                }
+                .header-desktop-menu-btn {
+                    display: none;
+                    align-items: center;
+                    justify-content: center;
+                    background: none;
+                    border: none;
+                    cursor: pointer;
+                    padding: 4px;
+                    color: #060606;
+                }
+                .header-desktop-menu-btn.is-hidden {
+                    display: none !important;
                 }
             `}</style>
 
             <PreviewBanner />
 
-            {/* Main header */}
             <header
                 style={{
                     background: '#ffffff',
@@ -155,6 +344,28 @@ export default function SiteHeader() {
                             >
                                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                                     {mobileOpen ? (
+                                        <>
+                                            <line x1="18" y1="6" x2="6" y2="18" />
+                                            <line x1="6" y1="6" x2="18" y2="18" />
+                                        </>
+                                    ) : (
+                                        <>
+                                            <line x1="3" y1="6" x2="21" y2="6" />
+                                            <line x1="3" y1="12" x2="21" y2="12" />
+                                            <line x1="3" y1="18" x2="21" y2="18" />
+                                        </>
+                                    )}
+                                </svg>
+                            </button>
+                            <button
+                                type="button"
+                                className={`header-desktop-menu-btn${isScrolled ? '' : ' is-hidden'}`}
+                                onClick={toggleDesktopNav}
+                                aria-label={desktopNavOpen ? 'Close menu' : 'Open menu'}
+                                aria-expanded={desktopNavOpen}
+                            >
+                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                                    {desktopNavOpen ? (
                                         <>
                                             <line x1="18" y1="6" x2="6" y2="18" />
                                             <line x1="6" y1="6" x2="18" y2="18" />
@@ -236,85 +447,71 @@ export default function SiteHeader() {
                     </div>
                 </div>
 
-                {/* Desktop navigation — hidden when scrolled */}
+                {/* Desktop navigation */}
                 <nav
                     className="desktop-nav"
                     style={{
                         borderTop: '1px solid #e8e8e1',
                         background: '#ffffff',
-                        display: isScrolled ? 'none' : 'flex',
+                        display: showDesktopNav ? 'block' : 'none',
+                        position: 'relative',
                     }}
+                    onMouseLeave={() => setOpenDropdown(null)}
                 >
                     <div
                         style={{
                             maxWidth: '1500px',
                             margin: '0 auto',
                             padding: '0 20px',
-                            display: 'flex',
-                            alignItems: 'center',
-                            flexWrap: 'wrap',
                         }}
                     >
-                        {navItems.map((item) => (
-                            <div
-                                key={item.label}
-                                style={{ position: 'relative' }}
-                                onMouseEnter={() => item.hasDropdown && setOpenDropdown(item.label)}
-                                onMouseLeave={() => setOpenDropdown(null)}
-                            >
-                                <Link
-                                    href={item.href}
-                                    className="site-header-nav-link"
-                                    style={{
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        gap: '4px',
-                                        fontFamily: 'Poppins, sans-serif',
-                                        fontSize: '12px',
-                                        fontWeight: 300,
-                                        letterSpacing: '2px',
-                                        textTransform: 'uppercase',
-                                        color: '#060606',
-                                        textDecoration: 'none',
-                                        padding: '14px 18px',
-                                        whiteSpace: 'nowrap',
-                                        transition: 'color 0.2s ease',
-                                    }}
+                        <div className="desktop-nav-row">
+                            {navItems.map((item) => (
+                                <div
+                                    key={item.label}
+                                    onMouseEnter={() => hasDropdown(item) && setOpenDropdown(item.label)}
                                 >
-                                    {item.label}
-                                    {item.hasDropdown && (
-                                        <svg
-                                            width="10"
-                                            height="10"
-                                            viewBox="0 0 10 10"
-                                            fill="none"
-                                            stroke="currentColor"
-                                            strokeWidth="1.5"
-                                            style={{
-                                                transform: openDropdown === item.label ? 'rotate(180deg)' : 'rotate(0deg)',
-                                                transition: 'transform 0.2s ease',
-                                            }}
-                                        >
-                                            <polyline points="2,3 5,7 8,3" />
-                                        </svg>
-                                    )}
-                                </Link>
-
-                                {item.categorySlug && (
-                                    <MegaMenu
-                                        category={
-                                            CATEGORIES.find(
-                                                (c) => c.slug === item.categorySlug,
-                                            )!
-                                        }
-                                        isOpen={openDropdown === item.label}
-                                    />
-                                )}                            </div>
-                        ))}
+                                    <Link
+                                        href={navItemHref(item)}
+                                        className="site-header-nav-link"
+                                        onClick={() => {
+                                            if (isScrolled) {
+                                                setDesktopNavOpen(false);
+                                                setOpenDropdown(null);
+                                            }
+                                        }}
+                                        style={{
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            gap: '4px',
+                                            fontFamily: 'Poppins, sans-serif',
+                                            fontSize: '11px',
+                                            fontWeight: 300,
+                                            letterSpacing: '1.5px',
+                                            textTransform: 'uppercase',
+                                            color: '#060606',
+                                            textDecoration: 'none',
+                                            padding: '14px 12px',
+                                            whiteSpace: 'nowrap',
+                                            transition: 'color 0.2s ease',
+                                        }}
+                                    >
+                                        {item.label}
+                                        {hasDropdown(item) && (
+                                            <Chevron expanded={openDropdown === item.label} />
+                                        )}
+                                    </Link>
+                                </div>
+                            ))}
+                        </div>
                     </div>
+
+                    {activeDropdownItem && hasDropdown(activeDropdownItem) && (
+                        <MegaMenu item={activeDropdownItem} isOpen />
+                    )}
                 </nav>
 
-                {/* Mobile nav — slide open/close */}
+                {/* Mobile navigation */}
                 {mobileOpen && (
                     <nav
                         className="mobile-nav"
@@ -327,95 +524,11 @@ export default function SiteHeader() {
                         }}
                     >
                         {navItems.map((item) => (
-                            <div key={item.label}>
-                                {item.hasDropdown ? (
-                                    <>
-                                        <button
-                                            onClick={() => toggleMobileItem(item.label)}
-                                            style={{
-                                                display: 'flex',
-                                                alignItems: 'center',
-                                                justifyContent: 'space-between',
-                                                width: '100%',
-                                                fontFamily: 'Poppins, sans-serif',
-                                                fontSize: '12px',
-                                                fontWeight: 300,
-                                                letterSpacing: '2px',
-                                                textTransform: 'uppercase',
-                                                color: '#060606',
-                                                textDecoration: 'none',
-                                                padding: '14px 20px',
-                                                background: 'none',
-                                                border: 'none',
-                                                borderBottom: '1px solid #f0f0ec',
-                                                cursor: 'pointer',
-                                                textAlign: 'left',
-                                            }}
-                                        >
-                                            {item.label}
-                                            <svg
-                                                width="10"
-                                                height="10"
-                                                viewBox="0 0 10 10"
-                                                fill="none"
-                                                stroke="currentColor"
-                                                strokeWidth="1.5"
-                                                style={{
-                                                    transform: mobileExpandedItem === item.label ? 'rotate(180deg)' : 'rotate(0deg)',
-                                                    transition: 'transform 0.2s ease',
-                                                    flexShrink: 0,
-                                                }}
-                                            >
-                                                <polyline points="2,3 5,7 8,3" />
-                                            </svg>
-                                        </button>
-                                        {mobileExpandedItem === item.label && item.children && (
-                                            <div style={{ background: '#f9f9f7' }}>
-                                                {item.children.map((child) => (
-                                                    <Link
-                                                        key={child.label}
-                                                        href={child.href}
-                                                        onClick={() => setMobileOpen(false)}
-                                                        style={{
-                                                            display: 'block',
-                                                            fontFamily: 'Poppins, sans-serif',
-                                                            fontSize: '11px',
-                                                            fontWeight: 300,
-                                                            letterSpacing: '1.5px',
-                                                            textTransform: 'uppercase',
-                                                            color: '#444',
-                                                            textDecoration: 'none',
-                                                            padding: '11px 32px',
-                                                            borderBottom: '1px solid #ebebeb',
-                                                        }}
-                                                    >
-                                                        {child.label}
-                                                    </Link>
-                                                ))}
-                                            </div>
-                                        )}
-                                    </>
-                                ) : (
-                                    <Link
-                                        href={item.href}
-                                        onClick={() => setMobileOpen(false)}
-                                        style={{
-                                            display: 'block',
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '12px',
-                                            fontWeight: 300,
-                                            letterSpacing: '2px',
-                                            textTransform: 'uppercase',
-                                            color: '#060606',
-                                            textDecoration: 'none',
-                                            padding: '14px 20px',
-                                            borderBottom: '1px solid #f0f0ec',
-                                        }}
-                                    >
-                                        {item.label}
-                                    </Link>
-                                )}
-                            </div>
+                            <MobileNavSection
+                                key={item.label}
+                                item={item}
+                                onNavigate={() => setMobileOpen(false)}
+                            />
                         ))}
                     </nav>
                 )}

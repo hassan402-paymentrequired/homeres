@@ -1,0 +1,3107 @@
+{
+  "handle": "the-ultimate-collection",
+  "label": "The Ultimate Collection",
+  "url": "https://arowonen.com/collections/the-ultimate-collection",
+  "scraped_at": "2026-05-22T15:58:24.922Z",
+  "product_count": 20,
+  "products": [
+    {
+      "id": 15401588687180,
+      "title": "Book - Formula 1: The Impossible Collection (2nd Edition)",
+      "handle": "book-formula-1-the-impossible-collection-2nd-edition",
+      "url": "https://arowonen.com/products/book-formula-1-the-impossible-collection-2nd-edition",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-11-24T16:59:10+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-11-24T17:01:49+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56053691515212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_01_02d8c5a7-f84e-4913-98f4-cd8138b19dfe.webp?v=1764000113",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_03.webp?v=1764000113",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_DEATAILS_01.webp?v=1764000113",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_02.webp?v=1764000113",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_09.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_08.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_07_02.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_06.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_05_2.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_04.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_03.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_Second_Edition.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_02.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula_1_ULTIMATE_SPREADS_01_43c1ecc0-56b5-4aee-a293-8ffcf544d475.webp?v=1764000113",
+          "alt": null,
+          "width": 1946,
+          "height": 1455
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_DEATAILS_03.webp?v=1764000113",
+          "alt": null,
+          "width": 1499,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_DEATAILS_02.webp?v=1764000113",
+          "alt": null,
+          "width": 1499,
+          "height": 1875
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Formula1_ULTIMATE_01_02d8c5a7-f84e-4913-98f4-cd8138b19dfe.webp?v=1764000113",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Scented with notes of rubber, this edition offers a sensory connection to the racetrack, evoking the high-octane world of Formula 1. For the average reader, even driving a single lap of a Grand Prix would be impossible, but for the world’s twenty best racing drivers in the series’ ten teams, it is a way of life that is extreme in almost every facet. With the popularity of the Netflix series </span><em>Drive to Survive</em><span>, the premiere of the new film F1, and the seventy-fifth anniversary of Formula One, Assouline presents this new edition, updated to reflect recent developments such as the incredible domination of the Red Bull team.</span></p>\n<p><strong><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>228 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>180<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>May 2025<br><strong>DIMENSIONS</strong><br>W 39 x L 47 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted volume in a luxury clamshell case with metal plaque<br><strong>ISBN</strong><br><meta charset=\"utf-8\"><span>9781649805300</span><br><strong>WEIGHT</strong><br>8.94 kg<br><strong>AUTHOR</strong><br>Text by Brad Spurgeon, forewords by Jean Todt and Stefano Domenicali</p>"
+    },
+    {
+      "id": 15049194766668,
+      "title": "Book - The Impossible Collection of Motorcycles (2nd Edition)",
+      "handle": "book-the-impossible-collection-of-motorcycles-2nd-edition",
+      "url": "https://arowonen.com/products/book-the-impossible-collection-of-motorcycles-2nd-edition",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "DESIGN & PHOTOGRAPHY",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-08-26T14:33:26+02:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-08-27T14:26:47+02:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53197411320140,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MOTORCYCLES_ULTIMATE_03.webp?v=1756212422",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MOTORCYCLES_ULTIMATE_02.webp?v=1756212422",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MOTORCYCLES_ULTIMATE_01.webp?v=1756212422",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Detail01.webp?v=1756212422",
+          "alt": null,
+          "width": 1646,
+          "height": 2056
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Detail02.webp?v=1756212422",
+          "alt": null,
+          "width": 1646,
+          "height": 2061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Detail03.webp?v=1756212422",
+          "alt": null,
+          "width": 1646,
+          "height": 2059
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_01.webp?v=1756212422",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/EDITED_Motorcycle_Ultimate.webp?v=1756212422",
+          "alt": null,
+          "width": 1646,
+          "height": 1098
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_02.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_03.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_04.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_06.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_07.webp?v=1756212373",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_09.webp?v=1756212373",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_10.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_12.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_13_1.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Motorcycles_Ultimate_Spreads_13.webp?v=1756212374",
+          "alt": null,
+          "width": 1646,
+          "height": 1235
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MOTORCYCLES_ULTIMATE_03.webp?v=1756212422",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Motorcycles have always been about freedom: freedom from the shackles of gravity, wind resistance, distance, and time. Conceived in the nineteenth century, the motorcycle was born into a world where the fastest way a human could travel alone was on the back of another living creature. On a motorcycle, there is just the rider and a bare-boned power plant blaring in violent combustion, streaking down a dusty road with only the redolent scents of burning petroleum and the wind on one’s face.</span><span class=\"Apple-converted-space\"><br><br></span><span>There’s an undeniable fascination with motorcycles: Their speed, design, legendary riders, and coolness factor are all part of the magnetism. </span><i>Motorcycles: The Impossible Collection<span> </span></i><span>is a compendium of the 100 most exceptional bikes of the twentieth and early twenty-first centuries, from the rare to the renowned. Some of these brilliant machines include the 1948 Vincent Series Rapide on which Rollie Free shattered the land speed record, wearing just a swimsuit; the iconic 1969 </span><i>Easy Rider<span> </span></i><span>bike that Peter Fonda made famous; and the 1973 Harley-Davidson XR750, Evel Knievel’s bike of choice. New additions for this updated edition include the 2003 Dodge Tomahawk, 2007 Shinya Kimura Spike, and 2008 Bat Pod from </span><i>The Dark Knight Rises</i><span>.</span><span class=\"Apple-converted-space\"> </span></p>\n<div class=\"product-details__detail-list-item\">\n<p><strong>PAGE COUNT</strong><br><span><meta charset=\"utf-8\">198 pages</span><br><strong>NUMBER OF ILLUSTRATIONS</strong><br><span> <meta charset=\"utf-8\">170 </span><br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br><span><meta charset=\"utf-8\">August <meta charset=\"utf-8\">2025</span><br><strong>DIMENSIONS</strong><br><meta charset=\"utf-8\"><span>W <meta charset=\"utf-8\">41 x L <meta charset=\"utf-8\">48 x D <meta charset=\"utf-8\">8 cm</span><br><strong>COVER MATERIALS</strong><br><span><meta charset=\"utf-8\">Handcrafted <meta charset=\"utf-8\">Volume in a Luxury Leather Inspired Clamshell Case with Metal Plaque</span><br><strong>ISBN</strong><br><meta charset=\"utf-8\"><span>9781649805485</span><br><strong>WEIGHT</strong><br><span><meta charset=\"utf-8\">11.34 kg</span><br><strong></strong></p>\n<h4 class=\"h6 author-link-title\">Author</h4>\n<section id=\"shopify-section-template--17450287333475__main\" class=\"shopify-section product-section spaced-section spaced-section--md\">\n<section class=\"product-details\">\n<div class=\"product-details__detail-list\">\n<div class=\"product-details__detail-list-item\">\n<p>Nicolas Stecher and Ian Barry</p>\n</div>\n</div>\n</section>\n<div role=\"dialog\" aria-modal=\"true\"></div>\n</section>\n<div id=\"shopify-section-template--17450287333475__62195b05-1774-419d-b812-7b5febdcc5e2\" class=\"shopify-section spaced-section spaced-section--full-width\"></div>\n</div>"
+    },
+    {
+      "id": 15048931344716,
+      "title": "Book - Chinese Art: The Impossible Collection",
+      "handle": "book-chinese-art-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-chinese-art-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "DESIGN & PHOTOGRAPHY",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-08-26T12:18:15+02:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-08-27T13:17:12+02:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53195599872332,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-IC_03_63cf4a8b-5b83-48ff-b541-ce16d836de33.webp?v=1762791503",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CHINESE_ART_DESKTOP_ee2d12d0-e910-48e8-b4f7-091e49d824b7.webp?v=1756204293",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Detail-01_0a518255-eade-4ff8-b9ec-a0e1f3bf4394.jpg?v=1756204293",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Detail-02_33a1318a-694e-46ad-8fe8-e08d70d6847e.webp?v=1756204293",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Detail-03_e67215ac-249b-4db1-9215-da9bb0e560f4.webp?v=1756204293",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-IC_01_5e93de14-819d-4426-a7b1-1903bdf43d05.webp?v=1756204293",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-IC_02_abbdee37-7a88-467e-8f3b-26420a9ca7c9.webp?v=1756204293",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-01.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-02.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-03.webp?v=1756204243",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-04.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-05.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-06.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Spreads-08.webp?v=1756204242",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-Tote_23da9626-8450-4ff0-9063-bf3f870a6496.webp?v=1756204242",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chinese-Art-IC_03_63cf4a8b-5b83-48ff-b541-ce16d836de33.webp?v=1762791503",
+      "description_html": "<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<p>Over the last century, China has experienced a period of growth more rapid and utterly transforming than any other nation has experienced in modern history. How can we begin to understand the country that has emerged from such a dramatic era of change? Perhaps the answer can be found in China’s art. Certainly, that is what renowned art collectors Adrian Cheng and John Dodelande argue in their forthcoming volume,<span> </span><em>Chinese Art: The Impossible Collection</em>. After all, China’s history as a land of enormous influence stretches back to its dynastic past, and the nation’s art has always been in conversation with its customs.</p>\n<p>The most highly anticipated volume in Assouline’s exclusive Ultimate series,<span> </span><em>Chinese Art: The Impossible Collection</em><span> </span>spotlights 100 works of contemporary art that reveal the social, political, and cultural evolution of a nation on the rise. Thoughtfully curated by Cheng and Dodelande, the 100 works are presented in chronological order, beginning with traditional paintings from the turn of the twentieth century and culminating with some of the most cutting-edge works by China’s “new generation” of artists, whose creations explore and often critique the politics that have defined China’s rapid growth into a new world power. The particular themes and conversations that these 100 works raise are glossed in essays and commentary from three of the world’s foremost experts on Chinese Art—Philip Tinari of the UCAA in Beijing, Alexandra Munroe of the Guggenheim in New York, and Karen Smith of OCAT Contemporary Art Terminal in Xi’an.</p>\n<p>While readers will come away from<span> </span><em>Chinese Art</em><span> </span>with a nuanced understanding of Chinese culture, the volume is also a work of art in its own right—a must-have collectible for any devotee of Chinese art and culture. Assouline’s Ultimate Collection is an homage to the art of luxury bookmaking—the oversized volume is hand-bound using traditional techniques, with several of the plates hand-tipped on art-quality paper and housed in a luxury silk clamshell.</p>\n<p><em>Complimentary white gloves and a signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></p>\n</div>\n</div>\n</div>\n</div>\n<p><strong>PAGE COUNT</strong><br><meta charset=\"utf-8\"><span>194</span> pages<br><strong>NUMBER OF ILLUSTRATIONS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span><meta charset=\"utf-8\">Over 100</span><br></span><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>April</span> <meta charset=\"utf-8\"> <span>2025</span><br></span><strong>DIMENSIONS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">W 28 x L 36 x D <meta charset=\"utf-8\"> <span>4</span> cm<br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">COVER MATERIALS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>Handcrafted edition in a luxury clamshell case</span><br></span><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>9781614<meta charset=\"utf-8\">288848</span><br></span><strong>WEIGHT<br></strong><meta charset=\"utf-8\"><span>9.072 kg</span><br></p>\n<h4 class=\"h6 author-link-title\">Author</h4>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Text by Adrian Cheng and John Dodelande, Foreword by Philip Tinari</span><br></p>\n<section class=\"sustainability\">\n<div class=\"sustainability__inner\">\n<div class=\"sustainability__title\"><br></div>\n</div>\n</section>"
+    },
+    {
+      "id": 14682967703884,
+      "title": "Book - Wine: The Impossible Collection",
+      "handle": "book-wine-the-impossible-collection-kopie",
+      "url": "https://arowonen.com/products/book-wine-the-impossible-collection-kopie",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-01-29T15:43:24+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-29T15:48:51+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51873591525708,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC_01_6b9cbeee-e2fb-4472-97b6-c1548f16ec7c_jpg.webp?v=1738162126",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-3.jpg?v=1738162126",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-2_jpg.webp?v=1738162126",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-4_jpg.webp?v=1738162125",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-5.jpg?v=1738162125",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-6_jpg.webp?v=1738162125",
+          "alt": null,
+          "width": 2804,
+          "height": 3505
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-7.jpg?v=1738162125",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-wine-assouline-8.jpg?v=1738162125",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WINE_ULT_DESKTOP_a2e30d73-fe62-4fb5-b672-7b681620b152.jpg?v=1738162125",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_01_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_02_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_03_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_04_jpg.webp?v=1738162109",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_05_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_06_jpg.webp?v=1738162109",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_07_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_08_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_09_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_10_jpg.webp?v=1738162110",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_11_jpg.webp?v=1738162109",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC-Spreads_12_jpg.webp?v=1738162109",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Wine-IC_01_6b9cbeee-e2fb-4472-97b6-c1548f16ec7c_jpg.webp?v=1738162126",
+      "description_html": "<p><meta charset=\"UTF-8\"><span>In this stunning addition to the Assouline Ultimate Collection, Enrico Bernardo, the world’s best sommelier, imagines the perfect cellar filled with the most exceptional wines of the twentieth century: </span><i>The Impossible Collection of Wine. </i><span>Weighing the virtues of rarity, terroir, taste, and historical mystique, Bernardo’s is a list any connoisseur could only dream of. To turn grapes into bottled poetry, the winemaker must be a kind of alchemist. Despite changes in technology and tastes over the past 100 years, the craft has remained largely unchanged; a great wine remains the product of countless factors, not least of which is the smile of providence. In these pages, Bernardo celebrates the most exquisite vintages around the globe, from the 1928 Krug Champagne to the 1951 Penfolds Grange Bin 95 to the 1973 Stag’s Leap Estate SLV, inviting the reader on a journey through history to savor an impossible collection. This hand-bound oversize luxury edition, featuring hand-tipped images and presented in a wooden crate, will be a must-have for the library of any true wine connoisseur.</span></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>204 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 150<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br><span>November 2016</span><br><strong>DIMENSIONS</strong><br>W 46 x L 51 x D 8 cm<br><strong>COVER MATERIALS</strong><br><span>Hand-bound limited edition in a wooden crate</span><br><strong>ISBN</strong><br><span>9781614284710</span><br><strong>WEIGHT</strong><br>9.1 kg<br><strong>AUTHOR</strong><br>Visit the featured collection of:Enrico Bernardo</p>"
+    },
+    {
+      "id": 14682921861452,
+      "title": "Book -Andy Warhol: The Impossible Collection",
+      "handle": "book-andy-warhol-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-andy-warhol-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-01-29T15:20:33+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-29T15:26:15+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51873425359180,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Andy-Warhol-IC_01_2cf9d108-677f-4964-86d7-23d6f7adff03_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-3.jpg?v=1738160769",
+          "alt": null,
+          "width": 1500,
+          "height": 1874
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-2.jpg?v=1738160769",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-4.jpg?v=1738160767",
+          "alt": null,
+          "width": 2885,
+          "height": 3606
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-5.jpg?v=1738160767",
+          "alt": null,
+          "width": 2159,
+          "height": 2698
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-6.jpg?v=1738160766",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/andy-warhol-the-impossible-collection-assouline-7.jpg?v=1738160765",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WARHOL_RETOUCH_1_ULT_DESKTOP_91_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-01_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-02_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-03_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-04_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-05_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-06_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-07_jpg.webp?v=1738160767",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-08_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-09_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-10_jpg.webp?v=1738160766",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-11_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Warhol-IC-Spreads-12_jpg.webp?v=1738160765",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Andy-Warhol-IC_01_2cf9d108-677f-4964-86d7-23d6f7adff03_jpg.webp?v=1738160766",
+      "description_html": "<p><meta charset=\"UTF-8\"><span>Andy Warhol’s explosive Pop Art and sharp commentary on advertising and celebrity culture are renowned and deeply relevant even decades after their creation. Though Warhol himself could be a polarizing figure both personally and professionally, there is no doubt that he was a pioneer of the Pop movement, and today, as a result, his works regularly fetch astronomical prices. In this evocative addition to Assouline’s Ultimate Collection, Warhol expert and former Andy Warhol Museum director Eric Shiner curates the 100 quintessential, unique works that define the evolution of this illustrious artist, tracing Warhol’s dynamic career from the late forties to the end of the eighties and creating a stunning compendium whose pieces, due to their rarity, value, and prestige as part of a museum or other collection, could simply never all be acquired by a single collector. Casual art lovers know Campbell’s Soup Cans and the Marilyn Diptych, but </span><em>Andy Warhol: The Impossible Collection</em><span> goes deeper, revealing and revisiting some less ubiquitous yet equally powerful pieces, spanning paintings, prints, sculpture, films, and photography, from Warhol’s astonishing oeuvre.</span></p>\n<p><strong>PAGE COUNT</strong><br>168 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 100<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br><span>September 2017</span><br><strong>DIMENSIONS</strong><br>W 40 x L 48 x D 8 cm<br><strong>COVER MATERIALS</strong><br><span>Handcrafted limited edition in a luxury clamshell case</span><br><strong>ISBN</strong><br><span>9781614286271</span><br><strong>WEIGHT</strong><br>9 kg<br><strong>AUTHOR</strong><br><span>Eric Shiner</span><br></p>"
+    },
+    {
+      "id": 14682853540172,
+      "title": "Book - African Arts: The Impossible Collection",
+      "handle": "book-african-arts-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-african-arts-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2025-01-29T14:12:32+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-29T14:19:42+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51873176322380,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_001_jpg.webp?v=1738156768",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_003.jpg?v=1738156768",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_002_jpg.webp?v=1738156768",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Details_001_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Details_002_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Details_003.jpg?v=1738156756",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Details_004_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_001_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_002_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_003_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_004_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_005_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_006_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_007_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_Spreads_008_jpg.webp?v=1738156755",
+          "alt": null,
+          "width": 1946,
+          "height": 1460
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/African_Arts_The_impossible_Collection_Ultimated_001_jpg.webp?v=1738156768",
+      "description_html": "<p>While traditional African works of art were created first and foremost in a ritual context, surely that in no way excludes their aesthetic dimension. Made by artists whose audacity, inventiveness and virtuosic technique can never be sufficiently emphasized, African masks and sculptures—long relegated, wrongly, to the rank of mere “idols” and “fetishes”—tell us rather just how much the African continent is the bearer of thousands of histories, its traditions nourished by countless distinctive sensibilities.</p>\n<p><em>African Arts: The Impossible Collection</em> is a meticulously curated book showcasing masterpieces of African art from renowned private and public collections worldwide. This volume, featuring key pieces—like a sixteenth century Nigerian queen mother ivory pendant and a commemorative figure from Cameroon-Grassfield (both exhibited at the MET Museum)—serves as a manifesto celebrating the boldness of African artists, known and unknown. Perfect for collectors, poets, writers and art amateurs, it inspires admiration for the rich and diverse heritage of African arts.</p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>232 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>150<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>December 2024<br><strong>DIMENSIONS</strong><br>W 40 x L 48 x D 8 cm<br><strong>COVER MATERIALS</strong><br><span>Hardcover in a luxury clamshell</span><br><strong>ISBN</strong><br><span>9781649804310</span><br><strong>WEIGHT</strong><br><span>9</span> kg<br><strong>AUTHOR</strong><br><meta charset=\"UTF-8\"><span>Bérénice Geoffroy-Schneiter</span><br></p>"
+    },
+    {
+      "id": 9082699841868,
+      "title": "Book - The Impossible Collection of Art (2nd Edition)",
+      "handle": "book-the-impossible-collection-of-art-2nd-edition",
+      "url": "https://arowonen.com/products/book-the-impossible-collection-of-art-2nd-edition",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-06-08T10:22:33+02:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:29:18+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48271100019020,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-01_275504a4-be43-4a2d-99fd-664b4c4c5f38.webp?v=1717837447",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-art-2nd-edition-assouline-3.jpg?v=1717837453",
+          "alt": null,
+          "width": 1500,
+          "height": 1874
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-02_b1656ef0-9c65-4fd0-81c2-b9f4aa6fb2cc.webp?v=1717837453",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Detail-01.webp?v=1717837453",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Detail-02.webp?v=1717837453",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Detail-03.webp?v=1717837453",
+          "alt": null,
+          "width": 3000,
+          "height": 3750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Detail-04.webp?v=1717837453",
+          "alt": null,
+          "width": 3000,
+          "height": 4000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Detail-05.webp?v=1717837453",
+          "alt": null,
+          "width": 3000,
+          "height": 4000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Spread-01.webp?v=1717837453",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Spread-02.webp?v=1717837453",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Spread-03.webp?v=1717837453",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-Spread-05.webp?v=1717837453",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IC_ART_LIFESTYLE_BANNER_DESKTOP.webp?v=1717837453",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-art-2nd-edition-assouline-4.jpg?v=1717837447",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Art-IC-2nd-Edition-01_275504a4-be43-4a2d-99fd-664b4c4c5f38.webp?v=1717837447",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Modern art is the new intellectual currency, drawing the attention of media moguls, hedge-fund managers, and Hollywood darlings, granting them entry into an exclusive global community. Renowned art dealers Philippe Ségalot and Franck Giraud have curated </span><em>The Impossible Collection of Art</em><span>, an unparalleled modern art collection where anything is possible. These 100 extraordinary artworks, introduced by Joachim Pissarro, offer a unique perspective on 20th-century artistic achievements, whether hidden in a museum's vault or up for auction. In the 2nd edition, Ségalot and Giraud have updated with eleven new works, inspiring endless discussions and inviting art enthusiasts to imagine their own dream </span><em>Impossible Collection.</em></p>\n<p><strong><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>144 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>101<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>November 2023<br><strong>DIMENSIONS</strong><br>W 41 x L 51 x D 8 cm<br><strong>COVER MATERIALS<br></strong><meta charset=\"utf-8\">Linen hardcover in linen clamshell<br><strong>ISBN</strong><br><meta charset=\"utf-8\"><span>9781649803023</span><br><strong>WEIGHT</strong><br>10 kg<br><strong>AUTHOR<br></strong><meta charset=\"utf-8\">Philippe Ségalot, Franck Giraud, Joachim Pissarro</p>\n<section class=\"sustainability\">\n<div class=\"sustainability__inner\">\n<div class=\"sustainability__title\"><br></div>\n</div>\n</section>"
+    },
+    {
+      "id": 8971095114060,
+      "title": "Book - Yachts: The Impossible Collection",
+      "handle": "book-yachts-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-yachts-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-04-15T16:54:52+02:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-05-17T12:19:47+02:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48008966144332,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC_01_f614f2cc-d02a-4feb-8304-e27277b1afdf.webp?v=1713192963",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/yachts-the-impossible-collection-assouline-3.webp?v=1713192951",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/YATCHS_DESKTOP_4c45ed69-7440-4dd4-80ee-1c90076bc606.webp?v=1713193020",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC-Spreads-02.webp?v=1713193020",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/yachts-the-impossible-collection-assouline-4.webp?v=1713193020",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/yachts-the-impossible-collection-assouline-5.webp?v=1713193020",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC-Spreads-10.webp?v=1713193020",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC-Spreads-03.webp?v=1713192950",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC-Spreads-01.webp?v=1713192949",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/yachts-the-impossible-collection-assouline-2.webp?v=1713192952",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Yachts-IC_01_f614f2cc-d02a-4feb-8304-e27277b1afdf.webp?v=1713192963",
+      "description_html": "<p>When it comes to glamour and high style on the seas, there’s nothing more captivating than the Aquarama. Dreamed up by the legendary Carlo Riva, the run-about wooden speedboat has become an icon of Italian design and the<span> </span><em>Riva Aquarama</em><span> </span>book, edited by Assouline, celebrates its 60th Anniversary. Beloved for its clean lines, mahogany, glistening chrome details and signature robin’s egg-blue and cream upholstery, the Aquarama reflected la dolce vita optimism of early-‘60s Italy; it’s impossible to picture the glittering Côte d’Azur and coasts of Europe without visions of endless summers spent lounging on the back of the boat in the warm summer sun, and the gentle roar of the engine as the Aquarama cuts through the surf.</p>\n<p>The Riva icon enjoyed a mythical status and was beloved by movie stars, heads of state and royalty—everyone from Brigitte Bardot, Elizabeth Taylor, Gunter Sachs and the royal family of Monaco, among countless other luminaries, have been enchanted by the Aquarama’s spell. Of the about 760 completed Aquaramas made in the Sarnico shipyard, Riva experts estimate around 650 are still in existence, which only adds to the boat’s legendary status. But more than just a trophy, the Aquarama is fiercely beloved by its owners and enthusiasts alike—it’s not just a boat, but the realization of a dream. In this exceptional tribute to the Aquarama, author Michael Verdon tells the story of the legendary boat and brings to life its dolce vita charm. The book is also offered in a special edition, presented in a luxury mahogany box that is crafted to express the beauty of the Aquarama’s magnificent hull. This special edition offers owners, collectors and enthusiasts alike a piece of the Riva dream.</p>\n<p><em><strong>Complimentary white gloves and a signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</strong></em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>208 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2022<br><strong>DIMENSIONS</strong><br>W 41 x L 47 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Hardcover in a luxury rubber clamshell case<br>with metal plate tip-on<br><strong>ISBN</strong><br>882664002046<br><strong>WEIGHT</strong><br>8.999 kg<br><strong>AUTHOR</strong><br>Michael Verdon</p>"
+    },
+    {
+      "id": 8875910529356,
+      "title": "Book - Tiffany & Co. Vision and Virtuosity: The Impossible Collection",
+      "handle": "book-tiffany-co-vision-and-virtuosity-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-tiffany-co-vision-and-virtuosity-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:53:27+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:29:20+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734739697996,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-IC_01_f646696e-87be-4b8a-9025-7d54fc65134f.webp?v=1708703836",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-3.jpg?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-2.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-4.webp?v=1708703859",
+          "alt": null,
+          "width": 1946,
+          "height": 2432
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-5.webp?v=1708703859",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-6.webp?v=1708703859",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tiffany-and-co-vision-and-virtuosity-ultimate-edition-assouline-7.jpg?v=1708703859",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PDP_Desktop_Tiffany_1.webp?v=1708703859",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_02.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_03.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_04.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_05.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_07.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_10.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_12.webp?v=1708703859",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_08.webp?v=1708703836",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_01.webp?v=1708703837",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-Vision-Spreads_09.webp?v=1708703839",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tiffany-IC_01_f646696e-87be-4b8a-9025-7d54fc65134f.webp?v=1708703836",
+      "description_html": "<p>When Charles Lewis Tiffany opened his first store in 1837 in New York City, selling “fancy goods” imported from Paris, he could not have imagined the visions of glamour that his name would conjure around the world. Tiffany &amp; Co. has transformed from a modest purveyor of gift items to a globally renowned byword for luxury and romance, sublime and rare gemstones, joyful objects of love and an inimitable mix of tradition and modernity. Tiffany is a name that resonates across generations and cultures, part of the fabric of social and cultural history, an American institution gifted to the world, an emporium of escapism, a repository of dreams.</p>\n<p>During its 185 years, Tiffany &amp; Co. has continued to evolve creatively, embracing artistic and cultural influences, finding exciting ways to renew its rich legacy. Since the 1950s, Tiffany has brought on designers who have become iconic names, from Jean Schlumberger to Elsa Peretti and Paloma Picasso, ensuring that Tiffany remains dynamic and relevant to each generation. The company’s design-driven dynamism honors and perpetuates the founder’s pioneering spirit.</p>\n<p>Today Tiffany continues to bring fantasy to its annual high jewelry collections, while also speaking to new generations through original collections that offer personal self-expression, so much part of Charles Lewis Tiffany’s original concept. The beat goes on, the pulse of New York and of creativity, the quest for modernity and originality intertwined with reverence for Tiffany’s great heritage.</p>\n<p>Conceived as the catalog to accompany the exhibition Vision and Virtuosity at the Saatchi Gallery in London, this Assouline volume, available in both Icon and Ultimate editions, encapsulates all the romance and heritage of this world-famous American icon, highlighting Tiffany’s creative inspirations, witty advertisements and window displays, Blue Book jewel collections and diamond expertise, plus the stories behind the blue box, the classic film<span> </span><em>Breakfast at Tiffany’s</em><span> </span>and the fabulous yellow Tiffany Diamond.</p>\n<p><strong><em>Complimentary white gloves and a signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>256 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>230<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2022<br><strong>DIMENSIONS</strong><br>W 39 x L 46 x D 10 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted silk volume in a silk clamshell case<br><strong>ISBN</strong><br>882664002893<br><strong>WEIGHT</strong><br>11.34 kg<br><strong>AUTHOR</strong><br>Vivienne Becker</p>"
+    },
+    {
+      "id": 8875898634572,
+      "title": "Book - Cigars: The Impossible Collection",
+      "handle": "book-cigars-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-cigars-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:43:37+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:17:50+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734711157068,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC_01_2302fb61-5a59-4015-878b-bca292feacc7.webp?v=1708703426",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-3.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-2.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-4.webp?v=1708703494",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-5.webp?v=1708703494",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-6.webp?v=1708703494",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cigars-assouline-7.jpg?v=1708703494",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_02.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CIGARS_DESKTOP.webp?v=1708703494",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_03.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_04.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_11.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_13.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_05.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_06.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_07.webp?v=1708703494",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_01.webp?v=1708703431",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC-Spreads_10.webp?v=1708703427",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cigars-IC_01_2302fb61-5a59-4015-878b-bca292feacc7.webp?v=1708703426",
+      "description_html": "<p>In the highly anticipated new volume in Assouline’s bestselling Ultimate Collection,<span> </span><em>The Impossible Collection of Cigars</em><span> </span>envisions the ultimate humidor brimming with the most remarkable cigars of the twentieth and twenty-first centuries from the most prestigious makers. Like the pop of the Champagne cork, the flick of the lighter or the strike of the match and the first draw of the smoke are synonymous with celebration, relaxation, and comradery. A luxurious pause from the world around, an exceptional, hand-rolled cigar has cemented itself as a civilized passion and genteel hobby over the course of centuries.<br><br><em>The Impossible Collection of Cigars</em><span> </span>is a bid for readers to journey to the fabled Cuban tobacco farms, get up close and personal with the<span> </span><em>torcedores</em><span> </span>(master cigar rollers) as they discover the world’s most commendable and coveted cigars. Considering the differences and attributes of cigars like Nicaragua’s Padrón to Dominican Republic’s Arturo Fuente and Davidoff of Geneva, Honduras’ Rocky Patel to the Bahamas’ Graycliff, and, of course, Cuba’s arsenal of legendary smokes, Sigmond’s is a list any connoisseur could only dream of.<br><br>This hand-bound, oversized luxury edition, featuring hand-tipped and authentic cigar bands and presented in a traditional dress trade cigar box is a must-have for the collection of any sincere cigar aficionado.</p>\n<p><em>The non-uniform effect in the middle of the book can be attributed to the handcrafted nature of our Impossible Collection series</em></p>\n<p><strong><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>232 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 100<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>July 2019<br><strong>DIMENSIONS</strong><br>W 45 x L 51 x D 9 cm<br><strong>COVER MATERIALS</strong><br>Hand-bound in a wooden box<br><b>ISBN<br></b><span data-mce-fragment=\"1\">9781614287841</span><br><strong>WEIGHT</strong><br>8.0 kg</p>"
+    },
+    {
+      "id": 8875892080972,
+      "title": "Book - Champagne: The Impossible Collection",
+      "handle": "book-campagne-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-campagne-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:38:47+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:17:48+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734672097612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC_01_7a688dc5-2dec-4da4-9536-956163cd5404.webp?v=1708702962",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-3.jpg?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-2.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-4.webp?v=1708702981",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-5.webp?v=1708702981",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-6.webp?v=1708702981",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-champagne-assouline-7.jpg?v=1708702981",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_02.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_03.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_04.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_05.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_06.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_07.webp?v=1708702981",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_08.webp?v=1708702964",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_10.webp?v=1708702959",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_11.webp?v=1708702964",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_12.webp?v=1708702963",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_13.webp?v=1708702961",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_01.webp?v=1708702957",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC-Spreads_09.webp?v=1708702962",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne-IC_01_7a688dc5-2dec-4da4-9536-956163cd5404.webp?v=1708702962",
+      "description_html": "<p>For sheer magic, champagne has no equal. It is the very emblem of sophistication, of celebration, of uninhibited pleasure. One of the most closely protected wine appellations in the world, it enhances French art de vivre and contributes to its global prominence and prestige. Ever since champagne was first dreamed up at the turn of the eighteenth century, the region’s visionary producers have forged ahead to open new markets and develop local terroirs.</p>\n<p>Just how did the cork-popping “devil’s wine” become the blessed nectar of the gods? Whether it’s crafted by independent vignerons who cultivate grapes on their own lands or produced by legendary houses, champagne remains an international success that shines in a category by itself, beyond every other sparkling wine on Earth.</p>\n<p>From exceptional vintages to an array of more recent releases, this exclusive selection curated by World’s Best Sommelier Enrico Bernardo spans three centuries and is illustrated by various tasting experiences, insightful tips and singular anecdotes. He highlights the most remarkable bottles ever produced, all united by the impossibility of ever having them together in one cellar at a time, hence this volume’s title. Presented in a wooden box, this edition is bound by hand and luxuriously crafted with hand-tipped labels, making it a must have for all champagne aficionados.</p>\n<p><strong><i>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</i></strong></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>236 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>October 2022<br><strong>DIMENSIONS</strong><br>W 46 x L 51 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted volume in a wooden clamshell case<br><strong>ISBN</strong><br>882664002411<br><strong>WEIGHT</strong><br>9.07 kg<br><strong>AUTHOR</strong><br>Visit the featured collection of:Enrico Bernardo</p>"
+    },
+    {
+      "id": 8875880677708,
+      "title": "Book - Cars: The Impossible Collection",
+      "handle": "book-cars-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-cars-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:31:06+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2024-02-23T16:37:16+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734616850764,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC_01_4439fe04-240d-4615-8e51-f77d37cf500c.webp?v=1708702581",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-3.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-2.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-4.webp?v=1708702631",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-5.webp?v=1708702631",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-6.webp?v=1708702631",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-impossible-collection-of-cars-assouline-7.jpg?v=1708702631",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-07.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CARS_ULT_DESKTOP.webp?v=1708702631",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-08.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-09.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-15.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-10.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-01.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-11.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-03.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-12.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-04.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-13.webp?v=1708702631",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-05.webp?v=1708702580",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-14.webp?v=1708702582",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-02.webp?v=1708702581",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC-Spreads-06.webp?v=1708702586",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cars-IC_01_4439fe04-240d-4615-8e51-f77d37cf500c.webp?v=1708702581",
+      "description_html": "<p>It is the dream of many to own the world’s most beautifully designed automobiles, but most often only a handful of collectors ever come close. Now,<span> </span><em>The Impossible Collection of Cars</em><span> </span>makes that dream come true, showcasing the one hundred most exceptional cars of the twentieth century in ASSOULINE's third volume in the Impossible Collection series. Each luxury automobile—from the 1909 Blitzen Benz to a 1996 McLaren F1—was chosen for its revolutionary engineering, magnificent lines, and head-turning capabilities. Assouline is pleased to announce this exquisite tome, which features cars owned by celebrities like Marlene Dietrich, Ralph Lauren, Greta Garbo, Pablo Picasso, and Elvis Presley. This Impossible Collection volume is presented on cotton paper in a beautiful black rubber clamshell box with a cutout metal plate. </p>\n<p><em><strong>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection </strong></em></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>170 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>100<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>November 2011<br><strong>DIMENSIONS</strong><br>W 39 x L 47 x D 7 cm<br><strong>COVER MATERIALS</strong><br>Black Rubber Clamshell Box with Metal Plate<br><strong>ISBN</strong><br>9781614280156<br><strong>WEIGHT</strong><br>9.0 kg<br><strong>AUTHOR</strong><br>Dan Neil</p>"
+    },
+    {
+      "id": 8875862622540,
+      "title": "Book - Salvador Dali: The Impossible Collection",
+      "handle": "book-salvador-dali-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-salvador-dali-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:19:57+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:29:13+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734579921228,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC_01_d37b11bc-5049-43d3-ad16-7314e15c3c70.webp?v=1708702041",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-3.jpg?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-2.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-4.webp?v=1708702070",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-5.jpg?v=1708702070",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-6.jpg?v=1708702070",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/salvador-dali-the-impossible-collection-assouline-7.jpg?v=1708702070",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DALI_DESKTOP.webp?v=1708702070",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-02.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-03.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-04.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-05.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-06.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-09.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-10.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-11.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-12.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-07.webp?v=1708702070",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-01.webp?v=1708702041",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC-Spreads-08.webp?v=1708702046",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Salvador-Dali-IC_01_d37b11bc-5049-43d3-ad16-7314e15c3c70.webp?v=1708702041",
+      "description_html": "<p>In the popular imagination, possibly no other artist’s work is more recognizable than that of Salvador Dalí. Indeed, for many he is the ultimate mad artist, whose singular vision remorselessly probed his own psychological depths. His nightmarish visions and bizarre landscapes express the angst and turbulence of the twentieth century. Dalí’s creativity embraced many different modes of expression and was never constrained by any one style. Over eight decades, the prodigious range of Dalí’s activity spanned every conceivable medium, from painting and drawing to sculpture, film, furniture, books, stage design and jewelry, not to mention his highly eccentric public persona, which could be considered an art form in itself.</p>\n<p>Selected by curator and art historian Paul Moorhouse, Assouline presents<span> </span><i>Salvador Dalí: The Impossible Collection</i>, spotlighting 100 works by this extraordinary creative mind, exploring Dalí’s inspirations and array of influences, from Old Masters to realism, Impressionism, Fauvism and Cubism as well as experimental approaches that delved into his obsessions with religion, science and stereoscopy.</p>\n<p><em>Made in Italy. Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>194 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>3 gatefolds, 130<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>November 2020<br><strong>DIMENSIONS</strong><br>W 40 x L 48 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted volume in a luxury linen clamshell case<br><strong>ISBN</strong><br>882664397609<br><strong>WEIGHT</strong><br>4.173 kg<br><strong>AUTHOR</strong><br>Paul Moorhouse</p>"
+    },
+    {
+      "id": 8875831230796,
+      "title": "Book - Rolex: The Impossible Collection",
+      "handle": "book-rolex-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-rolex-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T16:04:23+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:29:13+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734513238348,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC_01_43acbd87-d130-4ccb-907f-4081aa37b6f4.webp?v=1708701366",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-3.jpg?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-2.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-4.webp?v=1708701416",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-5.webp?v=1708701416",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-6.jpg?v=1708701416",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-7.jpg?v=1708701416",
+          "alt": null,
+          "width": 1287,
+          "height": 1608
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/rolex-the-impossible-collection-assouline-8.jpg?v=1708701416",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_01.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_08.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ROLEX_ULT_DESKTOP.webp?v=1708701416",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_02.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_03.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_04.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_05.webp?v=1708701416",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC-Spreads_06.webp?v=1708701369",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rolex-IC_01_43acbd87-d130-4ccb-907f-4081aa37b6f4.webp?v=1708701366",
+      "description_html": "<p>For more than a century, Rolex stands apart as the most coveted and most legendary brand of watches in the world. A Rolex connotes many things: the quintessence of the luxury timepiece, a tool of power for movers and shakers, the symbol of passage into adulthood. New labels pop up, styles come and go, but the brand at the top never changes. Ever the record setter—the Daytona that had belonged to Paul Newman was auctioned by Phillips in New York in October 2017 for $17.8 million—it comes as no surprise that Rolex is the most collected watch label in the world.</p>\n<p>The history of Rolex is rooted in the visionary spirit of its founder, Hans Wilsdorf. In 1905, young Wilsdorf founded a company in London for the distribution of timepieces, but his true dream was to produce wristwatches—in their infancy at the time, and not very precise—that would be technically durable and reliable, and supremely elegant. The company first concentrated on producing the highest quality movements, and this quest for precision rapidly led to the first wristwatch in the world to receive the Swiss Certificate of Chronometric Precision, granted by the Official Watch Rating Centre in Bienne in 1910. Four years later, Kew Observatory in Great Britain awarded a Rolex watch a class A certificate, a distinction that had been previously reserved exclusively for marine chronometers.</p>\n<p>From that date forward, the Rolex wristwatch has been synonymous with precision. Over the last 100 years, Rolex milestones include: the first waterproof watch, the first self-winding mechanism, the first wristwatch to fly over Mt. Everest, the first diver’s watch waterproof to 100 meters, the first to withstand magnetic fields of 1,000 gauss, the first to descend the Mariana Trench.</p>\n<p>Selected by specialist Fabienne Reybaud, each of the exceptional Rolex watch models in this beautiful handcrafted Ultimate Collection volume showcase the most valuable and technically innovative models the luxury watchmaker has produced, including watches never seen in print before: From the first wristwatch dating to the early 1900s and the first Oyster Perpetual from 1931, to an Explorer worn during Sir Edmund Hillary’s expedition to the summit of Mt. Everest in 1953 and the Submariner worn by actor George Lazenby in the James Bond film On Her Majesty’s Secret Service, they are sure to astonish collectors the world over. </p>\n<p><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>194 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2018<br><strong>DIMENSIONS</strong><br>W 39 x L 47 x D 7 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted in a luxury leather<br>clamshell case with metal plaque<br><strong>ISBN</strong><br>882664372095<br><strong>WEIGHT</strong><br>9.0 kg<br><strong>AUTHOR</strong><br>By Fabienne Reybaud</p>"
+    },
+    {
+      "id": 8875811045708,
+      "title": "Book - Riva Aquarama - Special Edition: The Impossible Collection",
+      "handle": "book-riva-aquarama-special-edition-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-riva-aquarama-special-edition-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "SPECIAL EDITIONS",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T15:47:53+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:29:11+01:00",
+      "available": true,
+      "price_min": 2500,
+      "price_max": 2500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734459793740,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-SE-IC_01_4c88b8a4-46dc-46d2-a32d-450e40f66be9.webp?v=1708700434",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-3.jpg?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-2.jpg?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-4.webp?v=1708700495",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-5.webp?v=1708700495",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-6.webp?v=1708700495",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-special-edition-assouline-7.jpg?v=1708700495",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_05.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_10.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_11.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_08.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_12.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_06.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_04.webp?v=1708700495",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_03.webp?v=1708700433",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_14.webp?v=1708700433",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_02.webp?v=1708700430",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-SE-Spreads_07.webp?v=1708700430",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-SE-IC_01_4c88b8a4-46dc-46d2-a32d-450e40f66be9.webp?v=1708700434",
+      "description_html": "<p>When it comes to glamour and high style on the seas, there’s nothing more captivating than the Aquarama. Dreamed up by the legendary Carlo Riva, the run-about wooden speedboat has become an icon of Italian design and the<span> </span><em>Riva Aquarama</em><span> </span>book, edited by Assouline, celebrates its 60th Anniversary. Beloved for its clean lines, mahogany, glistening chrome details and signature robin’s egg-blue and cream upholstery, the Aquarama reflected la dolce vita optimism of early-‘60s Italy; it’s impossible to picture the glittering Côte d’Azur and coasts of Europe without visions of endless summers spent lounging on the back of the boat in the warm summer sun, and the gentle roar of the engine as the Aquarama cuts through the surf.</p>\n<p>The Riva icon enjoyed a mythical status and was beloved by movie stars, heads of state and royalty—everyone from Brigitte Bardot, Elizabeth Taylor, Gunter Sachs and the royal family of Monaco, among countless other luminaries, have been enchanted by the Aquarama’s spell. Of the about 760 completed Aquaramas made in the Sarnico shipyard, Riva experts estimate around 650 are still in existence, which only adds to the boat’s legendary status. But more than just a trophy, the Aquarama is fiercely beloved by its owners and enthusiasts alike—it’s not just a boat, but the realization of a dream. In this exceptional tribute to the Aquarama, author Michael Verdon tells the story of the legendary boat and brings to life its dolce vita charm. The book is also offered in a special edition, presented in a luxury mahogany box that is crafted to express the beauty of the Aquarama’s magnificent hull. This special edition offers owners, collectors and enthusiasts alike a piece of the Riva dream.</p>\n<p><em><strong>Complimentary white gloves and a signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</strong></em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>208 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2022<br><strong>DIMENSIONS</strong><br>W 51 x L 56 x D 10 cm<br><strong>COVER MATERIALS</strong><br>Varnished wood hardcover in a luxury<br>rubber clamshell case with metal tip-on<br><strong>ISBN</strong><br>882664002763<br><strong>WEIGHT</strong><br>12.9 kg<br><strong>AUTHOR</strong><br>Michael Verdon</p>"
+    },
+    {
+      "id": 8875800297804,
+      "title": "Book - Riva Aquarama: The Impossible Collection",
+      "handle": "book-riva-aquarama-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-riva-aquarama-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T15:39:14+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2024-02-23T15:47:05+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734434496844,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-IC_01_be0a5821-7b24-4965-911f-e62987e1d11b.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-3.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-2.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-4.webp?v=1708699619",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-5.webp?v=1708699619",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-6.webp?v=1708699619",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/riva-aquarama-assouline-7.jpg?v=1708699619",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_09.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_10.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_02.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva_PDP_2200x1200-desktop.webp?v=1708699619",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_03.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_12.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_04.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_13.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_05.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_06.webp?v=1708699619",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_07.webp?v=1708699557",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_01.webp?v=1708699559",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-Aquarama-Spreads_08.webp?v=1708699556",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Riva-IC_01_be0a5821-7b24-4965-911f-e62987e1d11b.webp?v=1708699619",
+      "description_html": "<p>When it comes to glamour and high style on the seas, there’s nothing more captivating than the Aquarama. Dreamed up by the legendary Carlo Riva, the run-about wooden speedboat has become an icon of Italian design and the<span> </span><em>Riva Aquarama</em><span> </span>book, edited by Assouline, celebrates its 60th Anniversary. Beloved for its clean lines, mahogany, glistening chrome details and signature robin’s egg-blue and cream upholstery, the Aquarama reflected la dolce vita optimism of early-‘60s Italy; it’s impossible to picture the glittering Côte d’Azur and coasts of Europe without visions of endless summers spent lounging on the back of the boat in the warm summer sun, and the gentle roar of the engine as the Aquarama cuts through the surf.</p>\n<p>The Riva icon enjoyed a mythical status and was beloved by movie stars, heads of state and royalty—everyone from Brigitte Bardot, Elizabeth Taylor, Gunter Sachs and the royal family of Monaco, among countless other luminaries, have been enchanted by the Aquarama’s spell. Of the about 760 completed Aquaramas made in the Sarnico shipyard, Riva experts estimate around 650 are still in existence, which only adds to the boat’s legendary status. But more than just a trophy, the Aquarama is fiercely beloved by its owners and enthusiasts alike—it’s not just a boat, but the realization of a dream. In this exceptional tribute to the Aquarama, author Michael Verdon tells the story of the legendary boat and brings to life its dolce vita charm. The book is also offered in a special edition, presented in a luxury mahogany box that is crafted to express the beauty of the Aquarama’s magnificent hull. This special edition offers owners, collectors and enthusiasts alike a piece of the Riva dream.</p>\n<p><em><strong>Complimentary white gloves and a signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</strong></em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>208 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2022<br><strong>DIMENSIONS</strong><br>W 41 x L 47 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Hardcover in a luxury rubber clamshell case<br>with metal plate tip-on<br><strong>ISBN</strong><br>882664002046<br><strong>WEIGHT</strong><br>8.999 kg<br><strong>AUTHOR</strong><br>Michael Verdon</p>"
+    },
+    {
+      "id": 8875776180556,
+      "title": "Book - Chanel: The Impossible Collection",
+      "handle": "book-chanel-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-chanel-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T15:25:06+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:17:48+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734375547212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC_01_c4d07528-307e-4f31-af81-d46659e9963a.webp?v=1708698817",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-3.webp?v=1708698817",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-2.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-4.webp?v=1708699052",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-5.webp?v=1708699052",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-6.webp?v=1708699052",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/chanel-the-impossible-collection-assouline-7.jpg?v=1708699052",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-09.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-10.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CHANEL_DESKTOP.webp?v=1708699052",
+          "alt": null,
+          "width": 1646,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-02.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-11.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-03.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-04.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-12.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-05.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-06.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-07.webp?v=1708699052",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-01.webp?v=1708698805",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC-Spreads-08.webp?v=1708698803",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Chanel-IC_01_c4d07528-307e-4f31-af81-d46659e9963a.webp?v=1708698817",
+      "description_html": "<p>More than any other designer of her era, Gabrielle Chanel had the ability to predict the evolution of contemporary fashion. Self-inventor extraordinaire, Chanel revolutionized the lifestyle of her time by inventing a modern concept of luxe minimalism, elevating humble fabrics such as jersey and tweed to couture status, giving birth to a new silhouette both sophisticated and discreet, setting her stamp on the twentieth century with her modern spirit of understated luxury.<br><br>The house of Chanel represents modern fashion. Under its founder, the style of the modern woman was invented, through the image of Gabrielle Chanel herself. She dressed women to be free, and her emancipated clothes reflected the shifting landscape of society. Her designs fundamentally affected what we wear, and how we wear it. The work of the house under her successor Karl Lagerfeld has transformed fashion anew: He drew the template for a fashion designer reviving a moribund house with elements from its own history. Just as Chanel created modern fashion, Lagerfeld in turn established the blueprint of the modern fashion house. She reshaped the clothes women wear, he reshaped the industry that makes them.<br><br>This book is a literary museum exhibition, a curated selection of 100 iconic and signature looks of the house of Chanel, from the timeless Little Black Dress to the impeccably simple tweed suit, the apothecary-style perfume bottle, two-tone pumps, abundant strands of faux pearls and stones, and diamond-quilted leather handbag, from Mademoiselle’s revolutionary designs to Karl Lagerfeld’s unexpected and even irreverent variations on her original codes.<br><br>Selected by fashion journalist Alexander Fury,<span> </span><em>Chanel: The Impossible Collection</em><span> </span>showcases the best images from the world’s foremost editorial photographers, specialist museums, and private collections, including rarely seen archival photos, this handcrafted Ultimate Collection volume is the quintessential compendium for fashion aficionados.</p>\n<p><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>232 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 180<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>October 2019<br><strong>DIMENSIONS</strong><br>W 40 x L 47 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted limited edition in a luxury clamshell case<br><strong>ISBN</strong><br>9781614288107<br><strong>WEIGHT</strong><br>10.0 kg<br><strong>AUTHOR</strong><br>Visit the featured collection of:Alexander Fury</p>"
+    },
+    {
+      "id": 8875745706316,
+      "title": "Book - Al'Madinah - The City Of Prophet: The Impossible Collection",
+      "handle": "book-almadinah-the-city-of-prophet-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-almadinah-the-city-of-prophet-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T15:03:35+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2024-02-23T15:10:07+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734295986508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AlMadinah-IC_01_e135d8f3-b27a-423a-a077-228398259985.webp?v=1708697287",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-3.jpg?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-2.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 2432
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-4.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-5.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-6.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-7.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/al-madinah-the-city-of-the-prophet-assouline-8.jpg?v=1708697399",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-02.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-03.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-05.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-09.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al_Madinah_Lifestyle_images_web_1.webp?v=1708697399",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-08.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-07.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-06.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-04.webp?v=1708697399",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Al-Madinah-Spreads-01.webp?v=1708697289",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AlMadinah-IC_01_e135d8f3-b27a-423a-a077-228398259985.webp?v=1708697287",
+      "description_html": "<p>Discover the cultural identity of the holy destination of Al'Madinah with this captivating title -<span> </span><em>Al'Madinah</em>. This tour of the city's greatest landmarks, both past and present, provides readers with a comprehensive understanding of the city's rich history.</p>\n<p>Written by Dr. Tunaideb Al-Faidi and accompanied by Ameen Qaisaran's stunning original photography, this book is a beautiful tribute to one of Saudi Arabia's greatest cities. Al'Madinah is intricately linked with the life of the Prophet and witnessed the birth of Islam, making it an incredibly significant and inspiring destination for pilgrims and visitors alike.</p>\n<p>From the Quba Mosque, where the first stones were positioned by Prophet Muhammad, to the Al Qiblatayn Mosque, where the direction of prayer was first changed from Jerusalem to Mecca, this book highlights the most notable landmarks in the city. One of the most irresistible landmarks is the iconic Green Dome situated atop the second mosque built by Prophet Muhammad in Al'Madinah, Al-Masjid an-Nabawi, also known as the Prophet's Mosque.</p>\n<p>With its engaging text and captivating photography,<span> </span><em>Al'Madinah</em><span> </span>is a must-have for anyone seeking to explore the beauty and significance of this holy city. Get your copy today and take a tour of the city's most remarkable landmarks.</p>\n<p><strong><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>228 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 100<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>April 2023<br><strong>DIMENSIONS</strong><br>W 40 x L 47 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Silk hardcover in silk clamshell<br><strong>ISBN</strong><br>9781649801692<br><strong>WEIGHT</strong><br>8.4 kg<br><strong>AUTHOR</strong><br>Text by Dr. Tunaideb Al-Faidi, Photography by Ameen Qaisaran</p>"
+    },
+    {
+      "id": 8875701371212,
+      "title": "Book - Louis Vuitton - Virgil Abloh: The Impossible Collection",
+      "handle": "book-louis-vuitton-virgil-abloh-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-louis-vuitton-virgil-abloh-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T14:39:21+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T11:05:27+01:00",
+      "available": true,
+      "price_min": 1200,
+      "price_max": 1200,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734188540236,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LV-Virgil-IC_01_06c0ff6d-76b2-4f9c-9093-2a97815ea95a.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-3.jpg?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-2.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-4.webp?v=1708696106",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-5.jpg?v=1708696106",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-6.webp?v=1708696106",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-7.webp?v=1708696106",
+          "alt": null,
+          "width": 1646,
+          "height": 2057
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/louis-vuitton-virgil-abloh-ultimate-edition-assouline-8.jpg?v=1708696106",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_10.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_02.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_07.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_11.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil_Lifestyle_Ultimate_Mobile.webp?v=1708696106",
+          "alt": null,
+          "width": 1200,
+          "height": 655
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_05.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_08.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_12.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_06.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_03.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_09.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_04.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Virgil-Louis-Vuitton-Spreads_01.webp?v=1708696106",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LV-Virgil-IC_01_06c0ff6d-76b2-4f9c-9093-2a97815ea95a.webp?v=1708696106",
+      "description_html": "<p>When Virgil Abloh took his first bow for Louis Vuitton in June 2018, fashion changed forever. The newest addition to the Ultimate Collection,<span> </span><em>Louis Vuitton: Virgil Ablo</em>h honors the designer’s boundary-breaking creativity on and off the runways. With over 250 stunningly iconic images and personal reflections from Abloh’s inner circle, including Nigo, Naomi Campbell, Luka Sabbat, Kendall Jenner and Kid Cudi, the book is the definitive chronicle of a partnership that redefined not only dress codes but their very vocabulary. The Ultimate features a special-edition removable glossary highlighting the numerous sneaker collaborations Virgil Abloh spearheaded during his time at Louis Vuitton. </p>\n<p>This Ultimate edition of<span> </span><em>Louis Vuitton: Virgil Abloh</em><span> </span>is packaged in a carton box, available in four colors*, inspired by the container installation from the Louis Vuitton 2021 spring/summer menswear show in Miami.</p>\n<p>Made in Italy, the Ultimate edition includes a clamshell in printed silk with foil stamping.</p>\n<p><em><strong>White gloves and a large signature canvas tote are included with each purchase from Assouline’s Ultimate Collection.</strong></em></p>\n<p><em>* Please note it is not possible to choose the color of the carton box.</em></p>\n<p><br></p>\n<p><strong>PAGE COUNT</strong><br>360 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>350<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>September 2022<br><strong>DIMENSIONS</strong><br>W 41 x L 43 x D 8 cm<br><strong>COVER MATERIALS</strong><br>Silk clamshell with foil stamping<br>with custom cardboard packaging<br><strong>ISBN</strong><br>882664002480<br><strong>WEIGHT</strong><br>8.2 kg<br><strong>AUTHOR</strong><br>Text by Anders Christian Madsen</p>"
+    },
+    {
+      "id": 8875681939788,
+      "title": "Book - Golf: The Impossible Collection",
+      "handle": "book-golf-the-impossible-collection",
+      "url": "https://arowonen.com/products/book-golf-the-impossible-collection",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "The Ultimate Collection"
+      ],
+      "created_at": "2024-02-23T14:23:15+01:00",
+      "updated_at": "2026-05-22T17:58:25+02:00",
+      "published_at": "2025-01-25T10:17:52+01:00",
+      "available": true,
+      "price_min": 1400,
+      "price_max": 1400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734147055948,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1400.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-1.webp?v=1708695361",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-3.webp?v=1708695397",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-2.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-4.webp?v=1708695397",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-5.webp?v=1708695397",
+          "alt": null,
+          "width": 1946,
+          "height": 2432
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-6.webp?v=1708695397",
+          "alt": null,
+          "width": 1946,
+          "height": 2433
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-7.webp?v=1708695397",
+          "alt": null,
+          "width": 1646,
+          "height": 2058
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-8.jpg?v=1708695397",
+          "alt": null,
+          "width": 1200,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-04.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-05.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-07.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-06.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-02.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-03.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Golf-IC-Spreads-01.webp?v=1708695397",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/golf-the-impossible-collection-assouline-1.webp?v=1708695361",
+      "description_html": "<p>In this most recent addition to Assouline’s highly covetable and lauded Ultimate Collection, George Peper, former editor in chief of<span> </span><em>Golf</em><span> </span>magazine and 2016 PGA Lifetime Achievement Award winner for Journalism, takes readers on an incomparable golf journey as he travels the world detailing the 100 most significant, historically noteworthy, and architecturally paramount courses. Describing intricate holes that have confounded the game’s best, revisiting tournaments that have made and broken champions, and elucidating the unique and truly special characteristics of each course makes Peper the perfect golf partner as he walks readers through the clubhouses, fairways, and bunkers. From greens as old and hallowed as St Andrews to courses celebrating their first anniversary such as Nova Scotia’s Cabot Cliffs, from the island mountain course of China’s Shanqin Bay to the Hamptons’ Maidstone Club,<em><span> </span>Golf: The Impossible Collection</em><span> </span>is an unequivocal sensory treat for the golf fanatic, or the perfect feast to feed the wanderlust simmering in all of us.</p>\n<p><strong><em>Complimentary white gloves and signature canvas tote bag are included with each purchase from Assouline's Ultimate Collection</em></strong></p>\n<p> </p>\n<p><strong>PAGE COUNT</strong><br>200 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>130<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>October 2017<br><strong>DIMENSIONS</strong><br>W 36 x L 43 x D 7 cm<br><strong>COVER MATERIALS</strong><br>Handcrafted limited edition in a luxury case with white gloss finish<br><strong>ISBN</strong><br>9781614286530<br><strong>WEIGHT</strong><br>9.0 kg</p>"
+    }
+  ]
+}

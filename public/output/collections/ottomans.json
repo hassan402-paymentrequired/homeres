@@ -1,0 +1,910 @@
+{
+  "handle": "ottomans",
+  "label": "Ottomans",
+  "url": "https://arowonen.com/collections/ottomans",
+  "scraped_at": "2026-05-22T15:56:44.203Z",
+  "product_count": 12,
+  "products": [
+    {
+      "id": 15013596135756,
+      "title": "Sofa  - So Soft - By Studiopepe",
+      "handle": "sofa-so-soft-by-studiopepe",
+      "url": "https://arowonen.com/products/sofa-so-soft-by-studiopepe",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Paola Navone",
+        "SOFAS"
+      ],
+      "created_at": "2025-08-06T13:51:16+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T16:50:11+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069887013196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_14_15afa884-cc82-462e-865e-fafa03f43316.avif?v=1754481278",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_15_89e0d0b9-e3a9-441d-850a-72e217bec18c.avif?v=1754481279",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_16_52aa24bc-d4ab-419c-80c3-dadb58bf6f54.avif?v=1754481278",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_17_50b6c41e-11ff-4166-8e01-63eac456bfe1.avif?v=1754481278",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_18_cb1c8edd-583e-45de-ba17-28a2700864d3.avif?v=1754481278",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_19_2042650d-ccce-46ba-adf5-b0a8f7757885.avif?v=1754481278",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_20_92c842f0-b7c4-4960-8902-1146ae4cc7e8.avif?v=1754481279",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_21_a02b5b1b-e4a7-4465-acbc-afc7b979d8cf.avif?v=1754481278",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_14_15afa884-cc82-462e-865e-fafa03f43316.avif?v=1754481278",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">So Soft is an ottoman and dormeuse collection that celebrates the comfortable side of living. Conceived by Studiopepe, the two rounded accessories enhance the space with new opportunities for comfort and socialising, in a vision of the living room as an inviting, relaxing place. This impression is accentuated by the leather upholstery, enhanced by the sinuous embrace of the metal tubular elements that contain its shapes. Here, ottomans and daybeds are reassuring oases, cosy refuges for taking a break, alone or in company.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15013433672012,
+      "title": "Armchair - Pedro Indoor - By Roberto Lazzeroni",
+      "handle": "sofa-passepartout-by-federico-peri",
+      "url": "https://arowonen.com/products/sofa-passepartout-by-federico-peri",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Armchair",
+        "Hide",
+        "hide-price",
+        "Roberto Lazzeroni"
+      ],
+      "created_at": "2025-08-06T12:13:16+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T15:48:50+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069476593996,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_46_bc4cfc1b-8070-4132-bcd7-9eded4c8d618.avif?v=1754475592",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_47_84d4e683-6e8f-4f0c-84fc-4434091597c9.avif?v=1754475592",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_48_5f1fd2be-97b3-45b9-8cef-0963d4e71427.avif?v=1754475592",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_49_c488a30e-004d-471f-9572-809136b35953.avif?v=1754475592",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_50_40c64902-02f3-4539-b825-2aa128879575.avif?v=1754475592",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_46_bc4cfc1b-8070-4132-bcd7-9eded4c8d618.avif?v=1754475592",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Infused with sculptural elements and material details, the Pedro collection's indoor armchair and ottoman introduce artistic presences featuring exotic and essential lines into domestic areas, fostering a sophisticated and welcoming ambience. For the indoor armchair, Roberto Lazzeroni designs a welcoming low seat with a generous, comfortable round cushion, crafted from premium indoor leather, and others leather cushions to lean against the high backrest reminiscent of thrones and tribal chairs. The enveloping metal frame varnished with refined details is designed to blend harmoniously into the interior, offering comfort and style in every season.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15013418533196,
+      "title": "Sofa - Panama Bold - By Paola Navone",
+      "handle": "sofa-panama-bold-by-paola-navone-2",
+      "url": "https://arowonen.com/products/sofa-panama-bold-by-paola-navone-2",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Paola Navone",
+        "SOFAS"
+      ],
+      "created_at": "2025-08-06T12:02:40+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T15:48:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069431996748,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_38_5a4e0711-7aa5-4c74-a6b9-577fb5e53393.avif?v=1754474686",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_39_9ddecdcb-bc7a-463d-bdd6-040b8a7fff12.avif?v=1754474686",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_40_236510d1-0c39-4f78-a852-bcd397fc184f.avif?v=1754474686",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_41_954f8a8a-abf5-404d-80ab-8711c420cb74.avif?v=1754474685",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_42_d71c9cbb-7948-4740-839a-26155417fc75.avif?v=1754474686",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_38_5a4e0711-7aa5-4c74-a6b9-577fb5e53393.avif?v=1754474686",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Comfort in its most flexible form. Panama Bold is the modular leather sofa created by Paola Navone to meet the need for versatility and well-being with an essential and cosy design, which represents an ideal of informal elegance. Ideal for any setting, the sofa features modular ottomans that accommodate large, soft cushions, easily transforming their function with a simple touch. Thanks to the internal counterweight that provides balance, the upholstered cushions effortlessly transform into armrests and backrests, adapting to your desires and needs. The evolving charm of Panama Bold becomes even more exquisite with the addition of soft leather upholstery and visible stitching, a sophisticated element that emphasizes the tactile qualities of the piece.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15013349392716,
+      "title": "Armchair - Nina - By Roberto Lazzeroni",
+      "handle": "armchair-nina-by-roberto-lazzeroni",
+      "url": "https://arowonen.com/products/armchair-nina-by-roberto-lazzeroni",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Armchair",
+        "Hide",
+        "hide-price",
+        "Roberto Lazzeroni"
+      ],
+      "created_at": "2025-08-06T11:24:44+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T15:43:36+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069311672652,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_16_f9c85af6-2233-4614-b7f8-4631f7c4be19.avif?v=1754472798",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_17_9e7109d0-d567-4b33-ac85-e0bf6edab26f.avif?v=1754472797",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Nina_pouf_1.jpg?v=1754472796",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_16_f9c85af6-2233-4614-b7f8-4631f7c4be19.avif?v=1754472798",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Nina ottoman by Roberto Lazzeroni represents a new classic for convivial occasions. With its wrap-around backrest, the Nina's welcoming and elegant design seamlessly integrates into any setting, providing an ideal spot for enjoying moments with friends. The leather ottoman has a circular seat, which develops vertically outlining soft and essential shapes, contained by a decorative profile in the same colour as the seat and backrest or in contrasting colours. The soft upholstery guarantees comfort and well-being, enveloping the entire structure and preserving its striking presence over time while staying faithful to its iconic design aesthetic.</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15007128027468,
+      "title": "Ottoman - Beki - By Christophe Delcourt",
+      "handle": "armchair-beki-by-christophe-delcourt",
+      "url": "https://arowonen.com/products/armchair-beki-by-christophe-delcourt",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Christophe Delcourt",
+        "Hide",
+        "hide-price"
+      ],
+      "created_at": "2025-08-03T14:15:11+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-05T14:03:20+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53045888221516,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_52.avif?v=1754223373",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_53.avif?v=1754223372",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_54.avif?v=1754223372",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_55.avif?v=1754223372",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_52.avif?v=1754223373",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Beki is the sectional ottoman designed by Christophe Delcourt for Baxter, a piece of furniture with a sculptural and striking design that permits creative combinations and ever new informal uses. Each of the modules can be combined with other Beki ottomans using magnets, making this seat ideal for furnishing art galleries and installations. Like river stones with rounded, irregular corners, the ottoman’s components adjust the space to create comfortable seating areas that invite socialising and relaxation, ensuring maximum comfort thanks to the leather upholstery.</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15009697562956,
+      "title": "Armchair - Keren - By Christophe Delcourt",
+      "handle": "armchair-keren-by-christophe-delcourt",
+      "url": "https://arowonen.com/products/armchair-keren-by-christophe-delcourt",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Armchair",
+        "Christophe Delcourt",
+        "Hide",
+        "hide-price"
+      ],
+      "created_at": "2025-08-04T18:12:15+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T13:52:24+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53056729678156,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_50_c9aa3883-5f13-4eb7-8537-4a83ca9b6fd3.avif?v=1754324024",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_51_3039ec32-1264-412c-98e6-a1aac0c76584.avif?v=1754324024",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_52_c47d20c5-90e4-404e-b67f-1437d5e1d2ff.avif?v=1754324024",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_53_b89704b0-7906-43aa-accd-eb526ec20cce.avif?v=1754324024",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_54_48e744a6-fae8-4bb6-8e8c-045c98ecba94.avif?v=1754324024",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_50_c9aa3883-5f13-4eb7-8537-4a83ca9b6fd3.avif?v=1754324024",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Keren is an innovative collection of soft leather armchairs and ottomans designed by the eclectic Christophe Delcourt for Baxter. Inspired by nature’s geometric shapes, Delcourt’s design perfectly interlocks organic and bevelled forms to create a small armchair with a harmonious seat and compact dimensions complemented by a sculptural ottoman. Two furnishing elements that dialogue in a perfect balance, capable of enhancing any room, from the living room to the dining room.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15009613644108,
+      "title": "Ottoman - Istanbul - By Paola Navone",
+      "handle": "armchair-istanbul-by-paola-navone",
+      "url": "https://arowonen.com/products/armchair-istanbul-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-04T17:45:03+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-06T13:41:01+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53056545259852,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_25_0805fed3-7e30-43fd-b3e3-a0443f418710.avif?v=1754322349",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_26_9e0ec272-c81b-404e-bc62-516a82f3c250.avif?v=1754322349",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_25_0805fed3-7e30-43fd-b3e3-a0443f418710.avif?v=1754322349",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The upholstered Istanbul ottomans designed by Paola Navone for Baxter offer a sensory experience of comfort and softness. Perfect in any environment, these upholstered and leather-covered seats not only decorate spaces with the sinuous lines of their design, but also create an extra cosy oasis for relaxing breaks and convivial moments. The versatility of the Istanbul ottomans makes them ideal elements to complete any space and offer a resting experience that is as elegant as it is comfortable.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15007154929996,
+      "title": "Ottoman - Bongo - By Paola Navone",
+      "handle": "armchair-bongo-by-paola-navone",
+      "url": "https://arowonen.com/products/armchair-bongo-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "HOME ACCESSORIES",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-03T14:37:33+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-08-05T14:29:39+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53045955166540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_69.avif?v=1754224715",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Baxter_Catalogo8_2017_Bongo_pouf_Ambientata_1.jpg?v=1754224822",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_69.avif?v=1754224715",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Bongo ottoman designed by Paola Navone, with its ethnic and minimalist design, becomes the elegant centrepiece of the living space. The ottoman’s iconic shape – reminiscent of the sculptural forms of African drums – is an ironic invitation to sit and enjoy social moments. The formal aspect is carefully designed down to the smallest detail by the exquisite workmanship of the raw-edge leather stitching, which outlines sinuous and enveloping shapes and gives the seat a unique and original appearance.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14680994840908,
+      "title": "Ottoman - S'Mores",
+      "handle": "ottoman-smores",
+      "url": "https://arowonen.com/products/ottoman-smores",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:18:44+01:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2025-01-28T12:19:37+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865554846028,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/S_MORES__24__1500x1685_FendiCasa.webp?v=1738063171",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Smores_cut.webp?v=1738063171",
+          "alt": null,
+          "width": 900,
+          "height": 752
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-01-28om12.19.12.png?v=1738063171",
+          "alt": null,
+          "width": 416,
+          "height": 200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/S_MORES__24__1500x1685_FendiCasa.webp?v=1738063171",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p><meta charset=\"utf-8\"><span>The S'Mores ottoman is an ideal complement to a sofa, or as a stunning focal element of the living area. Small and oval, large and round, its sophisticated silhouette expresses innate versatility, while the tubular metal finishes enriched with FF details become a decorative, highly iconic element. The essential fluidity of this project demonstrates how the stylistic strength of minimal design can adapt to different styles of home, from classic to contemporary environments.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 9255218839884,
+      "title": "Ottoman - Lounge Club - Nuoro greige",
+      "handle": "ottoman-lounge-club-nuoro-greige",
+      "url": "https://arowonen.com/products/ottoman-lounge-club-nuoro-greige",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2024-09-22T16:23:35+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2024-09-22T16:25:30+02:00",
+      "available": true,
+      "price_min": 1895,
+      "price_max": 1895,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48755044647244,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1895.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_0_1_1.webp?v=1727015120",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_4_1_1.webp?v=1727015121",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_2_1_1.webp?v=1727015120",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_3_1_1.webp?v=1727015120",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_9_1_1.webp?v=1727015120",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_10_1_1.webp?v=1727015121",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119400_0_1_1.webp?v=1727015120",
+      "description_html": "<p class=\"text-special-sm\">Step into a realm of contemporary elegance with the Eichholtz Ottoman Club Lounge in Nuoro greige fabric, complemented by sleek black feet.</p>\n<p class=\"text-special-sm\"><span>Crafted to redefine comfort and style, this exclusive piece effortlessly blends modern design with timeless sophistication. Perfect for enhancing your living space and creating versatile seating arrangements alongside the matching Sofa Club Lounge.</span><span></span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 122 | D. 122 | SH. 40 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><span class=\"dimension-value\">General info: <meta charset=\"utf-8\">\n<span>Nuoro greige | black feet</span><br data-mce-fragment=\"1\">Fabric composition: <meta charset=\"utf-8\">\n<span>97% polyester | 3% viscose</span><br data-mce-fragment=\"1\"></span><span class=\"dimension-value\">Indoor/outdoor: Indoor use/dry locations only</span><strong><span class=\"dimension-value\"><br data-mce-fragment=\"1\"></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span></p>"
+    },
+    {
+      "id": 9255220904268,
+      "title": "Ottoman - Lounge Club - Nuoro Beige",
+      "handle": "ottoman-lounge-club-nuoro-beige",
+      "url": "https://arowonen.com/products/ottoman-lounge-club-nuoro-beige",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2024-09-22T16:26:20+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2024-09-22T16:27:24+02:00",
+      "available": true,
+      "price_min": 1895,
+      "price_max": 1895,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48755051397452,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1895.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_0_1_1_c81f7757-324e-46ef-98c0-312a6894bb90.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_1_1_1_8d6eb06e-2eba-40f2-9acd-ee23e95769b1.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_2_1_1_04c127a0-c46b-488f-840a-4f86cfbaa021.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_3_1_1_421537e1-b44f-4644-b791-6f660d52a2cb.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_9_1_1_b672bb18-7894-458f-be63-d2a577bfd893.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_10_1_1_ab501fa2-f0a0-441a-b802-33b035370368.webp?v=1727015235",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116422_0_1_1_c81f7757-324e-46ef-98c0-312a6894bb90.webp?v=1727015235",
+      "description_html": "<p class=\"text-special-sm\">Step into a realm of contemporary elegance with the Eichholtz Ottoman Club Lounge in Nuoro Beige fabric, complemented by sleek black feet.</p>\n<p class=\"text-special-sm\"><span>Crafted to redefine comfort and style, this exclusive piece effortlessly blends modern design with timeless sophistication. Perfect for enhancing your living space and creating versatile seating arrangements alongside the matching Sofa Club Lounge.</span><span></span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 122 | D. 122 | SH. 40 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><span class=\"dimension-value\">General info: <meta charset=\"utf-8\"> <span>Nuoro Beige | black feet</span><br data-mce-fragment=\"1\">Fabric composition: <meta charset=\"utf-8\"> <span>97% polyester | 3% viscose</span><br data-mce-fragment=\"1\"></span><span class=\"dimension-value\">Indoor/outdoor: Indoor use/dry locations only</span><strong><span class=\"dimension-value\"><br data-mce-fragment=\"1\"></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span></p>"
+    },
+    {
+      "id": 8949747614028,
+      "title": "Ottoman - Clifford - Avalon White",
+      "handle": "ottoman-clifford-avalon-white",
+      "url": "https://arowonen.com/products/ottoman-clifford-avalon-white",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2024-04-04T14:13:53+02:00",
+      "updated_at": "2026-05-22T17:56:44+02:00",
+      "published_at": "2024-04-04T14:19:47+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47934104666444,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_0_1_1.webp?v=1712233081",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_4_1_1.webp?v=1712233091",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_2_1_1.webp?v=1712233091",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_3_1_1.webp?v=1712233091",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_1_1_1.webp?v=1712233091",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_10.webp?v=1712233083",
+          "alt": null,
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_11.webp?v=1712233082",
+          "alt": null,
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113771_0_1_1.webp?v=1712233081",
+      "description_html": "<p class=\"text-special-sm\">Comprising a 2-seater, corner chair and ottoman, the modular Clifford series offers a wide range of seating options.</p>\n<p><span>Use each element individually or combine them to your heart’s content. Pair the chair and ottoman to form a chaise longue. Create a right or left corner sectional sofa, or a u-shaped sofa, by simply adding one or more 2-seaters and chairs to this configuration. With their Avalon white upholstery, these furniture pieces are a perfect fit for crisp white interiors.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 108 | D. 90 | H. 43 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><span class=\"dimension-value\">General info: Avalon white | black feet<br data-mce-fragment=\"1\">Fabric composition: 87% polyester | 13% viscose<br data-mce-fragment=\"1\"></span><span class=\"dimension-value\">Indoor/outdoor: Indoor use/dry locations only</span><strong><span class=\"dimension-value\"><br data-mce-fragment=\"1\"></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span></p>"
+    }
+  ]
+}

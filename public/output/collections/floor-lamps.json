@@ -1,0 +1,3978 @@
+{
+  "handle": "floor-lamps",
+  "label": "Floor Lamps",
+  "url": "https://arowonen.com/collections/floor-lamps",
+  "scraped_at": "2026-05-22T15:57:31.900Z",
+  "product_count": 47,
+  "products": [
+    {
+      "id": 15596729205068,
+      "title": "Floor Lamp - SuperWire",
+      "handle": "floor-lamp-superwire",
+      "url": "https://arowonen.com/products/floor-lamp-superwire",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2026-02-24T10:55:43+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2026-03-08T18:10:25+01:00",
+      "available": true,
+      "price_min": 4700,
+      "price_max": 4700,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56830736236876,
+          "title": "Default Title",
+          "sku": null,
+          "price": "4700.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Superwire-Steel_1.jpg?v=1771927312",
+          "alt": null,
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_superwire_floor_01.jpg?v=1771927377",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Superwire.svg?v=1771927377",
+          "alt": null,
+          "width": 2400,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Superwire-Steel_1.jpg?v=1771927312",
+      "description_html": "<p><meta charset=\"utf-8\"><span>SuperWire is the first family of modular lamps designed by Formafantasma for Flos. A magical and poetic project, with an essential design but a great stage presence, which recalls the work of the great glass masters of the last century. Made of planar glass and polished aluminum, its design originated from the development of a custom-made light source that emits a warm and homogeneous light.Made up of one or more hexagons of planar glass connected by a polished aluminum element, SuperWire lights up its entire surface thanks to a new source: a very thin, flat, soft, flexible LED strip measuring up to one meter, which emits a warm and homogeneous light along its entire length and which can be easily removed for replacement and repair, unique in the panorama of LED bulb-less lamps.This floor version, is built with two 75 cm high modules, placed one above the other, resting on a steel tripod, a tribute to the historic Luminator by the Castiglioni brothers.</span></p>\n<p><strong><meta charset=\"utf-8\">Description<meta charset=\"utf-8\"></strong></p>\n<div class=\"definition-table__line\">Weight (kg)               12</div>\n<div class=\"definition-table__line\">Width (mm)               792</div>\n<div class=\"definition-table__line\">Length (mm)             792</div>\n<div class=\"definition-table__line\">Height (mm)              2218</div>\n<div class=\"definition-table__line\">Cord length (mm)     3000</div>\n<div class=\"definition-table__line\">Cord colour               Clear</div>"
+    },
+    {
+      "id": 15596606980428,
+      "title": "Floor Lamp - Seki-Han - wood",
+      "handle": "floor-lamp-seki-han-wood",
+      "url": "https://arowonen.com/products/floor-lamp-seki-han-wood",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2026-02-24T10:02:04+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2026-03-08T18:10:23+01:00",
+      "available": true,
+      "price_min": 1650,
+      "price_max": 1650,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56829902225740,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1650.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Seki-Han-Wood.jpg?v=1771923939",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_sekihan_floor.jpg?v=1771924064",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Seki-Han.svg?v=1771924064",
+          "alt": null,
+          "width": 2400,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Seki-Han-Wood.jpg?v=1771923939",
+      "description_html": "<p class=\"text-special-sm\"><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Floor lamp emitting direct and indirect light with symmetrical and asymmetrical distribution. Features two vertical ash wood blades joined by chromed metal fittings. Blades rotate around a central tubular light source to allow variable light emission. Raw black iron base separated from the vertical blades by a collar. Custom-developed dimmable linear LED light source. The lamp can also be fitted with standard T8 LED tubes.Designed by Tobia Scarpa in 1963 and reissued in 2025, Seki-Han is testament to his mastery of design and wood-working expertise. The intricate construction draws on naval techniques to shape two wooden blades that now rotate around the light source. Even when almost completely closed, a sliver of light remains visible, creating a highly poetic effect. Named after a traditional Japanese rice dish served on special occasions, Seki-Han is a living presence where the immateriality of light meets the tactility of wood.</span></p>\n<p class=\"text-special-sm\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<ul class=\"dimensions-list\"></ul>\n<dl class=\"c-definition-table fl-physical__table\">\n<dt class=\"definition-table__dt\">Weight (kg)               <meta charset=\"utf-8\">\n<span>9.15</span>\n</dt>\n<dt class=\"definition-table__dt\">\n</dt>\n<dl class=\"c-definition-table fl-physical__table\">\n<dt class=\"definition-table__dt\">Length (mm)              <meta charset=\"utf-8\">\n<span>290</span>\n</dt>\n<dt class=\"definition-table__dt\">\n</dt>\n<dl class=\"c-definition-table fl-physical__table\">\n<dt class=\"definition-table__dt\">Height (mm)                <meta charset=\"utf-8\">\n<span>1850</span>\n</dt>\n<dt class=\"definition-table__dt\">\n</dt>\n<dl class=\"c-definition-table fl-physical__table\">\n<dt class=\"definition-table__dt\">Cord length (mm)        <meta charset=\"utf-8\">\n<span>2100</span>\n</dt>\n</dl>\n\n</dl>\n\n</dl>\n\n</dl>"
+    },
+    {
+      "id": 15437895074124,
+      "title": "Floor Lamp - Chiara - Stainless Steel",
+      "handle": "floor-lamp-chiara-stainless-steel",
+      "url": "https://arowonen.com/products/floor-lamp-chiara-stainless-steel",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-12-05T14:48:29+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-12-05T14:50:41+01:00",
+      "available": true,
+      "price_min": 2150,
+      "price_max": 2150,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56167712162124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48057.webp?v=1764942615",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48056.jpg?v=1764942645",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48058.webp?v=1764942645",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48059.webp?v=1764942645",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48060.webp?v=1764942645",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48057.webp?v=1764942615",
+      "description_html": "<p>The FLOS Chiara Floor Lamp is a 2020 design and a reissue of Mario Bellini's original 1969 icon. The story behind this unique lamp begins when Bellini realises that light can be used in the same way it manifests itself in our environment: never directly, but through reflection on surfaces. The designer took a pair of scissors and a piece of cardboard and began cutting something that could be made into a cylinder with a wide cap. When the left and right sides of the cap were joined together, it would function as a reflector for the cylindrical base. Although the Italian name Chiara means “clear”, the name of the lamp refers to certain dialect expressions in Lombardy for “casting light”, translated into the Italian word “Chiaro”.</p>\n<p>Fifty years after the introduction of the original Chiara, FLOS is reissuing the classic in new sizes and finishes. With its large size, the floor lamp is a stunning sight to behold; soft in shape and impressive in presence. The lamp has a reflective profile made of laser-cut stainless steel and is finished on the inside with a white plastic film. The folded surface is closed by hooks formed directly from the sheet metal. A coloured seal made of moulded thermoplastic polyurethane runs along the entire profile of the lamp. The supplied 190-centimetre cord has a dimmer switch that allows you to adjust the light intensity to your liking. The light source is not included.</p>"
+    },
+    {
+      "id": 15100964340044,
+      "title": "Floor Lamp - Massimo - Piano Black finish",
+      "handle": "floor-lamp-massimo-piano-black-finish",
+      "url": "https://arowonen.com/products/floor-lamp-massimo-piano-black-finish",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-23T12:18:42+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-27T13:35:21+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53429969092940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119896_1400x_6169a195-1981-471c-8d3d-e199e5f879a8.webp?v=1758622803",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_119896_1_1_1_700x_d9ab26a6-88e2-4b99-baf2-f8b9d556632d.webp?v=1758622827",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_119896_2_1_1_700x_e5cdddb5-c2cb-40f4-90f7-0225798b5a07.webp?v=1758622827",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_119896_3_1_1_700x_e33cf889-e27b-44a0-b7e6-2986c3ab9279.webp?v=1758622827",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_119896_4_1_1_700x_95fd2521-ee7e-423d-82a9-9b196673f59c.webp?v=1758622802",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_119896_5_1_1_700x_17f4d6b8-39da-4e46-96c7-4ae72cb2c35b.webp?v=1758622804",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119896_1400x_6169a195-1981-471c-8d3d-e199e5f879a8.webp?v=1758622803",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><span>The Floor Lamp Massimo features a white wooden stand on a white marble base.</span></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Piano white finish | white marble base</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  <meta charset=\"utf-8\">11.46</div>\n<p><strong>Dimensions:</strong> <meta charset=\"utf-8\">W. 8 | max W. 55 | H. 187.5 cm<br><meta charset=\"utf-8\"><strong>Base dimensions (cm)</strong> <meta charset=\"utf-8\">W. 30 | D. 15 cm<br><strong>Wire length (cm) </strong>380<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Lamp holder</strong> E27<br><strong>Lamp holder qty</strong> 1<br><strong>Plug</strong> C - Euro plug<br><strong>Voltage</strong> 220 - 240 Volt<br><strong>Rec. bulb wattage (max)</strong> 5 watt<br><strong>Wattage (max)</strong> 5 watt<br><strong>Light source </strong>Not included<br><strong>Dimmer </strong>Dimmable, dimmer not included<br><strong>Switch</strong> Floor switch<br><strong>Shade support</strong> E27 Ring<br><strong>Wire</strong> 2 core (0,75mm²)<br><strong>Fabric composition</strong> 67% viscose | 33% linen</p>"
+    },
+    {
+      "id": 15100933144908,
+      "title": "Floor Lamp - Massimo - Piano white finish",
+      "handle": "floor-lamp-massimo",
+      "url": "https://arowonen.com/products/floor-lamp-massimo",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-23T12:02:39+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-27T13:35:06+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53429876916556,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_0_1_1.webp?v=1779450745",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_1_1_1.jpg?v=1779450747",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_2_1_1.jpg?v=1779450745",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_4_1_1.jpg?v=1779450746",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_3_1_1.jpg?v=1779450746",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_5_1_1.jpg?v=1779450747",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119897_0_1_1.webp?v=1779450745",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><span>The Floor Lamp Massimo features a white wooden stand on a white marble base.</span></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Piano white finish | white marble base</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  <meta charset=\"utf-8\">11.46</div>\n<p><strong>Dimensions:</strong> <meta charset=\"utf-8\">W. 8 | max W. 55 | H. 187.5 cm<br><meta charset=\"utf-8\"><strong>Base dimensions (cm)</strong> <meta charset=\"utf-8\">W. 30 | D. 15 cm<br><strong>Wire length (cm) </strong>380<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Lamp holder</strong> E27<br><strong>Lamp holder qty</strong> 1<br><strong>Plug</strong> C - Euro plug<br><strong>Voltage</strong> 220 - 240 Volt<br><strong>Rec. bulb wattage (max)</strong> 5 watt<br><strong>Wattage (max)</strong> 5 watt<br><strong>Light source </strong>Not included<br><strong>Dimmer </strong>Dimmable, dimmer not included<br><strong>Switch</strong> Floor switch<br><strong>Shade support</strong> E27 Ring<br><strong>Wire</strong> 2 core (0,75mm²)<br><strong>Fabric composition</strong> 67% viscose | 33% linen</p>"
+    },
+    {
+      "id": 15100912042316,
+      "title": "Floor Lamp - Arabella -  Piano black finish",
+      "handle": "floor-lamp-arabella-piano-black-finish",
+      "url": "https://arowonen.com/products/floor-lamp-arabella-piano-black-finish",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-23T11:54:54+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-27T13:32:20+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53429804400972,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_0_1_1.webp?v=1779451222",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_1_1_1.jpg?v=1779451224",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_3_1_1.jpg?v=1779451223",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_6_1_1.jpg?v=1779451223",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_5_1_1.jpg?v=1779451223",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_2_1_1.jpg?v=1779451223",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_7_1_1.jpg?v=1779451223",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119975_0_1_1.webp?v=1779451222",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Introducing the Floor Lamp Arabella in a rich bordeaux red, featuring a sleek wooden frame paired with a silk-look shade.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Bordeaux red finish | black granite base</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  <meta charset=\"utf-8\">6.57</div>\n<p><strong>Dimensions:</strong> <meta charset=\"utf-8\">W. 17 | max W. 55 | H. 162.5 cm<br><meta charset=\"utf-8\"><strong>Base dimensions (cm)</strong> W. 14.5 | D. 20 cm<br><meta charset=\"utf-8\"><strong>Wire length (cm) </strong>380<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS</strong></p>\n<p><strong>Assembly required? </strong>No assembly required<strong><br>Lamp holder </strong>E27<strong><br>Lamp holder qty </strong>1<strong><br>Plug </strong>C - Euro plug<strong><br>Voltage </strong>220 - 240 Volt<strong><br>Rec. bulb wattage (max) </strong>5 watt<strong><br>Wattage (max) </strong>5 watt<strong><br>Light source</strong> Not included<strong><br>Dimmer </strong>No<strong><br>Switch </strong>Floor switch<strong><br>Shade support </strong>E27 Ring<strong><br>Wire </strong>2 core (0,75mm²)</p>"
+    },
+    {
+      "id": 15100901687628,
+      "title": "Floor Lamp - Arabella -  Bordeaux red finish",
+      "handle": "floor-lamp-arabella",
+      "url": "https://arowonen.com/products/floor-lamp-arabella",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-23T11:51:03+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-27T13:32:02+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53429783036236,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_3_1_1.jpg?v=1779451436",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_1_1_1.jpg?v=1779451437",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_4_1_1.jpg?v=1779451436",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_2_1_1.jpg?v=1779451436",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_2_1_1_1.jpg?v=1779451436",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_6_1_1.jpg?v=1779451437",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_5_1_1.jpg?v=1779451437",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120031_3_1_1.jpg?v=1779451436",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Introducing the Floor Lamp Arabella in a rich bordeaux red, featuring a sleek wooden frame paired with a silk-look shade.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Bordeaux red finish | black granite base</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  4.<meta charset=\"utf-8\">68</div>\n<p><strong>Dimensions:</strong> <meta charset=\"utf-8\">W. 17 | max W. 55 | H. 162.5 cm<br><meta charset=\"utf-8\"><strong>Base dimensions (cm)</strong> W. 14.5 | D. 20 cm<br><meta charset=\"utf-8\"><strong>Wire length (cm) </strong>380<br></p>"
+    },
+    {
+      "id": 15056703062348,
+      "title": "Floor Lamp - Glo-Ball Floor 3",
+      "handle": "floor-lamp-glo-ball-floor-3",
+      "url": "https://arowonen.com/products/floor-lamp-glo-ball-floor-3",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T13:45:21+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:44:46+02:00",
+      "available": true,
+      "price_min": 1030,
+      "price_max": 1030,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 53238618128716,
+          "title": "Silver",
+          "sku": "F3030000",
+          "price": "1030.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Silver",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238618161484,
+          "title": "Matt Black",
+          "sku": "F3030031",
+          "price": "1030.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Matt Black",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Silver",
+            "Matt Black"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F3-Matte_Black_787279a4-15bc-4315-8ac3-c45bbf125408.jpg?v=1756727278",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F3-Silver.jpg?v=1756727370",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_globall_floor3_black_2_24d9bb8e-2abf-44b3-ad73-c01962c1ed46.jpg?v=1756727404",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_globall_floor3_silver_fe46a19d-bb22-441d-9c8e-be6abe22cf4e.jpg?v=1756727404",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_globall_f_01_2c0fb70b-79a1-4342-aaf7-5384f42285f6.jpg?v=1756727405",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_globall_f_04_9704d007-4741-4bfe-bfc3-e54120d36479.jpg?v=1756727405",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F3-Matte_Black_787279a4-15bc-4315-8ac3-c45bbf125408.jpg?v=1756727278",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing diffused light. Diffuser consisting of an externally acid-etched, hand blown, flashed opaline glass and a die-cast threaded ring nut with alodine plating finish. Gray or black painted high-thickness steel base and stem and die-cast aluminum diffuser support. On the cable there is the electronic dimmer which allows the regulation of light brightness.</span><br></p>"
+    },
+    {
+      "id": 15056699851084,
+      "title": "Floor Lamp - Glo-Ball Floor 2",
+      "handle": "floor-lamp-glo-ball-floor-2",
+      "url": "https://arowonen.com/products/floor-lamp-glo-ball-floor-2",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T13:42:20+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:44:35+02:00",
+      "available": true,
+      "price_min": 970,
+      "price_max": 970,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 53238602858828,
+          "title": "Silver",
+          "sku": "F3032020",
+          "price": "970.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Silver",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238602891596,
+          "title": "Matt Black",
+          "sku": "F3032031",
+          "price": "970.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Matt Black",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Silver",
+            "Matt Black"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F2-Silver.jpg?v=1756727013",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F2-Matte_Black.jpg?v=1756727080",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_globall_floor3_black_2_e31269eb-71d1-47bc-81eb-c4c3f3705a7d.jpg?v=1756727159",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_globall_floor3_silver_2c243e45-edec-4ce2-a746-21c69c3785ba.jpg?v=1756727159",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_globall_f_01_946c86bb-71e8-448d-8fc9-25b36a2a3891.jpg?v=1756727159",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_globall_f_04_23953d1c-f8f8-4b0b-8694-1ae92b6653d6.jpg?v=1756727159",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Glo_Ball-F2.svg?v=1756727159",
+          "alt": null,
+          "width": 300,
+          "height": 263
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F2-Silver.jpg?v=1756727013",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing diffused light. Diffuser consisting of an externally acid-etched, hand blown, flashed opaline glass and a die-cast threaded ring nut with alodine plating finish. Gray or black painted high-thickness steel base and stem and die-cast aluminum diffuser support. On the cable there is the electronic dimmer which allows the regulation of light brightness.</span><br></p>"
+    },
+    {
+      "id": 15056696574284,
+      "title": "Floor Lamp - Glo-Ball Floor 1",
+      "handle": "floor-lamp-glo-ball-floor-1",
+      "url": "https://arowonen.com/products/floor-lamp-glo-ball-floor-1",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T13:37:21+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:44:19+02:00",
+      "available": true,
+      "price_min": 910,
+      "price_max": 910,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 53238586081612,
+          "title": "Silver",
+          "sku": "F3031020",
+          "price": "910.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Silver",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238586114380,
+          "title": "Matt Black",
+          "sku": "F3031031",
+          "price": "910.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Matt Black",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Silver",
+            "Matt Black"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F1-Silver.jpg?v=1756726736",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F1-Matte_Black.jpg?v=1756726862",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_globall_floor3_black_2.jpg?v=1756726908",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_globall_f_04.jpg?v=1756726908",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Glo_Ball-F1-Silver.jpg?v=1756726736",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing diffused light. Diffuser consisting of an externally acid-etched, hand blown, flashed opaline glass and a die-cast threaded ring nut with alodine plating finish. Gray or black painted high-thickness steel base and stem and die-cast aluminum diffuser support. On the cable there is the electronic dimmer which allows the regulation of light brightness.</span><br></p>"
+    },
+    {
+      "id": 15056568615244,
+      "title": "Floor Lamp - Captain Flint",
+      "handle": "floor-lamp-captain-flint",
+      "url": "https://arowonen.com/products/floor-lamp-captain-flint",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T11:55:11+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:44:07+02:00",
+      "available": true,
+      "price_min": 1595,
+      "price_max": 1595,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 53238582149452,
+          "title": "Brushed Brass/White Marble",
+          "sku": "F1530030",
+          "price": "1595.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brushed Brass/White Marble",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238582182220,
+          "title": "Anthracite/Black Marble",
+          "sku": "F1530059",
+          "price": "1595.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Anthracite/Black Marble",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Brushed Brass/White Marble",
+            "Anthracite/Black Marble"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Captain_Flint-Brushed_Brass-White_Marble_d54e04d6-7a7c-47d6-8970-381b50a94643.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/captain-flint-anthracite-floor-anastassiades-flos-01.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/captain-flint-anthracite-floor-anastassiades-flos-04.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/captain-flint-brushed-brass-floor-anastassiades-flos-01.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/captain-flint-brushed-brass-floor-anastassiades-flos-04.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_captain_flint_f_black.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_captain_flint_f_gold.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Captain_Flint-Anthracite-Black_Marble_c1e4bef3-a4e2-4344-9b29-e9faca66dbdc.jpg?v=1756726568",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Captain_Flint.svg?v=1756726568",
+          "alt": null,
+          "width": 300,
+          "height": 263
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Captain_Flint-Anthracite-Black_Marble.jpg?v=1756720693",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Captain_Flint-Brushed_Brass-White_Marble.jpg?v=1756720756",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Captain_Flint-Brushed_Brass-White_Marble_d54e04d6-7a7c-47d6-8970-381b50a94643.jpg?v=1756726568",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing adjustable direct light. Painted steel or brushed brass, stem and metal spinning cone. Opal photoengraved PC diffuser by injection molding. White Carrara or Black Marquina marble base. Power cord length 260 cm, with  foot dimmer switch that provide ON-OFF functions and 10-100% light adjustment. Plug-in power supply with interchangeable plugs.</span><br></p>"
+    },
+    {
+      "id": 15056558031180,
+      "title": "Floor Lamp - IC Lights F2",
+      "handle": "floor-lamp-ic-lights-f2",
+      "url": "https://arowonen.com/products/floor-lamp-ic-lights-f2",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T11:48:00+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:43:56+02:00",
+      "available": true,
+      "price_min": 1150,
+      "price_max": 1150,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 53237979644236,
+          "title": "Brass",
+          "sku": "F3174059",
+          "price": "1150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brass",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237979677004,
+          "title": "Black",
+          "sku": "F3174030",
+          "price": "1150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Black",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237979709772,
+          "title": "Chrome",
+          "sku": "F3174057",
+          "price": "1150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Chrome",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Brass",
+            "Black",
+            "Chrome"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F2-Brass_61f53dfb-7c02-4664-8ecc-b1c521550c44.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f2_black.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f2_brass.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f2_chrome_08cb3f49-4aab-4783-b81e-62033c91b3f8.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-black-floor-anastassiades-flos-01_9a27c036-a03a-45d6-9482-09fbce0cbf22.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-black-floor-anastassiades-flos-02_d5c165b2-4fff-48ee-b702-608f8f12916e.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-brass-floor-anastassiades-flos-01_26ff8058-599e-47ba-a464-01706414a7bc.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 676
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f2-brass-floor-anastassiades-flos-01_425b8abe-d338-4668-a518-25cf3c2012c8.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f2-brass-floor-anastassiades-flos-02.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F2-Black_76723402-786e-4724-bb8c-2ccc463e2e6e.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F2-Chrome_84d171fb-3e56-427f-8190-9ba4002af6d5.jpg?v=1756720429",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-IC_Lights-F2.svg?v=1756720429",
+          "alt": null,
+          "width": 300,
+          "height": 263
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F2-Brass_61f53dfb-7c02-4664-8ecc-b1c521550c44.jpg?v=1756720429",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing diffused light. Frame in brass, brushed and transparent varnished or chrome steel. Blown glass opal diffuser. Dimmer on the power chord.</span><br></p>"
+    },
+    {
+      "id": 15056543809868,
+      "title": "Floor Lamp - IC Lights F1",
+      "handle": "floor-lamp-ic-lights-f1",
+      "url": "https://arowonen.com/products/floor-lamp-ic-lights-f1",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T11:37:39+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:43:31+02:00",
+      "available": true,
+      "price_min": 750,
+      "price_max": 750,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 53237975810380,
+          "title": "Brass",
+          "sku": "F3173057",
+          "price": "750.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brass",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237975843148,
+          "title": "Black",
+          "sku": "F3173030",
+          "price": "750.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Black",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237975875916,
+          "title": "Chrome",
+          "sku": "F3173059",
+          "price": "750.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Chrome",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Brass",
+            "Black",
+            "Chrome"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Brass_2abb8f9d-94d1-4703-a801-f4d619eb3295.jpg?v=1756720060",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f1_black.jpg?v=1756720060",
+          "alt": null,
+          "width": 650,
+          "height": 650
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f1_brass.jpg?v=1756720060",
+          "alt": null,
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_ic_f2_chrome.jpg?v=1756720060",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-black-floor-anastassiades-flos-01.jpg?v=1756720060",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-black-floor-anastassiades-flos-02.jpg?v=1756720060",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f1-brass-floor-anastassiades-flos-01.jpg?v=1756720060",
+          "alt": null,
+          "width": 1327,
+          "height": 996
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ic-f2-brass-floor-anastassiades-flos-01.jpg?v=1756720060",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7Ua2XdZwee.jpg?v=1756720060",
+          "alt": null,
+          "width": 1467,
+          "height": 1915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Chrome_f8661f54-e606-4ac3-95ba-b1f78e03a1f0.jpg?v=1756720060",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Black_d7618637-6fe6-4125-bc57-b6c7b2657c51.jpg?v=1756720060",
+          "alt": null,
+          "width": 650,
+          "height": 650
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-IC_Lights-F1.svg?v=1756720060",
+          "alt": null,
+          "width": 300,
+          "height": 263
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Chrome.jpg?v=1756719776",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Black_95b6af20-0608-4df4-9b2e-1615076dfdd2.jpg?v=1756720006",
+          "alt": null,
+          "width": 650,
+          "height": 650
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Brass_377aa038-f2b0-4f9e-89d8-9fb5fa497340.jpg?v=1756719993",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Brass_2abb8f9d-94d1-4703-a801-f4d619eb3295.jpg?v=1756720060",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing diffused light. Frame in brass, brushed and transparent varnished or chrome steel. Blown glass opal diffuser. Dimmer on the power chord.</span><br></p>"
+    },
+    {
+      "id": 15056534569292,
+      "title": "Floor Lamp - Luminator",
+      "handle": "floor-lamp-luminator",
+      "url": "https://arowonen.com/products/floor-lamp-luminator",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T11:24:17+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:43:20+02:00",
+      "available": true,
+      "price_min": 720,
+      "price_max": 720,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 5,
+      "variants": [
+        {
+          "id": 53237887566156,
+          "title": "White",
+          "sku": "F3772009",
+          "price": "720.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237887598924,
+          "title": "Anthracite",
+          "sku": "F3772033",
+          "price": "720.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Anthracite",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237887631692,
+          "title": "Red",
+          "sku": "F3772035",
+          "price": "720.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Red",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237894119756,
+          "title": "Yellow",
+          "sku": "F3772019",
+          "price": "720.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Yellow",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237894152524,
+          "title": "Lite Blue",
+          "sku": "F3772003",
+          "price": "720.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Lite Blue",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "White",
+            "Anthracite",
+            "Red",
+            "Yellow",
+            "Lite Blue"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-Yellow_706f338d-4bdb-4de8-b15c-a03d6d4bf014.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_anthracite_02.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_luminator_yellow_02.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_luminator_white.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_luminator_blue.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_luminator_anthracite.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_anthracite_03.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_red_03.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_white_01.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_white_04.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_luminator_yellow_01.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-Anthracite_b06dd402-21b2-460a-a66b-71d8afe0dc2c.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-Lite_Blue_f4692578-e149-419e-88f6-41d395dfbd3e.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-Red_a9d0516b-cb27-4edf-b8f3-ebcc5bd1a086.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-White_38a8fc25-6428-49b9-a91f-2c43319d6231.jpg?v=1756719391",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Luminator-Yellow_706f338d-4bdb-4de8-b15c-a03d6d4bf014.jpg?v=1756719391",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing indirect light. Bulb with reflector. Iron stem with painted finish. Painted galvanized metal legs.</span><br></p>"
+    },
+    {
+      "id": 15056487121228,
+      "title": "Floor Lamp - Bellhop Floor",
+      "handle": "floor-lamp-bellhop-floor",
+      "url": "https://arowonen.com/products/floor-lamp-bellhop-floor",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "Bellhop Floor",
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T10:28:01+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:42:18+02:00",
+      "available": true,
+      "price_min": 900,
+      "price_max": 900,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 53237882749260,
+          "title": "Cioko",
+          "sku": "F1070026",
+          "price": "900.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Cioko",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237882782028,
+          "title": "Brick Red",
+          "sku": "F1070075",
+          "price": "900.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brick Red",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237882814796,
+          "title": "Green",
+          "sku": "F1070039",
+          "price": "900.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Green",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Cioko",
+            "Brick Red",
+            "Green"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Brick_Red_e6211450-abcd-4792-9161-9b4b5166f049.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bellhop-white-brick_20red-floor-barber-osgerby-flos-01.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bellhop-white-green-floor-barber-osgerby-flos-01.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_bellhop_floor_green.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_bellhop_floor_CIOKO.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_bellhop_floor_red.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Cioko_f898bf69-4888-4b58-9519-40a3b9e4452b.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Green_f1ce8512-971b-45bd-9f8a-0f70416b9f02.jpg?v=1756718593",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Cioko.jpg?v=1756717997",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Brick_Red.jpg?v=1756718323",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Green.jpg?v=1756718559",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Bellhop-Brick_Red_e6211450-abcd-4792-9161-9b4b5166f049.jpg?v=1756718593",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp with indirect light. Stem in painted aluminium: shiny white, brick, cioko, green. Reflector in shiny opal white and grey blown glass. Electrical cable of 270 cm usable length with foot dimmer switch for ON/OFF function and brightness adjustment 10100%. Power supply with interchangeable plugs.</span><br></p>"
+    },
+    {
+      "id": 15056485744972,
+      "title": "Floor Lamp - Arco",
+      "handle": "floor-lamp-arco",
+      "url": "https://arowonen.com/products/floor-lamp-arco",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T10:22:27+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:41:30+02:00",
+      "available": true,
+      "price_min": 2650,
+      "price_max": 2650,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53237623947596,
+          "title": "Default Title",
+          "sku": "F0300000",
+          "price": "2650.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Arco-Steel.jpg?v=1756715072",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_arco.jpg?v=1756715171",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_arco_01_102f936c-fef9-4ff7-b4d6-0b305352b513.jpg?v=1756715171",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_arco_08_58b45421-eee8-4b73-8065-9d3ee7d98923.jpg?v=1756715171",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Arco_86239b60-9150-4f38-a7fa-332b7de74639.svg?v=1756715171",
+          "alt": null,
+          "width": 244,
+          "height": 251
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Arco-Steel.jpg?v=1756715072",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing direct light. White Carrara marble base. Satin-finish stainless steel telescopic stem. Pressed, polished and zapon-varnished aluminum swiveling and height-adjustable reflector.</span><br></p>"
+    },
+    {
+      "id": 15056483778892,
+      "title": "Floor Lamp - Arco Led",
+      "handle": "floor-lamp-arco-led",
+      "url": "https://arowonen.com/products/floor-lamp-arco-led",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T10:18:52+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:41:13+02:00",
+      "available": true,
+      "price_min": 2700,
+      "price_max": 2700,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53237613560140,
+          "title": "Default Title",
+          "sku": "F0303000",
+          "price": "2700.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Arco_LED-Steel.jpg?v=1756714907",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_arco_led.jpg?v=1756714929",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_arco_01.jpg?v=1756714929",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_arco_08.jpg?v=1756714929",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Arco.svg?v=1756714929",
+          "alt": null,
+          "width": 244,
+          "height": 251
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Arco_LED-Steel.jpg?v=1756714907",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing direct light. White Carrara marble base. Satin-finish stainless steel telescopic stem. Pressed, polished and zapon-varnished aluminum swiveling and height-adjustable reflector.</span><br></p>"
+    },
+    {
+      "id": 15056478404940,
+      "title": "Floor Lamp - Toio Led",
+      "handle": "floor-lamp-toio-led-1",
+      "url": "https://arowonen.com/products/floor-lamp-toio-led-1",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-09-01T09:59:23+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-09-07T15:40:57+02:00",
+      "available": true,
+      "price_min": 1270,
+      "price_max": 1600,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 53237602091340,
+          "title": "Black",
+          "sku": "F7630030",
+          "price": "1270.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Black",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237602124108,
+          "title": "White",
+          "sku": "F7630009",
+          "price": "1270.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237602156876,
+          "title": "Red",
+          "sku": "F7630035",
+          "price": "1270.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Red",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53237602189644,
+          "title": "Matt Black",
+          "sku": "F7610030",
+          "price": "1600.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Matt Black",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Black",
+            "White",
+            "Red",
+            "Matt Black"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Black_b7adb261-f38a-45e1-a47e-df9c42d7a35e.jpg?v=1756714152",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_toio_black_22b0e5d5-38f4-4b63-962a-f543a780a635.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/g_toio_red.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_black_01_3ed1fef1-3889-4b75-b2ef-27627ae3ded5.jpg?v=1756714179",
+          "alt": null,
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_black_02_f2cb4536-59fc-4686-bd2e-e34895fa30d8.jpg?v=1756714179",
+          "alt": null,
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_black_03_5c3a738c-12d0-4106-9f6e-63afb6eaeaf0.jpg?v=1756714179",
+          "alt": null,
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_white_03.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_mattblack_03.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_toio_red_03.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 675
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Limited_Edition-Matte_Black_e369822a-7d08-4fbb-ab1c-8b11d10b9609.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-White_6e8caf70-d2ff-479d-9498-f03d4eeb1ab1.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Red_ab50ca85-8c86-476d-8d70-aa1371147d86.jpg?v=1756714179",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Technical_Drawing-Luminaire-Floor-Toio_b7e3cc64-678d-41e2-b392-7e860ebf532c.svg?v=1756714179",
+          "alt": null,
+          "width": 300,
+          "height": 263
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Black.jpg?v=1756713773",
+          "alt": null,
+          "width": 2300,
+          "height": 2300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-White.jpg?v=1756713949",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Red.jpg?v=1756714114",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Limited_Edition-Matte_Black.jpg?v=1756714043",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Flos-Pim-Image-Luminaire-Floor-Toio-Black_b7adb261-f38a-45e1-a47e-df9c42d7a35e.jpg?v=1756714152",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Floor lamp providing indirect lighting. Angle iron and formed steel base, painted in a variety of colors. Hexagonal nickel-plated brass height-adjustable stem with telescopic head. On the cable there is the electronic dimmer which allows the regulation of light brightness.</span><br></p>"
+    },
+    {
+      "id": 15022995407180,
+      "title": "Lamp - Carnival Table No. 1",
+      "handle": "lamp-carnival-table-no-1",
+      "url": "https://arowonen.com/products/lamp-carnival-table-no-1",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-08-10T09:11:55+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-08-12T13:30:48+02:00",
+      "available": true,
+      "price_min": 1160,
+      "price_max": 1160,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095633289548,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1160.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs87.webp?v=1754809960",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs87.webp?v=1754809960",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709545733074\" data-enable-history-state=\"true\" data-product-id=\"6648109891671\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6648109891671\" id=\"product-tab-panel1_6648109891671\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8786493997398\" aria-labelledby=\"product-tab-panel1_8786493997398\">\n<meta charset=\"utf-8\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8889773228374\" id=\"product-tab-panel1_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>The carnival table lamp gives a beautiful dazzling light from the reflections of the crystals. The soft Lumiere will create a delicate lustre to any room.  With its sculptured expression, the Carnival lamp will complete any look.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8786493997398\" aria-labelledby=\"product-tab-panel2_8786493997398\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8889773228374\" id=\"product-tab-panel2_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__main\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section class=\"product__info-container product__column-sticky\" id=\"ProductInfo-template--23787806458198__main\">\n<div class=\"tab-content active-tab\" id=\"measurements\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 72.0 cm / 28.3 in</span><br><b>Width:</b><span> 30.0 cm / 11.8 in</span><br><b>Depth:</b><span> 30.0 cm / 11.8 in</span><br><b>Weight:</b><span> 3.3 kg / 7.3 lb</span><br><b>Material:</b><span> Fine hand cut crystal and coated iron</span><br><b>Colours:</b><span> Light Blue/Amber/White/Clear</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__related-products\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15016027259212,
+      "title": "Floor Lamp - Chiara Table - Aluminium/Anthracite",
+      "handle": "floor-lamp-toio-led",
+      "url": "https://arowonen.com/products/floor-lamp-toio-led",
+      "vendor": "FLOS",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-08-07T14:02:20+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-08-18T12:56:38+02:00",
+      "available": true,
+      "price_min": 520,
+      "price_max": 520,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077490925900,
+          "title": "Default Title",
+          "sku": "F1595004",
+          "price": "520.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-08-18om12.55.20.png?v=1755514569",
+          "alt": null,
+          "width": 830,
+          "height": 786
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-08-18om12.55.31_ad3633a3-ad44-4594-9057-6ab011b965a8.png?v=1755519766",
+          "alt": null,
+          "width": 1116,
+          "height": 839
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-08-18om12.55.39_ad9082bc-4864-4296-8094-a35efbd51db5.png?v=1755519766",
+          "alt": null,
+          "width": 1117,
+          "height": 840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-08-18om12.55.52.png?v=1755519766",
+          "alt": null,
+          "width": 888,
+          "height": 642
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-08-18om12.55.20.png?v=1755514569",
+      "description_html": "<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">Table lamp composed of a reflecting body in aluminium in 3 colour variations, finished internally with an opaque white plastic film and folded and closed via hooks riveted to the sheet metal. A coloured seal in moulded tpu runs along the entire profile of the body. The internal base in extruded aluminium is attached to the body for stability and it also supports the bulb socket. The power cable has a dimmer switch to adjust the brightness. Usable cable length: 1.9 m</span><meta charset=\"utf-8\"></p>"
+    },
+    {
+      "id": 15003000045900,
+      "title": "Floor Lamp - Costanza",
+      "handle": "floor-lamp-costanza",
+      "url": "https://arowonen.com/products/floor-lamp-costanza",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-31T16:29:25+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-31T16:31:51+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53033036448076,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_0_1_1.webp?v=1753972294",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_5_1_1.webp?v=1753972315",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_1_1_1.webp?v=1753972315",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_2_1_1.webp?v=1753972315",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_3_1_1.webp?v=1753972315",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_4_1_1.webp?v=1753972315",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119987_0_1_1.webp?v=1753972294",
+      "description_html": "<p class=\"text-special-sm\">Discover the Eichholtz Costanza Floor Lamp, designed to add elegance and ambience to any room.</p>\n<p class=\"text-special-sm\"><span>This timelessly stylish floor lamp features a beautiful black granite base – a unique and luxurious material durable enough to withstand the test of time. The casted aluminium and vintage brass finish are paired with a minimalist black fabric shade for effortless charm. This impressively large piece looks right at home in the corner of a large room or hallway.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 8 | max W. 55 | H. 164 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: <meta charset=\"utf-8\"><span>Vintage brass finish | black granite base</span><br><meta charset=\"utf-8\"><span>Extra info: <meta charset=\"utf-8\">Including black shade<br><meta charset=\"utf-8\">Fabric composition: <meta charset=\"utf-8\">50% cotton | 50% polyester</span><br>Lamp holder: E27<br>Lamp holder qty: 1<br>Light bulbs included: Not included<br>Voltage: 220 - 240 Volt<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 15002994442572,
+      "title": "Floor Lamp - Augustus",
+      "handle": "floor-lamp-augustus",
+      "url": "https://arowonen.com/products/floor-lamp-augustus",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-31T16:26:07+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-31T16:28:31+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53033022882124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_0_1_1.webp?v=1753972076",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_3_1_1.webp?v=1753972115",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_1_1_1.webp?v=1753972115",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_2_1_1.webp?v=1753972115",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_4_1_1.webp?v=1753972076",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_5_1_1.webp?v=1753972076",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118939_0_1_1.webp?v=1753972076",
+      "description_html": "<p class=\"text-special-sm\">Radiate sophistication with the Augustus Floor Lamp, an epitome of luxury with its vintage brass finish.</p>\n<p class=\"text-special-sm\"><span>This striking design complements its robust granite base, creating an unparalleled statement piece. Embrace the allure of timeless elegance and let this floor lamp illuminate your space with refined grace and captivating charm.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 50 | D. 50 | H. 191 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: <meta charset=\"utf-8\"><span>Vintage brass finish | black granite base</span><br>Lamp holder: E27<br>Lamp holder qty: 1<br>Light bulbs included: Not included<br>Voltage: 220 - 240 Volt<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 15002988216652,
+      "title": "Floor Lamp - Seraphina",
+      "handle": "floor-lamp-seraphina",
+      "url": "https://arowonen.com/products/floor-lamp-seraphina",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-31T16:23:19+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-31T16:24:45+02:00",
+      "available": true,
+      "price_min": 995,
+      "price_max": 995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53033008955724,
+          "title": "Default Title",
+          "sku": null,
+          "price": "995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118941_0_1_1.webp?v=1753971871",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118941_3_1_1.webp?v=1753971888",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118941_2_1_1.webp?v=1753971888",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118941_4_1_1.webp?v=1753971871",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118941_0_1_1.webp?v=1753971871",
+      "description_html": "<p class=\"text-special-sm\">Illuminate your decor with the Seraphina Floor Lamp, featuring a vintage brass finish that evokes timeless elegance.</p>\n<p class=\"text-special-sm\"><span>The bamboo-inspired stand adds a touch of organic sophistication, perfectly balanced with a chic metal shade. Indulge in its luxurious allure, making an exquisite statement in any opulent setting.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 20 | max W. 29 | H. 160 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: <meta charset=\"utf-8\"><span>Vintage brass finish | black granite base</span><br>Lamp holder: E27<br>Lamp holder qty: 1<br>Light bulbs included: Not included<br>Voltage: 220 - 240 Volt<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 14979928850764,
+      "title": "Floor Lamp - Stilo",
+      "handle": "floor-lamp-stilo",
+      "url": "https://arowonen.com/products/floor-lamp-stilo",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:41:08+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:42:03+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952066982220,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Piantane_0003_STILO.jpg?v=1752936112",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Stilo_floor_lamp_01.jpg?v=1752936112",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-sdm-2017_1624.jpg?v=1752936112",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Piantane_0003_STILO.jpg?v=1752936112",
+      "description_html": "<main role=\"main\">\n<div class=\"layout-content\">\n<div class=\"region region-content\">\n<div id=\"block-visionnaire-content\" class=\"block block-system block-system-main-block\">\n<div class=\"node-11247 node-view-mode-full node-product layout layout--onecol\">\n<div class=\"layout__region layout__region--content\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Structure in striped brass with oblique cut and shiny or satinized bicolour finishing, lampshade in printed fabric with geometric pattern or black silk, 1 bulb E27 60W - 8W LED.</div>\n<div class=\"group-photoswipe\">\n<div class=\"photoswipe-gallery\" data-pswp-uid=\"1\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main><footer role=\"contentinfo\">\n<div class=\"region region-footer\">\n<div id=\"block-olark\" class=\"block block-block-content block-block-content675478eb-a0a9-462f-b6fc-9201b2c21f54\">\n<div class=\"block-content-view-mode-full block-content-basic block-content-10 layout layout--onecol\">\n<div class=\"layout__region layout__region--content\">\n<div class=\"group-text\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"block-sitebranding\" class=\"block block-system block-system-branding-block\"></div>\n</div>\n</footer>"
+    },
+    {
+      "id": 14979927081292,
+      "title": "Floor Lamp - Moon-eye",
+      "handle": "floor-lamp-moon-eye",
+      "url": "https://arowonen.com/products/floor-lamp-moon-eye",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:39:27+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:40:21+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952062067020,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/moon-eye_floorlamp_03.jpg?v=1752936014",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/moon-eye_floorlamp_04.jpg?v=1752936014",
+          "alt": null,
+          "width": 500,
+          "height": 749
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/moon-eye_floorlamp_02.jpg?v=1752936015",
+          "alt": null,
+          "width": 500,
+          "height": 706
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/moon-eye_floorlamp_01.jpg?v=1752936015",
+          "alt": null,
+          "width": 500,
+          "height": 676
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/moon-eye_floorlamp_03.jpg?v=1752936014",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Floor lamp with one light, main structure in Canaletto walnut solid wood, with carved three-lobes section. Plate diffuser in onyx or quartzite slab connected to the structure using shiny metal brackets. Lamp holder in shiny steel with GU10 light fixed to the wooden structure, visible power cord in grey interwoven fabric, base in shiny steel with ballast in onyx or quartzite. Metal parts can be finished with any of the metal lacquer finish selection. LED GU10 max 10W light source.</div>"
+    },
+    {
+      "id": 14979926229324,
+      "title": "Floor Lamp - Milano",
+      "handle": "floor-lamp-milano",
+      "url": "https://arowonen.com/products/floor-lamp-milano",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:38:21+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:39:04+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952056693068,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/milano_floor_lamp_02.jpg?v=1752935928",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/milano_floor_lamp_01.jpg?v=1752935928",
+          "alt": null,
+          "width": 500,
+          "height": 659
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/milano_floor_lamp_02.jpg?v=1752935928",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Floor lamp in marble and steel. Upper part in metal with low-relief ‘stripes’ decoration and central body in solid marble. Prismatic diffuser in shiny solid polycarbonate with satin opaline internal finish. COB-LED light 8W max. Metal parts available in any lacquer of the metal lacquer finish selection. Central body in one or two marbles. Weight 25 kg.</div>"
+    },
+    {
+      "id": 14979925508428,
+      "title": "Floor Lamp - Giano",
+      "handle": "floor-lamp-giano",
+      "url": "https://arowonen.com/products/floor-lamp-giano",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:37:27+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:38:06+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952055972172,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2023-Giano_floorlamp.jpg?v=1752935875",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/P1044735.jpg?v=1752935875",
+          "alt": null,
+          "width": 500,
+          "height": 765
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2023-Giano_floorlamp.jpg?v=1752935875",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Glass floor lamp made of a vertical drum and metallic support rings. Drum made of pyrex glass rods available in the following finishes: clear, satin-finished (FROST) or PVD gold finish (AMBRA). Lighting system with central LED source protected by an opaline diffuser, max 60W, weight 20 kg. This model mounts long-lasting LED light sources integrated into the lamp structure, which cannot be replaced by the user. The metal parts are available in the satin metallic finish selection.</span></p>"
+    },
+    {
+      "id": 14979924853068,
+      "title": "Floor Lamp - Floro",
+      "handle": "floor-lamp-floro",
+      "url": "https://arowonen.com/products/floor-lamp-floro",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:36:36+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:37:09+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952054366540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Floro_floor-lamp_01.jpg?v=1752935821",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Floro_floor-lamp_02.jpg?v=1752935821",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Floro_floor-lamp_01.jpg?v=1752935821",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Structure in brass and steel, three light elements in blown glass containing gold leaf particles, encased in a metal bracelet. Stem and base in steel. Lighting system consists of 6 LED bulbs E14 8W. Metal parts can be lacquered in any colour of the polish metal finish selection.</div>"
+    },
+    {
+      "id": 14979920527692,
+      "title": "Floor Lamp - Brando",
+      "handle": "floor-lamp-brando",
+      "url": "https://arowonen.com/products/floor-lamp-brando",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:32:25+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:33:20+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952042963276,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Piantane_0008_BRANDO.jpg?v=1752935597",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Piantane_0008_BRANDO.jpg?v=1752935597",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Floor lamp in metal and onyx. Main structure in steel and brass with stem and octagonal base and ballast, satinized chromed or gold finishings. Lampshades in Ivory Onyx, 8 mm in width, creating a multi-faceted effect. Lighting system for 16 light bulbs G4 25W - 4,5W LED each, max 400W in total, weight 35 kg.</span></p>"
+    },
+    {
+      "id": 14979918692684,
+      "title": "Floor Lamp - Aracea",
+      "handle": "floor-lamp-aracea",
+      "url": "https://arowonen.com/products/floor-lamp-aracea",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:30:48+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:32:01+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952038834508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_01.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_02.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_03.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_04.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_05.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-2020_2937.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 639
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_5005_0.jpg?v=1752935502",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Aracea_floor-lamp_01.jpg?v=1752935502",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Structure in brass and satin aluminium with four “leaf-shaped” lights in stainless steel. Linear LED light source. The rotation and the inclination of all the leaves can be adjusted. Available in any lacquer included in the metal finish selection, the upper face of the “leaf” in polished finish and the lower face in satin finish. Absorbtion power 15W, weight 20 kg. This model is equipped with long-life LED light sources integrated into the lamp structure, which cannot be replaced by the user.</span></p>"
+    },
+    {
+      "id": 14979915579724,
+      "title": "Floor Lamp - Alpha",
+      "handle": "floor-lamp-alpha",
+      "url": "https://arowonen.com/products/floor-lamp-alpha",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:27:13+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:28:28+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952033198412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/alpha_floor_lamp_02.jpg?v=1752935263",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/alpha_floor_lamp_01.jpg?v=1752935263",
+          "alt": null,
+          "width": 500,
+          "height": 711
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/alpha_floor_lamp_02.jpg?v=1752935263",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Floor lamp in brass and blown glass. Structure in tubular brass with bicolour finish and rings in sculpted solid brass. Spherical diffuser in blown glass with opaline satin finish. Metal components can be finished with any lacquer of the metal lacquer finish selection. 4 lights G9 40W - 6W LED light source, 15 kg weight.</span></p>"
+    },
+    {
+      "id": 14979914301772,
+      "title": "Floor Lamp - Akira",
+      "handle": "floor-lamp-akira-1",
+      "url": "https://arowonen.com/products/floor-lamp-akira-1",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:25:43+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:26:22+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952031428940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-6lamps_gallery_01.jpg?v=1752935178",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-6lamps_gallery_02.jpg?v=1752935177",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0576_1.jpg?v=1752935177",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/akira_floor-lamp_gallery.jpg?v=1752935178",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-6lamps_gallery_01.jpg?v=1752935178",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<span>Floor lamp with 6 lights, tubular structure with three-foot base in polished or satin metal. Lamp holders in lathed brass and G9 40W or 6W LED lights with satin glass diffuser. Concave lampshades in fabric with internal diffuser in ivory \"moiré\" fabric. The metal parts are available in the metal finishes selection.</span>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14979907846476,
+      "title": "Floor Lamp - Akira",
+      "handle": "floor-lamp-akira",
+      "url": "https://arowonen.com/products/floor-lamp-akira",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2025-07-19T16:19:53+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2025-07-19T16:25:20+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52952006394188,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-1lamp_gallery_01.jpg?v=1752935110",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-1lamp_gallery_02.jpg?v=1752935110",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0620_1.jpg?v=1752935110",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0629_1.jpg?v=1752935110",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AKIRA_floor-lamp-1lamp_gallery_01.jpg?v=1752935110",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Floor lamp with 1 light, tubular structure with adjustable stem and three-foot base in polished or satin metal. Lamp holder in lathed brass and G9 40W or 6W LED lights with satin glass diffuser. Concave lampshades in fabric with internal diffuser in ivory \"moiré\" fabric. The metal parts are available in the metal finishes selection.</p>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9101967229260,
+      "title": "Floor lamp - Diantha Terra",
+      "handle": "floor-lamp-diantha-terra",
+      "url": "https://arowonen.com/products/floor-lamp-diantha-terra",
+      "vendor": "GALLOTTI & RADICE",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-06-18T15:51:36+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-06-18T15:51:35+02:00",
+      "available": true,
+      "price_min": 3729,
+      "price_max": 3729,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48328206319948,
+          "title": "Default Title",
+          "sku": "",
+          "price": "3729.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-3-sma.jpg?v=1718718686",
+          "alt": null,
+          "width": 600,
+          "height": 1103
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-4-sma.jpg?v=1718718686",
+          "alt": null,
+          "width": 600,
+          "height": 826
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-1-sma.jpg?v=1718718687",
+          "alt": null,
+          "width": 600,
+          "height": 762
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-2-sma.jpg?v=1718718687",
+          "alt": null,
+          "width": 600,
+          "height": 797
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-3-sma.jpg?v=1718718686",
+      "description_html": "<p> </p>\n<p>Floor lamp with dimmable LED light. Mouth-blown and bronze painted glass. Bronzed black metal parts. Touch button switch positioned on the lamp structure.</p>\n<p><strong>Dimensions</strong></p>\n<p>Cm (L x W x H)<br>104.5 x 80 x 222</p>\n<!---->"
+    },
+    {
+      "id": 8949933801804,
+      "title": "Floor Lamp - Melt Copper",
+      "handle": "floor-lamp-melt-copper",
+      "url": "https://arowonen.com/products/floor-lamp-melt-copper",
+      "vendor": "TOM DIXON",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T16:27:46+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T16:30:32+02:00",
+      "available": true,
+      "price_min": 2580,
+      "price_max": 2580,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47934894276940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2580.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_main_3.webp?v=1712241000",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_low_on.webp?v=1712241002",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_off.webp?v=1712241001",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_low_off.webp?v=1712241001",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt-floor.webp?v=1712241002",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_foot_detail.webp?v=1712241001",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mef01coeu_melt_floor_copper_main_3.webp?v=1712241000",
+      "description_html": "<div class=\"product attribute overview\">\n<div class=\"value\" itemprop=\"description\">Melt is a beautifully distorted floor light in a modern Copper finish. Emitting an attractive, mildly hallucinogenic light, this floor light creates a mesmirizing melting hot-blown glass effect when on and a mirror-finish effect when off. Made in Germany using a high tech manufacturing technique to achieve the perfect melted orb.</div>\n</div>\n<div data-role=\"add-to-links\" class=\"product-addto-links\"><br></div>\n<p>Dimensions<br>Depth: 52 cm<br>Width: 52 cm<br>Height: 165 cm</p>"
+    },
+    {
+      "id": 8949545140556,
+      "title": "Floor Lamp - Shadow",
+      "handle": "floor-lamp-shadow",
+      "url": "https://arowonen.com/products/floor-lamp-shadow",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T11:28:55+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T11:32:31+02:00",
+      "available": true,
+      "price_min": 1795,
+      "price_max": 1795,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933212950860,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_0_1_1.webp?v=1712223088",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_3_1_1.webp?v=1712223209",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_2_1_1.webp?v=1712223209",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_10.webp?v=1712223209",
+          "alt": null,
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_4_1_1.webp?v=1712223209",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_1_1_1.webp?v=1712223209",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113138_0_1_1.webp?v=1712223088",
+      "description_html": "<p class=\"text-special-sm\">Make a bold style statement with the Shadow Floor Lamp.</p>\n<p><span>Characterised by a strikingly sleek design, this imposing upright light fixture features a vintage brass finish. A great lighting solution that will quickly become the focal point in your lounge!</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 40 | D. 20 | H. 178 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Vintage brass finish<br>Lamp holder: E27<br>Lamp holder qty: 5<br>Light bulbs included: Not included<br>Voltage: 220 - 240 Volt<br>Plug type: C - Euro plug<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8949538292044,
+      "title": "Floor Lamp - Plantain",
+      "handle": "floor-lamp-plantain",
+      "url": "https://arowonen.com/products/floor-lamp-plantain",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T11:22:35+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T11:24:20+02:00",
+      "available": true,
+      "price_min": 2495,
+      "price_max": 2495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933186244940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113563_0_1_1.webp?v=1712222591",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113563_2_1_1.webp?v=1712222591",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113563_3_1_1.webp?v=1712222591",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113563_4_1_1.webp?v=1712222591",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113563_0_1_1.webp?v=1712222591",
+      "description_html": "<p class=\"text-special-sm\">Stand out from the crowd with the Plantain Floor Lamp.</p>\n<p><span>This brilliant piece of design features shades in the form of three banana leaves arms with a vintage brass finish. Resting on a round black granite base, this floor lamp is perfect for adding a designer look to contemporary and eclectic interiors.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 36 | H. 180 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><span class=\"dimension-value\">General info: Vintage brass finish | black granite base<br>Lamp holder: E14<br>Lamp holder qty: 2<br>Voltage: 220 - 240 Volt<br>Plug type: C - Euro plug<br></span><span class=\"dimension-value\">Indoor/outdoor: Indoor use/dry locations only</span><strong><span class=\"dimension-value\"><br></span></strong></p>"
+    },
+    {
+      "id": 8949534392652,
+      "title": "Floor Lamp - Las Palmas - Brass Finish",
+      "handle": "floor-lamp-las-palmas-brass-finish",
+      "url": "https://arowonen.com/products/floor-lamp-las-palmas-brass-finish",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T11:16:56+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T11:20:15+02:00",
+      "available": true,
+      "price_min": 2745,
+      "price_max": 2745,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933147054412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2745.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_0_1_1.webp?v=1712222333",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_2_1_1.webp?v=1712222366",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_3_1_1.webp?v=1712222366",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_1_1_1.webp?v=1712222366",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_5_1_1.webp?v=1712222333",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_6_1_1.webp?v=1712222335",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110467_0_1_1.webp?v=1712222333",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">If you love the botanical jungle trend, the Las Palmas Floor Lamp is a must have for you!</p>\n<p><span data-mce-fragment=\"1\">With its glamorous polished brass finish, elegant curves, and intricate detailing, this arborous beauty will grant tropical opulence to your interior.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 80 | H. 197 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Polished brass<br>Lamp holder: E27<br>Lamp holder qty: 3<br>Light bulbs included: Not included<br>Voltage: 220 - 240 Volt<br>Plug type: C - Euro plug<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8949527609676,
+      "title": "Floor Lamp - Kaiser",
+      "handle": "floor-lamp-kaiser",
+      "url": "https://arowonen.com/products/floor-lamp-kaiser",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T11:11:59+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T11:14:11+02:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933127688524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_0_1_1.webp?v=1712222009",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_2_1_1.webp?v=1712222010",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_4_1_1.webp?v=1712222012",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_3_1_1.webp?v=1712222012",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_5_1_1.webp?v=1712222010",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115570_0_1_1.webp?v=1712222009",
+      "description_html": "<p class=\"text-special-sm\">Showcasing an updated take on Art Deco, Floor Lamp Kaiser exudes transitional allure.</p>\n<p><span>Characterised by a geometric line play, the antique brass base gives this contemporary floor lamp a stylish look with an air of luxury. It sits on a circular white marble plinth and is supplied complete with an off-white fabric oval shade.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 31 | max W. 49 | H. 157 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Antique brass finish | white marble<br>Extra info: Including white shade<br>Lamp holder: E27<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Plug type: F - Schuko plug<br>Shade dimensions: 49 x 30,5 x H. 26 cm<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8949515714892,
+      "title": "Floor Lamp - Fiori",
+      "handle": "floor-lamp-fiori",
+      "url": "https://arowonen.com/products/floor-lamp-fiori",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T11:06:54+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T11:09:42+02:00",
+      "available": true,
+      "price_min": 2995,
+      "price_max": 2995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933104161100,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_0_1_1.webp?v=1712221731",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_2_1_1.webp?v=1712221735",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_1_1_1.webp?v=1712221735",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_3_1_1.webp?v=1712221730",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_4_1_1.webp?v=1712221732",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114655_0_1_1.webp?v=1712221731",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">The graphic antique brass finish framework of Floor Lamp Fiori sets off its gorgeous alabaster globe shades and delivers cosy ambient lighting.</p>\n<p><span data-mce-fragment=\"1\">Make sure to do its beautiful Art Deco design justice by placing it in a prime visible location in your living room, bedroom or home office.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 42.5 | D. 37 | H. 172 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Antique brass finish | alabaster<br>Extra info: Alabaster is a natural material, each piece differs in color, opacity and veining<br>Lamp holder: E14<br>Lamp holder qty: 3<br>Voltage: 220 - 240 Volt<br>Plug type: F - Schuko plug<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8949499265356,
+      "title": "Floor Lamp - Etruscan - Bronze",
+      "handle": "floor-lamp-etruscan-bronze",
+      "url": "https://arowonen.com/products/floor-lamp-etruscan-bronze",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T10:54:16+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T10:56:21+02:00",
+      "available": true,
+      "price_min": 1995,
+      "price_max": 1995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933049897292,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114684_0_1_1.webp?v=1712221014",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114684_2_1_1.webp?v=1712221013",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114684_4_1_1.webp?v=1712221017",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114684_3_1_1.webp?v=1712221017",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114684_0_1_1.webp?v=1712221014",
+      "description_html": "<p class=\"text-special-sm\">Create a pleasant atmosphere in your living room by placing Floor Lamp Etruscan in a corner or next to a sofa or chair.</p>\n<p><span>With its bronze highlight finish fixture and round alabaster lampshade, this beautiful floor lamp gives your décor a romantic touch that’s just irresistible. For a startling effect, combine with our bronze highlight Etruscan Table Lamp and ceiling lamps.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 30 | H. 171 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Bronze highlight finish | alabaster<br>Extra info: Alabaster is a natural material, each piece differs in color, opacity and veining<br>Lamp holder: E14<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Plug type: F - Schuko plug<br>Shade dimensions: Ø 30 x H. 22 cm<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8949488058700,
+      "title": "Floor Lamp - Condo - Black shade",
+      "handle": "floor-lamp-condo-black-shade",
+      "url": "https://arowonen.com/products/floor-lamp-condo-black-shade",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T10:43:41+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T10:46:47+02:00",
+      "available": true,
+      "price_min": 1995,
+      "price_max": 1995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47932968436044,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114902_0_1_1.webp?v=1712220295",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114902_1_1_1.webp?v=1712220296",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114902_2_1_1.webp?v=1712220296",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114902_3_1_1.webp?v=1712220296",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114902_0_1_1.webp?v=1712220295",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">Update your home with Floor Lamp Condo.</p>\n<p><span data-mce-fragment=\"1\">Sitting on a black marble base, this modern floor lamp radiates an understated charm. Its airy cylindrical base consists of metal rods with an antique brass finish. The fixture comes complete with a round black drum shade with a gold-coloured inner for extra warm light.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 30 | max W. 55 | H. 188 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Antique brass finish | black marble base<br>Extra info: Including black shade<br>Lamp holder: E27<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Plug type: F - Schuko plug<br>Fabric composition shade: 50% cotton | 50% polyester<br>Shade dimensions: ø 55 x H. 30 cm<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8949480292684,
+      "title": "Floor Lamp - Celine",
+      "handle": "floor-lamp-celine",
+      "url": "https://arowonen.com/products/floor-lamp-celine",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-04-04T10:35:40+02:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-04-04T10:39:34+02:00",
+      "available": true,
+      "price_min": 2495,
+      "price_max": 2495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47932934357324,
+          "title": "Default Title",
+          "sku": "",
+          "price": "2495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115322_0_1.webp?v=1712219880",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115322_1_1_1.webp?v=1712219881",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115322_3_1_1.webp?v=1712219885",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115322_2_1_1.webp?v=1712219885",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115322_0_1.webp?v=1712219880",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">Floor Lamp Celine reminds one of the surrealist paintings of Salvador Dalí.</p>\n<p><span data-mce-fragment=\"1\">This remarkable sculptural floor lamp sits on a black marble base and has a tapered black stem with a free-form antique brass ornament. An asymmetrical lampshade of white glass rounds off the extraordinary design.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 61 | max W. 35 | H. 181.5 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Antique brass finish | black finish | white glass | honed black marble base<br>Extra info: Marble is a natural material, each piece differs in color and veining<br>Lamp holder: E27<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Plug type: F - Schuko plug<br>Shade dimensions: 61 x 28,5 x H. 10 cm<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8893257744716,
+      "title": "Floor Lamp - Melt Stand - Gold",
+      "handle": "floor-lamp-melt-gold-stand",
+      "url": "https://arowonen.com/products/floor-lamp-melt-gold-stand",
+      "vendor": "TOM DIXON",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2024-03-05T17:04:29+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-03-05T17:07:17+01:00",
+      "available": true,
+      "price_min": 7325,
+      "price_max": 7325,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47779511697740,
+          "title": "Default Title",
+          "sku": "MESC01G-FEUM1",
+          "price": "7325.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt_standing_chandelier_2.webp?v=1709654822",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_melt_off_1.webp?v=1709654823",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt_standing_chandelier_main.webp?v=1709654825",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt_standing_chandelier_2_off.webp?v=1709654826",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_cable_joint.webp?v=1709654828",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_cable_switch.webp?v=1709654830",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_fitting.webp?v=1709654832",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_melt_detail.webp?v=1709654833",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/standing_chandelier_melt_fitting.webp?v=1709654835",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt-floor-chandelier.webp?v=1709654835",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/melt_standing_chandelier_2.webp?v=1709654822",
+      "description_html": "<p><span>An extraordinary floor chandelier, featuring three Melt Mini shades and four Melt shades in a modern gold finish. Emitting an attractive, mildly hallucinogenic light, this floor light creates a mesmirizing melting hot-blown glass effect when on and a mirror-finish effect when off. Made in Germany using a high tech manufacturing technique to achieve the perfect melted orb.</span></p>\n<p>Dimensions<br>Depth: 82.5 cm<br>Width: 85 cm<br>Height: 175 cm</p>"
+    },
+    {
+      "id": 8893246865740,
+      "title": "Floor Lamp - Slim Cone - Melt Silver",
+      "handle": "floor-lamp-melt-silver",
+      "url": "https://arowonen.com/products/floor-lamp-melt-silver",
+      "vendor": "TOM DIXON",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2024-03-05T16:53:54+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-03-05T16:54:50+01:00",
+      "available": true,
+      "price_min": 1540,
+      "price_max": 1540,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47779479290188,
+          "title": "Default Title",
+          "sku": "MES01CH-FEU02M2",
+          "price": "1540.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01ch-feu02m2_melt_cone_slim_floor_50cmsilver_led_side_on_shadow.webp?v=1709654072",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01ch-feu02m2_melt_cone_slim_floor_50cmsilver_led_side_off_shadow.webp?v=1709654074",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2_2_4.webp?v=1709654075",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01ch-feu02m2_melt_cone_slim_floor_50cmsilver_led_side_on_shadow.webp?v=1709654072",
+      "description_html": "<p>Melt is evocative of molten glass, the interior of a melting glacier or images of deep space. An imperfect, organic and naturalistic light that produces a mesmerizing hot-blown glass effect. Melt is created through a process of blow moulding and vacuum metallisation to achieve melted orbs with abundant and unusual luminosity. The Melt family includes pendants, chandeliers, pendant systems, portables, surface lights, table lights and floor lights. </p>\n<p>Dimensions<br>Depth: 180cm<br>Width: 22cm<br>Height: 180cm</p>"
+    },
+    {
+      "id": 8893245587788,
+      "title": "Floor Lamp - Slim Cone - Melt Smoke",
+      "handle": "floor-lamp-melt-smoke",
+      "url": "https://arowonen.com/products/floor-lamp-melt-smoke",
+      "vendor": "TOM DIXON",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2024-03-05T16:52:10+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-03-05T16:52:55+01:00",
+      "available": true,
+      "price_min": 1540,
+      "price_max": 1540,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47779477291340,
+          "title": "Default Title",
+          "sku": "MES01SM-FEU02M2",
+          "price": "1540.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/microsoftteams-image_9__2.webp?v=1709653962",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/microsoftteams-image_10__1.webp?v=1709653964",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2_2_1_1a9cdc73-9b6c-4103-97a6-a51b4e1c57c3.webp?v=1709653965",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/microsoftteams-image_9__2.webp?v=1709653962",
+      "description_html": "<p>Melt is evocative of molten glass, the interior of a melting glacier or images of deep space. An imperfect, organic and naturalistic light that produces a mesmerizing hot-blown glass effect. Melt is created through a process of blow moulding and vacuum metallisation to achieve melted orbs with abundant and unusual luminosity. The Melt family includes pendants, chandeliers, pendant systems, portables, surface lights, table lights and floor lights. </p>\n<p>Dimensions<br>Depth: 180cm<br>Width: 22cm<br>Height: 180cm</p>"
+    },
+    {
+      "id": 8893237985612,
+      "title": "Floor Lamp - Slim Cone - Melt Gold",
+      "handle": "floor-lamp-melt-gold",
+      "url": "https://arowonen.com/products/floor-lamp-melt-gold",
+      "vendor": "TOM DIXON",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "just dropped in",
+        "Just launched in the online store",
+        "LIGHTING"
+      ],
+      "created_at": "2024-03-05T16:40:54+01:00",
+      "updated_at": "2026-05-22T17:57:31+02:00",
+      "published_at": "2024-03-05T16:51:08+01:00",
+      "available": true,
+      "price_min": 1540,
+      "price_max": 1540,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47779454812492,
+          "title": "Default Title",
+          "sku": "MES01GO-FEU02M2",
+          "price": "1540.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01go-feu02m2_melt_cone_slim_floor_50cmgold_led_side_on_shadow.webp?v=1709653742",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01go-feu02m2_melt_cone_slim_floor_50cmgold_led_side_off_shadow.webp?v=1709653748",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2_2_1.webp?v=1709653750",
+          "alt": null,
+          "width": 915,
+          "height": 915
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/mes01go-feu02m2_melt_cone_slim_floor_50cmgold_led_side_on_shadow.webp?v=1709653742",
+      "description_html": "<p>Melt is evocative of molten glass, the interior of a melting glacier or images of deep space. An imperfect, organic and naturalistic light that produces a mesmerizing hot-blown glass effect. Melt is created through a process of blow moulding and vacuum metallisation to achieve melted orbs with abundant and unusual luminosity. The Melt family includes pendants, chandeliers, pendant systems, portables, surface lights, table lights and floor lights. </p>\n<p>Dimensions<br>Depth: 180cm<br>Width: 22cm<br>Height: 180cm</p>"
+    }
+  ]
+}

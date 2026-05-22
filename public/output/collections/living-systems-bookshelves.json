@@ -1,0 +1,771 @@
+{
+  "handle": "living-systems-bookshelves",
+  "label": "Living Systems & Bookshelves",
+  "url": "https://arowonen.com/collections/living-systems-bookshelves",
+  "scraped_at": "2026-05-22T15:57:09.146Z",
+  "product_count": 8,
+  "products": [
+    {
+      "id": 14997386428748,
+      "title": "Bookshelf - Vesper",
+      "handle": "bookshelf-vesper",
+      "url": "https://arowonen.com/products/bookshelf-vesper",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T16:22:13+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T16:23:28+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017926598988,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_01.jpg?v=1753798998",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_02.jpg?v=1753798998",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_04.jpg?v=1753798996",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_03.jpg?v=1753798997",
+          "alt": null,
+          "width": 3840,
+          "height": 2819
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_06.jpg?v=1753798996",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Vesper_01.jpg?v=1753798997",
+          "alt": null,
+          "width": 3840,
+          "height": 2560
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Vesper_02.jpg?v=1753798997",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Vesper_03.jpg?v=1753798997",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_05.jpg?v=1753798996",
+          "alt": null,
+          "width": 3840,
+          "height": 2878
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VESPER_bookshelf_gallery_01.jpg?v=1753798998",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span>Modular bookcase, backs and shelves in wood veneered MDF; shoulders and vertical dividers covered in stainless steel. In alternate positions, the backrests are covered in marble. Lower compartments with shelves and closed by bronze or smoked glass doors, with metal handles and automatic return hinges. Top and hat in bronze or smoked mirror. The metal parts are available in the metal finishes selection. The wooden parts are available in RAL/NCS colors and selection essences. LED lighting system to be connected to a home network with remote control, the power supplies for each module are positioned under the bases.</span><br><span>Product available in customized sizes on request.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<br>\n</div>"
+    },
+    {
+      "id": 14997382234444,
+      "title": "Bookshelf - Tivoli",
+      "handle": "bookshelf-tivoli",
+      "url": "https://arowonen.com/products/bookshelf-tivoli",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T16:21:22+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T16:21:50+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017918341452,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TIVOLI_boiserie_gallery_01.jpg?v=1753798898",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_4292.jpg?v=1753798898",
+          "alt": null,
+          "width": 3084,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_4413.jpg?v=1753798897",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TIVOLI_boiserie_gallery_01.jpg?v=1753798898",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Project wall system based on a wooden paneling with curved profiles, alternating between concave and convex. The shelves are made of 12 mm thick bronze glass. Wall fixing system with pre-assembled laths and panels. 5-gloss finish. The wooden parts are available lacquered in RAL/NCS colours or in veneer selection finishes. Metal decorative profiles are available in the metal finish selection.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n<br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<br>\n</div>"
+    },
+    {
+      "id": 14997375746380,
+      "title": "Bookshelf - Osborne",
+      "handle": "bookshelf-osborne",
+      "url": "https://arowonen.com/products/bookshelf-osborne",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T16:19:41+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T16:20:48+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017908019532,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Osborne-boiserie_01.jpg?v=1753798826",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Osborne-boiserie_02.jpg?v=1753798826",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OSBORNE-B_1019346.jpg?v=1753798826",
+          "alt": null,
+          "width": 1365,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OSBORNE-B_1019388.jpg?v=1753798826",
+          "alt": null,
+          "width": 1242,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OSBORNE-B_1019396.jpg?v=1753798826",
+          "alt": null,
+          "width": 1439,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OSBORNE-B_1019391.jpg?v=1753798827",
+          "alt": null,
+          "width": 1439,
+          "height": 1920
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Osborne-boiserie_01.jpg?v=1753798826",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span>Wall-mounting system designed upon request; it consists of wooden panels with curved profiles, alternating convex and concave shapes, shelves and backlit profiles. Each profile or shelf has an edge in stainless steel. It can be wall mounted by means of pre-assembled slats and panels. Equipped with diffused light and under-shelves lights. Metal parts can be lacquered in any colour of the polished metal finish selection; wood parts can be finished with any veneer of the veneer selection or with RAL/NCS colour lacquering.</span><br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<br>\n</div>"
+    },
+    {
+      "id": 14997256962380,
+      "title": "Bookshelf - Leonardo",
+      "handle": "bookshelf-leonardo",
+      "url": "https://arowonen.com/products/bookshelf-leonardo",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T15:46:54+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T15:50:08+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017663537484,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Leonardo_Wallpaperdesignawards2023.jpg?v=1753796985",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-NJB22--2206.jpg?v=1753797010",
+          "alt": null,
+          "width": 1825,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bokshelf_gallery_02.jpg?v=1753797010",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bokshelf_gallery_03.jpg?v=1753797010",
+          "alt": null,
+          "width": 2892,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bokshelf_gallery_04.jpg?v=1753797010",
+          "alt": null,
+          "width": 2892,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bokshelf_gallery_05.jpg?v=1753797010",
+          "alt": null,
+          "width": 2946,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bokshelf_gallery_06.jpg?v=1753797010",
+          "alt": null,
+          "width": 2946,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-NJB22--2241.jpg?v=1753797010",
+          "alt": null,
+          "width": 1797,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-NJB22--2229.jpg?v=1753797010",
+          "alt": null,
+          "width": 1728,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-NJB22--2214.jpg?v=1753797010",
+          "alt": null,
+          "width": 1749,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_4957.jpg?v=1753796989",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_4951.jpg?v=1753796988",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_4972.jpg?v=1753796993",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_LeonardoBookshelf_01.jpg?v=1753796995",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_LeonardoBookshelf_02.jpg?v=1753796994",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_LeonardoBookshelf_03.jpg?v=1753796994",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Leonardo_Wallpaperdesignawards2023.jpg?v=1753796985",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span>Wall bookshelf covered with leather or fabric. Main structure in metal with back and sides in shaped MDF decorated with ‘canneté’ stripes carved in low relief, covered with leather or fabric. Thick wooden shelves in shiny lacquered finish (RAL or NCS colours) with light bottom edge. Two decorative profiles and brackets in shiny stainless steel th. 4 mm. Metal parts available in the metal lacquer finish.</span><br><br><span>Leonardo bookshelf, designed by Alessandro La Spada, is a winner of 2023 Wallpaper* Design Awards in the Best Sleeper Hits category.</span></p>\n</div>"
+    },
+    {
+      "id": 14997364080972,
+      "title": "Bookshelf - Karnak",
+      "handle": "bookshelf-karnak",
+      "url": "https://arowonen.com/products/bookshelf-karnak",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T16:16:43+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T16:18:21+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017882198348,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KARNAK_bookshelf_gallery_01.jpg?v=1753798698",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Dante_writing-desk_6.jpg?v=1753798695",
+          "alt": null,
+          "width": 1055,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2854.jpg?v=1753798697",
+          "alt": null,
+          "width": 3900,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2912.jpg?v=1753798696",
+          "alt": null,
+          "width": 1964,
+          "height": 2600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KARNAK_bookshelf_gallery_01.jpg?v=1753798698",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Column bookshelf. Sides in wood with convex interiors covered in stainless steel. Exterior of sides in polished lacquered wood, in RAL/NCS colours or covered with veneered wood. Shelves with wing-shaped profiles covered entirely in leather. Back in smoked or bronze mirror back. LED lighting of reduced thickness set in the sides. Predisposed for wall fixing. The metal parts are available in the metal finishes selection, the wooden parts are available in the veneer inishes selection or painted in RAL/NCS colours.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n<br>\n</div>"
+    },
+    {
+      "id": 14997345337676,
+      "title": "Bookshelf - Genesis",
+      "handle": "bookshelf-genesis",
+      "url": "https://arowonen.com/products/bookshelf-genesis",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T16:11:27+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T16:15:41+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017853264204,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_08.jpg?v=1753798543",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_01.jpg?v=1753798543",
+          "alt": null,
+          "width": 3840,
+          "height": 2824
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_02.jpg?v=1753798543",
+          "alt": null,
+          "width": 1620,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_03.jpg?v=1753798543",
+          "alt": null,
+          "width": 1620,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_04.jpg?v=1753798543",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_05.jpg?v=1753798543",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Genesis_bookshelf_01.jpg?v=1753798543",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_06.jpg?v=1753798488",
+          "alt": null,
+          "width": 1620,
+          "height": 2160
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/genesis_bookshelf_08.jpg?v=1753798543",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span>Modular library in wood and aluminium. Open units and “showcase” units available.</span><br><span>Open units: supporting side elements in wood with frame in powder-coated aluminium, decorate with polished metal profile. Lateral panels in lacquer or veneer finish, or upholstered in leather or fabric; back panels in lacquer or veneer finish, or upholstered in leather or fabric. Top and bottom panel in bronze or smoked mirror glass with aluminium frame.</span><br><span>“Vitrine” units: units with doors in box-shaped tempered crystal glass (thick. 8mm) with handles in aluminium with shiny finish or leather upholstery. Lateral and back panels available only upholstered in leather or fabric. Units can be configured internally with the following accessories:</span><br><span>SHELVES - Shelf in aluminium with top in crystal glass and profile with integrated LED lights.</span><br><span>CHEST OF DRAWERS - Open cabinet in wood (lacquered or veneered) with back panel in marble and perimeter LED lights. Closed cabinet with 1 basket drawer in wood (lacquered or veneered) with optional internal drawer for cutlery or bottle rack.</span><br><span>Modular open units available in three standard dimensions - width 75, 95, 115 cm; open units can be customised in width upon request. Vitrine units with crystal doors available only in standard size – width 95 cm x height 250 cm. Units available only in one depth. Units standard height 250 cm can be customised up to 300 cm. Components in shiny metal can be finished with any lacquer of the shiny metal finish selection; aluminium components finished with VE 08 bronze, VE 14 manganese, VE 23 pearl cream; wooden elements finished with RAL/NCS lacquer or with any veneer of the wood veneer finish selection. LED lighting system to be connected to the home network, the power supplies of each module are positioned under the bases.</span>\n</div>"
+    },
+    {
+      "id": 14997270102348,
+      "title": "Bookshelf - Gaynor",
+      "handle": "bookshelf-gaynor",
+      "url": "https://arowonen.com/products/bookshelf-gaynor",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-29T15:50:40+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-29T15:53:33+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017697288524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Librerie_0004_GAYNOR.jpg?v=1753797216",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0050.jpg?v=1753797216",
+          "alt": null,
+          "width": 1045,
+          "height": 1408
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_0272.jpg?v=1753797216",
+          "alt": null,
+          "width": 1331,
+          "height": 994
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0058.jpg?v=1753797216",
+          "alt": null,
+          "width": 1159,
+          "height": 1551
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0062.jpg?v=1753797216",
+          "alt": null,
+          "width": 1169,
+          "height": 1559
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Gaynor_bookshelves_01.jpg?v=1753797216",
+          "alt": null,
+          "width": 1620,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Gaynor_bookshelves_02.jpg?v=1753797201",
+          "alt": null,
+          "width": 1616,
+          "height": 2160
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Librerie_0004_GAYNOR.jpg?v=1753797216",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Modular bookshelf with modules of 40/60 and 160 cm, H. 250 cm; internal and external vertical panels in veneered wood; shelves and bottom panels in MDF upholstered in leather or fabric. 8 drawers and 10 doors upholstered in leather or fabric. Profiles, ornaments and plinth in satinized steel. Inside of the units and drawers in matt lacquered MDF. Metal parts can be lacquered in any colour included in the metal finish selection.</div>"
+    },
+    {
+      "id": 14987876598092,
+      "title": "Bookshelf - C-Square",
+      "handle": "art-hippocampus-kopie",
+      "url": "https://arowonen.com/products/art-hippocampus-kopie",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-24T16:18:32+02:00",
+      "updated_at": "2026-05-22T17:57:09+02:00",
+      "published_at": "2025-07-24T16:24:10+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52986564378956,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_01.jpg?v=1753366965",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_04.jpg?v=1753367053",
+          "alt": null,
+          "width": 500,
+          "height": 325
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_02.jpg?v=1753367053",
+          "alt": null,
+          "width": 500,
+          "height": 625
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_03.jpg?v=1753367053",
+          "alt": null,
+          "width": 500,
+          "height": 625
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_05.jpg?v=1753366965",
+          "alt": null,
+          "width": 500,
+          "height": 325
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_06.jpg?v=1753366965",
+          "alt": null,
+          "width": 500,
+          "height": 314
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_07.jpg?v=1753366969",
+          "alt": null,
+          "width": 500,
+          "height": 715
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_14.jpg?v=1753366969",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_15.jpg?v=1753366970",
+          "alt": null,
+          "width": 1465,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_16.jpg?v=1753366970",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_08.jpg?v=1753366970",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_09.jpg?v=1753366971",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_10.jpg?v=1753366970",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_11.jpg?v=1753366971",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C-SQUARE-bookshelf_gallery_01.jpg?v=1753366965",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Modular bookshelf in aluminium with dynamic led lighting. Modular elements composed of square aluminium cells and vertical support panels. All components are made of 10mm thick aluminium panels, with the vertical supports and cells featuring integrated LED bars within their thickness. Each led bar can be controlled individually to create customised lighting scenarios via a DMX (Digital Multiplex) system, with optional integration into a home automation network upon request. Optional adjustable magnetic dividers for the cells are available in aluminium, upholstered in leather or fabric, or veneered in open-pore wood finishes. The system also includes modules with bronze or smoked glass doors and drawer units. The entire structure is coated in a satin gunmetal ribbed finish. The vertical supports and cells are designed for full tool-less plug &amp; play assembly, allowing installation and maintenance without tools. All light sources are equipped with magnetic clips, making them easily detachable and replaceable. The production process is based on high-precision aluminium machining, using 100% recyclable materials with a highly sustainable approach, avoiding the use of wood. Drivers and control modules are housed in the base or top section. Available as a freestanding room divider or wall-mounted unit, with an indicative maximum power consumption of 200W per linear metre.</p>\n</div>"
+    }
+  ]
+}

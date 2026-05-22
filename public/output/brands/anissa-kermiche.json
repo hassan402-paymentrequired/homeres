@@ -1,0 +1,247 @@
+{
+  "handle": "anissa-kermiche",
+  "label": "Anissa Kermiche",
+  "url": "https://arowonen.com/collections/anissa-kermiche",
+  "scraped_at": "2026-05-22T15:54:41.323Z",
+  "product_count": 2,
+  "products": [
+    {
+      "id": 8892997206348,
+      "title": "Love Handles - Vase - Marble",
+      "handle": "love-handles-vase-marble",
+      "url": "https://arowonen.com/products/love-handles-vase-marble",
+      "vendor": "ANISSA KERMICHE",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "VASES"
+      ],
+      "created_at": "2024-03-05T12:28:59+01:00",
+      "updated_at": "2026-05-22T17:54:41+02:00",
+      "published_at": "2024-03-05T12:31:22+01:00",
+      "available": false,
+      "price_min": 400,
+      "price_max": 400,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47778315501900,
+          "title": "Default Title",
+          "sku": null,
+          "price": "400.00",
+          "compare_at_price": null,
+          "available": false,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/love-handles-vase-marble-matte_700x_3c2c054b-7491-4c1a-b498-ce66e901c36f.webp?v=1709638265",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/love-handles-vase-marble-matte-ceramic_700x_41c69f00-7b58-4100-bc45-a472b9acf1fd.webp?v=1709638266",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/luxury-ceramics-love-handles-vase-marble-anissa-kermiche_700x_671acc87-27f1-4655-9e6b-e296d9e0b2a3.webp?v=1709638269",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Love-Handles-Vase-Marble-Matte-Browns-Jonathan-Middleton_700x_57cb57ed-e18b-4e7f-9806-f9327bf27965.webp?v=1709638270",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/love-handles-vase-marble-body-candlestick-black_700x_fedd6835-0714-4b9e-8ff5-ba633cf89e30.webp?v=1709638270",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Net-a-porterLovehandlesMarble1_700x_ccb8844c-617c-473e-ac41-0e7c81364cd1.webp?v=1709638272",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/eatprayjadelovehandlesmarble_700x_0baa5c9d-7076-4455-b1c5-71318984567a.webp?v=1709638273",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Net-a-porterJewellerybox_700x_d8297cb4-009a-41d3-9709-6bd5325bd1b0.webp?v=1709638275",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Love-Handles-Vase-Marble-Browns_700x_613faad1-b000-4429-8284-dd635ff6549a.webp?v=1709638277",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/love-handles-vase-marble-matte_700x_3c2c054b-7491-4c1a-b498-ce66e901c36f.webp?v=1709638265",
+      "description_html": "<p>Show your love for flowers (and fashionable decor) with the love handles vase. Crafted from timeless earthenware and adorned with a classic marble body, this delightful vase will give your home a touch of style.<br><br>This item's measurements are:<br></p>\n<p>height: 31cm<br>width: 21cm<br>depth: 15cm</p>"
+    },
+    {
+      "id": 8892935110988,
+      "title": "Breast Friend - Vase - Matt Marble",
+      "handle": "breast-friend-vase",
+      "url": "https://arowonen.com/products/breast-friend-vase",
+      "vendor": "ANISSA KERMICHE",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "VASES"
+      ],
+      "created_at": "2024-03-05T11:47:51+01:00",
+      "updated_at": "2026-05-22T17:54:41+02:00",
+      "published_at": "2024-03-05T12:04:37+01:00",
+      "available": false,
+      "price_min": 500,
+      "price_max": 500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47778180923724,
+          "title": "Default Title",
+          "sku": "",
+          "price": "500.00",
+          "compare_at_price": null,
+          "available": false,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/breast-friend-vase-marble_700x_c854bc19-575d-4e49-b41a-3ea2841ddd8e.webp?v=1709636640",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Breast-Friend-Marble-Vase_700x_18a2ed86-042b-4bfd-9a2d-5e27cfc34af1.webp?v=1709636644",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Breast-Friend-Marble_700x_58280d8c-1a9b-4440-9bc0-842a226c8de9.webp?v=1709636644",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Breast-Friend-Marble-Wig-Front_700x_777af320-bb7c-44e4-982a-c6dbc1754594.webp?v=1709636645",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/breast-friend-vase-back_700x_ca9c881e-ef87-422d-afb5-11503e48e55a.webp?v=1709636647",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/candacekohlbreastfriendwhite3_700x_e71882f8-ddff-42e2-8a8c-f7fe0dec0b90.webp?v=1709636649",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/selvafloralbreastfriend_700x_781b7592-8881-41e9-aacb-bc413ef0d089.webp?v=1709636651",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xammasibreastfriendmarble_700x_13fc5ba1-610e-49fa-ac13-bcef475171cc.webp?v=1709636652",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/breast-friend-vase_700x_62a8892e-940f-420b-a332-a865f3c67321.webp?v=1709636654",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Breast-Friend-Vase-Marble-2_700x_e907fa12-29a1-458e-b42e-269fa350d498.webp?v=1709636655",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/yecaressebreastfriendmarbletitfortat_700x_1e350d7d-ed58-4eff-92e6-ec317132c21a.webp?v=1709636657",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/EmptyName24_700x_e785f384-0345-4b6d-84d5-b62d11b5a5d9.webp?v=1709636658",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Net-a-porterbreastfriendmarble_700x_9339fbbd-1dd0-408f-817d-9dc09a2b9981.webp?v=1709636659",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/anissa-kermiche-large-love-handles-white-breast-friend-marble-legs-eleven-black-objects_700x_3a298782-3552-496d-8f84-abea558f7e12.webp?v=1709636663",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/breast-friend-vase-marble_700x_c854bc19-575d-4e49-b41a-3ea2841ddd8e.webp?v=1709636640",
+      "description_html": "<p>Our breast friend ceramic vase playfully depicts a curvaceous bust. Use it to give purpose to a bare shelf or fill it with sprigs of seasonal foliage and set it pride of place on a credenza in your living room. </p>\n<p>This item’s measurements are:</p>\n<p>Width: 35 cm / 14 inches <br>Height: 23 cm / 9 inches<br>Depth: 18 cm / 7 inches  </p>\n<p><br></p>"
+    }
+  ]
+}

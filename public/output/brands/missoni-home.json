@@ -1,0 +1,1011 @@
+{
+  "handle": "missoni-home",
+  "label": "Missoni Home",
+  "url": "https://arowonen.com/collections/missoni-home",
+  "scraped_at": "2026-05-22T15:55:47.629Z",
+  "product_count": 6,
+  "products": [
+    {
+      "id": 9019173273932,
+      "title": "Wallpaper - Wallcoverings01 - Zig Zag Multicolore",
+      "handle": "wallpaper-wallcoverings01-zig-zag-multicolore",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings01-zig-zag-multicolore",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T15:51:07+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T15:58:54+02:00",
+      "available": true,
+      "price_min": 89,
+      "price_max": 89,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48141088358732,
+          "title": "10060",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10060",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141088391500,
+          "title": "10061",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10061",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141088424268,
+          "title": "10062",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10062",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141088457036,
+          "title": "10063",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10063",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141088522572,
+          "title": "10065",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10065",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141150617932,
+          "title": "10066",
+          "sku": "",
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10066",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "10060",
+            "10061",
+            "10062",
+            "10063",
+            "10065",
+            "10066"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10060.jpg?v=1716127037",
+          "alt": null,
+          "width": 584,
+          "height": 843
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10061.jpg?v=1716127038",
+          "alt": null,
+          "width": 595,
+          "height": 842
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10062.jpg?v=1716127037",
+          "alt": null,
+          "width": 580,
+          "height": 821
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10063.jpg?v=1716127038",
+          "alt": null,
+          "width": 578,
+          "height": 857
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10065.jpg?v=1716127037",
+          "alt": null,
+          "width": 585,
+          "height": 844
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10066.jpg?v=1716127037",
+          "alt": null,
+          "width": 580,
+          "height": 859
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10060.jpg?v=1716127037",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">An iconic Missoni pattern similar to a thunderbolt in different multicolor and precious material.</div>\n</div>\n</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"><br></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">64 cm</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">64 cm / 25.2 inch</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">Roll size 1<span>0,05 x 0,52 m</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019276886348,
+      "title": "Wallpaper - Wallcoverings02 - Fiamma",
+      "handle": "wallpaper-wallcoverings02-fiamma",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings02-fiamma",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T16:46:43+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T17:03:15+02:00",
+      "available": true,
+      "price_min": 169,
+      "price_max": 219,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 9,
+      "variants": [
+        {
+          "id": 48141468270924,
+          "title": "10140",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10140",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468303692,
+          "title": "10141",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10141",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468336460,
+          "title": "10142",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10142",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468369228,
+          "title": "10143",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10143",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468401996,
+          "title": "10144",
+          "sku": null,
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10144",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468434764,
+          "title": "10145",
+          "sku": null,
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10145",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468467532,
+          "title": "10146",
+          "sku": null,
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10146",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468500300,
+          "title": "10147",
+          "sku": null,
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10147",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141468533068,
+          "title": "10149",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10149",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "10140",
+            "10141",
+            "10142",
+            "10143",
+            "10144",
+            "10145",
+            "10146",
+            "10147",
+            "10149"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10149.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10140.jpg?v=1716279244",
+          "alt": null,
+          "width": 886,
+          "height": 688
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10141.jpg?v=1716279244",
+          "alt": null,
+          "width": 1236,
+          "height": 873
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10142.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10143.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10144.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10145.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10146.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10147.jpg?v=1716279244",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10149.jpg?v=1716279244",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">Iconic design with an horizontal pattern created through different techniques.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"><br></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">Pari</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">64 cm / 25.2 inch</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">\n<meta charset=\"utf-8\">\n<span>roll size 10,05 x 0,70 mtl</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019231764812,
+      "title": "Wallpaper - Wallcoverings02 - Canvas",
+      "handle": "wallpaper-wallcoverings02-canvas",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings02-canvas",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T16:13:00+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T16:19:58+02:00",
+      "available": true,
+      "price_min": 169,
+      "price_max": 169,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 15,
+      "variants": [
+        {
+          "id": 48141224804684,
+          "title": "10160",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10160",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141224837452,
+          "title": "10161",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10161",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141224870220,
+          "title": "10162",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10162",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141224902988,
+          "title": "10163",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10163",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141224935756,
+          "title": "10164",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10164",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141224968524,
+          "title": "10165",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10165",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141236961612,
+          "title": "10168",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10168",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141236994380,
+          "title": "10169",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10169",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237027148,
+          "title": "10170",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10170",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237059916,
+          "title": "10171",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10171",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237092684,
+          "title": "10172",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10172",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237125452,
+          "title": "10173",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10173",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237158220,
+          "title": "10176",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10176",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237190988,
+          "title": "10177",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10177",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141237223756,
+          "title": "10178",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10178",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "10160",
+            "10161",
+            "10162",
+            "10163",
+            "10164",
+            "10165",
+            "10168",
+            "10169",
+            "10170",
+            "10171",
+            "10172",
+            "10173",
+            "10176",
+            "10177",
+            "10178"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10165.jpg?v=1716128403",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10161.jpg?v=1716128403",
+          "alt": null,
+          "width": 1236,
+          "height": 873
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10173.jpg?v=1716128403",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10160.jpg?v=1716128403",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10162.jpg?v=1716128401",
+          "alt": null,
+          "width": 1236,
+          "height": 873
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10163.jpg?v=1716128401",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10164.jpg?v=1716128401",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10168.jpg?v=1716128400",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10169.jpg?v=1716128400",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10170.jpg?v=1716128400",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10171.jpg?v=1716128400",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10172.jpg?v=1716128400",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10176.jpg?v=1716128335",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10177.jpg?v=1716128334",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10178.jpg?v=1716128339",
+          "alt": null,
+          "width": 1238,
+          "height": 878
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10165.jpg?v=1716128403",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">Solid with gauze effect.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"><br></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">No repeat</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">0 cm / 0 inch</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">Roll size 10,05 x 0,7 mtl </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019226095948,
+      "title": "Wallpaper - Wallcoverings01 - Mini Chevron",
+      "handle": "wallpaper-wallcoverings01-mini-chevron",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings01-mini-chevron",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T16:06:42+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T16:10:06+02:00",
+      "available": true,
+      "price_min": 89,
+      "price_max": 89,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48141214122316,
+          "title": "10020",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10020",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141214187852,
+          "title": "10021",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10021",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141214220620,
+          "title": "10023",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10023",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141214253388,
+          "title": "10026",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10026",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141214286156,
+          "title": "10027",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10027",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141214318924,
+          "title": "10030",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10030",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "10020",
+            "10021",
+            "10023",
+            "10026",
+            "10027",
+            "10030"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10020.jpg?v=1716127725",
+          "alt": null,
+          "width": 581,
+          "height": 839
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10021.jpg?v=1716127726",
+          "alt": null,
+          "width": 564,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10023.jpg?v=1716127725",
+          "alt": null,
+          "width": 567,
+          "height": 841
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10026.jpg?v=1716127726",
+          "alt": null,
+          "width": 588,
+          "height": 849
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10027.jpg?v=1716127726",
+          "alt": null,
+          "width": 568,
+          "height": 841
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10030.jpg?v=1716127727",
+          "alt": null,
+          "width": 576,
+          "height": 851
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10020.jpg?v=1716127725",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">Precious plains with tridimensional effects of Mini Chevron.</div>\n</div>\n</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"><br></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">53 cm</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">0 cm / 0 inch</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">Roll size 10,05 x 0,53 mtl / 11 yard x 20.5 inch</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019213611340,
+      "title": "Wallpaper - Wallcoverings01 - Zig Zag Sfumato",
+      "handle": "wallpaper-wallcoverings01-zig-zag-sfumato",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings01-zig-zag-sfumato",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T16:00:17+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T16:03:39+02:00",
+      "available": true,
+      "price_min": 299,
+      "price_max": 299,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 48141154812236,
+          "title": "20090",
+          "sku": null,
+          "price": "299.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "20090",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141154845004,
+          "title": "20091",
+          "sku": null,
+          "price": "299.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "20091",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "20090",
+            "20091"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_20090.jpg?v=1716127350",
+          "alt": null,
+          "width": 834,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_20091.jpg?v=1716127351",
+          "alt": null,
+          "width": 838,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_20090.jpg?v=1716127350",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">Iconic design in light tones in a graduated effect with a predominance of pink and light blue.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"><br></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">100X330</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">330 cm / 3.6 yard</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">Roll size 3,3<span> x 2 m</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019159904588,
+      "title": "Wallpaper - Wallcoverings01 - Fireworks",
+      "handle": "wallpaper-wallcoverings01-fireworks",
+      "url": "https://arowonen.com/products/wallpaper-wallcoverings01-fireworks",
+      "vendor": "MISSONI",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T15:40:19+02:00",
+      "updated_at": "2026-05-22T17:55:47+02:00",
+      "published_at": "2024-05-19T15:43:10+02:00",
+      "available": true,
+      "price_min": 89,
+      "price_max": 89,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48141054738764,
+          "title": "10052",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10052",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141054771532,
+          "title": "10053",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10053",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141054804300,
+          "title": "10054",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10054",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141054837068,
+          "title": "10055",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10055",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141054869836,
+          "title": "10056",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10056",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141054902604,
+          "title": "10057",
+          "sku": null,
+          "price": "89.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "10057",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "10052",
+            "10053",
+            "10054",
+            "10055",
+            "10056",
+            "10057"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10052.jpg?v=1716126153",
+          "alt": null,
+          "width": 561,
+          "height": 832
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10053.jpg?v=1716126153",
+          "alt": null,
+          "width": 563,
+          "height": 826
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10054.jpg?v=1716126153",
+          "alt": null,
+          "width": 569,
+          "height": 842
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10055.jpg?v=1716126154",
+          "alt": null,
+          "width": 578,
+          "height": 851
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10056.jpg?v=1716126152",
+          "alt": null,
+          "width": 570,
+          "height": 837
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10057.jpg?v=1716126154",
+          "alt": null,
+          "width": 578,
+          "height": 849
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_10052.jpg?v=1716126153",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n</div>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col descrizione-wallpaper\">A wonderful effect that gives to the pattern a similarity to a firework and flames.</div>\n</div>\n<div class=\"row altri-colori mt-0 mt-sm-5\"></div>\n<div class=\"row altri-colori mt-0 mt-sm-5\">\n<meta charset=\"utf-8\">\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Repeat</strong></div>\n<div class=\"col valore-opzione\">53 cm</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Vertical Repeat</strong></div>\n<div class=\"col valore-opzione\">53 cm / 20.86 inch</div>\n</div>\n<div class=\"row\">\n<div class=\"col nome-opzione\"><strong>Furniture</strong></div>\n<div class=\"col valore-opzione\">Roll size 1<span>0,05 x 0,52 m</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

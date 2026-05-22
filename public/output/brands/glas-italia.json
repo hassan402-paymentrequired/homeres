@@ -1,0 +1,368 @@
+{
+  "handle": "glas-italia",
+  "label": "Glas Italia",
+  "url": "https://arowonen.com/collections/glas-italia",
+  "scraped_at": "2026-05-22T15:55:28.065Z",
+  "product_count": 4,
+  "products": [
+    {
+      "id": 8970685972812,
+      "title": "Console - Lucido Shimmer",
+      "handle": "console-lucido-shimmer",
+      "url": "https://arowonen.com/products/console-lucido-shimmer",
+      "vendor": "GLAS ITALIA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "TABLES & DESKS"
+      ],
+      "created_at": "2024-04-15T11:18:43+02:00",
+      "updated_at": "2026-05-22T17:55:28+02:00",
+      "published_at": "2024-04-22T13:08:57+02:00",
+      "available": true,
+      "price_min": 1569,
+      "price_max": 1569,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48007755628876,
+          "title": "Default Title",
+          "sku": "",
+          "price": "1569.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Glas-Italia-Shimmer-Console-Table-by-Patricia-Urquiola.webp?v=1713172726",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Glas-Italia-Shimmer-Console-Table-by-Patricia-Urquiola-Detail.webp?v=1713172727",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Glas-Italia-Shimmer-Console-Table-by-Patricia-Urquiola-Room-Scene.webp?v=1713172728",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Glas-Italia-Shimmer-Console-Table-by-Patricia-Urquiola.webp?v=1713172726",
+      "description_html": "<p data-mce-fragment=\"1\">Designed by Patricia Urquiola for Glas Italia, Shimmer is characterized by its magical and ethereal appearance. Depending on the vantage point and the incidence angle of light, it displays an infinite variety of nuances, a result of its iridescent and multicoloured finish. The Shimmer collection features side table, dining tables, mirrors and a console table. </p>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">Materials: Laminated Extralight Glass</li>\n<li data-mce-fragment=\"1\">Dimensions: H84.5 x W100 x D45cm</li>\n</ul>"
+    },
+    {
+      "id": 8893105209676,
+      "title": "Table - Shimmer tavoli",
+      "handle": "table-shimmer-tavoli",
+      "url": "https://arowonen.com/products/table-shimmer-tavoli",
+      "vendor": "GLAS ITALIA",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TABLES & DESKS"
+      ],
+      "created_at": "2024-03-05T14:30:17+01:00",
+      "updated_at": "2026-05-22T17:55:28+02:00",
+      "published_at": "2024-03-05T14:33:59+01:00",
+      "available": true,
+      "price_min": 1767,
+      "price_max": 1767,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47778950250828,
+          "title": "Ø52 x H45 CM",
+          "sku": null,
+          "price": "1767.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ø52 x H45 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "Ø52 x H45 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/uv9UzRhQ-1200x.webp?v=1709645606",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7833.jpg?v=1709645617",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7834.jpg?v=1709645619",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7835.jpg?v=1709645620",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/uv9UzRhQ-1200x.webp?v=1709645606",
+      "description_html": "<p>High tables, low tables and consoles in laminated and glued glass, characterized by a special iridescent multichromatic finish; the nuance varies according to the angle of the light source and the vantage point. Reflected objects with a magical and ethereal appearance emerge. The high tables bases can be dismantled and are fixed to the top by means of metal plates, concealed by a circular decorated covering.</p>\n<p><br></p>\n<p><br></p>"
+    },
+    {
+      "id": 8893062644044,
+      "title": "Table - Fountain - Glass",
+      "handle": "table-fountain",
+      "url": "https://arowonen.com/products/table-fountain",
+      "vendor": "GLAS ITALIA",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TABLES & DESKS"
+      ],
+      "created_at": "2024-03-05T13:48:26+01:00",
+      "updated_at": "2026-05-22T17:55:28+02:00",
+      "published_at": "2024-03-05T14:36:07+01:00",
+      "available": true,
+      "price_min": 1192,
+      "price_max": 4477,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47778751086924,
+          "title": "Ø38 x H42 CM",
+          "sku": "",
+          "price": "1192.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ø38 x H42 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47778751119692,
+          "title": "Ø45 x H33 CM",
+          "sku": "",
+          "price": "1259.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ø45 x H33 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48742687965516,
+          "title": "Ø65 x H21 CM",
+          "sku": "",
+          "price": "1440.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ø65 x H21 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48742711951692,
+          "title": "Ø80 x H36 CM",
+          "sku": "",
+          "price": "4477.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ø80 x H36 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "Ø38 x H42 CM",
+            "Ø45 x H33 CM",
+            "Ø65 x H21 CM",
+            "Ø80 x H36 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tbSIFeNc-1200x.webp?v=1709643432",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9039.jpg?v=1709643435",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9040.jpg?v=1709643468",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7dwnRfXI-1200x.webp?v=1709643469",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9041.jpg?v=1709643472",
+          "alt": null,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3uKdudJt-1200x.webp?v=1709643474",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/QN7SNJJA-1200x.webp?v=1709643479",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ANy7SoYq-1200x.webp?v=1709643503",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-09-20om17.00.51.png?v=1726844459",
+          "alt": null,
+          "width": 402,
+          "height": 379
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-09-20om17.01.55.png?v=1726844524",
+          "alt": null,
+          "width": 490,
+          "height": 344
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tbSIFeNc-1200x.webp?v=1709643432",
+      "description_html": "<p><span>Precious and poetic round low table with Murano poured glass bases, hand shaped and chiseled by highly-tuned processing techniques. The top is also in poured glass and is inserted resting inside the base. These objects reproduce the poetry of water flowing from a spring with all its changing rivulets and glittering sparkle.</span></p>\n<p> </p>\n<p><br></p>"
+    },
+    {
+      "id": 8893029286220,
+      "title": "Mirror - Kooh-I-Noor Specchi",
+      "handle": "mirror-kooh-i-noor-specchi",
+      "url": "https://arowonen.com/products/mirror-kooh-i-noor-specchi",
+      "vendor": "GLAS ITALIA",
+      "product_type": "",
+      "tags": [
+        "ART & MIRRORS",
+        "MIRRORS"
+      ],
+      "created_at": "2024-03-05T13:27:58+01:00",
+      "updated_at": "2026-05-22T17:55:28+02:00",
+      "published_at": "2024-03-05T13:35:57+01:00",
+      "available": true,
+      "price_min": 2179,
+      "price_max": 2665,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 47778471182668,
+          "title": "L116 x H206",
+          "sku": "",
+          "price": "2179.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "L116 x H206",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47778471215436,
+          "title": "L150 x H265",
+          "sku": "",
+          "price": "2665.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "L150 x H265",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "L116 x H206",
+            "L150 x H265"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bvt9RMda-1200x.jpg?v=1709642038",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dh8OuMhe-1200x_107dc6a0-3edf-4117-92b6-bedf03cf18f8.webp?v=1709642055",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gQhYcJkN-1200x.jpg?v=1709642065",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/z9bL9OCn-1200x.jpg?v=1709642068",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bvt9RMda-1200x.jpg?v=1709642038",
+      "description_html": "<p><span>Standing mirror irregularly shaped with faceted perimeter and special chamferings with variable depths and inclinations.</span></p>\n<p> </p>"
+    }
+  ]
+}

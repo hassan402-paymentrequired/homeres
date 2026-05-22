@@ -1,0 +1,1674 @@
+{
+  "handle": "arte",
+  "label": "Arte",
+  "url": "https://arowonen.com/collections/arte",
+  "scraped_at": "2026-05-22T15:54:47.695Z",
+  "product_count": 9,
+  "products": [
+    {
+      "id": 9021077717324,
+      "title": "Wallpaper - Les Thermes - Stucco",
+      "handle": "wallpaper-les-thermes-stucco",
+      "url": "https://arowonen.com/products/wallpaper-les-thermes-stucco",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-20T16:16:16+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-20T16:24:40+02:00",
+      "available": true,
+      "price_min": 39,
+      "price_max": 39,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 16,
+      "variants": [
+        {
+          "id": 48146069225804,
+          "title": "Mauve",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Mauve",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069258572,
+          "title": "Silver Pine",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Silver Pine",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069291340,
+          "title": "Soft Beige",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Soft Beige",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069324108,
+          "title": "Moss",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Moss",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069356876,
+          "title": "Washed White",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Washed White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069389644,
+          "title": "Light Amber",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Light Amber",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069422412,
+          "title": "Slate Grey",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Slate Grey",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069455180,
+          "title": "Taupe",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Taupe",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069487948,
+          "title": "Blush",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Blush",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069520716,
+          "title": "Bright Brick",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Bright Brick",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069553484,
+          "title": "Beach",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Beach",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069586252,
+          "title": "Light Jeans",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Light Jeans",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069619020,
+          "title": "White",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069651788,
+          "title": "Mushroom",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Mushroom",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069684556,
+          "title": "Hot Chocolate",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Hot Chocolate",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48146069717324,
+          "title": "Corn",
+          "sku": null,
+          "price": "39.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Corn",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "Mauve",
+            "Silver Pine",
+            "Soft Beige",
+            "Moss",
+            "Washed White",
+            "Light Amber",
+            "Slate Grey",
+            "Taupe",
+            "Blush",
+            "Bright Brick",
+            "Beach",
+            "Light Jeans",
+            "White",
+            "Mushroom",
+            "Hot Chocolate",
+            "Corn"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LightJeans.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Beach.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Blush.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BrightBrick.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Corn.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HotChocolate.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LightAmber.jpg?v=1716279050",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mauve.jpg?v=1716214893",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Moss.jpg?v=1716214896",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mushroom_9bd7b019-2b55-4f21-8650-b6d38cf44894.jpg?v=1716214894",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SilverPine.jpg?v=1716214893",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SlateGrey.jpg?v=1716214895",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SoftBeige_72c338d3-5bc5-432c-a40b-80115306df1f.jpg?v=1716214897",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Taupe.jpg?v=1716214895",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WashedWhite_784b024f-6c52-481d-b9d0-c84084245066.jpg?v=1716214893",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/White.jpg?v=1716214895",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LightJeans.jpg?v=1716279050",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Stucco makes a playful reference to the decorative plaster used during Greco-Roman antiquity. It is an abstraction of textile and the tone-on-tone colour palette ensures a serene but weathered look.</div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\"></div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<p>This wallpaper is sold by the linear metre and can therefore not be cancelled or returned. </p>\n</div>\n</div>\n<div class=\"seven-five mb-auto\"><br></div>\n</div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Exquisite</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Non-woven wallcovering</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Inspired by decorative plaster from Greco-Roman antiquity</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Width 90 cm (35.43\"), sold by the linear metre/yard</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Free match 0 cm (0.00\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\" x-ref=\"content\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Paste the wall</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Strippable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s1, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n</div>\n</div>\n<div x-data=\"{ expanded: false }\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 9021058318668,
+      "title": "Wallpaper - Amazone 2 - Maze",
+      "handle": "wallpaper-amazone-2-maze",
+      "url": "https://arowonen.com/products/wallpaper-amazone-2-maze",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-20T15:51:41+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-20T15:59:43+02:00",
+      "available": true,
+      "price_min": 189,
+      "price_max": 189,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 48145982587212,
+          "title": "23580",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "23580",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48145982619980,
+          "title": "23581",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "23581",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48145982652748,
+          "title": "23583",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "23583",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48145982685516,
+          "title": "23584",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "23584",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "23580",
+            "23581",
+            "23583",
+            "23584"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/23580.jpg?v=1716213346",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/23584.jpg?v=1716213349",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/23581.jpg?v=1716213349",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/23583.jpg?v=1716213349",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/23580.jpg?v=1716213346",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Wallcovering with a pleated fabric and a flocked pattern.</div>\n</div>\n</div>\n</div>\n<div class=\"seven-five mb-auto\"><br></div>\n<p>This wallpaper is sold by the linear metre and can therefore not be cancelled or returned. </p>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Couture</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Textile wallcovering on non-woven backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Wallcovering with a pleated fabric and a flocked pattern</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Width 130 cm (51.18\"), sold by the linear metre/yard</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Straight match 64 cm (25.20\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\" x-ref=\"content\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Remark</td>\n<td class=\"pb-2 pr-8\">Textile wallcovering with a velvet pattern</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Paste the wall</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Strippable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s1, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Spongeable during hanging (dab away damp glue)</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n</div>"
+    },
+    {
+      "id": 9019062944076,
+      "title": "Wallpaper - Manila - Atlas",
+      "handle": "wallpaper-manila-atlas",
+      "url": "https://arowonen.com/products/wallpaper-manila-atlas",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T13:28:46+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-19T13:33:01+02:00",
+      "available": true,
+      "price_min": 149,
+      "price_max": 149,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48140731056460,
+          "title": "Petrol",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Petrol",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140731089228,
+          "title": "Soft Beige",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Soft Beige",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140731121996,
+          "title": "Camel",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Camel",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140731154764,
+          "title": "Ash",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ash",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140731187532,
+          "title": "Sand",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Sand",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140731220300,
+          "title": "Brick",
+          "sku": null,
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brick",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "Petrol",
+            "Soft Beige",
+            "Camel",
+            "Ash",
+            "Sand",
+            "Brick"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SoftBeige.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Petrol.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ash.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brick.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Camel.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sand.jpg?v=1716118290",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SoftBeige.jpg?v=1716118290",
+      "description_html": "<p> </p>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\" x-ref=\"content\"><meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Wallpaper with floral patterns in combination with organic shapes. Threads of different materials and thicknesses are meticulously placed in patterns by hand, creating a minimalist design with corresponding relief.</div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\"></div>\n</div>\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Inspired by meticulously inlaid threads in an organic block pattern</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Rolls of 10.05 m x 0.70 m = 7 m² (11 yds x 27.56\" = 75 sq. ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Drop match 90/45 cm (35.43\"/17.72\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n<table width=\"567\" height=\"15\" window=\"specification_sheet_url = $event.detail.specification_sheet_url; code = $event.detail.code\" reference-changed=\"\" x-data=\"{\n                    code: '42500',\n                    specification_sheet_url: 'https://www.arte-international.com/en/specification-sheets/42500'\n                }\">\n<tbody></tbody>\n</table>\n</article>\n</div>"
+    },
+    {
+      "id": 9019055243596,
+      "title": "Wallpaper - Textura - Weave",
+      "handle": "wallpaper-textura-weave",
+      "url": "https://arowonen.com/products/wallpaper-textura-weave",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T13:11:07+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-19T13:16:02+02:00",
+      "available": true,
+      "price_min": 209,
+      "price_max": 209,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 5,
+      "variants": [
+        {
+          "id": 48140704252236,
+          "title": "Glazed White",
+          "sku": null,
+          "price": "209.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Glazed White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140704285004,
+          "title": "Deep Sea",
+          "sku": null,
+          "price": "209.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Deep Sea",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140704317772,
+          "title": "Espresso",
+          "sku": null,
+          "price": "209.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Espresso",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140704350540,
+          "title": "Latte",
+          "sku": null,
+          "price": "209.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Latte",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140704383308,
+          "title": "Clay",
+          "sku": null,
+          "price": "209.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Clay",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "Glazed White",
+            "Deep Sea",
+            "Espresso",
+            "Latte",
+            "Clay"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Clay.jpg?v=1716117301",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DeepSea.jpg?v=1716117301",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Espresso.jpg?v=1716117301",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GlazedWhite.jpg?v=1716117301",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Latte_1f2a96dc-dbf7-496f-a3ee-1ab69d1f29b4.jpg?v=1716117301",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Clay.jpg?v=1716117301",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">The Weave design is based on braided leather. The braided leather relief creates a very realistic impression of leather strips.</div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\"></div>\n</div>\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Based on braided leather, with a relief that creates a very realistic impression</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Rolls of 10.05 m x 1.00 m = 10 m² (11 yds x 39.37\" = 108 sq. ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Straight match 32 cm (12.60\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019046101324,
+      "title": "Wallpaper - Textura - Tasar",
+      "handle": "wallpaper-textura-tasar",
+      "url": "https://arowonen.com/products/wallpaper-textura-tasar",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T12:59:02+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-19T13:06:35+02:00",
+      "available": true,
+      "price_min": 169,
+      "price_max": 169,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 11,
+      "variants": [
+        {
+          "id": 48140674302284,
+          "title": "Palmier",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Palmier",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674335052,
+          "title": "Silver Sand",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Silver Sand",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674367820,
+          "title": "Desert Sun",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Desert Sun",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674400588,
+          "title": "Latte",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Latte",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674433356,
+          "title": "Marigold",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Marigold",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674466124,
+          "title": "Opal",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Opal",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674498892,
+          "title": "Teal",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Teal",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674531660,
+          "title": "Mushroom",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Mushroom",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674564428,
+          "title": "White Smoke",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "White Smoke",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140674597196,
+          "title": "Bronze",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Bronze",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140688916812,
+          "title": "Deep Lagoon",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Deep Lagoon",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "Palmier",
+            "Silver Sand",
+            "Desert Sun",
+            "Latte",
+            "Marigold",
+            "Opal",
+            "Teal",
+            "Mushroom",
+            "White Smoke",
+            "Bronze",
+            "Deep Lagoon"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WHITESMOKE.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BRONZE.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DEEPLAGOON.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DESERTSUN.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LATTE.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MARIGOLD.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MUSHROOM.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OPAL.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PALMIER.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SILVERSAND.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TEAL.jpg?v=1716116730",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WHITESMOKE.jpg?v=1716116730",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Tasar is inspired by real silk. Beautiful in its simplicity, with the subtle irregularities of silk fabric. This natural product always results in a rich, intense colour palette without ever being obtrusive.</div>\n<div class=\"wysiwyg mb-4 font-light max-w-xl\"></div>\n</div>\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Inspired by real silk, beautiful in its simplicity</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Rolls of 10.05 m x 1.00 m = 10 m² (11 yds x 39.37\" = 108 sq. ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Straight match 90 cm (35.43\"), or free match 0 cm (0.00\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Remark</td>\n<td class=\"pb-2 pr-8\">Tasar can be hung in two ways. You can match the pattern across various drops, so the wall takes on a beautiful, uniform look. Another option is not to match the pattern. You will then clearly see the drops, which enables you to create the stylish effect of natural silk on the wall</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n<div x-data=\"{ expanded: false }\"></div>"
+    },
+    {
+      "id": 9017997001036,
+      "title": "Wallpaper - Sculptura - Rovine",
+      "handle": "wallpaper-sculptura-rovine",
+      "url": "https://arowonen.com/products/wallpaper-sculptura-rovine",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-18T17:49:52+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-18T17:56:48+02:00",
+      "available": true,
+      "price_min": 599,
+      "price_max": 599,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 48138185343308,
+          "title": "Onyx",
+          "sku": null,
+          "price": "599.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Onyx",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138185376076,
+          "title": "Denim Blue",
+          "sku": null,
+          "price": "599.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Denim Blue",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138185408844,
+          "title": "Toffee",
+          "sku": null,
+          "price": "599.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Toffee",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "Onyx",
+            "Denim Blue",
+            "Toffee"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Onyx.jpg?v=1716047637",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Toffee.jpg?v=1716047637",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DenimBlue.jpg?v=1716047637",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Onyx.jpg?v=1716047637",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Rovine is a stately panoramic in vinyl that imitates an etching of a Greek ruin. The drawing shows antiquity in decay. The work is dedicated to Monsieur Descamps, one of the king’s artists.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p> </p>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Exquisite</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallcovering on non-woven backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Inspired by an etching of a Greek ruin</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Panoramic of 200 cm x 300 cm = 6 m² (78.74” x 118.11” = 65 sq.ft.)</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Remark</td>\n<td class=\"pb-2 pr-8\">The pattern is repeatable, allowing several panoramics to be joined together.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Paste the wall</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Strippable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n<table style=\"width: 100.091%; height: 68.7814px;\">\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\" style=\"height: 10px;\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\" style=\"width: 48.5027%; height: 10px;\"></td>\n<td class=\"pb-2 pr-8\" style=\"width: 48.5027%; height: 10px;\"></td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\" style=\"height: 19.5938px;\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n<td class=\"pb-2 pr-8\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\" style=\"height: 19.5938px;\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n<td class=\"pb-2 pr-8\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\" style=\"height: 19.5938px;\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n<td class=\"pb-2 pr-8\" style=\"width: 48.5027%; height: 19.5938px;\"></td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\"></div>\n</div>"
+    },
+    {
+      "id": 9017987629388,
+      "title": "Wallpaper - Textura - Lignes",
+      "handle": "wallpaper-textura-lignes",
+      "url": "https://arowonen.com/products/wallpaper-textura-lignes",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-18T17:26:39+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-18T17:30:30+02:00",
+      "available": true,
+      "price_min": 169,
+      "price_max": 169,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 10,
+      "variants": [
+        {
+          "id": 48138143138124,
+          "title": "Champagne",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Champagne",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143170892,
+          "title": "Ochre",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ochre",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143203660,
+          "title": "Paille",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Paille",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143236428,
+          "title": "Washed White",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Washed White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143269196,
+          "title": "Olive",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Olive",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143301964,
+          "title": "Pearl",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Pearl",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143334732,
+          "title": "Straw",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Straw",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143367500,
+          "title": "Sandstone",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Sandstone",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143400268,
+          "title": "Lava Stone",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Lava Stone",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48138143433036,
+          "title": "Stone",
+          "sku": null,
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Stone",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "Champagne",
+            "Ochre",
+            "Paille",
+            "Washed White",
+            "Olive",
+            "Pearl",
+            "Straw",
+            "Sandstone",
+            "Lava Stone",
+            "Stone"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sandstone.jpg?v=1716279169",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Champagne.jpg?v=1716279169",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pearl.jpg?v=1716279169",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LavaStone.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ochre.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Paille.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Stone.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WashedWhite.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 869
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Olive.jpg?v=1716046123",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Straw.jpg?v=1716046117",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sandstone.jpg?v=1716279169",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Interweaving lighter and darker threads creates horizontal stripes that give the illusion of depth. You can instantly recognise the typical irregularities of the natural linen thread.</div>\n</div>\n</div>\n</div>\n<div class=\"seven-five mb-auto\"><br></div>\n<p> </p>\n<div x-data=\"{ expanded: false }\">\n<meta charset=\"utf-8\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Interwoven lighter and darker threads that create horizontal stripes to give the illusion of depth</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Rolls of 10.05 m x 1.00 m = 10 m² (11 yds x 39.37\" = 108 sq. ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Straight match 91 cm (35.83\"), or free match 0 cm (0.00\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Remark</td>\n<td class=\"pb-2 pr-8\">You can hang Lignes in two ways: matching the drops for a uniform look, or not matching the drops for the effect of natural linen</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n</div>"
+    },
+    {
+      "id": 9017837584716,
+      "title": "Wallpaper - Lino - Aspero",
+      "handle": "wallpaper-lino-aspero",
+      "url": "https://arowonen.com/products/wallpaper-lino-aspero",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-18T15:02:22+02:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-05-24T16:48:29+02:00",
+      "available": true,
+      "price_min": 169,
+      "price_max": 169,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 10,
+      "variants": [
+        {
+          "id": 48137759097164,
+          "title": "40540",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40540",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759129932,
+          "title": "40541",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40541",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759162700,
+          "title": "40542",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40542",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759195468,
+          "title": "40543",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40543",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759228236,
+          "title": "40544",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40544",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759261004,
+          "title": "40545",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40545",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759293772,
+          "title": "40546",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40546",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759326540,
+          "title": "40547",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40547",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759359308,
+          "title": "40548",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40548",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48137759392076,
+          "title": "40549",
+          "sku": "",
+          "price": "169.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40549",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "40540",
+            "40541",
+            "40542",
+            "40543",
+            "40544",
+            "40545",
+            "40546",
+            "40547",
+            "40548",
+            "40549"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40541_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716279073",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40540_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716279073",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40547_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716279073",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40548_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037643",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40542_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037644",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40549_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037642",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40543_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037642",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40544_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037643",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40545_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037643",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40546_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716037644",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lino_Aspero_40541_Packshot_Print_HR-thumb-two-thirds.jpg?v=1716279073",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">Aspero has a more outspoken, thicker weave, but still undoubtedly maintains an authentic linen structure. A lively effect is created by combining subtle colour gradations. When used on a wall, it instantly creates a warm, cosy feeling in the home.</div>\n</div>\n<div class=\"seven-five mb-auto\"><br></div>\n<p> </p>\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Wallpaper with the natural look of real linen</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">XL-ROLL: Rolls of 10.05 m x 1.00 m = 10 m² (11 yds x 39.37\" = 108 sq. ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Straight match 91 cm (35.83\"), or free match 0 cm (0.00\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-ref=\"content\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Remark</td>\n<td class=\"pb-2 pr-8\">You can hang Aspero in two ways: matching the drops for a uniform look, or not matching the drops for the effect of natural linen</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>\n<p><br></p>\n<div x-data=\"{ expanded: false }\"></div>"
+    },
+    {
+      "id": 8875516363084,
+      "title": "Wallpaper - Sculptura - Shards",
+      "handle": "wallpaper-sculptura-shards",
+      "url": "https://arowonen.com/products/wallpaper-sculptura-shards",
+      "vendor": "ARTE",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-02-23T12:45:33+01:00",
+      "updated_at": "2026-05-22T17:54:47+02:00",
+      "published_at": "2024-03-09T12:11:40+01:00",
+      "available": true,
+      "price_min": 149,
+      "price_max": 149,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 10,
+      "variants": [
+        {
+          "id": 47733805678924,
+          "title": "Petrol",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Petrol",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805711692,
+          "title": "Camel",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Camel",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805744460,
+          "title": "Clay",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Clay",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805777228,
+          "title": "Hot Chocolate",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Hot Chocolate",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805809996,
+          "title": "Fern",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Fern",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805842764,
+          "title": "Sand Drift",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Sand Drift",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805875532,
+          "title": "Opal",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Opal",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805908300,
+          "title": "Smoke",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Smoke",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805941068,
+          "title": "Brick Red",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brick Red",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47733805973836,
+          "title": "Orange Gold",
+          "sku": "",
+          "price": "149.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Orange Gold",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "Petrol",
+            "Camel",
+            "Clay",
+            "Hot Chocolate",
+            "Fern",
+            "Sand Drift",
+            "Opal",
+            "Smoke",
+            "Brick Red",
+            "Orange Gold"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42506_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689173",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42500_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708688980",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42501_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689002",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42502_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689024",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42503_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689041",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42504_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689060",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42505_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689121",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42507_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689185",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42508_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689196",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42509_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689207",
+          "alt": null,
+          "width": 580,
+          "height": 870
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sculptura_Shards_42506_Flatshot_Print_HR-thumb-two-thirds.jpg?v=1708689173",
+      "description_html": "<p><span>Shards features a composition of fragments. It draws its inspiration from plasterwork, which gives the pattern a traditional character. The uneven nature of the wallcovering and incidence of light create extra relief.</span></p>\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Product category</td>\n<td class=\"pb-2 pr-8\">Refined</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Composition</td>\n<td class=\"pb-2 pr-8\">Vinyl wallpaper on paper backing</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Description</td>\n<td class=\"pb-2 pr-8\">Composition of plaster-inspired shards</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Dimensions</td>\n<td class=\"pb-2 pr-8\">Rolls of 10.05 m x 0.70 m = 7 m² (11 yds x 27.56\" = 75 sq.ft.)</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Pattern repeat</td>\n<td class=\"pb-2 pr-8\">Drop match 90/45 cm (35.43\"/17.72\")</td>\n</tr>\n</tbody>\n</table>\n<div x-data=\"{ expanded: false }\">\n<article class=\"overflow-hidden transition-all duration-200\" x-bind:style=\"expanded ? 'max-height: ' + $refs.content.scrollHeight + 'px;' : 'max-height: 0;'\" x-ref=\"content\">\n<table>\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Adhesive</td>\n<td class=\"pb-2 pr-8\">Arte Clearpro or a good quality dispersion adhesive</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to paste</td>\n<td class=\"pb-2 pr-8\">Method 1: paste the wall and moisten the wallcovering. Method 2: paste the wallcovering.</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Light resistance</td>\n<td class=\"pb-2 pr-8\">Good lightfastness</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">How to remove</td>\n<td class=\"pb-2 pr-8\">Peelable</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant EU</td>\n<td class=\"pb-2 pr-8\">B-s2, d0</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Fire retardant US</td>\n<td class=\"pb-2 pr-8\">Class A</td>\n</tr>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\">Maintenance</td>\n<td class=\"pb-2 pr-8\">Extra-washable</td>\n</tr>\n</tbody>\n</table>\n<table width=\"567\" height=\"15\" window=\"specification_sheet_url = $event.detail.specification_sheet_url; code = $event.detail.code\" reference-changed=\"\" x-data=\"{\n                    code: '42500',\n                    specification_sheet_url: 'https://www.arte-international.com/en/specification-sheets/42500'\n                }\">\n<tbody>\n<tr class=\"flex flex-col mb-2 sm:table-row mb-0\">\n<td class=\"font-normal sm:font-light sm:pb-2 pr-8 sm:min-w-table align-top\" style=\"width: 341.125px;\"><br></td>\n<td class=\"pb-2 pr-8\" style=\"width: 208.375px;\"></td>\n</tr>\n</tbody>\n</table>\n</article>\n</div>"
+    }
+  ]
+}

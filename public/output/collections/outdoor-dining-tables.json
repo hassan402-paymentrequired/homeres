@@ -1,0 +1,521 @@
+{
+  "handle": "outdoor-dining-tables",
+  "label": "Outdoor Dining Tables",
+  "url": "https://arowonen.com/collections/outdoor-dining-tables",
+  "scraped_at": "2026-05-22T15:59:38.565Z",
+  "product_count": 5,
+  "products": [
+    {
+      "id": 15725782794572,
+      "title": "Outdoor Dining Table - Vistamar",
+      "handle": "outdoor-dining-table-vistamar-1",
+      "url": "https://arowonen.com/products/outdoor-dining-table-vistamar-1",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR DINING TABLE",
+        "OUTDOOR DINING TABLES"
+      ],
+      "created_at": "2026-04-28T14:54:47+02:00",
+      "updated_at": "2026-05-22T17:59:38+02:00",
+      "published_at": "2026-05-01T19:57:15+02:00",
+      "available": true,
+      "price_min": 3995,
+      "price_max": 3995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57401209291084,
+          "title": "Default Title",
+          "sku": "120302",
+          "price": "3995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_120302_2_1_700x_e32c984f-acc5-4d42-856c-4b41a28ff996.webp?v=1777380977",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_120302_3_1_700x_27a6423c-8f3c-418b-ac94-ee0724e201ef.webp?v=1777380978",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_120302_0_1_700x_ad9b4c27-484a-4595-9da6-39e6e2f41282.webp?v=1777380977",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_120302_4_1_700x_6119a921-a23b-415b-b482-7c9c0124cb99.webp?v=1777380977",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_120302_5_1_700x_39b51e3f-a259-49b2-b521-232c622e21e5.webp?v=1777380978",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_120302_2_1_700x_e32c984f-acc5-4d42-856c-4b41a28ff996.webp?v=1777380977",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><span>Elevate outdoor dining with the Outdoor Dining Table Vistamar in aged teak. Featuring a modern design with a geometric slatted top and bold, squared legs, it brings a clean and stylish focal point to your terrace or garden setting. Crafted from aged teak, the table combines natural warmth with lasting durability. Its generous proportions make it ideal for relaxed lunches, dinners and outdoor gatherings.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<meta charset=\"utf-8\">\n<span>L. 240 | W. 105 | H. 75</span>\n</div>\n<p><br></p>"
+    },
+    {
+      "id": 15565263569228,
+      "title": "Outdoor Dining Table - Cleon cream",
+      "handle": "outdoor-dining-table-cleon-cream",
+      "url": "https://arowonen.com/products/outdoor-dining-table-cleon-cream",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS",
+        "OUTDOOR DINING TABLE",
+        "OUTDOOR DINING TABLES"
+      ],
+      "created_at": "2026-02-07T19:14:08+01:00",
+      "updated_at": "2026-05-22T17:59:38+02:00",
+      "published_at": "2026-02-08T13:56:10+01:00",
+      "available": true,
+      "price_min": 2195,
+      "price_max": 2195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56676697604428,
+          "title": "Default Title",
+          "sku": "119531",
+          "price": "2195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_0_1_1_230de89d-01c7-4c35-85d2-d33d395044b2.jpg?v=1779093556",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_1_1_1.jpg?v=1779093556",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_2_1_1.jpg?v=1779093556",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_4_1_1_506be28d-3219-40ee-8c0c-e5b8647b15db.jpg?v=1779093557",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_3_1_1_516233ef-1cde-4234-88a1-a7b0a3816a13.jpg?v=1779093557",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117534_0_1_1_230de89d-01c7-4c35-85d2-d33d395044b2.jpg?v=1779093556",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><span>The Cleon Outdoor Dining Table is a sophisticated and resilient piece designed to savor delightful meals and share memorable moments with your loved ones. Its glass fibre reinforced concrete in a smooth cream finish makes it suitable for both indoor and outdoor use, while its matte dry look adds a touch of modern elegance. Embrace the practicality and style of the Outdoor Dining Table Cleon, creating a charming and inviting dining area.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<header class=\"px-8\">\n<h3 class=\"text-2xl text-black normal-case\">Specifications</h3>\n</header>\n<div class=\"m-8\">\n<div>\n<div class=\"table-wrapper max-w-prose overflow-x-auto text-base\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Cream</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor &amp; outdoor use</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><br></p>"
+    },
+    {
+      "id": 15125423325516,
+      "title": "Outdoor Dining Table - Vistamar matte - White",
+      "handle": "outdoor-dining-table-vistamar-matte-white",
+      "url": "https://arowonen.com/products/outdoor-dining-table-vistamar-matte-white",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR DINING TABLE",
+        "OUTDOOR DINING TABLES"
+      ],
+      "created_at": "2025-10-05T15:40:31+02:00",
+      "updated_at": "2026-05-22T17:59:38+02:00",
+      "published_at": "2025-10-18T10:49:38+02:00",
+      "available": true,
+      "price_min": 3495,
+      "price_max": 3495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53534750048588,
+          "title": "Default Title",
+          "sku": "119777",
+          "price": "3495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_2_1_1_0cba73af-5b92-4327-8f24-dce9809b1aac.jpg?v=1779279999",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_1_1_1_da9cc053-3689-4ffa-a77c-e3e065239b0f.jpg?v=1779280000",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_3_1_1_df32219e-13f0-48fc-9889-74785db4c7fa.jpg?v=1779279999",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_0_1_1_186d3310-bdb7-428c-96b3-b28eb2d0766d.jpg?v=1779279999",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_6_1_1_61ab7c3b-8af0-4156-911a-f9972a8723a9.jpg?v=1779280000",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_5_1_1_0650b8f9-b415-472a-a558-b997c810d06f.jpg?v=1779280000",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_4_1_1_7acae229-f4b8-44d0-b815-984cff592adc.jpg?v=1779279999",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119777_2_1_1_0cba73af-5b92-4327-8f24-dce9809b1aac.jpg?v=1779279999",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15008788939084,
+      "title": "Outdoor Dining Table - Arc - By Foster + Partners",
+      "handle": "table-arc-by-foster-partners",
+      "url": "https://arowonen.com/products/table-arc-by-foster-partners",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Foster + Partners",
+        "OUTDOOR",
+        "OUTDOOR DINING TABLE",
+        "OUTDOOR DINING TABLES"
+      ],
+      "created_at": "2025-08-04T11:38:09+02:00",
+      "updated_at": "2026-05-22T17:59:38+02:00",
+      "published_at": "2025-08-05T11:45:36+02:00",
+      "available": true,
+      "price_min": 7085,
+      "price_max": 7085,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53312916783436,
+          "title": "⌀150 x 73.5cm H / Dolomite Grey Cement",
+          "sku": null,
+          "price": "7085.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "⌀150 x 73.5cm H",
+          "option2": "Dolomite Grey Cement",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "⌀150 x 73.5cm H"
+          ]
+        },
+        {
+          "name": "Top and Structure",
+          "values": [
+            "Dolomite Grey Cement"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_5_Arc_01.jpg?v=1754300383",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_078-Arc-GreenPoint-Palma_WEB.jpg?v=1754300384",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_079-Arc_WEB.jpg?v=1754300384",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_5_Arc_01.jpg?v=1754300383",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Foster + Partners' Arc sculpture table joins the outdoor proposal with an all-cement finish.</span></p>\n<section class=\"content-block\" id=\"block-1\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The shape of the base is inspired by the techno-structures often used in modern buildings, while the material used is a \"light\" cement that incorporates colour and a special fibrous material, moulded in a single block and coloured en masse. The result is a strong structure, characterised by a low specific weight, which makes it possible to create complex shapes.</p>\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The Arc table combines structural characteristics of strength and elasticity with innovative concepts such as complete recyclability and the low environmental impact of the production cycle. The outdoor proposal, which is configured in a single dimension, is available in the colour anthracite in all its components, resulting in a sculptural table with a mono-material and monochrome essence.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15008795689292,
+      "title": "Dining Table - Fairmount - By Vincent Van Duysen",
+      "handle": "table-fairmount-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/table-fairmount-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "OUTDOOR DINING TABLE",
+        "OUTDOOR DINING TABLES",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T11:43:59+02:00",
+      "updated_at": "2026-05-22T17:59:38+02:00",
+      "published_at": "2025-08-05T11:46:01+02:00",
+      "available": true,
+      "price_min": 3990,
+      "price_max": 7360,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 8,
+      "variants": [
+        {
+          "id": 53312895484236,
+          "title": "220 x 115.4 x H74 cm / Yes",
+          "sku": null,
+          "price": "6440.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "220 x 115.4 x H74 cm",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312895517004,
+          "title": "220 x 115.4 x H74 cm / No",
+          "sku": null,
+          "price": "5790.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "220 x 115.4 x H74 cm",
+          "option2": "No",
+          "option3": null
+        },
+        {
+          "id": 53312895549772,
+          "title": "280 x 115.4 x H74 cm / Yes",
+          "sku": null,
+          "price": "7360.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "280 x 115.4 x H74 cm",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312895582540,
+          "title": "280 x 115.4 x H74 cm / No",
+          "sku": null,
+          "price": "6650.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "280 x 115.4 x H74 cm",
+          "option2": "No",
+          "option3": null
+        },
+        {
+          "id": 53312895615308,
+          "title": "⌀160 x H74 cm / Yes",
+          "sku": null,
+          "price": "5870.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "⌀160 x H74 cm",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312895648076,
+          "title": "⌀160 x H74 cm / No",
+          "sku": null,
+          "price": "5240.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "⌀160 x H74 cm",
+          "option2": "No",
+          "option3": null
+        },
+        {
+          "id": 53312895680844,
+          "title": "⌀120 x H64 cm / Yes",
+          "sku": null,
+          "price": "4620.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "⌀120 x H64 cm",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312895713612,
+          "title": "⌀120 x H64 cm / No",
+          "sku": null,
+          "price": "3990.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "⌀120 x H64 cm",
+          "option2": "No",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "220 x 115.4 x H74 cm",
+            "280 x 115.4 x H74 cm",
+            "⌀160 x H74 cm",
+            "⌀120 x H64 cm"
+          ]
+        },
+        {
+          "name": "Add Waterproof Cover?",
+          "values": [
+            "Yes",
+            "No"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_fairmont_01.jpg?v=1754300836",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_fairmont_01.jpg?v=1754300836",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_fairmont_03.jpg?v=1754300836",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65ca23d13c447_Casa_Novina_0610_2024_WEB.jpg?v=1754300787",
+          "alt": null,
+          "width": 2045,
+          "height": 1316
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65ca25ac485b5_Casa_Novina_0391_2024_WEB.jpg?v=1754300788",
+          "alt": null,
+          "width": 1858,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65ca240b90d85_Casa_Novina_1603_2024_WEB.jpg?v=1754300788",
+          "alt": null,
+          "width": 1625,
+          "height": 1911
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0410_2024_WEB.jpg?v=1754300788",
+          "alt": null,
+          "width": 1859,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1227_2024_WEB.jpg?v=1754300789",
+          "alt": null,
+          "width": 1859,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1619_2024_WEB.jpg?v=1754300788",
+          "alt": null,
+          "width": 1691,
+          "height": 1552
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_fairmont_01.jpg?v=1754300836",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Vincent Van Duysen brings his visionary touch to the outdoors with the Fairmount table, a meticulously crafted piece that embraces natural settings with elegance. Designed for the Landmark Collection, Fairmount seamlessly combines comfort and style, creating a captivating centerpiece for social gatherings.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<p class=\"generic-text\">Crafted from exquisite solid teak, the Fairmount table highlights Molteni&amp;C expertise in woodwork, merging the luxurious essence of teak with the emotional language of the Landmark Collection. The tabletop, available in rectangular or round shapes, presents a graceful interplay between substance and lightness.<br></p>\n<section class=\"content-block\" id=\"block-2\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<p class=\"generic-text\">In the rectangular version, Fairmount subtly references Vincent Van Duysen's Golden Gate table, featuring a base with two rectangular legs. The challenge lies in the suspended planks, ingeniously arranged to create a mesmerizing labyrinthine geometric figure, giving the illusion of a \"floating\" tabletop with a clever inclination.</p>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<p class=\"generic-text\">Fairmount’s round-top version adopts a Y-shaped base, fostering a sense of conviviality and intimacy. The three solid beams extending from a central junction embrace the sociability associated with the round shape, making it an ideal choice for outdoor occasions.</p>\n<section class=\"content-block dimension-medium\" id=\"block-6\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<p class=\"generic-text\">Fairmount's dimensions cater to various preferences: Rectangular sizes include 220 cm and 280 cm lengths, both with a height of 74 cm. The round version boasts a 160 cm diameter, also standing at 74 cm height, while the tea table measures 120 cm in diameter with a height of 64 cm.</p>\n<section class=\"content-block dimension-medium\" id=\"block-8\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">This outdoor table is not only a visual delight but also a practical, low-maintenance choice. Crafted from raw materials sourced from controlled supply chains, Fairmount preserves the natural color of the wood without resorting to chemical treatments or harmful substances. The teakwood's high percentage of oily resin makes maintenance a breeze, requiring only periodic oiling using the dedicated maintenance kit provided by Molteni&amp;C. Fairmount's monomateriality contributes to its sustainability, making it an excellent choice for those who appreciate a harmony of style and environmental consciousness.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-9\">\n<div class=\"wrapper-content\">\n<div class=\"row  block-two-img\">\n<div class=\"col-7  animation-y  block-caption\"><br></div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>"
+    }
+  ]
+}

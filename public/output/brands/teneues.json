@@ -1,0 +1,1881 @@
+{
+  "handle": "teneues",
+  "label": "TeNeues",
+  "url": "https://arowonen.com/collections/teneues",
+  "scraped_at": "2026-05-22T15:56:04.005Z",
+  "product_count": 16,
+  "products": [
+    {
+      "id": 15433066381644,
+      "title": "Book - Untamed Spirits: Horses from Around the World",
+      "handle": "untamed-spirits-horses-from-around-the-world",
+      "url": "https://arowonen.com/products/untamed-spirits-horses-from-around-the-world",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-03T13:36:17+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-03T14:51:56+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56150054338892,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763.webp?v=1764769919",
+          "alt": null,
+          "width": 600,
+          "height": 715
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_3D_vRechts.webp?v=1764769919",
+          "alt": null,
+          "width": 772,
+          "height": 546
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_002-003.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_006-007.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_010-011.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_024-025.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_032-033.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_054-055.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_078-079.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_088-089.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_094-095.webp?v=1764769919",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_192-193.webp?v=1764769736",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_178-179.webp?v=1764769735",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_158-159.webp?v=1764769735",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763_Pages_130-131.webp?v=1764769736",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715763.webp?v=1764769919",
+      "description_html": "<p>For many people, horses are among the most fascinating creatures on earth. Their grace, strength, and beauty are reflected in their appearance. Capturing this elegance and grace requires a special feeling for these sensitive creatures, which Drew Doggett, one of the world's best-known horse photographers, clearly possesses. Now, for the first time, the award-winning artist's most beautiful photographs can be admired in the top-class coffee table book \"Untamed Spirits: Horses from Around the World\".</p>\n<p>The impressive portfolio includes photos of wild horses in the Camargue, Sable Island and Iceland. Doggett, who is regarded by connoisseurs as one of the most outstanding horse photographers, not only sets himself apart from other published horse books with his captivating photographs of horses in the wild. Peacefully aesthetic depictions of top-class breeding animals, dressage, hunting and polo horses also adorn the richly illustrated book. </p>\n<p>Drew Doggett takes his readers by the hand and guides them through the fascinating and exciting world of horses. His fashion-inspired lens opens up the viewer to a whole new experience of fine animal photography from an artistic perspective. </p>\n<p>Doggett creates artfully epic portraits that leave the reader wondering in amazement how the photographer was able to get the model animal into this unique pose. The images appear surreal, sometimes as if painted. The animals appear perfect and flawless. Horses can hardly be photographed more beautifully.</p>\n<p>Anyone looking for a photo book that presents horses in all their facets has found the perfect title in \"Untamed Spirits: Horses from Around the World\".</p>\n<p><strong>PAGE COUNT</strong><br>208 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 180<br><strong>LANGUAGE</strong><br><span>English</span><br><strong>RELEASED ON</strong><br>2024<br><strong>DIMENSIONS</strong><br><span>27,5 x 34 cm</span><br><strong>ISBN<br></strong><meta charset=\"utf-8\"><span>9783961715763</span><br></p>"
+    },
+    {
+      "id": 15433044623692,
+      "title": "Book - New York Street Diaries",
+      "handle": "new-york-street-diaries",
+      "url": "https://arowonen.com/products/new-york-street-diaries",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-03T13:31:37+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-03T13:35:00+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56150009282892,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NYStreetDiaries_2D.jpg?v=1764765246",
+          "alt": null,
+          "width": 1445,
+          "height": 1717
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_002-003.webp?v=1764765256",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_042-043.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_058-059.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_070-071.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_078-079.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_086-087.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_104-105.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_128-129.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_180-181.webp?v=1764765257",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714957_Pages_218-219.webp?v=1764765256",
+          "alt": null,
+          "width": 800,
+          "height": 516
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NYStreetDiaries_2D.jpg?v=1764765246",
+      "description_html": "<p>\"New York Street Diaries\" is an impressive illustrated book for all fans of the Big Apple. In it, Phil Penman shows the big city on the east coast of the USA from a side that is rarely seen, namely calm and tranquil. The pictures were taken partly during the great snowstorm and partly during the Corona Lockdown and are thus contemporary witnesses of the pandemic restrictions that completely turned our hitherto known world upside down. </p>\n<p>Born in Great Britain, he has been photographing the streets of New York for well over two decades. He is known, among other things, for his photographs of famous personalities such as Michael Jackson, Madonna, Jennifer Lopez or Bill Gates. When the biggest tragedy in New York's history shook the city on 11 September 2001, Phil Penman was on the spot and created unique time recordings of the events with his camera. </p>\n<p>Penman knows how to capture the city in its most sensitive moments in an impressive way. He captures intimate moments in his black-and-white photographs and shows the people and streets of New York City far away from the hustle and bustle. The city life of the metropolis is presented so closely that some pictures inevitably evoke a smile in the viewer. Penman literally catapults his reader into the scene with a refreshing directness and one has the feeling of really being present. </p>\n<p>The large-format and lavishly designed Coffee Table Book shows the best photographs by Phil Penman and should not be missing in any New York lover's home. Whether as a gift or simply for yourself, this coffee table book is so wonderful that you will hardly want to put it down.</p>\n<p class=\"font-bold\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">PAGE COUNT</strong></p>\n<p>224 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 195<br><strong>LANGUAGE</strong><br><span>English &amp; German</span><br><strong>RELEASED ON</strong><br>2023<br><strong>DIMENSIONS</strong><br><meta charset=\"utf-8\"><span>27,5 x 34 cm</span><br><strong>ISBN<br><meta charset=\"utf-8\"></strong>978-3-96171-495-7</p>\n<div class=\"accordion-item bg-white\">\n<h2 class=\"accordion-header mb-0 border-b border-solid border-black\" id=\"headingtwo\" type=\"button\" data-te-collapse-init=\"\" data-te-collapse-collapsed=\"\" data-te-target=\"#author\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"></h2>\n</div>\n<div class=\"accordion-item bg-white\">\n<h2 class=\"accordion-header mb-0 border-b border-solid border-black\" id=\"headingtwo\" type=\"button\" data-te-collapse-init=\"\" data-te-collapse-collapsed=\"\" data-te-target=\"#author\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"></h2>\n</div>"
+    },
+    {
+      "id": 15433017459020,
+      "title": "Basketball - The Ultimate Book",
+      "handle": "basketball-the-ultimate-book",
+      "url": "https://arowonen.com/products/basketball-the-ultimate-book",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-03T13:26:40+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-03T13:29:45+01:00",
+      "available": true,
+      "price_min": 55,
+      "price_max": 55,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56149928280396,
+          "title": "Default Title",
+          "sku": null,
+          "price": "55.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302Cov_3D_vRechts.webp?v=1764764906",
+          "alt": null,
+          "width": 772,
+          "height": 546
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302.webp?v=1764764989",
+          "alt": null,
+          "width": 600,
+          "height": 732
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_004-005.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_006-007.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_016-017.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_034-035.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_036-037.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_088-089.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_132-133.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_142-143.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_150-151.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_156-157.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_174-175.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_180-181.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_192-193.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_198-199.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302_Pages_222-223.webp?v=1764764989",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716302Cov_3D_vRechts.webp?v=1764764906",
+      "description_html": "<p class=\"font-bold\">Ultimate Books</p>\n<p> </p>\n<p>Discover the fascinating world of basketball with our magnificent coffee table book “Basketball - The Ultimate Book” by the two renowned sports authors Peter Feierabend and Torben Rosenbohm. This comprehensive coffee table book takes you into the exciting history of one of the world's most popular sports and lets you experience the dynamics and lifestyle of basketball up close. Whether NBA legends like Michael Jordan, Dirk Nowitzki or modern icons like James LeBron - we celebrate the greatest talents and teams that have shaped the global cult sport.<br><br>Our coffee table book offers a visually stunning experience by presenting breathtaking images of incredible dunks, legendary halls and iconic basketball venues. Learn more about basketball's journey from the NBA to Europe and the achievements of German players in the world's most famous league. The illustrated book is peppered with stories about the origins of the game, cultural phenomena such as the basketball cap and fine art in the form of tattoos.<br><br>Written by authors Peter Feierabend and Torben Rosenbohm, this illustrated book combines in-depth knowledge with aesthetic brilliance. It is an absolute must for every fan and a symbol of the passion and dedication to basketball. Be part of the basketball community and let yourself be carried away by the fascination of this sport. Make “Basketball - The Ultimate Book” a highlight on your bookshelf and experience the thrilling world of the ball game that inspires millions of people. With our coffee table book, you can celebrate the basketball lifestyle in your own book collection.</p>\n<p class=\"font-bold\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">PAGE COUNT</strong></p>\n<p>224 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 120<br><strong>LANGUAGE</strong><br><span>English </span><br><strong>RELEASED ON</strong><br>2025<br><strong>DIMENSIONS</strong><br><meta charset=\"utf-8\"><span>24,5 x 31,4 cm</span><br><strong>ISBN<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"accordion-item bg-white\">\n<div id=\"product\" class=\"!visible\" aria-labelledby=\"headingOne\" data-te-collapse-item=\"\" data-te-collapse-show=\"\" data-te-parent=\"#accordion\">\n<div class=\"accordion-body py-4 flex flex-col items-center\">\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\">978-3-96171-630-2</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion-item bg-white\">\n<h2 class=\"accordion-header mb-0 border-b border-solid border-black\" id=\"headingtwo\" type=\"button\" data-te-collapse-init=\"\" data-te-collapse-collapsed=\"\" data-te-target=\"#author\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"></h2>\n</div>"
+    },
+    {
+      "id": 15433009070412,
+      "title": "Book - Treasures from the Patek Philippe Museum",
+      "handle": "book-treasures-from-the-patek-philippe-museum-1",
+      "url": "https://arowonen.com/products/book-treasures-from-the-patek-philippe-museum-1",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-03T13:25:08+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-03T13:25:08+01:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56149900853580,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PPM3531_2x_512e633e-73c7-4cbb-82a7-9be13cb5ea0d.webp?v=1720965717",
+          "alt": null,
+          "width": 732,
+          "height": 922
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PPM3520_2x_cfcf4794-dbdc-4a9b-ade4-9d66fab49c9e.webp?v=1720965717",
+          "alt": null,
+          "width": 732,
+          "height": 922
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713967_Pages_002-003_2x_118d7b9c-5942-47ba-addb-b7c7c48de363.webp?v=1720965717",
+          "alt": null,
+          "width": 878,
+          "height": 525
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713967_Pages_006-007_2x_01c0f208-557e-417f-92f9-ab630cfabc32.webp?v=1720965717",
+          "alt": null,
+          "width": 878,
+          "height": 525
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713974_Pages_002-003_2x_856cf39c-0fed-4611-a6c4-dc81c22c635d.webp?v=1720965717",
+          "alt": null,
+          "width": 878,
+          "height": 525
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713974_Pages_010-011_2x_d43556e1-3a5c-46c3-a1e3-1e9345cc2faf.webp?v=1720965717",
+          "alt": null,
+          "width": 878,
+          "height": 525
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PatekACblauCov_3D_vRechts_2x_3f34f7a6-107c-43c7-b92d-68a926d09c62.webp?v=1720965717",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PatekPPCbraunCov_3D_vRechts_2x_2c2cc1df-57aa-48f3-96e4-0d64c62a6f8d.webp?v=1720965717",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PPM3531_2x_512e633e-73c7-4cbb-82a7-9be13cb5ea0d.webp?v=1720965717",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p class=\"font-bold\">Vol. 1: The Quest for the Perfect Watch (Patek Philippe Collection); Vol. 2: The Emergence of the Watch (Antique Collection)</p>\n<p> </p>\n<p><strong>Two richly illustrated books of the highest quality in a slipcase about one of the most sought-after brands of our time.</strong><br><br><strong>240 rare watches from the history of watchmaking!</strong><br><br><strong>Two noble books for collectors and lovers of luxury watches.</strong></p>\n<p>Innovation, exclusivity, and elegance define Patek Philippe, a family-owned company with a single and passionate calling: to perfect the watch. These lavishly illustrated books present some of the most important timepieces from the more than 3,000 watches exhibited at the Patek Philippe Museum in Geneva. These precious timepieces have been passionately assembled over more than 40 years by Philippe Stern, Honorary President of the company, and include some of the most valuable pieces in watchmaking history. From the collection of historic watches featuring the first portable timepieces dating back to the 16<sup>th</sup><span> </span>century to innovative milestones in Patek Philippe’s portfolio since its founding in 1839, each watch is reproduced with such beauty and precision that you can almost hear it ticking. With expert curatorial insight and context from Peter Friess, Director of the Patek Philippe Museum, these intricate mechanisms are not only presented for themselves; they also offer a unique perspective into the cultural history of the last 500 years. True to the trust and excellence of the Patek Philippe brand, the presentation, design, and content of these sumptuous publications meet the highest professional standards. They are the perfect books for the “perfect watch.”</p>\n<div class=\"swiper3318 swiper-container gallery-swiper relative overflow-hidden swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\" id=\"gallery-swiper-3318\">\n<div aria-live=\"polite\" id=\"swiper-wrapper-42e9d29cb8e211034\" class=\"swiper-wrapper items-center\">\n<div aria-label=\"6 / 6\" role=\"group\" data-swiper-slide-index=\"5\" class=\"swiper-slide h-auto swiper-slide-duplicate swiper-slide-prev\" shortcode-toggle=\"\">\n<div class=\"flex flex-col px-8 text-white h-full relative\">\n<a class=\"slider-link book-link\" href=\"https://www.teneues.com/en/book/the-lamborghini-book\" target=\"_self\"></a><picture><source type=\"image/webp\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.webp 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.webp 2x\"><source type=\"image/jpeg\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.jpg 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.jpg 2x\"></source></picture>\n</div>\n</div>\n</div>\n</div>\n<div class=\"w-full sm:w-auto flex\">\n<meta charset=\"utf-8\">\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\"><br></div>\n</div>\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\">25 x 28 cm | 9 5/6 x 11 in</div>\n</div>\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\">English</div>\n</div>\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\">2 x 104 Pages</div>\n</div>\n<div class=\"w-full sm:w-auto flex\">\n<div class=\"w-1/2 sm:w-52 md:w-72 lg:w-96\">450 colour &amp; b/w photographs</div>\n</div>\n</div>\n<div class=\"accordion-item bg-white\">\n<h2 class=\"accordion-header mb-0 border-b border-solid border-black\" id=\"headingtwo\" type=\"button\" data-te-collapse-init=\"\" data-te-collapse-collapsed=\"\" data-te-target=\"#author\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"></h2>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15433000878412,
+      "title": "Book - The Watch Book - Oris",
+      "handle": "watch-book-oris-1",
+      "url": "https://arowonen.com/products/watch-book-oris-1",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-03T13:23:55+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-03T13:24:21+01:00",
+      "available": true,
+      "price_min": 80,
+      "price_max": 80,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56149870772556,
+          "title": "Default Title",
+          "sku": null,
+          "price": "80.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629.webp?v=1710343504",
+          "alt": null,
+          "width": 600,
+          "height": 735
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_3D_vRechts.webp?v=1710343504",
+          "alt": null,
+          "width": 772,
+          "height": 546
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961711857_Pages_078-079_1.webp?v=1710343504",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_164-165.webp?v=1710343497",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_004-005.webp?v=1710343497",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_188-189.webp?v=1710343499",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_042-043.webp?v=1710343499",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/The-Watch-Book-Oris-04.webp?v=1710343499",
+          "alt": null,
+          "width": 739,
+          "height": 546
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_058-059.webp?v=1710343497",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_226-227.webp?v=1710343497",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_074-075.webp?v=1710343497",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_232-233.webp?v=1710343498",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_114-115.webp?v=1710343499",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629_Pages_140-141.webp?v=1710343498",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961714629.webp?v=1710343504",
+      "description_html": "<p>In this new volume of the Watch Book series, successful author Gisbert L. Brunner focuses on Swiss watch history and industry, and in particular on the house of Oris, because what could be a more fitting connection than that of the leading expert when it comes to mechanical timepieces with the watch manufactory that is one of the few to produce exclusively mechanical watches. Founded in 1904, the company stands out in many ways in the luxury world of horology, it is run independently and not by a large corporation, it is valued as a down-to-earth brand and - in an industry that is not necessarily known for this - it focuses on sustainability, true to the motto: \"things must make sense\".</p>\n<p><br>Of course, technology should not be missing from this volume; after all, Oris has developed 280 different calibres in its company history and manufactured them in its own factories. Companions have their say and the best watch models of the company's almost 120-year history are presented in this usual high-quality volume.</p>\n<p><strong>PAGE COUNT</strong><br>256 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>2023<br><strong>DIMENSIONS</strong><br><span data-mce-fragment=\"1\">24,5 x 31,4 cm </span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>978-3-96171-462-9</span><br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WEIGHT<br></strong>1,7 kg<br></p>"
+    },
+    {
+      "id": 15431261913420,
+      "title": "Book - Between Us",
+      "handle": "between-us",
+      "url": "https://arowonen.com/products/between-us",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-02T14:25:08+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-02T15:48:56+01:00",
+      "available": true,
+      "price_min": 80,
+      "price_max": 80,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56140593070412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "80.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0619.webp?v=1764685531",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0620.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0621.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0622.webp?v=1764685532",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0623.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0624.webp?v=1764685532",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0625.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0626.webp?v=1764685532",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0627.webp?v=1764685532",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0628.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0629.webp?v=1764685532",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0630.webp?v=1764685531",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0619.webp?v=1764685531",
+      "description_html": "<p class=\"font-bold\">Animal Portraits</p>\n<p> </p>\n<p>Vincent Lagrange is undoubtedly one of the most significant animal portrait photographers of our time. With the photo book \"Between Us\", he has expressed his very personal declaration of love to our animal relatives. In sensitive color and black-and-white photographs, he showcases his models and provides a magnificent insight into their closeness to humans.</p>\n<p>Vincent Lagrange developed his love for photography at an early age in his father's photo studio, where he practically spent his entire childhood. There, he practiced capturing the grace and dignity of his feline companion, Dwiezel, through photography. For this, he employs techniques that are typically used in human portraiture. The results he achieves with this approach are remarkable.</p>\n<p>The photographer considers it important to emphasize the social nature, emotions, and connections of animals. And he succeeds like no other. In 2022, Lagrange's work received international recognition with one of his images being featured on the cover of National Geographic magazine, which is one of the greatest honors for any animal and nature photographer. Through an ongoing portrait series called \"The Human Animal Project\", he aims to raise awareness about the concerns of animals and uses the proceeds to support animal and species conservation.</p>\n<p>The outstanding coffee table book \"Between Us\" offers readers deep insights into Lagrange's photographic art and shines with touching and poignant photographs. Page after page, detailed animal photographs await discovery by the readers.</p>\n<p>For those looking for a photo book that showcases animals from their human side, \"Between Us\" is exactly what you're looking for.</p>\n<p><strong>PAGE COUNT</strong><br>240 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 150<br><strong>LANGUAGE</strong><br><span>English / German</span><br><strong>RELEASED ON</strong><br>2024<br><strong>DIMENSIONS</strong><br><span>27,5 x 34 cm</span><br><strong>ISBN<br></strong><span>9783961714988</span></p>"
+    },
+    {
+      "id": 15431179010380,
+      "title": "Book - This Must Be Paradise",
+      "handle": "this-must-be-paradise",
+      "url": "https://arowonen.com/products/this-must-be-paradise",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-02T14:13:10+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-02T14:18:19+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56140135498060,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0612.webp?v=1764681334",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0613.webp?v=1764681334",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0614.webp?v=1764681334",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0615.webp?v=1764681334",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0616.webp?v=1764681334",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0617.webp?v=1764681334",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0618.webp?v=1764681333",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0612.webp?v=1764681334",
+      "description_html": "<p class=\"font-bold\">Conscious Travel Inspirations</p>\n<p> </p>\n<p><strong>25 extraordinary destinations that combine a sustainable nature experience with adventure and comfort</strong></p>\n<p><strong>Glamping for the seasoned traveler: from the Pushkar Camel Fair in India to the Coquillade Village in France</strong></p>\n<p><strong>Stunning photography by renowned travel photographer Reto Guntli</strong></p>\n<p><strong>For adventurers who love nature but desire comfort, and all those who want to support and protect local communities when they travel</strong></p>\n<p>How can we explore the world in a way that respects the environment and local communities, but do so without sacrificing comfort? Renowned photographer Reto Guntli has photographed 25 beautiful destinations that combine sustainability, adventure, and upscale appeal. These hotels and resorts pay strict attention to complying with climate-related standards such as avoiding greenhouse gas emissions, conserving resources, and eliminating plastic. They all support the local people and are committed to preserving cultural heritage. Fantastic destinations such as the Genghis Khan Retreat in Mongolia, the Beau Rivage Palace in Switzerland, eco-lodges near Siwa Oasis in Egypt and the Finca Serena in Portugal offer a variety of activities and opportunities for relaxation, surrounded by the breathtaking beauty of nature. Text in English and German.</p>\n<p><strong>PAGE COUNT</strong><br>256 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 180<br><strong>LANGUAGE</strong><br><span>English / German</span><br><strong>RELEASED ON</strong><br>2022<br><strong>DIMENSIONS</strong><br><span>27,5 x 34 cm</span><br><strong>ISBN<br></strong><span>978-3-96171-386-8</span></p>"
+    },
+    {
+      "id": 15431148273996,
+      "title": "Book - Classic Cars Review - Revised Edition",
+      "handle": "classic-cars-review",
+      "url": "https://arowonen.com/products/classic-cars-review",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-02T14:05:12+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-02T14:10:41+01:00",
+      "available": true,
+      "price_min": 100,
+      "price_max": 100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56140043026764,
+          "title": "Default Title",
+          "sku": null,
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0597.webp?v=1764680805",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0598.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0599.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0600.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0601.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0602.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0603.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0604.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0605.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0606.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0607.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0608.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0609.webp?v=1764680804",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0610.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0611.webp?v=1764680805",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0597.webp?v=1764680805",
+      "description_html": "<p class=\"font-bold\">Revised Edition</p>\n<p> </p>\n<p>Experience the fascination of classic cars in a new way with the Revised Edition of \"Classic Cars Review\": A volume that shines a new light on classic cars. Originally considered a niche hobby, the universe of classic cars has evolved into a magnificent global phenomenon that inspires a young and sophisticated audience. Events such as the Mille Miglia, the Festival of Speed in Goodwood and Pebble Beach attract numerous enthusiasts who celebrate these automotive treasures.<br><br>The revised edition of \"Classic Cars Review\" offers an impressive compilation of the most magnificent classic cars and their stories. These vehicles, which previously could only be admired at exclusive events or behind closed doors, are now brought together in an exquisite illustrated book. This book pays tribute to the glamor and masterful craftsmanship of these classic automobiles. Renowned models such as the Mercedes-Benz 300 SL, the Aston Martin DB5 and the Maserati Sebring are presented and complemented by an extended selection of rare vehicles. The stories of these automobiles, which were created in limited editions or driven by renowned personalities, are told in a captivating way, while extensive research and supplementary photo series offer in-depth insights.<br><br>Another highlight is a look at the Loh Collection of the National Automuseum in Germany. This collection includes icons such as the Bugatti Type 57 Atalante and the Lamborghini Miura SV as well as prototypes and one-offs, including John F. Kennedy's Lincoln Continental and the Maybach Exelero.</p>\n<p>\"Classic Cars Review\" is also dedicated to the key players and institutions in the classic car scene. Be inspired by passionate collectors and exclusive insights into the world of auction houses and dealers. This Revised Edition is not only a remarkable book for every classic car enthusiast, but also an indispensable work for all car enthusiasts. Immerse yourself and be enchanted by the timeless beauty and captivating history of these extraordinary automobiles.</p>\n<p><strong>PAGE COUNT</strong><br>304 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 250<br><strong>LANGUAGE</strong><br><span>English / German</span><br><strong>RELEASED ON</strong><br>2025<br><strong>DIMENSIONS</strong><br><span>29 x 37 cm</span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>978-3-96171-613-5</span></span></p>"
+    },
+    {
+      "id": 15430928662860,
+      "title": "Book - The Watch Book Rolex - Next Generation",
+      "handle": "the-watch-book-rolex-next-generation",
+      "url": "https://arowonen.com/products/the-watch-book-rolex-next-generation",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-12-02T13:45:26+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-02T13:50:31+01:00",
+      "available": true,
+      "price_min": 85,
+      "price_max": 85,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56139734450508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "85.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0580.webp?v=1764679559",
+          "alt": null,
+          "width": 1091,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0581.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0582.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0583.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0584.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0585.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0586.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0587.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0588.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0589.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0590.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0591.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0592.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0593.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0594.webp?v=1764679559",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0595.webp?v=1764679560",
+          "alt": null,
+          "width": 1600,
+          "height": 1032
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG-0580.webp?v=1764679559",
+      "description_html": "<p>Next Generation</p>\n<p> </p>\n<p>Experience the fascination of the world's most famous watch brand with the brand new “The Watch Book Rolex - Next Generation”. Whether in German, English or as an exclusive special edition in an elegant slipcase - all versions of the visually stunning work offer a deep insight into the history and iconic models of Rolex on 256 pages. From the Submariner to the GMT-Master and Day-Date to the Daytona, each model is brought to life with exciting stories and interesting details.</p>\n<p>The renowned bestselling author and “watch pope” Gisbert L. Brunner guides readers through the Rolex universe with his usual passion and expertise, from the beginnings to the pioneering models that revolutionized the watch industry.</p>\n<p>“The Watch Book Rolex - Next Generation” offers a wealth of information, a modern layout, numerous impressive photographs and also addresses the influence of Rolex on pop culture and the arts. Guest articles on the topics of recognizing counterfeits and collecting watches expand the knowledge about the brand.</p>\n<p>Discover the world of Rolex, a brand that not only produces timepieces, but also sets cultural symbols. This book is an absolute must-have for every Rolex fan!</p>\n<p><strong>PAGE COUNT</strong><br>256 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>2025<br><strong>DIMENSIONS</strong><br><span>24 x 30 cm</span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>978-3-96171-702-6</span><br></span></p>"
+    },
+    {
+      "id": 9151737823564,
+      "title": "Book - Black Beauties, Iconic Cars",
+      "handle": "book-black-beauties-iconic-cars",
+      "url": "https://arowonen.com/products/book-black-beauties-iconic-cars",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-07-14T15:53:25+02:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-07-14T15:57:37+02:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48454796247372,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BlackBeauties_2D_2x_8371c68d-d8e3-463a-ae85-16dbefbfdd16.webp?v=1720965435",
+          "alt": null,
+          "width": 1200,
+          "height": 1461
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_010-011_2x_acc372aa-ef36-4556-aa0f-a3b1cf2deaaf.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_028-029_2x_007a1bf3-4eab-46d5-a82f-2cd0582b4e0e.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_034-035_2x_d5a0a1dc-2422-435b-bf39-7716f37d9e9e.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_064-065_2x_86b22cac-c0a9-40b0-b084-b5a588f98569.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_084-085_2x_17b1539d-6efe-4dd8-ac55-4b2c59b3963c.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_110-111_2x_f4fdf1a7-6a23-40ee-b82d-86ef7b9f9c54.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_118-119_2x_6939b93a-4054-43da-8ae1-daadae902825.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_150-151_2x_3f3dfbb3-b4a9-49d8-bcb7-cc0758bab60c.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_160-161_2x_1.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_160-161_2x_168ec984-e67d-4de7-b98f-060285c6734c.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_192-193_2x_1.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961715299_Pages_192-193_2x_f31c955b-20fb-411c-85d4-881caa006827.webp?v=1720965435",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BlackBeauties_2D_2x_8371c68d-d8e3-463a-ae85-16dbefbfdd16.webp?v=1720965435",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p class=\"font-bold\">Iconic Cars</p>\n<p>René Staud, the grand seignior of automotive photography, has published a new illustrated book. In his coffee-table book \"Black Beauties\", the automotive photographer devotes himself entirely to the colour black. In this extraordinarily illustrated book, Staud takes car lovers on a journey through time and presents the top models of the world's greatest sports car brands. From the legendary Alfa Romeo 8C from the 1930s to the declared goddess Citroën DS to the fastest open-top series sports car, the Bugatti Veyron Grand Sport Vitesse, the star photographer demonstrates the aesthetics that the colour black lends a car.</p>\n<div id=\"gallery-swiper-3318\" class=\"swiper3318 swiper-container gallery-swiper relative overflow-hidden swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\">\n<div class=\"swiper-wrapper items-center\" id=\"swiper-wrapper-42e9d29cb8e211034\" aria-live=\"polite\">\n<div class=\"swiper-slide h-auto swiper-slide-duplicate swiper-slide-prev\" data-swiper-slide-index=\"5\" role=\"group\" aria-label=\"6 / 6\" shortcode-toggle=\"\">\n<div class=\"flex flex-col px-8 text-white h-full relative\">\n<a href=\"https://www.teneues.com/en/book/the-lamborghini-book\" class=\"slider-link book-link\" target=\"_self\"></a><picture><source srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.webp 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.webp 2x\" width=\"992\" height=\"732\" type=\"image/webp\"><source srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.jpg 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.jpg 2x\" width=\"992\" height=\"732\" type=\"image/jpeg\"></source></picture>\n</div>\n</div>\n</div>\n</div>\n<div class=\"w-full sm:w-auto flex\"></div>\n<div>\n<div>24,5 cm x 31,4 cm</div>\n</div>\n<div>\n<div>English &amp; German</div>\n</div>\n<div>\n<div>304 pages</div>\n</div>\n<div>\n<div>appr. 200 color photographs</div>\n</div>\n<div></div>\n<div>\n<div>978-3-96171-529-9</div>\n</div>\n<div class=\"accordion-item bg-white\">\n<h2 aria-controls=\"collapseTwo\" aria-expanded=\"false\" data-te-target=\"#author\" data-te-collapse-collapsed=\"\" data-te-collapse-init=\"\" type=\"button\" id=\"headingtwo\" class=\"accordion-header mb-0 border-b border-solid border-black\"></h2>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9151732580684,
+      "title": "The Porsche Book",
+      "handle": "the-porsche-book",
+      "url": "https://arowonen.com/products/the-porsche-book",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-07-14T15:45:23+02:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-07-14T15:47:48+02:00",
+      "available": true,
+      "price_min": 100,
+      "price_max": 100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48454776684876,
+          "title": "Default Title",
+          "sku": null,
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716111_Cov_3D_vRechts_2x_39c78595-80a5-4afe-828b-6b76ad1e1ecb.webp?v=1720964837",
+          "alt": null,
+          "width": 1544,
+          "height": 1092
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716111.png?v=1720964838",
+          "alt": null,
+          "width": 1772,
+          "height": 2122
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_002-003_2x_c977e49f-270a-4a7a-9a9d-86168f6c9389.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_006-007_2x_42da9cda-a2ce-4a98-9994-18f554670ad1.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_012-013_2x_e675a13f-b04a-4db4-9f2e-945ff5da989b.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_044-045_2x_ae1c0589-69b5-4a23-9b6e-369e3bfc9e56.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_056-057_2x_37a8a26d-0236-44d6-a9d3-7879cea54907.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_070-071_2x_3900546d-629d-4440-b5a1-1975c2208030.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_086-087_2x_c779cc58-b2eb-466c-b0cf-059a3ce52bec.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_096-097_2x_1fc717e4-1f07-4469-a1fa-36289d81092a.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_114-115_2x_f820647a-6974-477c-bbc8-b65d2df82e48.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_132-133_2x_772a3da0-2598-43ab-ab00-676d0ba30bf6.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_140-141_2x_9cd07e41-9187-4950-bce4-230c88eb24bf.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_164-165_2x_882a7623-c814-4b4f-9cd6-3fc81530efdd.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_186-187_2x_b7bf274c-c926-4e15-88e5-08dae74ce19e.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_254-255_2x_3706c8a4-8583-42e9-966e-f02b47058268.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71611ThePorscheBook_Pages_262-263_2x_35f0a533-beeb-4587-a867-158a20d2549c.webp?v=1720964837",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961716111_Cov_3D_vRechts_2x_39c78595-80a5-4afe-828b-6b76ad1e1ecb.webp?v=1720964837",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p paraeid=\"{cfe43c12-79a1-4c79-a5df-51487364d952}{102}\" paraid=\"1882259532\"><strong>The Porsche Book - a racing car legend becomes a coffee table book with class. </strong></p>\n<p paraeid=\"{cfe43c12-79a1-4c79-a5df-51487364d952}{114}\" paraid=\"1389653893\">Driving a Porsche is a very special lifestyle, a philosophy of its own - and an absolute necessity in the life of a car fan. That's why this fascinating coffee table book inextricably combines everything that belongs to the luxury car brand created by Ferdinand Porsche: impressive photos, an avant-garde layout and cool texts make this coffee table book an essential must-have for Porsche enthusiasts and a valuable piece of German automotive history.   </p>\n<div class=\"invisible h-0\" id=\"is-autoplaying-3318\"><br></div>\n<div class=\"swiper3318 swiper-container gallery-swiper relative overflow-hidden swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\" id=\"gallery-swiper-3318\">\n<div aria-live=\"polite\" id=\"swiper-wrapper-42e9d29cb8e211034\" class=\"swiper-wrapper items-center\">\n<div aria-label=\"6 / 6\" role=\"group\" data-swiper-slide-index=\"5\" class=\"swiper-slide h-auto swiper-slide-duplicate swiper-slide-prev\" shortcode-toggle=\"\">\n<div class=\"flex flex-col px-8 text-white h-full relative\">\n<a class=\"slider-link book-link\" href=\"https://www.teneues.com/en/book/the-lamborghini-book\" target=\"_self\"></a><picture><source type=\"image/webp\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.webp 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.webp 2x\"><source type=\"image/jpeg\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.jpg 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.jpg 2x\"></source></picture>\n</div>\n</div>\n</div>\n</div>\n<p><strong>PAGE COUNT</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">304 pages<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">NUMBER OF ILLUSTRATIONS<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Over 250<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">LANGUAGE<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">English &amp; German<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">RELEASED ON<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">2024<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DIMENSIONS<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\">\n<span>29 x 37 cm</span><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><strong>ISBN<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"></span>978-3-96171-611-1<br></p>\n<div class=\"accordion-item bg-white\">\n<h2 class=\"accordion-header mb-0 border-b border-solid border-black\" id=\"headingtwo\" type=\"button\" data-te-collapse-init=\"\" data-te-collapse-collapsed=\"\" data-te-target=\"#author\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"></h2>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9151728517452,
+      "title": "Book - Luxury",
+      "handle": "book-luxury",
+      "url": "https://arowonen.com/products/book-luxury",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-07-14T15:37:57+02:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2025-12-02T13:41:20+01:00",
+      "available": true,
+      "price_min": 125,
+      "price_max": 125,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48454763118924,
+          "title": "Default Title",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury-Michael-Kockritz_jpg.webp?v=1720964396",
+          "alt": null,
+          "width": 721,
+          "height": 892
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz1.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz2.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz3.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz4.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz5.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz6.jpg?v=1720964397",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz7.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz8.jpg?v=1720964397",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz9.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz10.jpg?v=1720964396",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz11.jpg?v=1720964397",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury_Michael_Kockritz12.jpg?v=1720964397",
+          "alt": null,
+          "width": 1600,
+          "height": 1091
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Luxury-Michael-Kockritz_jpg.webp?v=1720964396",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p>\"Luxury\" - the name of this opulent coffee table book alone says it all. It's all about aesthetics, decadence, beauty, trends, glamour, and money. The well-known photographer, journalist, brand and communications consultant Michael Köckritz has taken a detailed look at this fascinating world of the rich, celebrities and stars in his latest coffee table book. In an impressive visual language, backed by informative texts, he shows the most important luxury brands of our modern times. Watches, cars, bags, buildings, holiday resorts and jewellery, the author touches on all luxury-related subject areas and unerringly pinpoints the respective key items.</p>\n<p>Köckritz approaches the phenomenon of luxury from an artistic-scientific perspective and sheds light on profound questions such as \"What is luxury?\", \"Why do we strive for luxury?\" or \"How does luxury affect the reality of our lives?\".</p>\n</div>\n</div>\n</div>\n<p><strong>PAGE COUNT</strong><br>272 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>German &amp; English<br><strong>RELEASED ON</strong><br>2023<br></p>"
+    },
+    {
+      "id": 8913317265740,
+      "title": "The Lamborghini Book",
+      "handle": "the-lamborghini-book",
+      "url": "https://arowonen.com/products/the-lamborghini-book",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-15T16:01:54+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-03-15T16:04:12+01:00",
+      "available": true,
+      "price_min": 100,
+      "price_max": 100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47832562696524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo1.webp?v=1710515065",
+          "alt": null,
+          "width": 600,
+          "height": 710
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lamo7.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo7.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo6.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo5.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo4.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo3.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo2.webp?v=1710515065",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lambo1.webp?v=1710515065",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p>Just in time for the 60th birthday of the Italian luxury super sports car brand, the monumental anniversary coffee-table book \"The Lamborghini Book\" by editor and founder of ramp magazine Michael Köckritz is published. This opulent car book honours the powerful and noble automobiles with uniquely aesthetic images and approaches the super sports car brand on a highly emotional level. Michael Köckritz, together with his ramp team, has created a true homage to the exceptional Italian vehicles. With great attention to detail, the ramp editorial team has staged a literary showcase of the most important Lamborghini models, such as the Lamborghini Countach, the Lamborghini Aventador or the Lamborghini 350 GT, in this coffee table book</p>\n<div class=\"invisible h-0\" id=\"is-autoplaying-3318\"><br></div>\n<div class=\"swiper3318 swiper-container gallery-swiper relative overflow-hidden swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden\" id=\"gallery-swiper-3318\">\n<div aria-live=\"polite\" id=\"swiper-wrapper-42e9d29cb8e211034\" class=\"swiper-wrapper items-center\">\n<div aria-label=\"6 / 6\" role=\"group\" data-swiper-slide-index=\"5\" class=\"swiper-slide h-auto swiper-slide-duplicate swiper-slide-prev\" shortcode-toggle=\"\">\n<div class=\"flex flex-col px-8 text-white h-full relative\">\n<a class=\"slider-link book-link\" href=\"https://www.teneues.com/en/book/the-lamborghini-book\" target=\"_self\"></a><picture><source type=\"image/webp\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.webp 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.webp 2x\"><source type=\"image/jpeg\" height=\"732\" width=\"992\" srcset=\"/book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05.jpg 1x, /book/the%20lamborghini%20book/plus%20content/12500/image-thumb__12500__shortcodeSlider/The-Lamborghini-Book-05@2x.jpg 2x\"></source></picture>\n</div>\n</div>\n</div>\n</div>\n<p><strong>PAGE COUNT</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">304 pages<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">NUMBER OF ILLUSTRATIONS<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Over 200<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">LANGUAGE<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">English &amp; German<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">RELEASED ON<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">2023<br></span><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DIMENSIONS<br></span></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">29 x 37 cm<br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><strong>ISBN</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">978-3-96171-511-4<br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><strong>WEIGHT</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">4,3 kg</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8913282400588,
+      "title": "The Ferrari Book - Passion For Design",
+      "handle": "the-ferrari-book-passion-for-design",
+      "url": "https://arowonen.com/products/the-ferrari-book-passion-for-design",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-15T15:54:54+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-03-15T15:58:34+01:00",
+      "available": true,
+      "price_min": 128,
+      "price_max": 128,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47832468390220,
+          "title": "Default Title",
+          "sku": null,
+          "price": "128.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ferrari1.webp?v=1710514709",
+          "alt": null,
+          "width": 600,
+          "height": 716
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ferrari2.webp?v=1710514709",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ferrari4.webp?v=1710514709",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ferrari3.webp?v=1710514709",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ferrari5.webp?v=1710514691",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ferrari1.webp?v=1710514709",
+      "description_html": "<div class=\"container mb-24\">\n<div class=\"grid grid-cols-5 gap-5 sm:gap-14\">\n<div class=\"col-span-5 md:col-span-3\">\n<p>Success is not founded on miracles, but is almost always the product of a clear concept—the pinnacle of an ambitious, even stridently innovative idea. However, the aura of Ferrari does indeed approach the miraculous. What lies behind this phenomenon? What is the source of fascination for a brand whose creative designs are internationally recognized and enthusiastically received? First, even today—70 years after the company was founded—the miracle of Ferrari is still due in large part to the personality of Il Commendatore, Enzo Ferrari. Patience, passion, and being hard on himself and those around him gave the brand, under the emblem of the Cavallino Rampante, the power to become what it is today: sheer fascination on four wheels. Second, the long list of international racing victories is equally important. There is no class, no competition, that Ferrari did not set its sights on and win more or less immediately during the company’s last 70 years. Finally, Ferrari is synonymous with aesthetics, elegance, and trend-setting design. The true value of a brand and its products is measured in the currency of impassioned devotion. This is the third and perhaps most vital element confirming the Ferrari miracle: The Ferrari Book – Passion for Design traces the evolution of the miracle and lets us experience passion given automotive form in a large and engrossing format.</p>\n</div>\n</div>\n</div>\n<p><strong>PAGE COUNT</strong><br>416 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 400<br><strong>LANGUAGE</strong><br>German, English, French &amp; Italian<br><strong>RELEASED ON</strong><br>2017<br><strong>DIMENSIONS</strong><br><span data-mce-fragment=\"1\">29 x 37 cm</span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">978-3-96171-020-1<br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WEIGHT<br></strong>4,3 kg<br></p>"
+    },
+    {
+      "id": 8908604080460,
+      "title": "Watch Book - More Than Time",
+      "handle": "watch-book-more-than-time",
+      "url": "https://arowonen.com/products/watch-book-more-than-time",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-13T16:11:28+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-03-13T16:17:46+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47819000119628,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961712779.webp?v=1710342940",
+          "alt": null,
+          "width": 600,
+          "height": 733
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71277-the-watchbook-more-than-time_pages_012-013.webp?v=1710342940",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71277-the-watchbook-more-than-time_pages_024-025.webp?v=1710342941",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71277-the-watchbook-more-than-time_pages_078-079.webp?v=1710342940",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71277-the-watchbook-more-than-time_pages_102-103.webp?v=1710342940",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961712779.webp?v=1710342940",
+      "description_html": "<p><span>For centuries, so-called complications have been the crowning glory of fine watchmaking - from alarm clocks and calendar movements to world time indications and tourbillons. Experienced watchmakers can combine additional mechanical functions almost at will. The latest work in the Watch Book series is dedicated to them alone, making it the only compendium of its kind on the book market.</span></p>\n<p><strong>PAGE COUNT</strong><br>224 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 300<br><strong>LANGUAGE</strong><br>German &amp; English<br><strong>RELEASED ON</strong><br>2020<br><strong>DIMENSIONS</strong><br><span data-mce-fragment=\"1\">24,5 x 31,4 cm</span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>978-3-96171-277-9</span><br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WEIGHT<br></strong>1,7 kg<br></p>"
+    },
+    {
+      "id": 8891711095116,
+      "title": "The Watch Book Rolex",
+      "handle": "the-watch-book-rolex",
+      "url": "https://arowonen.com/products/the-watch-book-rolex",
+      "vendor": "TENEUES",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-04T14:05:18+01:00",
+      "updated_at": "2026-05-22T17:56:04+02:00",
+      "published_at": "2024-03-04T14:10:23+01:00",
+      "available": true,
+      "price_min": 80,
+      "price_max": 80,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47774877253964,
+          "title": "Default Title",
+          "sku": null,
+          "price": "80.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713745.webp?v=1709557810",
+          "alt": null,
+          "width": 600,
+          "height": 723
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheWatchBook_RolexCov_3D_vRechts.webp?v=1709557811",
+          "alt": null,
+          "width": 772,
+          "height": 546
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71374-rolexbook_pages_004-005.webp?v=1709557811",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71374-rolexbook_pages_006-007.webp?v=1709557809",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71374-rolexbook_pages_046-047.webp?v=1709557810",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71374-rolexbook_pages_090-091.webp?v=1709557810",
+          "alt": null,
+          "width": 800,
+          "height": 545
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9783961713745.webp?v=1709557810",
+      "description_html": "<p>No doubt about it, Rolex is a chronometric legend. The company was founded in 1905 by Hans Wilsdorf, a Bavarian marketing genius who focused on innovation. Watch enthusiasts have Wilsdorf to thank for many outstanding models and technical advances, including the first officially-certified wristwatches, the waterproof Oyster housing, the Datejust, and sports watches like the Submariner diver's watch, which dates back more than fifty years. Although this book gives the company's incredible tradition its due, it also devotes ample space to the present. Crafted in-house to exacting specifications, Rolex's breadth of timepieces combine the utmost in sophisticated luxury with advanced precision. All this and much more is yours to enjoy in the third volume of the successful The Watch Book series.</p>\n<p><strong>PAGE COUNT</strong><br>272 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 400<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>2021<br><strong>DIMENSIONS</strong><br><span data-mce-fragment=\"1\">25,8 x 32,7 cm</span><br><strong>ISBN<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">978-3-96171-374-5<br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WEIGHT<br></strong>2.0 kg<br></p>"
+    }
+  ]
+}

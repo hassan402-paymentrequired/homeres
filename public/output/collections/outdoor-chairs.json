@@ -1,0 +1,2875 @@
+{
+  "handle": "outdoor-chairs",
+  "label": "Outdoor Chairs (All)",
+  "url": "https://arowonen.com/collections/outdoor-chairs",
+  "scraped_at": "2026-05-22T15:59:31.605Z",
+  "product_count": 31,
+  "products": [
+    {
+      "id": 15725938606412,
+      "title": "Outdoor Chair - Marenzo",
+      "handle": "outdoor-chair-marenzo",
+      "url": "https://arowonen.com/products/outdoor-chair-marenzo",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2026-04-28T16:08:45+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-05-01T19:57:18+02:00",
+      "available": true,
+      "price_min": 1995,
+      "price_max": 1995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57401716572492,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_120748_0_1_700x_73b09224-d14e-49cf-a402-9aa8116306c8.webp?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_120748_3_1_700x_bfce887b-622e-4d18-91a0-f76aa1f3e41d.jpg?v=1777385502",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_13_120748_10_1_700x_4477274d-40e5-45af-b470-de6828577d39.webp?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_10_120748_7_1_700x_d968ec2c-3ea8-4cd6-9351-a0e95e88fcde.webp?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_120748_5_1_700x_a023b923-3cc0-4f9d-a64c-26046c6bdb42.jpg?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_120748_4_1_700x_a38f5936-4b82-495e-828d-0333e794a38b.webp?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_120748_2_1_700x_df8fa7f0-6ffb-4529-b08b-4315206aa9cc.webp?v=1777385501",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_120748_0_1_700x_73b09224-d14e-49cf-a402-9aa8116306c8.webp?v=1777385501",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Discover the Outdoor Chair Marenzo, where natural teak and faux rattan panels create a relaxed, sculptural presence with effortless texture. Arden natural cushions and a softly curved backrest invite luxurious lounging, balancing craftsmanship with a calm, refined palette. With removable cushions designed to store inside when not in use, it’s ideal for outdoor settings that value comfort and considered ease.</span><br></p>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<meta charset=\"utf-8\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Natural teak | faux rattan | arden natural</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">100</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">220.46</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Fabric composition</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Fabric composition\">100% polyester</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor &amp; outdoor use</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><br></p>"
+    },
+    {
+      "id": 15725778534732,
+      "title": "Outdoor Chair - Riverton",
+      "handle": "outdoor-chair-riverton",
+      "url": "https://arowonen.com/products/outdoor-chair-riverton",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2026-04-28T14:49:15+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-05-01T19:57:13+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57401197396300,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_0_1.webp?v=1779093228",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_4_1.jpg?v=1779093230",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_3_1.jpg?v=1779093229",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_2_1.jpg?v=1779093231",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_5_1.jpg?v=1779093230",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_6_1.jpg?v=1779093230",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_10_1.jpg?v=1779093230",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_9_1.jpg?v=1779093230",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120364_0_1.webp?v=1779093228",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Elevate alfresco lounging with the Outdoor Chair Riverton, woven in natural faux rattan and dressed in Arden upholstery. Its rounded arms, diamond lattice sides and neatly wrapped detailing create a light, architectural silhouette, while the generous seat and back cushions feel softly textured; the cover is removable for easy care. Ideal for discerning outdoor settings that favour relaxed refinement, Riverton brings resort-like comfort and effortless style to terraces and poolside retreats.</span><br></p>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<meta charset=\"utf-8\">\n<div class=\"pdp-details-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\"><span class=\"Text--subdued\">W. 75 | D. 86 | H. 82 | SD. 51 | SW. 65 | SH. 45.5 | AH. 62</span></div>\n</div>\n</div>\n<div class=\"product-services\">\n<ul>\n<li><svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 12.9091L9.375 17L19 8\" stroke=\"#A4835B\" stroke-linecap=\"square\"></path></svg></li>\n</ul>\n</div>\n</div>"
+    },
+    {
+      "id": 15132277866828,
+      "title": "Outdoor Chair - Brice",
+      "handle": "outdoor-chair-brice-1",
+      "url": "https://arowonen.com/products/outdoor-chair-brice-1",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-10-09T10:40:31+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-10-18T10:50:27+02:00",
+      "available": true,
+      "price_min": 1795,
+      "price_max": 1795,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561510461772,
+          "title": "Default Title",
+          "sku": "118507",
+          "price": "1795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_0_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_1_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_2_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_4_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_3_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_5_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_10_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_9_1_1.jpg?v=1779113030",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118507_0_1_1.jpg?v=1779113030",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Indulge in the allure of refined luxury with the Outdoor Chair Brice in Lucio sand. This sophisticated piece, crafted from 100% solution-dyed acrylic, seamlessly blends style with durability. Its soft curves and the neutral elegance of sand tones invite relaxation, making it an ideal choice for those who appreciate high-end outdoor design.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color:</strong> <meta charset=\"utf-8\">Lucio sand<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">23<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">W. 100 | D. 88 | H. 52 | SD. 52 | SW. 72 | SH. 39.5 | AH. 72.5 cm<br></p>\n<p><meta charset=\"utf-8\"><strong></strong><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant</strong> <meta charset=\"utf-8\">CAL-117 fire retardant<br><strong>Fabric composition </strong>100% <meta charset=\"utf-8\">solution-dyed acrylic<br><strong>Fabric consumption (m)</strong> 5<br><strong>Density seat (kg/m³) </strong>36<br><strong>Maximum weight load (kg)</strong> 150<br><strong>Removable cover</strong> <meta charset=\"utf-8\">No<br><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132273410380,
+      "title": "Outdoor Chair - Bryson",
+      "handle": "outdoor-chair-bryson",
+      "url": "https://arowonen.com/products/outdoor-chair-bryson",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-10-09T10:36:07+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-10-18T10:50:24+02:00",
+      "available": true,
+      "price_min": 1995,
+      "price_max": 1995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561501286732,
+          "title": "Default Title",
+          "sku": "119252",
+          "price": "1995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_0_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_1_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_3_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_4_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_2_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_5_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_10_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_9_1_1.jpg?v=1779113287",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119252_0_1_1.jpg?v=1779113287",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Enhance your outdoor sanctuary with the Bryson Outdoor Chair. Featuring luxurious faux woven rattan in a sophisticated grey hue, this piece elegantly balances durability and style. The Viola sand upholstery brings a touch of refinement, enveloping you in comfort while complementing its chic design. Perfect for those who demand elegance in every detail.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color:</strong> <meta charset=\"utf-8\">Faux woven rattan | viola sand<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">21<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">W. 90 | D. 91 | H. 85 | SD. 52 | SW. 66 | SH. 47.5 | AH. 70 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> <meta charset=\"utf-8\">Seat cushion: 66 x 68 x 15 cm | Back cushion: 64 x 45 x 20 cm</p>\n<p><meta charset=\"utf-8\"><strong></strong><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant</strong> <meta charset=\"utf-8\">UK fire retardant for domestic use<br><strong>Fabric composition </strong>100% <meta charset=\"utf-8\">Olefin<br><strong>Fabric consumption (m)</strong> 3<br><strong>Density seat (kg/m³) </strong>26<br><strong>Maximum weight load (kg)</strong> 225<br><strong>Removable cover</strong> <meta charset=\"utf-8\">Seat cushions &amp; back cushions<br><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132269183308,
+      "title": "Outdoor Chair - Cap-Antibes",
+      "handle": "outdoor-chair-cap-antibes",
+      "url": "https://arowonen.com/products/outdoor-chair-cap-antibes",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-10-09T10:30:04+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-10-18T10:50:22+02:00",
+      "available": true,
+      "price_min": 2495,
+      "price_max": 2495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561493881164,
+          "title": "Default Title",
+          "sku": "119580",
+          "price": "2495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_2_1_1.jpg?v=1779113483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_1_1_1.jpg?v=1779113483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_4_1_1.jpg?v=1779113482",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_3_1_1.jpg?v=1779113482",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_0_1_1.jpg?v=1779113482",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_5_1_1.jpg?v=1779113483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_6_1_1.jpg?v=1779113483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_10_1_1.jpg?v=1779113487",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_9_1_1.jpg?v=1779113483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119580_2_1_1.jpg?v=1779113483",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Immerse yourself in luxury with the Outdoor Chair Cap-Antibes. Featuring a matte white aluminum frame and plush Florent beige cushions, this chair harmonizes elegance and resilience. The striped pattern, crafted from 100% solution-dyed acrylic, exudes sophistication, making it a perfect addition to any upscale outdoor setting. Indulge in unparalleled relaxation and style.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color:</strong> <meta charset=\"utf-8\">Matte white finish | florent beige<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">20.7<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">W. 101 | D. 100 | H. 72 | SD. 74 | SH. 42 | AH. 54 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> <meta charset=\"utf-8\">Seat cushion: 1 pcs 80 x 81 x 18 cm | Back cushion: 75 x 40 x 22 cm</p>\n<p><meta charset=\"utf-8\"><strong></strong><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant</strong> CAL-117 fire retardant<br><strong>Fabric composition </strong>100% solution-dyed acrylic<br><strong>Fabric consumption (m)</strong> 4.9<br><strong>Density seat (kg/m³) </strong>20<br><strong>Density seat back (kg/m³)</strong> 20<br><strong>Maximum weight load (kg)</strong> 136<br><strong>Removable cover</strong> No<br><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132267282764,
+      "title": "Outdoor Chair - Julian",
+      "handle": "outdoor-chair-julian",
+      "url": "https://arowonen.com/products/outdoor-chair-julian",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-10-09T10:26:25+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-10-18T10:50:20+02:00",
+      "available": true,
+      "price_min": 2495,
+      "price_max": 2495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561490473292,
+          "title": "Default Title",
+          "sku": "119249",
+          "price": "2495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_0_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_1_1.jpg?v=1779113723",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_2_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_4_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_5_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_3_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_6_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_7_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_10_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_9_1.jpg?v=1779113722",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119249_0_1.jpg?v=1779113722",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Discover the epitome of elegance with the Outdoor Chair Julian. Showcasing aged teak in a refined grey tone, paired seamlessly with the plush viola sand fabric, this chair embodies luxury. Its sophisticated design and premium materials make it a stunning choice for those who cherish style and comfort in outdoor furnishings.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color:</strong> <meta charset=\"utf-8\">Aged teak | beige rope | viola sand<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">23<br><meta charset=\"utf-8\"><strong>Dimensions (cm) </strong>W. 90.5 | D. 86.5 | H. 88 | SD. 53 | SW. 74.5 | SH. 48 | AH. 69 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> <meta charset=\"utf-8\">Seat cushion: 1 pcs 80 x 81 x 18 cm | Back cushion: 75 x 40 x 22 cm<br></p>\n<p><br><meta charset=\"utf-8\"><strong></strong><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant </strong>UK fire retardant for domestic use<br><strong>Fabric composition</strong> 100% Olefin<br><strong>Fabric consumption (m)</strong> 2.6<br><strong>Density seat (kg/m³) </strong>28<br><strong>Maximum weight load (kg)</strong> 225<br><strong>Removable cover</strong> Seat cushions &amp; <meta charset=\"utf-8\">back cushions<br><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132265611596,
+      "title": "Outdoor Chair - Trinity",
+      "handle": "outdoor-chair-trinity",
+      "url": "https://arowonen.com/products/outdoor-chair-trinity",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-10-09T10:22:54+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-10-18T10:50:18+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561487556940,
+          "title": "Default Title",
+          "sku": "119558",
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_0_1_1.webp?v=1779114072",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_1_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_2_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_4_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_3_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_6_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_7_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_5_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_10_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_9_1_1.jpg?v=1779114074",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119558_0_1_1.webp?v=1779114072",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Elevate your outdoor sanctuary with the Outdoor Chair Trinity in cream weave and viola sand. This luxurious piece combines off-white Olefin with natural teak and cream rope, creating a perfect blend of modern elegance and durability. Indulge in its sumptuous cushions, offering unparalleled comfort and style, ideal for those with a penchant for high-end outdoor refinement.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color:</strong> <meta charset=\"utf-8\">Viola sand | natural teak | cream rope<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">12<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">Ø<meta charset=\"utf-8\">W. 90 | D. 92 | H. 74 | SD. 60 | SW. 67 | SH. 46 | AH. 64 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> Seat cushion: 1 pcs 64 x 66 x 15 cm | Scatter cushions: 2 pcs 45 x 45 x 15 cm<br></p>\n<p><br><meta charset=\"utf-8\"><strong></strong><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant </strong>UK fire retardant for domestic use<br><strong>Fabric composition</strong> 100% Olefin<br><strong>Fabric consumption (m)</strong> 2.2<br><strong>Density seat (kg/m³) </strong>26<br><strong>Maximum weight load (kg)</strong> 225<br><strong>Removable cover</strong> Seat cushions &amp; scatter cushions<br><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15114556473676,
+      "title": "Outdoor Chair - Oceanview",
+      "handle": "outdoor-chair-oceanview",
+      "url": "https://arowonen.com/products/outdoor-chair-oceanview",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-09-29T15:06:44+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-07T17:38:19+01:00",
+      "available": true,
+      "price_min": 895,
+      "price_max": 895,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53489412964684,
+          "title": "Default Title",
+          "sku": "119188",
+          "price": "895.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119188_1400x_9e4b9259-3195-4619-a65d-f544528a4dfc.webp?v=1759151396",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_119188_1_1_1_700x_a8e01c3c-e368-4091-a42c-5889826b28c1.webp?v=1759151437",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_119188_3_1_1_700x_da5ed818-f12c-4dd8-acbd-52d7aa32a8fc.webp?v=1759151437",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_119188_2_1_1_700x_0fd57202-9bbf-4ac7-a116-409d5589e7b1.webp?v=1759151437",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_119188_4_1_1_700x_2e7378e7-1f84-4a31-bffe-c2fd4af20fde.webp?v=1759151395",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_119188_5_1_1_700x_a6264c72-1bd0-4922-a08a-fc88833c0030.webp?v=1759151395",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_9_119188_6_1_1_700x_93d7d261-8545-441b-b0a9-80edaed8ff71.webp?v=1759151395",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_10_119188_7_1_1_700x_6d26a4fb-6ef1-441d-8f0a-017ebc68f64e.webp?v=1759151396",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_11_119188_8_1_1_700x_92eab44a-6827-49a0-a0ba-2dce1882b2dd.jpg?v=1759151395",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_14_119188_11_1_1_700x_dfa86253-49d1-4208-a7fc-5710f2efb709.webp?v=1759151395",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_15_119188_12_1_1_700x_634d1574-c55c-4921-9b76-adc81481b7eb.webp?v=1759151396",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_12_119188_9_1_1_700x_7c3718ac-94fa-47f1-95fb-84424b52f861.jpg?v=1759151396",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119188_1400x_9e4b9259-3195-4619-a65d-f544528a4dfc.webp?v=1759151396",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Bring elevated style to the outdoors with the Oceanview Outdoor Chair, crafted from beautifully grained teak and accented with a black-and-white Acento fabric.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color :</strong> <meta charset=\"utf-8\">Natural teak | acento black and white<br><meta charset=\"utf-8\"><strong>Suitable for:</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><span><strong>Net weight (kg):</strong> <meta charset=\"utf-8\"> <meta charset=\"utf-8\">18</span><strong><br>Dimensions:</strong> <meta charset=\"utf-8\">W. 78.5 | D. 79 | H. 74.5 | SD. 47 | SW. 60 | SH. 39 | AH. 53 cm<br><br><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fabric composition</strong> 100% Olefin<br><strong>Density seat (kg/m³)</strong> 22<br><strong>Density seat back (kg/m³)</strong> 22<br><strong>Maximum weight load (kg)</strong> 100<br><strong>Removable cover</strong> Seat cushion</p>"
+    },
+    {
+      "id": 15098555498828,
+      "title": "Outdoor Chair - Belle Vue",
+      "handle": "outdoor-chair-belle-vue",
+      "url": "https://arowonen.com/products/outdoor-chair-belle-vue",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-09-21T15:50:42+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-09-27T10:47:27+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53415945896268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119228_1400x_8ce45473-6ace-448e-b916-40e1654e685b.webp?v=1758462819",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_119228_1_1_1_700x_f4ec283a-9b27-4b3a-b857-d8cf27de79ef.webp?v=1758462819",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_119228_2_1_1_700x_fd68ca89-b58b-4272-b79d-f5f41b11412f.webp?v=1758462819",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_119228_3_1_1_700x_9915fb54-776b-4bc9-8cfb-1aadb457b446.webp?v=1758462819",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_119228_4_1_1_700x_f57b1723-15d7-4309-96cf-53ccd25729d2.webp?v=1758462819",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_119228_5_1_1_700x_f49cc1a1-1f67-4619-b659-88a42af31b59.webp?v=1758462818",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_9_119228_6_1_1_700x_9f94c622-6ea7-4cb5-a168-e7bed36682ed.webp?v=1758462819",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_10_119228_7_1_1_700x_d022cc21-1af8-4f55-a3f4-3a84e6e49cf2.webp?v=1758462818",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119228_1400x_8ce45473-6ace-448e-b916-40e1654e685b.webp?v=1758462819",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Experience the Belle Vue Outdoor Chair, crafted from woven faux rattan with exquisite comfort.</p>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Grey finish | grey faux rattan</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  17 kg</div>\n<p><strong>Dimensions:</strong> W. 77 | D. 106 | H. 81 | SD. 58 | SW. 59 | SH. 38 | AH. 53 cm<span class=\"dimension-value\"><br></span></p>\n<p><strong><meta charset=\"utf-8\">SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Density seat (kg/m³)</strong> 28<br><strong>Maximum weight load (kg)</strong> 240<br><strong>Maximum weight load (lbs)</strong> 529.1</p>"
+    },
+    {
+      "id": 15098547339596,
+      "title": "Outdoor Chair - Manzo",
+      "handle": "outdoor-chair-manzo",
+      "url": "https://arowonen.com/products/outdoor-chair-manzo",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-09-21T15:44:21+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-09-27T10:46:48+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53415925711180,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119230_1400x_a758498c-c6f5-4d7f-944f-d89268a7c7a3.webp?v=1758462535",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_119230_1_1_1_700x_68a9a4a1-1db8-4da6-9b4b-fb061cf9e7ba.webp?v=1758462534",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_119230_2_1_1_700x_a8c45e54-733a-451c-926b-d5407abce5bb.webp?v=1758462535",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_119230_4_1_1_700x_30dc1fde-4e28-4679-aa69-cd8dfe7fae2a.webp?v=1758462534",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_119230_5_1_1_700x_73cf05fb-5b40-4019-a512-0e3e9fedb24a.webp?v=1758462534",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_9_119230_6_1_1_700x_ebc61a3f-94ad-442f-a288-06419ea45960.webp?v=1758462535",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119230_1400x_a758498c-c6f5-4d7f-944f-d89268a7c7a3.webp?v=1758462535",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Discover the refined charm of the Manzo Outdoor Chair, featuring an aged teak frame paired with elegant rope weaving.</span><br></p>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Aged teak | greige rope</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  9 kg</div>\n<p><strong>Dimensions: </strong>W. 180 | D. 84 | H. 75 | SD. 57 | SW. 164 | SH. 41 | AH. 60 cm<span class=\"dimension-value\"><br></span></p>\n<p><strong><meta charset=\"utf-8\">SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Maximum weight load (kg)</strong> 165<br><strong>Maximum weight load (lbs)</strong> 363.76<br><br></p>"
+    },
+    {
+      "id": 15098541211980,
+      "title": "Outdoor Chair - Ombria",
+      "handle": "outdoor-chair-ombria",
+      "url": "https://arowonen.com/products/outdoor-chair-ombria",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-09-21T15:31:33+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-09-27T10:46:05+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53415830749516,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_0_1_1.webp?v=1779459869",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_1_1_1.jpg?v=1779459871",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_4_1_1.jpg?v=1779459870",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_2_1_1.jpg?v=1779459870",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_3_1_1.jpg?v=1779459871",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_5_1_1.jpg?v=1779459870",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_6_1_1.jpg?v=1779459870",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_9_1_1.jpg?v=1779459871",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_10_1_1.jpg?v=1779459870",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120255_0_1_1.webp?v=1779459869",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Designed for refined outdoor living, the Ombria Outdoor Chair boasts rich natural teak in Arden Natural, radiating warmth and durability.</span><br></p>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Natural teak | arden natural</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  <meta charset=\"utf-8\"> 13 kg</div>\n<p><strong>Dimensions: </strong>W. 76 | D. 80 | H. 72 | SD. 52 | SW. 62 | SH. 42 | AH. 55 cm<span class=\"dimension-value\"><br></span></p>\n<p><strong><meta charset=\"utf-8\">SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant </strong>UK fire retardant for domestic use<br><strong>Fabric composition</strong> 100% polyester<br><strong>Fabric consumption (m)</strong> 2.7<br><strong>Fabric consumption (yard)</strong> 2.95<br><strong>Density seat (kg/m³)</strong> 28<br><strong>Maximum weight load (kg)</strong> 165<br><strong>Maximum weight load (lbs)</strong> 363.76<br><strong>Removable cover</strong> Seat cushions &amp; back cushions</p>"
+    },
+    {
+      "id": 15098534658380,
+      "title": "Outdoor Chair - Aruba",
+      "handle": "outdoor-chair-aruba",
+      "url": "https://arowonen.com/products/outdoor-chair-aruba",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-09-21T15:25:57+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-09-27T10:45:34+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53415769178444,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_0_1_1.jpg?v=1779460265",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_1_1_1.jpg?v=1779460266",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_4_1_1.jpg?v=1779460264",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_3_1_1.jpg?v=1779460265",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_2_1_1.jpg?v=1779460265",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_7_1_1.jpg?v=1779460267",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_6_1_1.jpg?v=1779460265",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_10_1_1.jpg?v=1779460266",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_9_1_1.jpg?v=1779460266",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/120404_0_1_1.jpg?v=1779460265",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Discover the harmonious blend of natural teak and Sunbrella fabric cushions in the Outdoor Chair Aruba.</span><br></p>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> <meta charset=\"utf-8\">\n<span>atural teak | sunbrella canvas</span>\n</div>\n<div class=\"item\">\n<strong>Net weight:</strong>  <meta charset=\"utf-8\"> 18</div>\n<p><strong>Dimensions: </strong>W. 75 | D. 76 | H. 78 | SD. 52 | SW. 67 | SH. 43 | AH. 54 cm<span class=\"dimension-value\"><br></span></p>\n<p><strong><meta charset=\"utf-8\">SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required? </strong> No assembly required<br><strong>Fire retardant</strong> Not fire retardant<br><strong>Fabric composition</strong> 100% solution-dyed acrylic<br><strong>Fabric consumption</strong> (m) 3.7<br><strong>Fabric consumption</strong> (yard) 4.05<br><strong>Density seat (kg/m³) </strong>36<br><strong>Maximum weight load (kg)</strong> 100<br><strong>Maximum weight load (lbs) </strong>220.46<br><strong>Removable cover</strong> Seat cushions &amp; scatter cushions<br><strong>Extra information</strong> Seat cushion size: 69 x 71 x 17 cm | 27.17\" x 27.95\" x 6,96\"</p>"
+    },
+    {
+      "id": 15015596818764,
+      "title": "Chair - Tia - By Antonino Sciortino",
+      "handle": "chair-tia-by-antonino-sciortino",
+      "url": "https://arowonen.com/products/chair-tia-by-antonino-sciortino",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Antonino Sciortino",
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-08-07T11:56:28+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:50+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075937689932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_72_bbf6e899-85fa-4504-a293-06ceb4c2b576.avif?v=1754560738",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_73_de47bb1e-d26c-4da1-a47a-e120a87466d1.avif?v=1754560739",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_74_f65435e4-a04e-4cd0-9426-cd96258cb7ad.avif?v=1754560739",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_75_bc7e4056-31ee-45b8-8bc9-0debdb38a5f0.avif?v=1754560739",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_76_813c70b7-6e21-4506-a2a3-6ff87bdc8878.avif?v=1754560738",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_72_bbf6e899-85fa-4504-a293-06ceb4c2b576.avif?v=1754560738",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Designed by Antonino Sciortino, Tia is an outdoor chair that marks a tribute to the simplest and most perfect lightness and elegance. The chair's sinuous silhouette, accentuated by a matt black stainless steel rod frame, captures attention with its understated, essential elegance, while its rounded form, a hallmark of the collection, conveys a welcoming character. Crafted for outdoor environments like terraces and gardens, as well as for indoor areas seeking a minimalist flair, Tia seamlessly merges resilience with elegance, offering an ideal combination of aesthetics, comfort, and practicality.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015589773644,
+      "title": "Chair - Rimini - By Paola Navone",
+      "handle": "chair-rimini-by-paola-navone",
+      "url": "https://arowonen.com/products/chair-rimini-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-07T11:53:14+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:48+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075912458572,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_68_0a7aac7e-2b08-4aab-96ba-31ae03c45333.avif?v=1754560467",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_69_61013be1-26ae-40fd-b368-d29abba966c4.avif?v=1754560468",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_70_c7d57630-b348-451d-bd05-dcaccd962209.avif?v=1754560468",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_71_375ddd8c-c225-47b0-8a56-1d83f17241a3.avif?v=1754560468",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_68_0a7aac7e-2b08-4aab-96ba-31ae03c45333.avif?v=1754560467",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The outdoor chairs of the Rimini collection by Paola Navone recall the timeless charm of the city synonymous with Italian holidays, a place that encapsulates the essence of summer. Featuring a refined vintage-inspired design, these leather chairs reinterpret the iconic atmosphere of the seaside resort, conveying a sense of enduring and understated elegance. Crafted with a sturdy tubular copper structure, the Rimini chairs come in two versions: Outdoor, showcasing a verdigris finish paired with a long-lasting and refined Aku leather seat, perfect for elegant outdoor settings; and Open-Air, boasting an antique copper structure with a Hydro leather seat, ideal for blending seamlessly into semi-sheltered areas.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015585415500,
+      "title": "Chair - Mati - By Paola Navone",
+      "handle": "chair-mati-by-paola-navone",
+      "url": "https://arowonen.com/products/chair-mati-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-07T11:49:18+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:45+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075895779660,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mati_Chairs_Outdoor.jpg?v=1754560321",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_66_fc9aec3b-3a83-49ae-90e4-b11ebad9bc51.avif?v=1754560321",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_67_7798a1cc-a0e6-41c3-8c75-de89ec4606f7.avif?v=1754560321",
+          "alt": null,
+          "width": 772,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Baxter_2024_Quaderno_di_viaggio_Marbella_DSC_0241_R.jpg?v=1754560289",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Baxter_2024_Quaderno_di_viaggio_Marbella_DSC_0252_R.jpg?v=1754560289",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mati_Chairs_Outdoor.jpg?v=1754560321",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Solid and sophisticated, the Mati Outdoor chair stands out for its tubular structure in acid-etched copper that gives an authentic and refined look. The minimalist design, absent of any intertwining, highlights the purity of the forms and the visual lightness. The seat features a non-removable back cushion, available in leather or outdoor fabrics. Available in Lido leather or outdoor fabric. Mati Outdoor is crafted to adorn gardens, terraces, and sheltered outdoor areas with a sleek, modern aesthetic, providing an experience of sophistication.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015583351116,
+      "title": "Chair - Linfa - By Studiopepe",
+      "handle": "chair-linfa-by-studiopepe",
+      "url": "https://arowonen.com/products/chair-linfa-by-studiopepe",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS",
+        "Studiopepe"
+      ],
+      "created_at": "2025-08-07T11:46:39+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:43+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075886178636,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_59_c448c03f-43f4-4a7f-b35d-9528fee655f4.avif?v=1754560083",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_60_06b19a42-2dd2-43aa-badb-28756119b98b.avif?v=1754560083",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_61_8cd7ea73-06ba-4833-a784-c7a1a25b2d98.avif?v=1754560083",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_62_0c87ea41-cca6-4b7e-a647-b3647a94a71e.avif?v=1754560083",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_63_5bf5da6f-eff9-4a90-acdd-7b241db80f77.avif?v=1754560084",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_64_0bf74280-f61d-4589-be4d-e41a65553261.avif?v=1754560083",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_65_9e72e9b0-51bf-4d19-87ea-dfc4cf736b4e.avif?v=1754560083",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_59_c448c03f-43f4-4a7f-b35d-9528fee655f4.avif?v=1754560083",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\"><br></p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\">\n<meta charset=\"utf-8\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The most notable trait of Linfa outdoor seating is its unconventional irony. An approach that takes form in the harmonious balance of geometries, in the minimalist design of Studiopepe which interprets the contemporary outdoors in an unusual way: simple, timeless forms that stem from classic canons. Resting on a solid, painted swivel base, the stools and chairs in natural or black iroko wood invite us to reimagine our approach to the outdoors as a creative, rich opportunity to be explored in every season.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015575781708,
+      "title": "Chair - Leggia - By Antonino Sciortino",
+      "handle": "chair-leggia-by-antonino-sciortino",
+      "url": "https://arowonen.com/products/chair-leggia-by-antonino-sciortino",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Antonino Sciortino",
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-08-07T11:42:19+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:41+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075847577932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_57_23ecca1e-7dfa-495d-b776-d4e0759b6147.avif?v=1754559825",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_58_5acb047a-7336-49f6-a5d8-a6f7a84aa446.avif?v=1754559825",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_57_23ecca1e-7dfa-495d-b776-d4e0759b6147.avif?v=1754559825",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Leggia is an outdoor leather chair designed by Antonino Sciortino with the idea of combining elegance and minimalism in a strong and light seat, suitable for open air and outdoor spaces. Thanks to the sleek design of the stainless steel rods, the clean, minimalist silhouette of the frame contrasts with the comfort of the seat – upholstered in Aku leather for the Outdoor version and Hydro for the Open-Air version – which, suspended like a fabric, is ready to welcome those who sit down. The warm, natural colour of the outdoor leather adds depth, while the matt black painted steel emphasises the strong character of the chair, which blends into any context while maintaining a discreet and sophisticated beauty.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015569719628,
+      "title": "Chair - Himba - By Roberto Lazzeroni",
+      "handle": "chair-himba-by-roberto-lazzeroni",
+      "url": "https://arowonen.com/products/chair-himba-by-roberto-lazzeroni",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS",
+        "Roberto Lazzeroni"
+      ],
+      "created_at": "2025-08-07T11:37:11+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:38+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075824607564,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_49_a633e251-1acb-4682-989d-db658b6a4c66.avif?v=1754559523",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_50_2d2eb0ac-17cb-48b6-b1d9-f06c044fe780.avif?v=1754559524",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_51_a68d749a-10a8-411d-9aee-21a95f0b9ba9.avif?v=1754559524",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_52_41f57d8f-885a-4c5f-b1df-f2f6affd32a5.avif?v=1754559525",
+          "alt": null,
+          "width": 1619,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_53_456dc331-2efd-453e-a83f-cb3d48f6f4ab.avif?v=1754559524",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_54_f573b063-23e6-40c9-b685-9a750c95241d.avif?v=1754559525",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_55_75349a09-0552-403f-bedc-b67d5cdafc23.avif?v=1754559524",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_56_346a544e-e131-4858-b157-44730dac3227.avif?v=1754559525",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_49_a633e251-1acb-4682-989d-db658b6a4c66.avif?v=1754559523",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Himba collection redefines domestic and outdoor spaces with ethnic-inspired chairs in natural, organic shapes that recall the typical motifs of African design and art. Delicate and harmonious, the solid wood seats designed by Roberto Lazzeroni elevate interiors in the version with leather cushions and can also be used on the terrace and in the garden when upholstered in weatherproof fabric or leather.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15015560741196,
+      "title": "Chair - Dabliou - By Studiopepe",
+      "handle": "chair-dabliou-by-studiopepe",
+      "url": "https://arowonen.com/products/chair-dabliou-by-studiopepe",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "OUTDOOR CHAIRS",
+        "Studiopepe"
+      ],
+      "created_at": "2025-08-07T11:33:10+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2026-02-17T10:38:36+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53075799933260,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_42_d1fb9c03-ee8c-4fa3-a0ef-458937dece00.avif?v=1754559290",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_43_c427a141-f917-4eff-b02b-f0303f43daf8.avif?v=1754559291",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_44_18b260ef-4ce4-47c9-a6c8-8faa9180d054.avif?v=1754559290",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_45_33d8d04e-9fb9-4b9b-80f9-1b190d7741e1.avif?v=1754559291",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_46_420e1131-6cbb-463a-bb3a-ab3e4a126801.avif?v=1754559290",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_47_380df292-8277-4193-94c1-b11f50224f39.avif?v=1754559291",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_48_7c402b6a-842f-45a3-916d-03075955ce6d.avif?v=1754559291",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_42_d1fb9c03-ee8c-4fa3-a0ef-458937dece00.avif?v=1754559290",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Designed by Studiopepe for Baxter, the Dabliou chair is an outdoor piece that distils the spirit of Italy’s legendary 1960s beach resorts into a contemporary expression of sophisticated elegance. Its silhouette, defined by a coloured tubular structure, creates a dialogue between formal purity and precision in proportion. The result is a design that feels both visually light and structurally impeccable. The padding, crafted to coexist with the natural elements and endure their shifting moods, welcomes the body in a soft, embracing gesture—never compromising on aesthetic clarity or elegance. Dabliou transforms terraces, gardens, verandas, and dining spaces into unique settings—where signature design meets functionality, elevating the outdoor living experience. An iconic piece, versatile and expressive, perfect both on its own and combined with other elements to compose elegant and cohesive outdoor spaces.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15013559796044,
+      "title": "Armchair - Sellerina Alluminium - By Paola Navone",
+      "handle": "armchair-sellerina-alluminium-by-paola-navone",
+      "url": "https://arowonen.com/products/armchair-sellerina-alluminium-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-06T13:35:25+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-06T15:54:32+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069813121356,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_97_c120f862-d085-4c2f-9972-b1e37f8c46fb.avif?v=1754480222",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_98_048a2345-9c0b-4cec-b349-dd777f00cd37.avif?v=1754480223",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_99_26c4abb6-4dc9-49d4-b626-34d2a4bb8802.avif?v=1754480222",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_100_5b6ce73b-4301-4cb5-b26b-03c277544cde.avif?v=1754480222",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_97_c120f862-d085-4c2f-9972-b1e37f8c46fb.avif?v=1754480222",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Created from a one-piece unit in polished cast aluminium, the armchair Sellerina Alluminium by Paola Navone evokes the comfortable charm of more classic furniture, reinterpreting it with a completely innovative design sensibility. Inspired by elegant seats with a retro flavour, Sellerina embodies a contemporary vision of the art de vivre, combining sinuous and cosy shapes with unusual details and materials. The polished aluminium of the structure lends the design a bold lightness and surprising brilliance, enhancing its scenic presence. Sellerina Alluminium reinterprets the armchair as an eclectic and distinctive decorative piece, where minimalist lines and perfect proportions blend seamlessly with the metal's polished surface, equally honouring comfort and beauty.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15011772006732,
+      "title": "Armchair - Montreal - By Paola Navone",
+      "handle": "armchair-montreal-paola-navone",
+      "url": "https://arowonen.com/products/armchair-montreal-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-05T18:19:32+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-06T14:09:22+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53065194832204,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_42_29ef38a1-5628-46c4-8f1f-1dbf75c5f552.avif?v=1754410876",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_43_b72936f2-c25d-4bcc-8c01-d0456268a084.avif?v=1754410877",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_44_6a3fe13e-57d5-4727-b408-124467a8a52a.avif?v=1754410877",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_42_29ef38a1-5628-46c4-8f1f-1dbf75c5f552.avif?v=1754410876",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">An invitation to comfort and relaxation outside the home, Montreal is Paola Navone's large upholstered outdoor armchair that is an ode to elegance in outdoor spaces. The generous dimensions of the soft upholstery offer a pleasant feeling of refuge and cosiness, making the armchair the ideal companion for relaxing in the garden, on the terrace or by the pool. The practicality of the non-slip rubber base and the versatility of the removable cover in a water-repellent material of your choice offer security, durability, and the possibility to customise each piece.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15011763716428,
+      "title": "Armchair - Montreal - Paola Navone",
+      "handle": "armchair-milano-paola-navone",
+      "url": "https://arowonen.com/products/armchair-milano-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-05T18:13:33+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-06T14:08:57+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53065176187212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_41_4e6143c0-93c7-45ec-a30e-ee2f222bbbde.avif?v=1754410544",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_41_4e6143c0-93c7-45ec-a30e-ee2f222bbbde.avif?v=1754410544",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">An invitation to comfort and relaxation outside the home, Montreal is Paola Navone's large upholstered outdoor armchair that is an ode to elegance in open-air spaces. The generous dimensions of the soft upholstery offer a pleasant feeling of refuge and cosiness, making the armchair the ideal companion for relaxing in the garden, on the terrace or by the pool. The practicality of the non-slip rubber base and the versatility of the removable cover in a water-repellent material of your choice offer security, durability, and the possibility to customise each piece.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15009248739660,
+      "title": "Armchair - Himba - By Roberto Lazzeroni",
+      "handle": "armchair-himba-by-roberto-lazzeroni-2",
+      "url": "https://arowonen.com/products/armchair-himba-by-roberto-lazzeroni-2",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Outdoor sofa",
+        "Roberto Lazzeroni"
+      ],
+      "created_at": "2025-08-04T15:55:06+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-06T13:29:31+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53055726223692,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_89_3755f1ba-c4c4-400c-9087-d82335cfeb61.avif?v=1754315856",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_90_4bf527ae-08a0-47d1-92a2-7fed3e7b3ea3.avif?v=1754315857",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_91_1de7fe52-0ab0-4656-9ffa-3f95a53c23c3.avif?v=1754315857",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_89_3755f1ba-c4c4-400c-9087-d82335cfeb61.avif?v=1754315856",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Himba collection redefines interiors and exteriors with ethnic-inspired and natural looking furniture. Sofas, loungers and armchairs designed by Roberto Lazzeroni to become majestic presences in the home as well as in the garden, blending into nature and acquiring character and meaning over time. Remarkably delicate and made even more welcoming by the cushions, the pieces in the collection are like exotic sculptures and can be used both in the living room and outside the home thanks to the leather (indoor or outdoor) and fabric (outdoor) covers.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15009100464460,
+      "title": "Armchair - Hakuna Matata - By Roberto Lazzeroni",
+      "handle": "armchair-hakuna-matata-by-roberto-lazzeroni-1",
+      "url": "https://arowonen.com/products/armchair-hakuna-matata-by-roberto-lazzeroni-1",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Draga & Aurel",
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-08-04T14:35:19+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-06T13:24:49+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53055469257036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_77_d9ef0fad-517f-465d-9de4-a62fbd60e36e.avif?v=1754311015",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_78_119d2bc8-7bed-486b-b98f-50138889030b.avif?v=1754311016",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_79_12f2949a-88ad-49ce-8c24-a0f41c786e6c.avif?v=1754311016",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_80_45b5391f-025b-47de-925c-457eec83410b.avif?v=1754311016",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_81_d3f926c5-c52d-4a6d-a183-486859c36c59.avif?v=1754311016",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_82_67ee9d10-c365-4ae4-8f2e-60652dcd2726.avif?v=1754311016",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_83_140b8726-66e4-4690-964f-db09fd6f4812.avif?v=1754311015",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_77_d9ef0fad-517f-465d-9de4-a62fbd60e36e.avif?v=1754311015",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Hakuna Matata is the solid wood armchair designed by Roberto Lazzeroni to celebrate moments of quiet relaxation both indoors and out. The name itself is a statement of intent: “carefree” in Swahili, it advocates a slower and more rejuvenating approach to moments of relaxation and rest. Its reassuring sculpted design is inspired by African art and its alternation of defined and compact curves invites us to abandon ourselves in its generous embrace.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15008803914060,
+      "title": "Chair - Green Point - By Vincent Van Duysen",
+      "handle": "dining-chair-green-point-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/dining-chair-green-point-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T11:50:17+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:48:54+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054711333196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_greenpoint_01.jpg?v=1754301393",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1-greenpoint_01.jpg?v=1754301393",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1-greenpoint_02.jpg?v=1754301393",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1-greenpoint_03.jpg?v=1754301393",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ce8c9c80c37_OUTDOOR-22_064-GoldenGate-GreenPoint-Hedera_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1505,
+          "height": 916
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ce8d0dc2b6b_OUTDOOR-22_104-GoldenGate-GreenPoint-Hedera_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1000,
+          "height": 1170
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ce8d1a18307_OUTDOOR-22_105-GoldenGate-GreenPoint-Hedera_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ce8d083de35_OUTDOOR-22_102-GoldenGate-GreenPoint-Hedera_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1000,
+          "height": 1168
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_058-GreenPoint_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1600,
+          "height": 1199
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_067-GreenPoint_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ce8caf3b6ee_OUTDOOR-22_066-GreenPoint_WEB.jpg?v=1754301393",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_113-GoldenGate-GreenPoint_WEB.jpg?v=1754301362",
+          "alt": null,
+          "width": 1000,
+          "height": 1504
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_greenpoint_01.jpg?v=1754301393",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Timeout Collection offers a wide range of seating: in addition to the two-cushion sofa in two sizes, there is also a generously proportioned armchair and a table chair with a slender.</p>\n<div class=\"show-for-mobile  padding-line-element\">\n<meta charset=\"utf-8\">\n<section class=\"content-block\" id=\"block-0\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">In the seating, the theme of the band of burnished painted aluminium, the fil rouge of the collection, is taken up again in a more leisurely rhythm to create the structure. The bending of the band draws the shape of the backrest and sled bases, with dynamic, agile and angular profiles. A dense, handcrafted polypropylene rope cover is woven onto the metal frame in anthracite, olive green and desert yellow.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"row\">\n<div class=\"col-4  animation-y\"><br></div>\n</div>\n</div>\n</section>\n</div>"
+    },
+    {
+      "id": 15008690405708,
+      "title": "Armchair - Phoenix - By Vincent Van Duysen",
+      "handle": "armchair-phoenix-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/armchair-phoenix-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T10:32:06+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:36:08+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054272799052,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_phoenix_01_new.jpg?v=1754296523",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/01-phoenix-poltrona-Q.jpg?v=1754296523",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/02-phoenix-poltrona-Q.jpg?v=1754296523",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/03-phoenix-poltrona-Q.jpg?v=1754296523",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63ca4795d265f_OUTDOOR-22_070-Phoenix-PannaCotta-Palma_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1000,
+          "height": 639
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caa9c32f5ce_OUTDOOR-22_060-Phoenix-PannaCotta-Musco_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1352,
+          "height": 652
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caa9f4c476b_OUTDOOR-22_062a-Phoenix-Musco_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 812,
+          "height": 935
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caaa3e42c23_OUTDOOR-22_076-Phoenix-Regent_WEB.jpg?v=1754296495",
+          "alt": null,
+          "width": 1000,
+          "height": 1167
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caaa151ec9a_OUTDOOR-22_063-Phoenix-Musco_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 985,
+          "height": 1352
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_018-Phoenix_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_019-Phoenix_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_055-Phoenix-Regent_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 862,
+          "height": 852
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_077b-Phoenix_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_106-Phoenix_WEB.jpg?v=1754296494",
+          "alt": null,
+          "width": 1000,
+          "height": 749
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_107-Phoenix-Boulogne_WEB.jpg?v=1754296495",
+          "alt": null,
+          "width": 1000,
+          "height": 1537
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_phoenix_01_new.jpg?v=1754296523",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Timeout Collection offers a wide range of seating: in addition to the two-cushion sofa in two sizes, there is also a generously proportioned armchair and a table chair with a slender, aerial profile, both available with or without armrests, and the result of a careful study of ergonomics.</p>\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">In the seating, the theme of the band of burnished painted aluminium, the fil rouge of the collection, is taken up again in a more leisurely rhythm to create the structure. The bending of the band draws the shape of the backrest and sled bases, with dynamic, agile and angular profiles.</p>\n<section class=\"content-block dimension-medium\" id=\"block-2\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">A dense, handcrafted polypropylene rope cover is woven onto the metal frame in anthracite, olive green and desert yellow. In addition to the armchair and chairs, the range includes a large array of products, such as a dining table with seats, a stool, a comfortable sunbed, side tables and a bench.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>"
+    },
+    {
+      "id": 15008650789196,
+      "title": "Armchair - Petalo - By Vincent Van Duysen",
+      "handle": "armchair-petalo-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/armchair-petalo-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T10:26:05+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:35:54+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054219551052,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_petalo_01.jpg?v=1754296162",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Petalo_02.jpg?v=1754296162",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Petalo_03.jpg?v=1754296162",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Petalo.jpg?v=1754296162",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65c4a217987c7_Casa_Novina_0256_2024_WEB.jpg?v=1754296096",
+          "alt": null,
+          "width": 1859,
+          "height": 2234
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0018_2024_WEB.jpg?v=1754296095",
+          "alt": null,
+          "width": 1166,
+          "height": 1438
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0065_2024_WEB.jpg?v=1754296096",
+          "alt": null,
+          "width": 1747,
+          "height": 2360
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0534_2024_WEB.jpg?v=1754296096",
+          "alt": null,
+          "width": 1552,
+          "height": 1572
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0555_2024_WEB.jpg?v=1754296097",
+          "alt": null,
+          "width": 1540,
+          "height": 2193
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0585_2024_WEB.jpg?v=1754296098",
+          "alt": null,
+          "width": 1859,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0637_2024_WEB.jpg?v=1754296096",
+          "alt": null,
+          "width": 1859,
+          "height": 2163
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0674_2024_WEB.jpg?v=1754296096",
+          "alt": null,
+          "width": 1859,
+          "height": 2480
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_petalo_01.jpg?v=1754296162",
+      "description_html": "<p class=\"generic-text  padding-line-element\">With the Petalo armchair and pouf, Vincent Van Duysen enhances the Outdoor Timeout Collection with gentle curves and delicately enveloping seating. A testament to the artistry inherent in the collection, these designs create reimagine outdoor atmospheres thanks to their inviting aesthetic.</p>\n<section class=\"content-block\" id=\"block-1\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">To achieve its abundant lightness, Petalo features a solid aluminum base in a distinctive merlot red color, carefully chosen for its recyclability. This aligns seamlessly with the Molteni Group's unwavering commitment to sustainability.</p>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The backrest, available in high and low versions, becomes a canvas for the intricate dance of polypropylene fiber ribbons. These ropes, reminiscent of nautical elements, add a touch of elegance while being resistant to water and challenging climates.</p>\n<section class=\"content-block\" id=\"block-6\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The enveloping seat cushion caters to diverse aesthetic tastes and ergonomic needs. The low backrest version comes with small, padding-free yet comfortable cushions, while the high backrest version can be configured with a large spoke cushion that lines the frame’s perimeter, seamlessly integrating with the seat to elevate the level of comfort.</p>\n<p class=\"block-text-label\"><meta charset=\"utf-8\"><span>For added creativity, the comfortable pouf provides an additional surface, complementing the armchair and enhancing the overall outdoor experience.</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\">\n<meta charset=\"utf-8\">\n<section class=\"content-block dimension-medium\" id=\"block-7\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">A celebration of al fresco living through a harmonious blend of design, comfort, and sustainability, Petalo marks another iconic addition to Vincent Van Duysen's timeless vision for the Outdoor Collection.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-8\">\n<div class=\"wrapper-content\">\n<div class=\"row  block-two-img\">\n<div class=\"col-7  animation-y  block-caption\"></div>\n</div>\n</div>\n</section>\n</div>"
+    },
+    {
+      "id": 15008640270668,
+      "title": "Outdoor Armchair - D.154.2 - By Gio Ponti",
+      "handle": "armchair-d-150-2-by-gio-ponti",
+      "url": "https://arowonen.com/products/armchair-d-150-2-by-gio-ponti",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Gio Ponti",
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-08-04T10:18:00+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:34:53+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054191993164,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_d.145.2_01.jpg?v=1754295566",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63c915132353e_OUTDOOR-22_046-D1542-PannaCotta_WEB.jpg?v=1754295566",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caa8f69efc5_OUTDOOR-22_047-D1542_WEB.jpg?v=1754295566",
+          "alt": null,
+          "width": 1144,
+          "height": 837
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_P1016618_2024_HR.jpg?v=1754295567",
+          "alt": null,
+          "width": 2030,
+          "height": 2480
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_d.145.2_01.jpg?v=1754295566",
+      "description_html": "<p class=\"generic-text  padding-line-element\">One of Gio Ponti's most iconic and representative pieces, designed in 1954 for the Planchart collectors' villa in Caracas (1953-57), is now available in an outdoor version. The careful study of materials and technical performance guarantee not only respect for the valuable original design, but also the durability that characterises all Molteni&amp;C products.</p>\n<section class=\"content-block\" id=\"block-1\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The D.154.2 is a wrap-around armchair with a sinuous profile, characterised by a rigid yet cosy shell juxtaposed with a soft upholstered counter frame. The essence of the chair originates from the subtle play of curved lines and the harmonious contrast between rigid and soft elements that make it timeless.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>"
+    },
+    {
+      "id": 15008634634572,
+      "title": "Armchair - D.150.5 - By Gio Ponti",
+      "handle": "armchair-d-150-5-by-gio-ponti",
+      "url": "https://arowonen.com/products/armchair-d-150-5-by-gio-ponti",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "chaise longue",
+        "Gio Ponti",
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS"
+      ],
+      "created_at": "2025-08-04T10:13:35+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:34:41+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054176985420,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_d.150.5_01.jpg?v=1754295358",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_P1016467_2024_HR.jpg?v=1754295450",
+          "alt": null,
+          "width": 1481,
+          "height": 1816
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_P1016614_2024_HR.jpg?v=1754295450",
+          "alt": null,
+          "width": 1807,
+          "height": 2168
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_044-D1505_HR.jpg?v=1754295450",
+          "alt": null,
+          "width": 1372,
+          "height": 1715
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63c91ac85c076_OUTDOOR-22_045a-D1505_WEB.jpg?v=1754295450",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_038-D1505_WEB.jpg?v=1754295450",
+          "alt": null,
+          "width": 1199,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d.150.5_01.jpg?v=1754295450",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d.150.5_03.jpg?v=1754295450",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d.150.5_04.jpg?v=1754295450",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d.150.5_05.jpg?v=1754295450",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_d.150.5_01.jpg?v=1754295358",
+      "description_html": "<p><meta charset=\"utf-8\"><span>In collaboration with the Gio Ponti Archives and the heirs of the renowned Milanese architect, Molteni&amp;C is reconstructing one of the rare pieces of furniture Gio Ponti designed for outdoor use: the D.150.5 chaise longue projects for the cruise ship Andrea Doria in 1952.</span></p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">This edition is a tribute to Ponti's work for the Andrea Doria, where he was able to create exceptional environments with his multifaceted creativity. The chaise longue, \"dreamed up\" and designed by Ponti, is an important exponent of this representation, which anticipates, by seizing the opportunity of the ship's unconventional environments, precisely the continuous and modifiable spaces of his architecture of later years, where the furnishings participate in the domestic theatre without constructing fixed sets, as could be the case for living room or bedroom furniture, but rather responding to and representing in their design the comforts and needs of those who would use them.</p>\n<p class=\"block-text-label\"><meta charset=\"utf-8\"><span>A synthesis of values that resolves itself into an aesthetic, as Ponti teaches.</span><br><span>The contours of our chaise longue are characterised by two distinctive features: the first is the continuous line of the side design that unites the different parts (backrest, seat, armrest, footrest) in a single stroke, marking the elongated profile of the armchair in accordance with the Pontian principle.</span></p>\n<p class=\"block-text-label\"><span><meta charset=\"utf-8\">The second detail is the radius of the angle between the seat and the backrest, which is identical to that of Ponti's precisely stated in the construction notes of the '53 Distex now issued by Molteni&amp;C as D.153.1. The use of solid teak highlights the production merits of high quality cabinet making.</span></p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15008627425612,
+      "title": "Armchair - Palinfrasca - By Vincent Van Duysen",
+      "handle": "armchair-palinfrasca-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/armchair-palinfrasca-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIR",
+        "OUTDOOR CHAIRS",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T10:06:07+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:34:25+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054157390156,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_palinfrasca-poltrona_01_COLORE_NEW.jpg?v=1754295039",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_032-Phoenix-Palinfrasca-Regent-Boulogne_WEB.jpg?v=1754295039",
+          "alt": null,
+          "width": 1600,
+          "height": 1233
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/OUTDOOR-22_040-Palinfrasca-Regent_WEB.jpg?v=1754295039",
+          "alt": null,
+          "width": 1600,
+          "height": 1199
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63caa37e5c67a_OUTDOOR-22_042-Palinfrasca_WEB.jpg?v=1754295039",
+          "alt": null,
+          "width": 856,
+          "height": 761
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_poltrona_01.jpg?v=1754295039",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_poltrona_02.jpg?v=1754295039",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_poltrona_03.jpg?v=1754295039",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_palinfrasca-poltrona_01_COLORE_NEW.jpg?v=1754295039",
+      "description_html": "<section id=\"block-4\" class=\"content-block dimension-medium\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<section id=\"block-8\" class=\"content-block dimension-medium\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<section class=\"content-block dimension-medium\" id=\"block-7\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<section class=\"content-block dimension-medium\" id=\"block-6\">\n<div class=\"wrapper-content\">\n<meta charset=\"utf-8\">\n<p class=\"generic-text  padding-line-element\">The themes that identify the Landmark Collection - the curved, enveloping lines of the solid teak frame and the macro-scale warp and weft pattern - remain in the armchair and, thanks to the more compact proportions, become even clearer and more expressive.</p>\n<div class=\"show-for-mobile  padding-line-element\">\n<meta charset=\"utf-8\">\n<section class=\"content-block\" id=\"block-0\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The curved backrest is like an embrace that envelops the user, enhancing the idea of protective and cosy comfort. As in the modular sofa elements, the backrest can be woven in teak or EVA polyurethane in olive green. As in the sofas, the seat cushioning provides enveloping comfort.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"row\">\n<div class=\"col-4  animation-y\"><br></div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15008644596044,
+      "title": "Armchair - Boboli - By Vincent Van Duysen",
+      "handle": "armchair-boboli-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/armchair-boboli-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "Outdoor Armchair",
+        "OUTDOOR CHAIRS",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-04T10:21:56+02:00",
+      "updated_at": "2026-05-22T17:59:30+02:00",
+      "published_at": "2025-08-05T11:35:09+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054206083404,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_boboli_01_2.jpg?v=1754295810",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1020_2024_WEB.jpg?v=1754295875",
+          "alt": null,
+          "width": 1080,
+          "height": 828
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0391_2024_WEB.jpg?v=1754295875",
+          "alt": null,
+          "width": 1858,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1282_2024_WEB.jpg?v=1754295875",
+          "alt": null,
+          "width": 2202,
+          "height": 1199
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_boboli_02_2.jpg?v=1754295875",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_boboli_03_2.jpg?v=1754295875",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_boboli_01_d99a90e7-99f8-4e8b-88be-ac64771529dc.jpg?v=1754295875",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_boboli_01_2.jpg?v=1754295810",
+      "description_html": "<p class=\"generic-text  padding-line-element\">A Vincent Van Duysen original, the Boboli armchair is an iconic and innovative creation characterized by its light and airy lines, seamlessly blending with the outdoor environment.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Crafted with meticulous attention to detail, the Boboli chair showcases a solid teak wood frame and seat, perfectly capturing the fusion of nature and design embodied by Molteni&amp;C Outdoor Collection. The backrest, woven by hand using polypropylene fiber ribbons in ecru employs superior craftsmanship to create a natural effect.</p>\n<p class=\"block-text-label\"><meta charset=\"utf-8\"><span>Allowing for a personalized touch, Boboli’s seat and back cushioning are fully customizable from an array of fabrics and colors meticulously curated by Marta Ferri.</span><br></p>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">A seamless marriage of form and function, the Boboli armchair combines with the sofa from the same family creating an elegant and comfortable retreat for outdoor living, further enriching the legacy of the Molteni&amp;C design narrative.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "handle": "outdoor-daybeds-sunbeds",
+  "label": "Outdoor Daybeds & Sunbeds",
+  "url": "https://arowonen.com/collections/outdoor-daybeds-sunbeds",
+  "scraped_at": "2026-05-22T15:59:27.104Z",
+  "product_count": 6,
+  "products": [
+    {
+      "id": 15725786759500,
+      "title": "Outdoor Daybed - Marenzo",
+      "handle": "outdoor-daybed-marenzo",
+      "url": "https://arowonen.com/products/outdoor-daybed-marenzo",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR DAYBEDS & SUNBEDS"
+      ],
+      "created_at": "2026-04-28T14:58:03+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2026-05-01T19:57:16+02:00",
+      "available": true,
+      "price_min": 2995,
+      "price_max": 2995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 57401218105676,
+          "title": "Default Title",
+          "sku": "120749",
+          "price": "2995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_120749_0_1_700x_60742499-a79e-4e83-8a01-1b81efd5165c.webp?v=1777381259",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_6_120749_3_1_700x_f3668258-2810-4c5e-9278-a326e925b34c.webp?v=1777381259",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_8_120749_5_1_700x_4dee5076-f7b6-4900-bcc2-68ad02580728.webp?v=1777381258",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_11_120749_8_1_700x_330eac9b-4056-439a-8436-edfb8caa4fe2.webp?v=1777381259",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_13_120749_10_1_700x_230f6b38-d235-497c-9954-a28f45f8e339.webp?v=1777381259",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_7_120749_4_1_700x_321ae452-7658-40f9-9306-7e60ee9edfe6.webp?v=1777381259",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_5_120749_2_1_700x_51efd699-e9ef-4188-a22d-ff1aab6b7167.webp?v=1777381258",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imgi_4_120749_0_1_700x_60742499-a79e-4e83-8a01-1b81efd5165c.webp?v=1777381259",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p><meta charset=\"utf-8\"><span>Discover the Outdoor Bed Marenzo, where natural teak and faux rattan panels create a relaxed, sculptural presence with effortless texture. Arden natural cushions and a softly curved backrest invite luxurious lounging, balancing craftsmanship with a calm, refined palette. With removable cushions designed to store inside when not in use, it’s ideal for outdoor settings that value comfort and considered ease.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><meta charset=\"utf-8\"><span>W. 100 | D. 162 | H. 69<meta charset=\"utf-8\"></span></p>\n<header class=\"px-8\">\n<h3 class=\"text-2xl text-black normal-case\">Specifications</h3>\n</header>\n<div class=\"m-8\">\n<div>\n<div class=\"table-wrapper max-w-prose overflow-x-auto text-base\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Natural teak | faux rattan | arden natural</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">100</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">220.46</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Fabric composition</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Fabric composition\">100% polyester</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor &amp; outdoor use</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<p><span><br></span></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132238414156,
+      "title": "Outdoor Daybed - Weston - Double",
+      "handle": "outdoor-daybed-weston-double",
+      "url": "https://arowonen.com/products/outdoor-daybed-weston-double",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR DAYBEDS & SUNBEDS"
+      ],
+      "created_at": "2025-10-09T09:41:42+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2025-10-18T10:49:58+02:00",
+      "available": true,
+      "price_min": 4995,
+      "price_max": 4995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561115705676,
+          "title": "Default Title",
+          "sku": "119557",
+          "price": "4995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_0_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_1_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_2_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_5_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_11_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_3_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_4_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_6_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_7_1_1.jpg?v=1779278282",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_14_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_13_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_9_1_1.jpg?v=1779278283",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119557_0_1_1.jpg?v=1779278283",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Enhance your outdoor oasis with the Weston Double Daybed. Crafted from natural teak and adorned in elegant viola sand fabric, this daybed offers both luxurious comfort and adjustable settings. A perfect fusion of minimalistic design and plush tranquility, it invites you to unwind in style. Indulge in the ultimate relaxation experience with this refined piece.</p>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color: </strong>Natural teak | viola sand<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> 78<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">L. 210 | W. 216 | max H. 96 | SD. 125 | SW. 87 | SH. 35 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> 2 pcs 1,95 x 85 x 12,5 cm<br><meta charset=\"utf-8\"><strong>Maximum height (cm)</strong> 96<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant </strong>CAL-117 fire retardant<br><strong>Fabric composition</strong> 100% <meta charset=\"utf-8\">Olefin<br><strong>Fabric consumption (m)</strong> 8.6<br><strong>Maximum weight load (kg) </strong>450<br><strong>Extra information </strong>Removable cover </p>\n</div>\n</div>"
+    },
+    {
+      "id": 15132237693260,
+      "title": "Outdoor Daybed - Weston - Single",
+      "handle": "outdoor-daybed-weston-single",
+      "url": "https://arowonen.com/products/outdoor-daybed-weston-single",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR DAYBEDS & SUNBEDS"
+      ],
+      "created_at": "2025-10-09T09:37:02+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2025-10-18T10:49:56+02:00",
+      "available": true,
+      "price_min": 2995,
+      "price_max": 2995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53561113346380,
+          "title": "Default Title",
+          "sku": "119556",
+          "price": "2995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_0_1_1.jpg?v=1779278631",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_1_1_1.jpg?v=1779278628",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_3_1_1.jpg?v=1779278628",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_2_1_1.jpg?v=1779278629",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_4_1_1.jpg?v=1779278627",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_6_1_1.jpg?v=1779278627",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_5_1_1.jpg?v=1779278627",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_7_1_1.jpg?v=1779278628",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_9_1_1.jpg?v=1779278629",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_10_1_1.jpg?v=1779278629",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119556_0_1_1.jpg?v=1779278631",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Enhance your outdoor oasis with the Weston Single Daybed. Crafted from natural teak and adorned in elegant viola sand fabric, this daybed offers both luxurious comfort and adjustable settings. A perfect fusion of minimalistic design and plush tranquility, it invites you to unwind in style. Indulge in the ultimate relaxation experience with this refined piece.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color: </strong>Natural teak | viola sand<br><meta charset=\"utf-8\"><strong>Suitable for</strong> Indoor &amp; outdoor use<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> 40<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">L<meta charset=\"utf-8\">. 210 | W. 100 | max H. 96 | SD. 125 | SW. 86 | SH. 35 cm<br><meta charset=\"utf-8\"><strong>Included scatter cushions (cm)</strong> 1 pcs 1,95 x 85 x 12,5 cm<br><meta charset=\"utf-8\"><strong>Maximum height (cm)</strong> 96<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS:</strong></p>\n<p><strong>Assembly required?</strong> No assembly required<br><strong>Fire retardant </strong>CAL-117 fire retardant<br><strong>Fabric composition</strong> 100% <meta charset=\"utf-8\">Olefin<br><strong>Fabric consumption (m)</strong> 4.3<br><strong>Maximum weight load (kg) </strong>225<br><strong>Extra information </strong>Removable cover </p>\n</div>\n</div>"
+    },
+    {
+      "id": 15013649875276,
+      "title": "Sunbed - Tia - By Antonino Sciortino",
+      "handle": "sofa-tia-by-antonino-sciortino",
+      "url": "https://arowonen.com/products/sofa-tia-by-antonino-sciortino",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Antonino Sciortino",
+        "Hide",
+        "hide-price",
+        "OUTDOOR DAYBEDS & SUNBEDS",
+        "Outdoor sofa",
+        "OUTDOOR SUNBEDS"
+      ],
+      "created_at": "2025-08-06T14:37:54+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2025-08-06T16:55:57+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53070062649676,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_54_70b2049b-6dc1-459e-87ac-32eb5cb238cb.avif?v=1754483954",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_54_70b2049b-6dc1-459e-87ac-32eb5cb238cb.avif?v=1754483954",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">With the open air lounger and flexible bench from the Tia collection, Antonino Sciortino reinvents the fundamental style of outdoor design, elevating simplicity into pure elegance. The rounded lines, sculpted in matt black stainless steel rod, give this furniture a surprising visual lightness, while maintaining a clean structural solidity. With their circular design, the seats form a distinctive element of the collection, wrapping around and defining each item. This imparts a unique identity to the furniture, counterbalancing the sharp linearity of the structure. These pieces seamlessly blend into any outdoor setting, untroubled by seasonal changes, while preserving an enduring sense of harmony and lightness.</p>\n<p class=\"content body s\"> </p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15013516607820,
+      "title": "Armchair - Rimini - By Paola Navone",
+      "handle": "armchair-rimini-by-paola-navone",
+      "url": "https://arowonen.com/products/armchair-rimini-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR DAYBEDS & SUNBEDS",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-06T13:19:44+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2025-08-06T15:51:35+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53069730611532,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_82_dc345574-3c50-416b-93fb-f765198adc78.avif?v=1754479327",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_83_d212ca77-cc8c-4112-9a13-33adcf91e86d.avif?v=1754479327",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_84_1d71b441-2a8a-457a-a5a6-42927267571d.avif?v=1754479327",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_85_31e20bc4-fb9a-43bf-ae4b-4de1a6f12d98.avif?v=1754479326",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_86_9c449605-c3c5-424c-b2f3-64154a8d7b12.avif?v=1754479327",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_87_cddfb5d4-7060-4e92-921f-a1689b40be6a.avif?v=1754479327",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_88_78bbf161-fc6f-4cbb-8c63-d5c0f5e9efad.avif?v=1754479326",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_82_dc345574-3c50-416b-93fb-f765198adc78.avif?v=1754479327",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Rimini collection of sun loungers, chaise longues and ottomans by Paola Navone pays tribute to the quintessential Italian summer ambiance reminiscent of Fellini. With timeless elegance, the Rimini sun loungers encapsulate the carefree spirit of an Italian holiday with their refined and versatile design, perfect for gardens and poolside areas. In the Outdoor, each piece is characterised by a seat in durable Aku leather, suspended on a tubular structure in exclusive verdigris acid-etched copper. The Open-Air, on the other hand, features a Hydro leather seat that wraps around the body and supports it thanks to the acid-etched copper structure. The seat decorations differ based on the version and serve as an additional distinguishing feature: in the Lido leather version, the visible stitching conveys understated elegance, while in the Outdoor fabric version, the decorative piping — available in either solid or contrasting colours — provides the opportunity to personalise each seat's look with a broad range of colours.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15010894381388,
+      "title": "Sunbed - Pantalica - By Elisa Ossino",
+      "handle": "sunbed-pantalica-by-elisa-ossino",
+      "url": "https://arowonen.com/products/sunbed-pantalica-by-elisa-ossino",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Elisa Ossino",
+        "OUTDOOR",
+        "OUTDOOR DAYBEDS & SUNBEDS",
+        "Outdoor Sunbads",
+        "OUTDOOR SUNBEDS"
+      ],
+      "created_at": "2025-08-05T11:25:36+02:00",
+      "updated_at": "2026-05-22T17:59:27+02:00",
+      "published_at": "2025-08-05T12:05:12+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53061563547980,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_pantalica_01.jpg?v=1754386050",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/67975be51bcd5_250121_MOLTENIC_PANTALICA_04.jpg?v=1754386052",
+          "alt": null,
+          "width": 2138,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/250121_MOLTENIC_PANTALICA_07.jpg?v=1754386051",
+          "alt": null,
+          "width": 2480,
+          "height": 1683
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/250121_MOLTENIC_PANTALICA_08.jpg?v=1754386052",
+          "alt": null,
+          "width": 1860,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pantalica_Stool_04.jpg?v=1754386050",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pantalica_Stool_06.jpg?v=1754386050",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pantalica_Stool_07.jpg?v=1754386050",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_pantalica_01.jpg?v=1754386050",
+      "description_html": "<section class=\"content-block dimension-medium\" id=\"block-0\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<p class=\"generic-text  padding-line-element\">Balancing sinuous curves with elegant linearity, the Pantalica daybed by Elisa Ossino brings a sculptural form to outdoor lounge areas. Rooted in rustic Mediterranean inspiration, the Pantalica collection is named after the famous UNESCO World Heritage Site in southeastern Sicily.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">This chaise longue design is influenced by archaic forms, harkening back to the ancient cultures of Sicily and the Mediterranean basin. The daybed is crafted from materials that can be reintroduced to the production cycle at the end of life, making this distinctive piece a circular design.</p>\n<section class=\"content-block\" id=\"block-2\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">Built upon a sturdy aluminum base, the Pantalica daybed is carefully woven with weatherproof polypropylene rattan, infusing the piece with a natural look and feel that is preserved across time.</p>\n<p class=\"block-text-label\"><meta charset=\"utf-8\"><span>A cylindrical motif defines the cushions for a visually compelling effect that is also highly ergonomic, enhancing the comfort of the daybed. Held in place by an EVA strap, the headrest is the ideal shape for supporting the neck, while the liner cushion molds to the contours of the body.</span><br></p>\n<p class=\"block-text-label\"><span><meta charset=\"utf-8\">Fully removable, the cushion covers are available in any fabric from the Molteni&amp;C Outdoor Collection.<br></span></p>\n<section class=\"content-block dimension-medium\" id=\"block-4\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The Pantalica daybed can be complemented by the Pantalica coffee table, Pantalica stools, Pantalica rug, and all other designs from the Molteni&amp;C Outdoor Collection for a harmonious composition.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>\n</div>\n</div>\n</div>\n</section>"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "handle": "outdoor-accessories",
+  "label": "Outdoor Accessories",
+  "url": "https://arowonen.com/collections/outdoor-accessories",
+  "scraped_at": "2026-05-22T15:59:40.804Z",
+  "product_count": 2,
+  "products": [
+    {
+      "id": 15011126706508,
+      "title": "Accessories - Ueno - By Vincent Van Duysen",
+      "handle": "accessories-ueno-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/accessories-ueno-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "OUTDOOR",
+        "OUTDOOR ACCESSORIES",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-05T12:50:58+02:00",
+      "updated_at": "2026-05-22T17:59:41+02:00",
+      "published_at": "2025-08-06T17:56:19+02:00",
+      "available": true,
+      "price_min": 6900,
+      "price_max": 6900,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53312011370828,
+          "title": "Closed: 77x16.5x156cm Opened: 234x16.5x156cm / Burnished Metal & Anthracite",
+          "sku": null,
+          "price": "6900.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Closed: 77x16.5x156cm Opened: 234x16.5x156cm",
+          "option2": "Burnished Metal & Anthracite",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "Closed: 77x16.5x156cm Opened: 234x16.5x156cm"
+          ]
+        },
+        {
+          "name": "Finishes",
+          "values": [
+            "Burnished Metal & Anthracite"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_ueno_01.jpg?v=1754391156",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_001_WEB.jpg?v=1754391157",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_002_WEB.jpg?v=1754391157",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_003_WEB.jpg?v=1754391156",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_004_WEB.jpg?v=1754391157",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_005_WEB.jpg?v=1754391156",
+          "alt": null,
+          "width": 1000,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_006_WEB.jpg?v=1754391157",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ueno_007_WEB.jpg?v=1754391156",
+          "alt": null,
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_ueno_01.jpg?v=1754391156",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Ueno screen, in line with the Timeout collection, is characterised by its burnished metal frame and hand-woven polypropylene cord in the colour anthracite. A decorative element that helps modulate the space, adding a discreet touch of style to every outdoor environment.</p>\n<div class=\"show-for-mobile  padding-line-element\">\n<meta charset=\"utf-8\">\n<section id=\"block-0\" class=\"content-block dimension-medium\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Thanks to its interplay of material and structural references, it can be used both with the elements of the Timeout Collection and with the entire Outdoor Collection. In addition to the screen, the range includes a large array of products, such as the sofa, the dining table with seats, the comfortable lounger, side tables, stools and bench.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section id=\"block-2\" class=\"content-block dimension-medium  block-designer-2\">\n<div class=\"wrapper-content  row  designer-2-flex\">\n<div class=\"designer-2-text\">\n<div class=\"block-designer-abstract-bio  animation-y\">\n<article>\n<div class=\"designer-2-content-name\"><br></div>\n</article>\n</div>\n</div>\n</div>\n</section>\n</div>"
+    },
+    {
+      "id": 15011116712268,
+      "title": "Accessories - Boulogne - By Vincent Van Duysen",
+      "handle": "accessories-boulogne-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/accessories-boulogne-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "OUTDOOR",
+        "OUTDOOR ACCESSORIES",
+        "OUTDOOR BASKET",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-05T12:46:06+02:00",
+      "updated_at": "2026-05-22T17:59:41+02:00",
+      "published_at": "2025-08-06T17:55:59+02:00",
+      "available": true,
+      "price_min": 1150,
+      "price_max": 3750,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 53312212533580,
+          "title": "68x33.5x56cm",
+          "sku": null,
+          "price": "1150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "68x33.5x56cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53312212566348,
+          "title": "74x40x56cm",
+          "sku": null,
+          "price": "1250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "74x40x56cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53312212599116,
+          "title": "80x45x56cm",
+          "sku": null,
+          "price": "1350.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "80x45x56cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53312212631884,
+          "title": "Set of all three sizes",
+          "sku": null,
+          "price": "3750.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Set of all three sizes",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "68x33.5x56cm",
+            "74x40x56cm",
+            "80x45x56cm",
+            "Set of all three sizes"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Boulogne_NEW.jpg?v=1754390858",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63d2a54dec426_63d2a4398abc8_OUTDOOR-22_108-Guell-Boulogne-Regent_WEB.jpg?v=1754390857",
+          "alt": null,
+          "width": 1174,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/63d2a552f3926_63d2a3e22f9c6_OUTDOOR-22_111a-Guell-Boulogne_WEB.jpg?v=1754390857",
+          "alt": null,
+          "width": 1235,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Boulogne_01.jpg?v=1754390857",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Boulogne_02.jpg?v=1754390857",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Boulogne_03.jpg?v=1754390857",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Boulogne_NEW.jpg?v=1754390858",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Practical, lightweight and easily movable baskets for towels or magazines are designed to create order and embellish outdoor spaces.</p>\n<div class=\"show-for-mobile  padding-line-element\">\n<meta charset=\"utf-8\">\n<section class=\"content-block dimension-medium\" id=\"block-0\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">They take up the weave theme common to the two outdoor collections, here expressed in the simple warp and weft motif, made of strips of the same size as Hyde pouffe. For reasons of resistance, the baskets are made entirely of olive-green EVA polyurethane.</p>\n<section class=\"content-block dimension-medium\" id=\"block-2\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The baskets are available in three sizes and in a rectangular shape so that they can be stacked when empty to minimise clutter. The first product in a range of accessories that will grow in the future, the baskets show the search, underlying Molteni&amp;C's outdoor collections, for all-round comfort that invites relaxation and conviviality, where every element has its place.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"row  block-two-img\">\n<div class=\"col-7  animation-y  block-caption\"><br></div>\n</div>\n</div>\n</section>\n</div>"
+    }
+  ]
+}

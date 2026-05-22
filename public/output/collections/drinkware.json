@@ -1,0 +1,1716 @@
+{
+  "handle": "drinkware",
+  "label": "Drinkware",
+  "url": "https://arowonen.com/collections/drinkware",
+  "scraped_at": "2026-05-22T15:58:54.484Z",
+  "product_count": 21,
+  "products": [
+    {
+      "id": 15032902910284,
+      "title": "Prism Wine Glasses - Green - Set of 4",
+      "handle": "prism-wine-glasses-green-set-of-5",
+      "url": "https://arowonen.com/products/prism-wine-glasses-green-set-of-5",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-17T12:17:53+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T13:19:25+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53133064831308,
+          "title": "Default Title",
+          "sku": "PS6030",
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030_green_wine_group_1400x_0444ed38-8b3e-4ac3-ab19-3fe349a8e21d.webp?v=1755426083",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_2058_1400x_838c1726-8130-4588-bb7b-437f19309a01.webp?v=1755426083",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_2079_1400x_8e3628e1-767a-4879-a9f2-abd79bfaabd0.webp?v=1755426083",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS_set_green_01_1400x_1ed9a857-cb22-40fa-b510-6042f5bc6baa.webp?v=1755426083",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030a_1400x_3ce58eef-4fca-4dd0-bf5f-3ef4636ff7bb.webp?v=1755426025",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030b_1400x_17f3f512-951f-4824-bb7c-7a30aa62c6d5.webp?v=1755426025",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030c_1400x_34fef9ad-dd00-4847-979f-a53207335849.webp?v=1755426025",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030d_1400x_99ecab27-08bc-4f0f-b240-4f79cfe31a74.webp?v=1755426025",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS6030_green_wine_group_1400x_0444ed38-8b3e-4ac3-ab19-3fe349a8e21d.webp?v=1755426083",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>A glassware collection of bold color combinations, hand-cut and decorated to playfully reflect light. Available in Amber, Green, Purple, and Bordeaux.</p>\n</div>\n</div>\n</div>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS </strong></div>\n<div class=\"sub-heading\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">5.5 x 3.5 In (9x9 cm)</li>\n<li id=\"vl_meta\">9oz| 28cl</li>\n<li class=\"material_meta\">Glass</li>\n<li id=\"Coo_meta\">Turkey</li>\n<li id=\"or_meta\">Dishwasher and Handwash Safe. Carefully Hand Dry.</li>\n</ul>\n</div>\n<ul id=\"variant_details\"></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15032901173580,
+      "title": "Prism Wine Glasses - Bordeaux - Set of 4",
+      "handle": "prism-wine-glasses-bordeaux-set-of-4",
+      "url": "https://arowonen.com/products/prism-wine-glasses-bordeaux-set-of-4",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-17T12:08:31+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T13:19:21+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53133049168204,
+          "title": "Default Title",
+          "sku": "PS7030",
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030_bordeaux_wine_group_1400x_be8756dd-75cd-4e40-8e65-b9abd6bfc67b.webp?v=1755438771",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_2151_1400x_df154a3d-b5eb-4509-9641-2eeba738cf00.webp?v=1755438771",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_2151_1400x_44f5d5bc-1953-4d3b-bea7-5a58988067df.webp?v=1755438771",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS_set_bordeaux_01_1400x_5d07cb34-8e6b-4a5e-9a8e-db8d3ab1dea7.webp?v=1755438771",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030a_1400x_8b8d6041-9e30-4d8a-aedc-4e7af5657e91.webp?v=1755425417",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030b_1400x_a7e3c8f2-7f9a-47d5-b55c-e6a35a18e7c7.webp?v=1755425417",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030c_1400x_bd5fc014-9652-4907-96b9-4356aa212fae.webp?v=1755425416",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030d_1400x_b020bf99-5960-4923-8da1-7db8fb924661.webp?v=1755425416",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS7030_bordeaux_wine_group_1400x_be8756dd-75cd-4e40-8e65-b9abd6bfc67b.webp?v=1755438771",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>A glassware collection of bold color combinations, hand-cut and decorated to playfully reflect light. Available in Amber, Green, Purple, and Bordeaux.</p>\n</div>\n</div>\n</div>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS </strong></div>\n<div class=\"sub-heading\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">5.5 x 3.5 In (9x9 cm)</li>\n<li id=\"vl_meta\">9oz| 28cl</li>\n<li class=\"material_meta\">Glass</li>\n<li id=\"Coo_meta\">Turkey</li>\n<li id=\"or_meta\">Dishwasher and Handwash Safe. Carefully Hand Dry.</li>\n</ul>\n</div>\n<ul id=\"variant_details\"></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15032900354380,
+      "title": "Prism Wine Glasses - Purple - Set of 4",
+      "handle": "prism-wine-glasses-purple-set-of-4-copy",
+      "url": "https://arowonen.com/products/prism-wine-glasses-purple-set-of-4-copy",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-17T12:03:34+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T13:19:18+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53133046219084,
+          "title": "Default Title",
+          "sku": "PS4030",
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030_purple_wine_group_1400x_8fd32cbd-f2ae-4065-8fa5-d2b38a4d2ae4.webp?v=1755425136",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1989_1400x_74f1d25e-b489-4440-a7db-15822b06db33.webp?v=1755425136",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/prism-martini-glasses-purple-set-of-4-l-objet-6_1400x_eec928ef-671f-4122-a51e-e5cff97539b6.webp?v=1755425136",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030a_1400x_86ae0f64-6734-4165-bd77-9ff251a2d5b5.webp?v=1755425136",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030b_1400x_a1cb6a46-77ee-4679-abbd-36d05f7999d3.webp?v=1755425102",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030c_1400x_1562e760-dda1-4c05-bd20-d8192067ce95.webp?v=1755425102",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030d_1400x_00eb375e-1807-438b-b2c4-329d7f18231a.webp?v=1755425102",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS4030_purple_wine_group_1400x_8fd32cbd-f2ae-4065-8fa5-d2b38a4d2ae4.webp?v=1755425136",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>A glassware collection of bold color combinations, hand-cut and decorated to playfully reflect light. Available in Amber, Green, Purple, and Bordeaux.</p>\n</div>\n</div>\n</div>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS </strong></div>\n<div class=\"sub-heading\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">5.5 x 3.5 In (9x9 cm)</li>\n<li id=\"vl_meta\">9oz| 28cl</li>\n<li class=\"material_meta\">Glass</li>\n<li id=\"Coo_meta\">Turkey</li>\n<li id=\"or_meta\">Dishwasher and Handwash Safe. Carefully Hand Dry.</li>\n</ul>\n</div>\n<ul id=\"variant_details\"></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15032897831244,
+      "title": "Prism Wine Glasses - Amber - Set of 4",
+      "handle": "prism-wine-glasses-amber-set-of-4",
+      "url": "https://arowonen.com/products/prism-wine-glasses-amber-set-of-4",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-17T11:58:55+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T13:16:59+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53133029638476,
+          "title": "Default Title",
+          "sku": "PS2030",
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030_amber_wine_group_1400x_ed812a1f-09e0-4322-969a-23e4814817fd.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1970_1400x_3c6c662e-3f98-438f-a42d-db8e57e1601f.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1966_1400x_a70d3025-ff56-4feb-9de2-1163e1e2b0c5.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS_set_amber_01_1400x_740de86f-5783-4a49-874d-d2cec5c13585.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030b_1400x_8c924c9c-635e-4287-8145-827c9585d1cd.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030a_1400x_48fdc971-b0c7-4256-a6cb-3864e7622adc.webp?v=1755424991",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030c_1400x_2e3ff488-5401-41b4-b629-0db00f0c96f6.webp?v=1755424868",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030d_1400x_39ac845e-289d-497f-b85d-1ba62d5277eb.webp?v=1755424868",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PS2030_amber_wine_group_1400x_ed812a1f-09e0-4322-969a-23e4814817fd.webp?v=1755424991",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>A glassware collection of bold color combinations, hand-cut and decorated to playfully reflect light. Available in Amber, Green, Purple, and Bordeaux.</p>\n</div>\n</div>\n</div>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS </strong></div>\n<div class=\"sub-heading\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">5.5 x 3.5 In (9x9 cm)</li>\n<li id=\"vl_meta\">9oz| 28cl</li>\n<li class=\"material_meta\">Glass</li>\n<li id=\"Coo_meta\">Turkey</li>\n<li id=\"or_meta\">Dishwasher and Handwash Safe. Carefully Hand Dry.</li>\n</ul>\n</div>\n<ul id=\"variant_details\"></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15031545790796,
+      "title": "Mug - Ruan Hoffmann Sweetheart",
+      "handle": "mug-ruan-hoffmann-sweetheart",
+      "url": "https://arowonen.com/products/mug-ruan-hoffmann-sweetheart",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE",
+        "MUGS"
+      ],
+      "created_at": "2025-08-15T15:06:25+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T12:25:51+02:00",
+      "available": true,
+      "price_min": 145,
+      "price_max": 145,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53123896639820,
+          "title": "Default Title",
+          "sku": "RH104",
+          "price": "145.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104a_1400x_7cfe61d2-133f-4c2b-8537-566c6283f5d5.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104b_1400x_a0c3867f-3a9f-47d2-a8ad-783bc78834ef.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104c_1400x_9e80c710-9886-4d9a-9286-28ac36fee546.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mug_lapis_0218_1400x_59551085-c464-461b-aa72-c96f5ea956a4.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_29829ac6-e043-4a42-9eef-0f08bbde23b8.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0582_1400x_2b6969d0-c17e-4265-aff8-6ce2bf77c733.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104g_1400x_7453be24-5788-4505-8484-82dfe14331f1.webp?v=1755263299",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104h_1400x_bdfc3116-ac56-409b-9313-b097239494eb.webp?v=1755263299",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104a_1400x_7cfe61d2-133f-4c2b-8537-566c6283f5d5.webp?v=1755263331",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>Bold and witty, the BONJOUR SWEETHEART &amp; BONJOUR MOTHERFUCKER mugs elevate the everyday ritual of drinking coffee or tea. Each mug holds 13.5 oz (40 cl) of your favourite beverage, offering a generous size for leisurely sipping. Available individually or as a set of two, these mugs bring an irreverent sense of humour into your routine, blending playful design with the sophistication of royal blue and 24K gold accents.</p>\n<p class=\"MsoNormal\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DETAILS</strong></p>\n</div>\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">4.25H x 3.25D in (11H x 8D cm)</li>\n<li id=\"vl_meta\">13 oz/ 40 cl</li>\n<li id=\"gb_meta\">Presented in a luxury gift box</li>\n<li class=\"material_meta\">Earthenware|24K Gold</li>\n<li id=\"Coo_meta\">Portugal</li>\n<li id=\"or_meta\">L'OBJET earthenware is dishwasher safe (with gentle air-dry) or handwash; avoid microwaving pieces with gold and platinum accents.</li>\n</ul>\n</div>"
+    },
+    {
+      "id": 15031503454540,
+      "title": "Mug - Ruan Hoffmann Mother Fucker",
+      "handle": "mug-ruan-hoffmann-mother-fucker",
+      "url": "https://arowonen.com/products/mug-ruan-hoffmann-mother-fucker",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE",
+        "MUGS"
+      ],
+      "created_at": "2025-08-15T15:02:25+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T12:25:32+02:00",
+      "available": true,
+      "price_min": 145,
+      "price_max": 145,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53123736502604,
+          "title": "Default Title",
+          "sku": "RH105",
+          "price": "145.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105a_1400x_157ef03a-0b88-4a1e-b689-68f700b223ff.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105b_1400x_cc78141b-e771-47d2-9f04-773847cd3570.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105c_1400x_47dbd83c-f84d-4a9e-82f3-fc15d046cd4e.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_28ea8445-abcb-4a4c-b124-9e36f6d2ee47.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0593_1400x_ec8bb86e-85a6-4d57-afc7-7508a7ebc312.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0755_1400x_67d0b822-8325-4aa9-bdc5-c533bbff1697.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104h_1400x_07070cff-458c-480f-a8ac-22abd64eea30.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105f_1400x_81a990ae-5851-4b1e-9af9-bfcdae662a88.webp?v=1755263107",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105g_1400x_c8b2bc23-c6dc-463a-b3cf-3500c360b83b.webp?v=1755263106",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105a_1400x_157ef03a-0b88-4a1e-b689-68f700b223ff.webp?v=1755263158",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p>Bold and witty, the BONJOUR SWEETHEART &amp; BONJOUR MOTHERFUCKER mugs elevate the everyday ritual of drinking coffee or tea. Each mug holds 13.5 oz (40 cl) of your favourite beverage, offering a generous size for leisurely sipping. Available individually or as a set of two, these mugs bring an irreverent sense of humour into your routine, blending playful design with the sophistication of royal blue and 24K gold accents.</p>\n<p class=\"MsoNormal\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DETAILS</strong></p>\n</div>\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">4.25H x 3.25D in (11H x 8D cm)</li>\n<li id=\"vl_meta\">13 oz/ 40 cl</li>\n<li id=\"gb_meta\">Presented in a luxury gift box</li>\n<li class=\"material_meta\">Earthenware|24K Gold</li>\n<li id=\"Coo_meta\">Portugal</li>\n<li id=\"or_meta\">L'OBJET earthenware is dishwasher safe (with gentle air-dry) or handwash; avoid microwaving pieces with gold and platinum accents.</li>\n</ul>\n</div>"
+    },
+    {
+      "id": 15031438770508,
+      "title": "Ruan Hoffmann Sweetheart + Mother Fucker Mugs (Set of 2)",
+      "handle": "ruan-hoffmann-sweetheart-mother-fucker-mugs-set-of-2",
+      "url": "https://arowonen.com/products/ruan-hoffmann-sweetheart-mother-fucker-mugs-set-of-2",
+      "vendor": "L'OBJET",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE",
+        "MUGS"
+      ],
+      "created_at": "2025-08-15T14:23:09+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-26T12:24:27+02:00",
+      "available": true,
+      "price_min": 290,
+      "price_max": 290,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53123400302924,
+          "title": "Default Title",
+          "sku": "RH110",
+          "price": "290.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110a_1400x_2d79e0af-198a-42f5-9155-d0449cad1780.webp?v=1755260947",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110b_1400x_f5447dde-07ae-406f-99be-af15946222da.webp?v=1755260947",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_34288739-6a9b-48b5-86a0-de4e8e89709e.webp?v=1755260947",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0582_1400x_31561443-db09-4d28-ac69-1f4e9f4447cc.webp?v=1755260947",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0755_1400x_302857fc-c4f7-4a88-9b39-68a5ce585f3e.webp?v=1755260947",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110c_1400x_75afafd2-3df5-4091-b990-b9b0bf0eff3d.webp?v=1755260763",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110d_1400x_b09ed911-b94c-4bc7-b557-68db0f3da8ce.webp?v=1755260762",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110a_1400x_2d79e0af-198a-42f5-9155-d0449cad1780.webp?v=1755260947",
+      "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p class=\"MsoNormal\"><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Bold and witty, the BONJOUR SWEETHEART &amp; BONJOUR MOTHERFUCKER mugs elevate the everyday ritual of drinking coffee or tea. Each mug holds 13.5 oz (40 cl) of your favourite beverage, offering a generous size for leisurely sipping. Available individually or as a set of two, these mugs bring an irreverent sense of humour into your routine, blending playful design with the sophistication of royal blue and gold accents.</span></p>\n<p class=\"MsoNormal\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DETAILS</strong></p>\n</div>\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">4.25H x 3.25D in (11H x 8D cm)</li>\n<li id=\"vl_meta\">13 oz/ 40 cl</li>\n<li id=\"gb_meta\">Presented in a luxury gift box</li>\n<li class=\"material_meta\">Earthenware|24K Gold</li>\n<li id=\"Coo_meta\">Portugal</li>\n<li id=\"or_meta\">L'OBJET earthenware is dishwasher safe (with gentle air-dry) or handwash; avoid microwaving pieces with gold and platinum accents.</li>\n</ul>\n</div>"
+    },
+    {
+      "id": 15023001502028,
+      "title": "Teapot - Candy Cloud",
+      "handle": "teapot-candy-cloud",
+      "url": "https://arowonen.com/products/teapot-candy-cloud",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-10T09:40:13+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T13:35:44+02:00",
+      "available": true,
+      "price_min": 420,
+      "price_max": 420,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095662551372,
+          "title": "Default Title",
+          "sku": null,
+          "price": "420.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_teapot_CandyCloud_456_33520592-834d-4614-8fc7-6024a51ee2b0.webp?v=1754811774",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_CandyCloudTop.webp?v=1754811774",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_533.webp?v=1754811774",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_060.webp?v=1754811774",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_303.webp?v=1754811774",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_teapot_CandyCloud_456_33520592-834d-4614-8fc7-6024a51ee2b0.webp?v=1754811774",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709545733074\" data-enable-history-state=\"true\" data-product-id=\"6648109891671\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6648109891671\" id=\"product-tab-panel1_6648109891671\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8786493997398\" aria-labelledby=\"product-tab-panel1_8786493997398\">\n<meta charset=\"utf-8\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8889773228374\" id=\"product-tab-panel1_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Right from Wonderland, this porcelain pot embodies the essence of a candy-coloured cloud, adding a touch of sweetness to your tea rituals. The Candy Cloud teapot, features an enchanting design and graceful curves that evoke a sense of wonder and joy. Its eye-catching pattern combines pink and golden hues. Elevate your teatime gatherings, as the Candy Cloud teapot sprinkles charm and magic into every pour.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8786493997398\" aria-labelledby=\"product-tab-panel2_8786493997398\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8889773228374\" id=\"product-tab-panel2_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__main\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section class=\"product__info-container product__column-sticky\" id=\"ProductInfo-template--23787806458198__main\">\n<div class=\"tab-content active-tab\" id=\"measurements\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 16.0 cm / 6.3 in</span><br><b>Width:</b><span> 12.5 cm / 4.9 in</span><br><b>Depth:</b><span> 12.5 cm / 4.9 in</span><br><b>Weight:</b><span> 0.7 kg / 1.5 lb</span><br><b>Material:</b><span> Porcelain</span><br><b>Colours:</b><span> Rose/Marine/Gold</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__related-products\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15023001305420,
+      "title": "Tea Cup with Saucer - Liquid Treasure",
+      "handle": "tea-cup-with-saucer-liquid-treasure",
+      "url": "https://arowonen.com/products/tea-cup-with-saucer-liquid-treasure",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-10T09:37:20+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T13:35:09+02:00",
+      "available": true,
+      "price_min": 180,
+      "price_max": 180,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095661502796,
+          "title": "Default Title",
+          "sku": null,
+          "price": "180.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Tea-Liquid_455.webp?v=1754811525",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packsTeaSaucer_Liquid.webp?v=1754811526",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_088_eb4aea2e-3b11-48b4-802a-b2184ca0bbfd.webp?v=1754811553",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_037_1dbe97b7-2412-4860-ae6e-80d7b9a215ad.webp?v=1754811553",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_303_5127e112-25d4-4136-a03e-fff1fca9ca15.webp?v=1754811526",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Tea-Liquid_455.webp?v=1754811525",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709545733074\" data-enable-history-state=\"true\" data-product-id=\"6648109891671\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6648109891671\" id=\"product-tab-panel1_6648109891671\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8786493997398\" aria-labelledby=\"product-tab-panel1_8786493997398\">\n<meta charset=\"utf-8\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8889773228374\" id=\"product-tab-panel1_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>A coveted gem that unlocks a world of enchantment in every sip. The Liquid Treasure tea cup is made with masterful artistry from porcelain, this tea cup unveils the secrets of a liquid treasure unlike any other. With an ethereal design that seems straight out of a fairy tale, combining geometric shapes of black, pink and golden finishes, the tea cup beckons you to indulge in the finest teas, transforming ordinary moments into extraordinary adventures.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8786493997398\" aria-labelledby=\"product-tab-panel2_8786493997398\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8889773228374\" id=\"product-tab-panel2_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__main\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section class=\"product__info-container product__column-sticky\" id=\"ProductInfo-template--23787806458198__main\">\n<div class=\"tab-content active-tab\" id=\"measurements\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 6.0 cm / 2.4 in</span><br><b>Width:</b><span> 8.0 cm / 3.1 in</span><br><b>Depth:</b><span> 8.0 cm / 3.1 in</span><br><b>Weight:</b><span> 0.3 kg / 0.7 lb</span><br><b>Material:</b><span> Porcelain</span><br><b>Colours:</b><span> Rose/Marine/Gold</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__related-products\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15023001174348,
+      "title": "Tea Cup with Saucer - Golden Hour",
+      "handle": "tea-cup-with-saucer-golden-hour",
+      "url": "https://arowonen.com/products/tea-cup-with-saucer-golden-hour",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-10T09:34:35+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T13:34:43+02:00",
+      "available": true,
+      "price_min": 180,
+      "price_max": 180,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095661306188,
+          "title": "Default Title",
+          "sku": null,
+          "price": "180.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Tea-Golden_454.webp?v=1754811419",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_TeaSaucer_Golden.webp?v=1754811419",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_068.webp?v=1754811419",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Cecilie_3Days_FanMirrorandPorcelain.webp?v=1754811419",
+          "alt": null,
+          "width": 1280,
+          "height": 849
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_480.webp?v=1754811347",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Tea-Golden_454.webp?v=1754811419",
+      "description_html": "<main id=\"page-content\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"6648109891671\" data-enable-history-state=\"true\" data-section-id=\"1709545733074\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"128\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6648109891671\" aria-labelledby=\"product-tab-panel1_6648109891671\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8786493997398\" id=\"product-tab-panel1_8786493997398\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<meta charset=\"utf-8\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"8889773228374\" data-enable-history-state=\"true\" data-section-id=\"1723122620696\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"110\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8889773228374\" aria-labelledby=\"product-tab-panel1_8889773228374\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Like the glimmering golden reflection of a sunset, the Golden Hour tea cup exudes an aura of opulence and splendor. Its generous size and unique porcelain design, blending shades of silver, green, and gold, invite you to fully immerse in your sacred tea ritual. A reminder that this moment, like any other, deserves to be experienced to the fullest with wonder and awe. Make every tea-drinking experience a mesmerizing chapter in your own tale of wonder.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8786493997398\" id=\"product-tab-panel2_8786493997398\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"8889773228374\" data-enable-history-state=\"true\" data-section-id=\"1723122620696\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"110\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8889773228374\" aria-labelledby=\"product-tab-panel2_8889773228374\">\n<section id=\"shopify-section-template--23787806458198__main\" class=\"shopify-section section\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section id=\"ProductInfo-template--23787806458198__main\" class=\"product__info-container product__column-sticky\">\n<div id=\"measurements\" class=\"tab-content active-tab\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 6.0 cm / 2.4 in</span><br><b>Width:</b><span> 8.0 cm / 3.1 in</span><br><b>Depth:</b><span> 8.0 cm / 3.1 in</span><br><b>Weight:</b><span> 0.3 kg / 0.7 lb</span><br><b>Material:</b><span> Porcelain</span><br><b>Colours:</b><span> Green/Grey/Yellow/Gold</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section id=\"shopify-section-template--23787806458198__related-products\" class=\"shopify-section section\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15023000846668,
+      "title": "Coffee Cup with Saucer - Velvet Morning",
+      "handle": "coffee-cup-with-saucer-velvet-morning",
+      "url": "https://arowonen.com/products/coffee-cup-with-saucer-velvet-morning",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-10T09:31:55+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T13:34:00+02:00",
+      "available": true,
+      "price_min": 130,
+      "price_max": 130,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095658455372,
+          "title": "Default Title",
+          "sku": null,
+          "price": "130.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Espresse_Velvet_452_94ca709c-8273-432d-9b2e-4960365067de.webp?v=1754811215",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_espresso-saucer_c4153cc4-c833-4119-95da-47a21b1799a8.webp?v=1754811215",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_675.webp?v=1754811215",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_030.webp?v=1754811215",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_S24_Porcelain_Dog.webp?v=1754811215",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Espresse_Velvet_452_94ca709c-8273-432d-9b2e-4960365067de.webp?v=1754811215",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709545733074\" data-enable-history-state=\"true\" data-product-id=\"6648109891671\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6648109891671\" id=\"product-tab-panel1_6648109891671\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8786493997398\" aria-labelledby=\"product-tab-panel1_8786493997398\">\n<meta charset=\"utf-8\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8889773228374\" id=\"product-tab-panel1_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Awaken your senses with the Velvet Morning coffee cup. This cup offers a luxurious touch to your daily coffee ritual. Embrace the smooth, velvety texture as you savour your morning brew, immersing yourself in a moment of tranquility and indulgence. Its elegant design and refined craftsmanship, features a combination of fantasy pink, dark thin lines and gold, making it a true standout piece on your tabletop.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8786493997398\" aria-labelledby=\"product-tab-panel2_8786493997398\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1723122620696\" data-enable-history-state=\"true\" data-product-id=\"8889773228374\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"110\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8889773228374\" id=\"product-tab-panel2_8889773228374\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__main\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section class=\"product__info-container product__column-sticky\" id=\"ProductInfo-template--23787806458198__main\">\n<div class=\"tab-content active-tab\" id=\"measurements\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 5.5 cm / 2.2 in</span><br><b>Width:</b><span> 5.5 cm / 2.2 in</span><br><b>Depth:</b><span> 5.5 cm / 2.2 in</span><br><b>Weight:</b><span> 0.2 kg / 0.4 lb</span><br><b>Material:</b><span> Porcelain</span><br><b>Colours:</b><span> Rose/Marine/Gold</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section class=\"shopify-section section\" id=\"shopify-section-template--23787806458198__related-products\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15022999994700,
+      "title": "Coffee Cup with Saucer - Royal Sip",
+      "handle": "coffee-cup-with-saucer-royal-sip",
+      "url": "https://arowonen.com/products/coffee-cup-with-saucer-royal-sip",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-10T09:29:06+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T13:33:30+02:00",
+      "available": true,
+      "price_min": 130,
+      "price_max": 130,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53095654818124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "130.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Espresse_Royal_452.webp?v=1754811009",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_RoyalSaucer.webp?v=1754811009",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_141.webp?v=1754811009",
+          "alt": null,
+          "width": 1080,
+          "height": 1619
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_Porcelain_533_0e60ecbd-6c50-4229-80b3-92fed9527a8c.webp?v=1754811010",
+          "alt": null,
+          "width": 1080,
+          "height": 1620
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_SS24_packs_Espresse_Royal_452.webp?v=1754811009",
+      "description_html": "<main id=\"page-content\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"6648109891671\" data-enable-history-state=\"true\" data-section-id=\"1709545733074\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"128\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6648109891671\" aria-labelledby=\"product-tab-panel1_6648109891671\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_8786493997398\" id=\"product-tab-panel1_8786493997398\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<meta charset=\"utf-8\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"8889773228374\" data-enable-history-state=\"true\" data-section-id=\"1723122620696\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"110\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_8889773228374\" aria-labelledby=\"product-tab-panel1_8889773228374\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Indulge in the opulence of the Royal Sip coffee cup. Crafted with the finest porcelain, this cup exudes a charm fit for royalty. With every sip you will be transported to a world of sophistication and elegance. Its classic shape, together with delightful hand painted finishes in lagoon green, matte yellow and gold, make it a true statement piece that elevates your coffee experience to a new level.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_8786493997398\" id=\"product-tab-panel2_8786493997398\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"8889773228374\" data-enable-history-state=\"true\" data-section-id=\"1723122620696\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"110\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_8889773228374\" aria-labelledby=\"product-tab-panel2_8889773228374\">\n<section id=\"shopify-section-template--23787806458198__main\" class=\"shopify-section section\">\n<div class=\"page-width\">\n<div class=\"product product--medium product--left product--thumbnail product--mobile-show grid grid--1-col grid--2-col-tablet\">\n<div class=\"product__info-wrapper grid__item scroll-trigger animate--slide-in\">\n<section id=\"ProductInfo-template--23787806458198__main\" class=\"product__info-container product__column-sticky\">\n<div id=\"measurements\" class=\"tab-content active-tab\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 5.5 cm / 2.2 in</span><br><b>Width:</b><span> 5.5 cm / 2.2 in</span><br><b>Depth:</b><span> 5.5 cm / 2.2 in</span><br><b>Weight:</b><span> 0.2 kg / 0.4 lb</span><br><b>Material:</b><span> Porcelain</span><br><b>Colours:</b><span> Green/Yellow/Gold</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</section>\n</div>\n</div>\n</div>\n</section>\n<section id=\"shopify-section-template--23787806458198__related-products\" class=\"shopify-section section\">\n<div class=\"color-scheme-3 gradient\"><br></div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021507313996,
+      "title": "Pair of Mayfair - Tall Crystal Glasses",
+      "handle": "pair-of-mayfair-tall-crystal-glasses",
+      "url": "https://arowonen.com/products/pair-of-mayfair-tall-crystal-glasses",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:45:59+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:28:13+02:00",
+      "available": true,
+      "price_min": 570,
+      "price_max": 570,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092361109836,
+          "title": "Default Title",
+          "sku": null,
+          "price": "570.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs112.webp?v=1754729259",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202438copy.webp?v=1754729259",
+          "alt": null,
+          "width": 1304,
+          "height": 1956
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy.webp?v=1754729259",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_Miljo-00.webp?v=1754729259",
+          "alt": null,
+          "width": 1346,
+          "height": 897
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs112.webp?v=1754729259",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197612631\" id=\"product-tab-panel1_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197776471\" aria-labelledby=\"product-tab-panel1_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197579863\" id=\"product-tab-panel1_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197645399\" aria-labelledby=\"product-tab-panel1_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6573432504407\" aria-labelledby=\"product-tab-panel1_6573432504407\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>The jewel-like colours and geometric stems of the Mayfair crystal glasses are reminiscent of the abundance and affluent period during the times of the Art Deco era.  They are made from hand-cut crystal and glass with a subtle diamond engraving around the rim and an emerald green base.  Arrange them as a vibrant and playful contrast to create a dynamic effect.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197612631\" id=\"product-tab-panel2_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197776471\" aria-labelledby=\"product-tab-panel2_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197579863\" id=\"product-tab-panel2_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197645399\" aria-labelledby=\"product-tab-panel2_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432504407\" aria-labelledby=\"product-tab-panel2_6573432504407\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432701015\" aria-labelledby=\"product-tab-panel2_6573432701015\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 19.0 cm / 7.5 in</span><br><b>Width:</b><span> 7.2 cm / 2.8 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.4 kg / 0.9 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Emerald/Coral/Brown/Mint</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021506986316,
+      "title": "Pair of Windsor - Tall Crystal Glasses",
+      "handle": "pair-of-windsor-tall-crystal-glasses",
+      "url": "https://arowonen.com/products/pair-of-windsor-tall-crystal-glasses",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:43:34+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:27:51+02:00",
+      "available": true,
+      "price_min": 570,
+      "price_max": 570,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092358619468,
+          "title": "Default Title",
+          "sku": null,
+          "price": "570.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs115.webp?v=1754729118",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202438copy_7be048f2-d151-43ca-9f69-ceb537efc7e0.webp?v=1754729118",
+          "alt": null,
+          "width": 1304,
+          "height": 1956
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202472copy_0ca6335a-0650-4873-b020-5d22ed7aa0dc.webp?v=1754729118",
+          "alt": null,
+          "width": 1346,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy_6b63fc76-cb10-487e-a6e8-afa6944da5eb.webp?v=1754729118",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202414copy_8a6de0ac-eccc-4755-970c-07cdb823846c.webp?v=1754729118",
+          "alt": null,
+          "width": 1320,
+          "height": 1980
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs115.webp?v=1754729118",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197612631\" aria-labelledby=\"product-tab-panel1_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197776471\" id=\"product-tab-panel1_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197579863\" aria-labelledby=\"product-tab-panel1_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197645399\" id=\"product-tab-panel1_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6573432504407\" id=\"product-tab-panel1_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>The jewel-like colours and geometric stems of Reflections Copenhagen’s Windsor tall crystal glasses are reminiscent of the opulence of the Art Deco era.  They are made from hand-cut crystals with subtle diamond engravings. These beautiful glasses will set any mood and captivate any setting.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197612631\" aria-labelledby=\"product-tab-panel2_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197776471\" id=\"product-tab-panel2_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197579863\" aria-labelledby=\"product-tab-panel2_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197645399\" id=\"product-tab-panel2_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432504407\" id=\"product-tab-panel2_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432701015\" id=\"product-tab-panel2_6573432701015\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 19.0 cm / 7.5 in</span><br><b>Width:</b><span> 7.2 cm / 2.8 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.7 kg / 1.5 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Emerald/Brown/Mint</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021505872204,
+      "title": "Pair of Ascot - Tall Crystal Glasses",
+      "handle": "pair-of-ascot-tall-crystal-glasses",
+      "url": "https://arowonen.com/products/pair-of-ascot-tall-crystal-glasses",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:36:00+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:27:32+02:00",
+      "available": true,
+      "price_min": 570,
+      "price_max": 570,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092347806028,
+          "title": "Default Title",
+          "sku": null,
+          "price": "570.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs114.webp?v=1754728954",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ascot_set.webp?v=1754728954",
+          "alt": null,
+          "width": 900,
+          "height": 918
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202438copy_0af16929-1f94-4453-a672-68f50d0fa4b5.webp?v=1754728954",
+          "alt": null,
+          "width": 1304,
+          "height": 1956
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy_5740224d-dcf1-4901-8915-4d82c9375a7d.webp?v=1754728954",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202414copy_a0ca973c-83d4-4f65-813b-3bd63c14355c.webp?v=1754728954",
+          "alt": null,
+          "width": 1320,
+          "height": 1980
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs114.webp?v=1754728954",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197612631\" id=\"product-tab-panel1_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197776471\" aria-labelledby=\"product-tab-panel1_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197579863\" id=\"product-tab-panel1_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197645399\" aria-labelledby=\"product-tab-panel1_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6573432504407\" aria-labelledby=\"product-tab-panel1_6573432504407\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>These richly coloured glasses, with their avant-garde crafted lines, makes these glasses the ultimate statement piece for any dinner party.  They are made from hand cut crystals and have subtle diamond engravings around the base.  Arrange them as a vibrant addition to your personal decor.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197612631\" id=\"product-tab-panel2_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197776471\" aria-labelledby=\"product-tab-panel2_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197579863\" id=\"product-tab-panel2_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197645399\" aria-labelledby=\"product-tab-panel2_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432504407\" aria-labelledby=\"product-tab-panel2_6573432504407\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432701015\" aria-labelledby=\"product-tab-panel2_6573432701015\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 19.0 cm / 7.5 in</span><br><b>Width:</b><span> 7.2 cm / 2.8 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.6 kg / 1.3 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Emerald/Cobalt/Brown/Bright Yellow</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021505544524,
+      "title": "Pair of Mayfair - Short Crystal Glasses - Mint",
+      "handle": "pair-of-mayfair-short-crystal-glasses-mint",
+      "url": "https://arowonen.com/products/pair-of-mayfair-short-crystal-glasses-mint",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:33:21+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:27:09+02:00",
+      "available": true,
+      "price_min": 530,
+      "price_max": 530,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092334600524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "530.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs113.webp?v=1754728503",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202430copy.webp?v=1754728503",
+          "alt": null,
+          "width": 1268,
+          "height": 1902
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy_4c5c526f-989e-4c13-a6ee-a04e4c8cce3b.webp?v=1754728503",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202420copy.webp?v=1754728503",
+          "alt": null,
+          "width": 1306,
+          "height": 1958
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202414copy_eacf805d-5c3c-44c8-aade-9f9e1672dcf9.webp?v=1754728503",
+          "alt": null,
+          "width": 1320,
+          "height": 1980
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs113.webp?v=1754728503",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197612631\" aria-labelledby=\"product-tab-panel1_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197776471\" id=\"product-tab-panel1_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197579863\" aria-labelledby=\"product-tab-panel1_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197645399\" id=\"product-tab-panel1_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6573432504407\" id=\"product-tab-panel1_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>The jewel like colours and geometric stems of this set of two Mayfair crystal glasses are reminiscent of the abundance and affluent period during the times of the Art Deco era.  They are made from hand-cut crystal and glass with a subtle diamond engraving around the rim and an emerald green base.  Arrange them as a vibrant contrast to any decadent table setting.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197612631\" aria-labelledby=\"product-tab-panel2_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197776471\" id=\"product-tab-panel2_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197579863\" aria-labelledby=\"product-tab-panel2_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197645399\" id=\"product-tab-panel2_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432504407\" id=\"product-tab-panel2_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432701015\" id=\"product-tab-panel2_6573432701015\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 15.5 cm / 6.1 in</span><br><b>Width:</b><span> 7.2 cm / 2.8 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.8 kg / 1.8 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Emerald/Brown/Mint/Bright Yellow</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021505151308,
+      "title": "Pair of Somerset - Short Crystal Glasses",
+      "handle": "pair-of-somerset-short-crystal-glasses",
+      "url": "https://arowonen.com/products/pair-of-somerset-short-crystal-glasses",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:30:35+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:26:50+02:00",
+      "available": true,
+      "price_min": 530,
+      "price_max": 530,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092329423180,
+          "title": "Default Title",
+          "sku": null,
+          "price": "530.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs107.webp?v=1754728330",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202430copy_a20aba50-9a00-432e-8c09-397f49bffe1f.webp?v=1754728330",
+          "alt": null,
+          "width": 1268,
+          "height": 1902
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202472copy_fb0208e2-04f3-4a39-b856-f96c56860d69.webp?v=1754728330",
+          "alt": null,
+          "width": 1346,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202422copy.webp?v=1754728330",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy_6884af04-3b3c-4bce-a97a-717f6a4ffe72.webp?v=1754728330",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs107.webp?v=1754728330",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197612631\" id=\"product-tab-panel1_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197776471\" aria-labelledby=\"product-tab-panel1_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197579863\" id=\"product-tab-panel1_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197645399\" aria-labelledby=\"product-tab-panel1_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6573432504407\" aria-labelledby=\"product-tab-panel1_6573432504407\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>These glasses reflect the Danish labels preference for bright jewel tones and whimsical silhouettes.  Modelled on traditional English glassware, they’re shaped with glass bowls and hand-cut blue, pink and green crystal stems.  Place them on your tabletop for an imaginative slant.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197612631\" id=\"product-tab-panel2_6750197612631\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197776471\" aria-labelledby=\"product-tab-panel2_6750197776471\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197579863\" id=\"product-tab-panel2_6750197579863\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197645399\" aria-labelledby=\"product-tab-panel2_6750197645399\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432504407\" aria-labelledby=\"product-tab-panel2_6573432504407\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6573432701015\" aria-labelledby=\"product-tab-panel2_6573432701015\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 14.3 cm / 5.6 in</span><br><b>Width:</b><span> 10.0 cm / 3.9 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.8 kg / 1.8 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Emerald/Coralazure/Cobalt</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15021504495948,
+      "title": "Pair of Richmond - Short Crystal Glasses - Bright Yellow",
+      "handle": "pair-of-richmond-short-crystal-glasses-bright-yellow",
+      "url": "https://arowonen.com/products/pair-of-richmond-short-crystal-glasses-bright-yellow",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DRINKWARE"
+      ],
+      "created_at": "2025-08-09T10:26:53+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:25:35+02:00",
+      "available": true,
+      "price_min": 530,
+      "price_max": 530,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53092318150988,
+          "title": "Default Title",
+          "sku": null,
+          "price": "530.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs116.webp?v=1754728121",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202430copy_4ea9add6-68f8-4ede-ad6c-86a2a5ba0b72.webp?v=1754728121",
+          "alt": null,
+          "width": 1268,
+          "height": 1902
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202472copy_ddefe08f-8b36-4e54-b0ab-6dff058324f7.webp?v=1754728121",
+          "alt": null,
+          "width": 1346,
+          "height": 898
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202522copy_b6b26b9f-3bdb-4eb9-b438-8df28af161eb.webp?v=1754728121",
+          "alt": null,
+          "width": 1321,
+          "height": 1981
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections20.11.12Nyheder20202414copy_162fe557-e44b-4102-b082-575163d16acd.webp?v=1754728121",
+          "alt": null,
+          "width": 1320,
+          "height": 1980
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Web_packs116.webp?v=1754728121",
+      "description_html": "<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197612631\" aria-labelledby=\"product-tab-panel1_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197776471\" id=\"product-tab-panel1_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_6750197579863\" aria-labelledby=\"product-tab-panel1_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6750197645399\" id=\"product-tab-panel1_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_6573432504407\" id=\"product-tab-panel1_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<p>Inspired by the colour blocked from the Art Deco era, these incredibly beautiful glasses are perfect for any table setting.  They are expertly handmade using time-honoured techniques.  These glasses are created to last for generations.<br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197612631\" aria-labelledby=\"product-tab-panel2_6750197612631\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197776471\" id=\"product-tab-panel2_6750197776471\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_6750197579863\" aria-labelledby=\"product-tab-panel2_6750197579863\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6750197645399\" id=\"product-tab-panel2_6750197645399\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432504407\" id=\"product-tab-panel2_6573432504407\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_6573432701015\" id=\"product-tab-panel2_6573432701015\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 14.5 cm / 5.7 in</span><br><b>Width:</b><span> 7.2 cm / 2.8 in</span><br><b>Depth:</b><span> 7.2 cm / 2.8 in</span><br><b>Weight:</b><span> 0.5 kg / 1.1 lb</span><br><b>Material:</b><span> Fine hand cut crystal and glass</span><br><b>Colours:</b><span> Clear/Black/Coral/Bright Yellow</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15020211863884,
+      "title": "Pair of Savor Glasses - Amber",
+      "handle": "pair-of-savor-glasses-amber",
+      "url": "https://arowonen.com/products/pair-of-savor-glasses-amber",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "DINING ESSENTIALS",
+        "DINNERWARE",
+        "DRINKWARE",
+        "Glasses"
+      ],
+      "created_at": "2025-08-08T17:51:47+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:16:21+02:00",
+      "available": true,
+      "price_min": 460,
+      "price_max": 460,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53089057505612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "460.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SavorGlass_PACK_492.jpg?v=1754668555",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_savor-pair.jpg?v=1754668555",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Savor_Shadow.jpg?v=1754668555",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Soiree-Flacon.jpg?v=1754668555",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Shadow_Savor_b55db6d9-aba2-4ba4-8581-5e9d4cd87984.jpg?v=1754668555",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SavorGlass_PACK_492.jpg?v=1754668555",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543395256\" data-enable-history-state=\"true\" data-product-id=\"1810730745907\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_1810730745907\" id=\"product-tab-panel1_1810730745907\" role=\"tab\" class=\"cc-tabs__tab__panel rte\"><main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543509295\" data-enable-history-state=\"true\" data-product-id=\"4583184957527\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_4583184957527\" id=\"product-tab-panel1_4583184957527\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p><meta charset=\"utf-8\"><span>The end of the day is meant to be savored, just like a fine drink. Our Savor Glasses let you enjoy every last drop while embracing the evening’s calm. These tiny glasses, designed for savoring liquors or other drinks, feature a base with geometric facets in caramel solid crystal. Relish each sip and let the tranquility of dusk envelop you.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main><main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543509295\" data-enable-history-state=\"true\" data-product-id=\"4583184957527\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_4583184957527\" id=\"product-tab-panel2_4583184957527\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 8.0 cm / 3.1 in</span><br><b>Width:</b><span> 5.0 cm / 2.0 in</span><br><b>Depth:</b><span> 5.0 cm / 2.0 in</span><br><b>Weight:</b><span> 0.4 kg / 0.9 lb</span><br><b>Material:</b><span> Fine hand cut crystal</span><br><b>Colours:</b><span> Amber/Clear</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>"
+    },
+    {
+      "id": 15020191154508,
+      "title": "Whisky Glasses - Pair of Whimsy - Blue",
+      "handle": "whisky-glasses-pair-of-whimsy-blue",
+      "url": "https://arowonen.com/products/whisky-glasses-pair-of-whimsy-blue",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "DINING ESSENTIALS",
+        "DINNERWARE",
+        "DRINKWARE",
+        "Glasses",
+        "KERST",
+        "X-Mas"
+      ],
+      "created_at": "2025-08-08T17:46:29+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:14:53+02:00",
+      "available": true,
+      "price_min": 580,
+      "price_max": 580,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53089006190924,
+          "title": "Default Title",
+          "sku": null,
+          "price": "580.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WhimsyBlue_PACK_494.jpg?v=1754668131",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_Amber_Dusk_Galant_Whimsy_Majesty.jpg?v=1754668131",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_Amber_Dusk_Whimsey_Galant.jpg?v=1754668131",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WhimsyBlue_PACK_494.jpg?v=1754668131",
+      "description_html": "<main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543395256\" data-enable-history-state=\"true\" data-product-id=\"1810730745907\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_1810730745907\" id=\"product-tab-panel1_1810730745907\" role=\"tab\" class=\"cc-tabs__tab__panel rte\"><main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543509295\" data-enable-history-state=\"true\" data-product-id=\"4583184957527\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel1_4583184957527\" id=\"product-tab-panel1_4583184957527\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Indulge in elegance with the Whimsy Whisky Glass, crafted from the finest lead-free crystal with a weighty base for a satisfying heft, geometric facets that catch and refract light for a mesmerizing brilliance, and a perfect balance for single malt scotch or a classic old-fashioned.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main><main id=\"page-content\">\n<div class=\"shopify-section section-product-template\" id=\"shopify-section-template--19475170427222__main\">\n<div data-section-id=\"1709543509295\" data-enable-history-state=\"true\" data-product-id=\"4583184957527\" data-is-preorder=\"false\" data-ajax-add-to-cart=\"true\" data-is-featured-product=\"false\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-section-type=\"product-template\" class=\"product-area product-area--restrict-width product-area--one-col theme-init\">\n<div class=\"product-area__details product-detail\">\n<div data-cc-sticky-scroll-top=\"128\" class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\">\n<div data-cc-animate-duration=\"1.2s\" data-cc-animate-delay=\"0.8s\" data-cc-animate=\"\" class=\"product-area__details__header cc-animate-init -in cc-animate-complete\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div data-cc-tab-allow-multi-open=\"\" class=\"cc-tabs cc-tabs--tab-mode cc-initialized\">\n<div role=\"tablist\" class=\"cc-tabs__tab\">\n<div aria-labelledby=\"product-tab-panel2_4583184957527\" id=\"product-tab-panel2_4583184957527\" role=\"tab\" class=\"cc-tabs__tab__panel rte\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 10.0 cm / 3.9 in</span><br><b>Width:</b><span> 8.5 cm / 3.3 in</span><br><b>Depth:</b><span> 8.5 cm / 3.3 in</span><br><b>Weight:</b><span> 1.3 kg / 2.9 lb</span><br><b>Material:</b><span> Fine hand cut crystal</span><br><b>Colours:</b><span> Blue</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>"
+    },
+    {
+      "id": 15020170674508,
+      "title": "Whisky Glasses - Pair of Whimsy - Amber",
+      "handle": "whisky-glasses-pair-of-whimsy-amber",
+      "url": "https://arowonen.com/products/whisky-glasses-pair-of-whimsy-amber",
+      "vendor": "REFLECTIONS COPENHAGEN",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "DINING ESSENTIALS",
+        "DINNERWARE",
+        "DRINKWARE",
+        "Glasses",
+        "KERST",
+        "X-Mas"
+      ],
+      "created_at": "2025-08-08T17:39:49+02:00",
+      "updated_at": "2026-05-22T17:58:54+02:00",
+      "published_at": "2025-08-12T12:14:10+02:00",
+      "available": true,
+      "price_min": 580,
+      "price_max": 580,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53088922730828,
+          "title": "Default Title",
+          "sku": null,
+          "price": "580.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WhimsyAmber_PACK_493.jpg?v=1754667928",
+          "alt": null,
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Bar_Tray.jpg?v=1754667928",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_flacon_whimsy.jpg?v=1754667928",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Whimsey_Galant.jpg?v=1754667928",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Reflections_AmberDusk_Whimsy.jpg?v=1754667928",
+          "alt": null,
+          "width": 960,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WhimsyAmber_PACK_493.jpg?v=1754667928",
+      "description_html": "<main id=\"page-content\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init variant-status--unavailable\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"1810730745907\" data-enable-history-state=\"true\" data-section-id=\"1709543395256\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"128\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_1810730745907\" aria-labelledby=\"product-tab-panel1_1810730745907\"><main id=\"page-content\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"4583184957527\" data-enable-history-state=\"true\" data-section-id=\"1709543509295\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"128\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel1_4583184957527\" aria-labelledby=\"product-tab-panel1_4583184957527\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<div class=\"full-description\">\n<p>Indulge in elegance with the Whimsy Whisky Glass, crafted from the finest lead-free crystal with a weighty base for a satisfying heft, geometric facets that catch and refract light for a mesmerizing brilliance, and a perfect balance for single malt scotch or a classic old-fashioned.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main><main id=\"page-content\">\n<div id=\"shopify-section-template--19475170427222__main\" class=\"shopify-section section-product-template\">\n<div class=\"product-area product-area--restrict-width product-area--one-col theme-init\" data-section-type=\"product-template\" data-components=\"tabs,accordion,sticky-scroll-direction\" data-is-featured-product=\"false\" data-ajax-add-to-cart=\"true\" data-is-preorder=\"false\" data-product-id=\"4583184957527\" data-enable-history-state=\"true\" data-section-id=\"1709543509295\">\n<div class=\"product-area__details product-detail\">\n<div class=\"product-area__details__inner cc-sticky-scroll-direction cc-initialized\" data-cc-sticky-scroll-top=\"128\">\n<div class=\"product-area__details__header cc-animate-init -in cc-animate-complete\" data-cc-animate=\"\" data-cc-animate-delay=\"0.8s\" data-cc-animate-duration=\"1.2s\">\n<div class=\"product-detail__form\">\n<div class=\"product-detail__tab-container product-detail__gap-lg\">\n<div class=\"cc-tabs cc-tabs--tab-mode cc-initialized\" data-cc-tab-allow-multi-open=\"\">\n<div class=\"cc-tabs__tab\" role=\"tablist\">\n<div class=\"cc-tabs__tab__panel rte\" role=\"tab\" id=\"product-tab-panel2_4583184957527\" aria-labelledby=\"product-tab-panel2_4583184957527\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><b>Height:</b><span> 10.0 cm / 3.9 in</span><br><b>Width:</b><span> 8.5 cm / 3.3 in</span><br><b>Depth:</b><span> 8.5 cm / 3.3 in</span><br><b>Weight:</b><span> 1.3 kg / 2.9 lb</span><br><b>Material:</b><span> Fine hand cut crystal</span><br><b>Colours:</b><span> Amber/Black/Clear</span><br><b>Reflections Copenhagen luxury signature gift box:</b><span> Yes</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>"
+    }
+  ]
+}

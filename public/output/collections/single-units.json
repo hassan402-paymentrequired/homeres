@@ -1,0 +1,1042 @@
+{
+  "handle": "single-units",
+  "label": "Single Units",
+  "url": "https://arowonen.com/collections/single-units",
+  "scraped_at": "2026-05-22T15:57:10.438Z",
+  "product_count": 12,
+  "products": [
+    {
+      "id": 15016150729036,
+      "title": "Single units - Carteggio - By Aldo Rossi",
+      "handle": "home-office-carteggio-by-aldo-rossi",
+      "url": "https://arowonen.com/products/home-office-carteggio-by-aldo-rossi",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Aldo Rossi",
+        "single units"
+      ],
+      "created_at": "2025-08-07T14:37:31+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T14:33:44+02:00",
+      "available": true,
+      "price_min": 6660,
+      "price_max": 6660,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53078145466700,
+          "title": "Default Title",
+          "sku": null,
+          "price": "6660.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Carteggio_NEW.jpg?v=1754570298",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/COMPENDIUM-21_137-Carteggio_WEB.jpg?v=1754570300",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Carteggio_NEW.jpg?v=1754570298",
+      "description_html": "<p class=\"generic-text  padding-line-element\">A wood writing desk with drawers and pull out top protected by a blind. To organize and rearrange our daytime.</p>\n<ul>\n<li data-start=\"59\" data-end=\"99\">\n<p data-start=\"61\" data-end=\"99\"><strong>(W): 46 cm </strong></p>\n</li>\n<li data-start=\"100\" data-end=\"140\" style=\"font-weight: bold;\">\n<p data-start=\"102\" data-end=\"140\"><strong>(D): 48 cm </strong></p>\n</li>\n<li data-start=\"141\" data-end=\"180\" style=\"font-weight: bold;\">\n<p data-start=\"143\" data-end=\"180\"><strong>(H): 160 cm </strong></p>\n</li>\n</ul>"
+    },
+    {
+      "id": 15016112193868,
+      "title": "Single Units - Archway - By Rodolfo Dordoni",
+      "handle": "single-units-archway-by-rodolfo-dordoni",
+      "url": "https://arowonen.com/products/single-units-archway-by-rodolfo-dordoni",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Rodolfo Dordoni",
+        "single units"
+      ],
+      "created_at": "2025-08-07T14:25:44+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T14:37:52+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077929754956,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3-Archway.jpg?v=1754569705",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Archway_Molteni_Catalogo_2023_10706_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 2480,
+          "height": 1858
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/643a6857b42b5_Archway_Molteni_Catalogo_2023_10719_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 2030,
+          "height": 1545
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Archway_Molteni_Catalogo_2023_10723_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 1849,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Archway_Catalogo-Molteni-2023_1504_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 2480,
+          "height": 1228
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Archway_Catalogo_Molteni_2023_1440_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 1860,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/jpg.jpg?v=1754569705",
+          "alt": null,
+          "width": 1860,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Archway_Catalogo_Molteni_2023_1478_HR.jpg?v=1754569705",
+          "alt": null,
+          "width": 2480,
+          "height": 1474
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3-Archway.jpg?v=1754569705",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Archway sideboard is a sleek and modern design by one of the primary figures in Molteni&amp;C’s exploration into the world of design, Rodolfo Dordoni, and the latest addition to the extensive collection of furnishings for living.</p>\n<section class=\"content-block dimension-medium\" id=\"block-0\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">This piece owes its striking form to a stylish and modern silhouette. The external facets are enriched by a glossy lacquered finish, while the top can be customized in marble or wood. The door is embellished with a slightly cantilevered metal profile in relation to the top, which traces the handle with a strong line. In the center, an open compartment with a drawer provides a central volume creating a sense of movement. The sideboard’s clean lines and the play of thicknesses between the structure and the doors give it a minimal and contemporary look and feel.</p>\n<section class=\"content-block\" id=\"block-2\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">Archway is available in two lengths, 242 cm and 270cm, while the plinth is 18cm in height and hides an integrated drawer, allowing for added versatility within the design. Beautifully finished on both sides, it can be placed against a wall or in the center of a room, providing enhanced flexibility.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The sideboard can be customized in any of the Molteni&amp;C glossy lacquered shades, including the new Pine Green and Almond White colors, creating infinite possibilities for harmonizing with any interior palette. The wood and marble varieties for the top include gold-toned limba or coffee oak, recognizable for its intense streaks, and calacatta, sahara noir and nero marquina marble with a matte or glossy polyester finish — a wide array of options for customizing the overall aesthetic.</p>\n<section class=\"content-block\" id=\"block-5\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The console’s internal compartments give the piece its most prominent detail. Cut at a 45-degree angle, it offers a uniquely contemporary look that is perfect for the dining room or living area. A unique and stunning piece of furniture that achieves aesthetic originality through technological innovation, the sideboard is the perfect blend of style, functionality, and personalization. Archway makes an excellent addition to any modern home or hospitality space.<br></p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>"
+    },
+    {
+      "id": 15016102101324,
+      "title": "Single Units - MHC.2 - By Yasuhiko Itoh",
+      "handle": "single-units-mhc-2-by-yasuhiko-itoh",
+      "url": "https://arowonen.com/products/single-units-mhc-2-by-yasuhiko-itoh",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "single units",
+        "Yasuhiko Itoh"
+      ],
+      "created_at": "2025-08-07T14:22:36+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T14:41:10+02:00",
+      "available": true,
+      "price_min": 3850,
+      "price_max": 4860,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 53311934366028,
+          "title": "68.5 x 28.2 x 108.3 cm",
+          "sku": null,
+          "price": "3850.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "68.5 x 28.2 x 108.3 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53311934398796,
+          "title": "68.5 x 28.2 x 138.9 cm",
+          "sku": null,
+          "price": "4860.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "68.5 x 28.2 x 138.9 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "68.5 x 28.2 x 108.3 cm",
+            "68.5 x 28.2 x 138.9 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/583ef6913348b.jpg?v=1754569505",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dbd897ab7eddbd50742ce52c9cd32df1.jpg?v=1754569505",
+          "alt": null,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ccf1f19b1f6f93e7929536b57d110205.jpg?v=1754569505",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c1ea9dc368c75828fc2cf46b42abdfa8.jpg?v=1754569505",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/492dd6d35add0164b7e5ac1fbbbcd880.jpg?v=1754569505",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/61993be686d89c59c8d62d2f84fb76e1.jpg?v=1754569505",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/58cc455e113ed083f472a76b81dcd8da.jpg?v=1754569505",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/583ef6913348b.jpg?v=1754569505",
+      "description_html": "<p class=\"generic-text  padding-line-element\">MHC.2 is a re-edition of the bookcase prototype designed in 1959 by Yasuhiko Itoh. Made in curved wood, a complex process for that time period, it won an award at the 3rd edition of the Selettiva competition in Cantù del 1959. This piece is both elegant and refined. After issuing a limited edition run of 100 numbered pieces, this item is now available as a standard, non-numbered piece in curved wood covered in walnut.</p>"
+    },
+    {
+      "id": 15016089649484,
+      "title": "Single Units - Horizons - By Dante Bonuccelli",
+      "handle": "single-units-horizons-by-dante-bonuccelli",
+      "url": "https://arowonen.com/products/single-units-horizons-by-dante-bonuccelli",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Dante Bonuccelli",
+        "single units"
+      ],
+      "created_at": "2025-08-07T14:18:42+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T14:58:58+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077803204940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Horizons1350X1080copia_ed206ac8-be80-44ad-b20a-4bfc64925b53.jpg?v=1754569322",
+          "alt": null,
+          "width": 1350,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5f50c5ce8f333_NC20_062-Horizons_WEB_f878f2a6-c8cc-455d-b4b6-3c339902ced5.jpg?v=1754569322",
+          "alt": null,
+          "width": 1066,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Horizons_012_HR_0a5a687f-e8cf-4d00-9ab0-5f0cec13bb44.jpg?v=1754569286",
+          "alt": null,
+          "width": 1600,
+          "height": 2042
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Horizons1350X1080copia_ed206ac8-be80-44ad-b20a-4bfc64925b53.jpg?v=1754569322",
+      "description_html": "<p class=\"generic-text  padding-line-element\">With Horizons, a cupboard for the daytime area, Dante Bonuccelli proposes a different way of storing, and at the same time displaying much-loved objects.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Two tip-up doors, which, when closed, reveal the contents thanks to both the transparent stopsol glass and the internal LED lighting, and when open, folded back against the side of the piece for full access to the internal space, transform the cupboard like a chameleon.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15016073068876,
+      "title": "Single Units - MHC.1 - By Werner Blaser",
+      "handle": "single-units-mhc-1-by-werner-blaser",
+      "url": "https://arowonen.com/products/single-units-mhc-1-by-werner-blaser",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "single units",
+        "Werner Blaser"
+      ],
+      "created_at": "2025-08-07T14:15:03+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:04:08+02:00",
+      "available": true,
+      "price_min": 6300,
+      "price_max": 6300,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077716795724,
+          "title": "Default Title",
+          "sku": null,
+          "price": "6300.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/576d4df884ab3.jpg?v=1754569084",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/71d5e218fee89e1d823004cb771fb206.jpg?v=1754569084",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0efef89595a18e679b5e061e53aadba8.jpg?v=1754569084",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9eb2972099cae6ddfd1094d46f4d2515.jpg?v=1754569084",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0ef3ebd394ece3713cafc7e203e4c94c.jpg?v=1754569084",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/576d4df884ab3.jpg?v=1754569084",
+      "description_html": "<p class=\"generic-text  padding-line-element\">MHC.1 is a new edition of the prototype of the first modern piece of furniture made by Molteni&amp;C, the chest of drawers designed by Werner Blaser. Thought it was never produced industrially, in 1955 it won first prize at the Cantù “Prima mostra selettiva - Concorso internazionale del mobile”, a competition designed to re-qualify the image of Italian furniture making. The jury was made up of Gio Ponti, Alvar Alto, Romano Barocchi, Carlo de Carli and Finn Juhl. The unusual joinery features a simple three-fork joint.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">After issuing a limited edition run of 100 numbered pieces, two new non-numbered versions are available in the new finishes honey pattern wood and black ash wood.</p>\n<p class=\"block-text-label\"><strong>Dimensions</strong></p>\n<p class=\"block-text-label\">100x45x75H cm</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block  dimension-medium\" id=\"block-2\">\n<div class=\"wrapper-content\">\n<div class=\"row  block-two-img\">\n<div class=\"col-7  animation-y  block-caption\"><br></div>\n</div>\n</div>\n</section>\n<p> </p>"
+    },
+    {
+      "id": 15016052457804,
+      "title": "Single Units - Adrien - By Vincent Van Duysen",
+      "handle": "single-units-adrien-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/single-units-adrien-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "single units",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-07T14:10:17+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:11:23+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077615903052,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Adrien.jpg?v=1754568689",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ac0ab611de475315f0589f2a83be2907.jpg?v=1754568691",
+          "alt": null,
+          "width": 1500,
+          "height": 1017
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/cd565275c45e50a966a5c6c7796373a6.jpg?v=1754568691",
+          "alt": null,
+          "width": 1046,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/eb215648491a180a904c7989f4d91bba.jpg?v=1754568690",
+          "alt": null,
+          "width": 1150,
+          "height": 1500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_Adrien.jpg?v=1754568689",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Adrien expresses a desire to present a new series of storage units, conceptually avant-garde both in technological and in aesthetic terms. Adrien is a fortunate combination of purity of form and exclusive materials and technologies, blended harmoniously and with a focus on key visual and tactile aspects. This new system of storage units develops the concept of rigorous containers defined by absolute transparency.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">In Adrien the structural aluminium thickness is reduced to a minimum, allowing the Stopsol glass and the built-in LED lighting system of the shelves to enhance the appeal of the objects displayed. A four door configuration with just one height. The back panel can be made of wood or glass to highlight the complete transparency of the object. The door, made of Stopsol glass or transparent opens thanks to a new patented 95° hinge.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15016042103116,
+      "title": "Single Units - Piroscafo - By Aldo Rossi & Luca Meda",
+      "handle": "single-units-piroscafo-by-aldo-rossi-luca-meda",
+      "url": "https://arowonen.com/products/single-units-piroscafo-by-aldo-rossi-luca-meda",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Aldo Rossi",
+        "Luca Meda",
+        "single units"
+      ],
+      "created_at": "2025-08-07T14:06:35+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:12:15+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077559017804,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4-5_Piroscafo-NEW.jpg?v=1754568579",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/608a93c66760a_01immagine-principale.jpg?v=1754568579",
+          "alt": null,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ef1b078bb5f35e9cfbb59052863b059b.jpg?v=1754568579",
+          "alt": null,
+          "width": 1600,
+          "height": 988
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1dd2db0975389e96cf6937eacb7b13a0.jpg?v=1754568579",
+          "alt": null,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/923fc62ad8647483fa473badd21d5637.jpg?v=1754568579",
+          "alt": null,
+          "width": 3291,
+          "height": 2320
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d8bdcddf83677e5858bcca8f4056fd35.jpg?v=1754568579",
+          "alt": null,
+          "width": 2214,
+          "height": 1524
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4-5_Piroscafo-NEW.jpg?v=1754568579",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Molteni&amp;C presents a new version of the Piroscafo for the 30th Anniversary. A new facade lacquered in a warm Spice colour with eucalyptus interiors re-proposes a classic piece in a contemporary version without betraying its origins as a rigorous but functional piece of furniture.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">On a cold afternoon, two friends, Luca Meda and Aldo Rossi, are walking through the Fontivegge Centre, the headquarters of the Umbria Regional Council. The two friends were talking animatedly and suddenly stopped to look at the large green glass facade next to the former Perugina chimney, a true relic of industrial archaeology. It was the moment of intuition: take the building’s facade and transform it into furniture!</p>\n<p class=\"block-text-label\"><meta charset=\"utf-8\"><span>In a few months, their intuition became reality. At the 1991 Salone del Mobile, four large compositions were presented, two with a white façade and two in Prussian green, which stood out in the centre of the Molteni&amp;C stand. In 1993, based on an idea by Luca Meda, at the Salone del Mobile, a gigantic Piroscafo, 13 metres long, complete with red and black funnels reproducing a real ship, welcomed visitors.</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15016034009420,
+      "title": "Single Units - D.655.1 - By Gio Ponti",
+      "handle": "single-units-d-655-1-by-gio-ponti",
+      "url": "https://arowonen.com/products/single-units-d-655-1-by-gio-ponti",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Gio Ponti",
+        "single units"
+      ],
+      "created_at": "2025-08-07T14:04:08+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:14:00+02:00",
+      "available": true,
+      "price_min": 13100,
+      "price_max": 13100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077521858892,
+          "title": "Default Title",
+          "sku": null,
+          "price": "13100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/576a7d34d4f90.jpg?v=1754568322",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10528d823792d42caae2e1b04c5d14c6.jpg?v=1754568322",
+          "alt": null,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1e41700a23d95ccaffd458a6a44c13fd_e2e47535-d95f-40fa-aeaf-e16b7752dcac.jpg?v=1754568322",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5f8701efc432bd9da26492bb29d82e60_8e96560d-abb0-412c-af37-ad6b7ef3320c.jpg?v=1754568322",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/19be95a2ae263682279e240edb637906_7114be79-0b59-4380-82c8-821ed003ae61.jpg?v=1754568322",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/576a7d34d4f90.jpg?v=1754568322",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Marked by hand-painted white drawer fronts with applied handles in various wood kinds (elm, Italian walnut, mahogany and rosewood).</span><br><span>Chest of drawers designed in several versions in the period from 1952 to 1955. The new version was produced using original drawings kept in the Gio Ponti Archives and the art direction for the Gio Ponti Collection came from Studio Cerri &amp; Associati.The elmwood frame rests on satin brass feet. The chest of drawers must be securely fixed to the wall.</span></p>\n<p><span><strong>DIMENSIONS :</strong> </span></p>\n<p><span><meta charset=\"utf-8\"> <strong>W. 185 | D. 52 | H. 89,9 cm</strong></span></p>"
+    },
+    {
+      "id": 15016015757644,
+      "title": "Single Units - D.655.2 - By Gio Ponti",
+      "handle": "single-units-d-655-2-by-gio-ponti",
+      "url": "https://arowonen.com/products/single-units-d-655-2-by-gio-ponti",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Gio Ponti",
+        "single units"
+      ],
+      "created_at": "2025-08-07T13:59:56+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:16:33+02:00",
+      "available": true,
+      "price_min": 7160,
+      "price_max": 7160,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077448032588,
+          "title": "Default Title",
+          "sku": null,
+          "price": "7160.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ede1c0e4ef92fbebcecc80a2a5851f55.jpg?v=1754568228",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1e41700a23d95ccaffd458a6a44c13fd.jpg?v=1754568228",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5f8701efc432bd9da26492bb29d82e60.jpg?v=1754568228",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/19be95a2ae263682279e240edb637906.jpg?v=1754568228",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ede1c0e4ef92fbebcecc80a2a5851f55.jpg?v=1754568228",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Marked by hand-painted white drawer fronts with applied handles in various wood kinds (elm, Italian walnut, mahogany and rosewood).</span><br><span>Chest of drawers designed in several versions in the period from 1952 to 1955. The new version was produced using original drawings kept in the Gio Ponti Archives and the art direction for the Gio Ponti Collection came from Studio Cerri &amp; Associati.The elmwood frame rests on satin brass feet. The chest of drawers must be securely fixed to the wall.</span></p>\n<p><span><strong>DIMENSIONS :</strong> </span></p>\n<p><span><meta charset=\"utf-8\">\n<strong>W. 102 | D. 52 | H. 79,9 cm</strong></span></p>"
+    },
+    {
+      "id": 15016000815436,
+      "title": "Single Units - Living Box - By Vincent Van Duysen",
+      "handle": "single-units-living-box-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/single-units-living-box-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "single units",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-07T13:53:50+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:18:04+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077371945292,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_5-living-box-new_2025.jpg?v=1754567906",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/67f37f35bf2cb_Living_box_01_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1200,
+          "height": 718
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/67f37f38c40c8_Living-Box_012_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 863,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_01.jpg?v=1754567906",
+          "alt": null,
+          "width": 2480,
+          "height": 1355
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_02.jpg?v=1754567906",
+          "alt": null,
+          "width": 1406,
+          "height": 1759
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_044_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1109,
+          "height": 1480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_03.jpg?v=1754567906",
+          "alt": null,
+          "width": 1694,
+          "height": 2268
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_045_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1480,
+          "height": 1109
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0002_Living_Box_040_legno-2.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0002_Living_Box_040_legno.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_04.jpg?v=1754567906",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_046_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1480,
+          "height": 1047
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_048_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1480,
+          "height": 724
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_051_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1480,
+          "height": 1109
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_052_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1480,
+          "height": 1109
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Living-Box_061_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1109,
+          "height": 1480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Molteni_Catalogo_25_4046_2025_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1858,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0006_Living_Box_014_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0003_Living_Box_028_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0005_Living_Box_015_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0004_Living_Box_027_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_0002_Living_Box_040_HR.jpg?v=1754567906",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_5-living-box-new_2025.jpg?v=1754567906",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Living Box, designed by Vincent Van Duysen: starting from a typically architectural project such as a building, a stage for concerts and conferences, or a monumental space, Vincent Van Duysen reduced its scale, transforming it into a household object with particular features and the possibility of new uses.</p>\n<section class=\"content-block dimension-medium\" id=\"block-1\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Living Box was conceived as an independent item of furniture, usable in any room of the house, but mainly suitable for the living room. Despite its reduced size, it retains the rigour and monumentality of the building it derives from, accentuating its details by means of quality materials. Living Box expands its repertoire with an enhanced storage solution: the introduction of sliding \"Stripe\" doors, similar to those found in Molteni&amp;C Kitchen Dada Engineered kitchens. These doors, crafted with a wood frame and central glass, enclose the interior space, creating private sections while preserving the elegance of the design. Additionally, LED lighting can now be integrated into the vertical sides, producing a refined illumination effect that highlights the inner structure.</p>\n<section class=\"content-block dimension-medium\" id=\"block-5\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Low yet expansive (230, 280, 330, 380) Living Box is defined by contrasting materials that make up its exterior and interior. The top features marble and different woods, specially arranged to decorate the surface. The entire composition is enclosed within an iris and pewter frame, thread-like if seen from above, but forming a thick profile surrounding the inside space if seen from the front.</p>\n<section class=\"content-block dimension-medium\" id=\"block-8\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The top can be fitted and integrated with trunking, useful for facilitating connections of any kind between multimedia equipment, TVs, or lighting fixtures. The remaining space can be left free or used to display artistic or personal ornaments.</p>\n<section class=\"content-block\" id=\"block-10\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">The inside space, recalling a \"magical cave,\" features numerous surprises. The woods used, including Eucalyptus and the new Sunrise Oak finish, completely envelop and mark the perimeter. Sunrise Oak revisits a classic theme with a contemporary touch, offering warmth and tactile softness. This light-toned finish is skillfully achieved through expert craftsmanship, enhanced by irregular brushing—a time-honored process reinterpreted in a modern key.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block dimension-medium\" id=\"block-11\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Sunrise Oak is like the revisitation of a classic theme reinterpreted with a contemporary taste, without excluding accents of warmth and tactile softness. The new finish, featuring a very light shade skillfully achieved by our expert cabinet makers, is further enhanced by the particular way in which the wood is irregularly brushed according to a time-honoured process reinvented in a modern key.</p>\n<section class=\"content-block\" id=\"block-13\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">Suffused lighting is provided by LEDs, and with vertical lighting option, the visual impact is further enriched. The interior space remains free and devoid of sharp corners, thanks to special curved corner-covers, allowing for flexible display options. If this scenographic solution does not fit the purpose, one or more sets of drawers with an iris and pewter or wood finish can be introduced. These drawers offer a discreet yet elegant storage solution, concealing useful items while maintaining a refined aesthetic.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block dimension-medium\" id=\"block-14\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The self-standing drawer sets can be positioned anywhere in the room, allowing for multiple configurations—small architectural elements within a larger shell. The system is completed with a technical Tape container designed to accommodate video and Hi-Fi equipment, seamlessly integrating functionality with aesthetics.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15015997276492,
+      "title": "Single Units - Andromeda - By LSM",
+      "handle": "single-units-andromeda-by-lsm",
+      "url": "https://arowonen.com/products/single-units-andromeda-by-lsm",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "LSM",
+        "single units"
+      ],
+      "created_at": "2025-08-07T13:50:18+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:18:32+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077360378188,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4-3_Andromeda.jpg?v=1754567587",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/02_Andromeda.jpg?v=1754567587",
+          "alt": null,
+          "width": 1577,
+          "height": 1106
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/03_Andromeda.jpg?v=1754567587",
+          "alt": null,
+          "width": 802,
+          "height": 1270
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Andromeda_LSM_01.jpg?v=1754567587",
+          "alt": null,
+          "width": 1933,
+          "height": 1629
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Molteni_Catalogo_28_4939_2025_HR.jpg?v=1754567587",
+          "alt": null,
+          "width": 2480,
+          "height": 1686
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Molteni_Catalogo_29_5065_2025_HR.jpg?v=1754567587",
+          "alt": null,
+          "width": 1864,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/01_Andromeda.jpg?v=1754567587",
+          "alt": null,
+          "width": 1730,
+          "height": 2289
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4-3_Andromeda.jpg?v=1754567587",
+      "description_html": "<p class=\"generic-text  padding-line-element\">A testament to refined craftsmanship and material innovation, the Andromeda sideboard emerges from the collaboration between UniFor and LSM, enriching the Molteni&amp;C collection with a statement of elegance and precision. Conceived within the evocative setting of the Andromeda Theater in Sicily, this piece embodies the synthesis of aesthetic purity and cutting-edge construction.</p>\n<section class=\"content-block\" id=\"block-2\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">Andromeda’s defining characteristic is the seamless fusion of two noble materials— shiny stainless steel and black back-painted stopsol glass —crafted and assembled with impeccable precision, free from visible joints. Its fixed configuration enhances its sculptural presence, featuring four compartments with central hinged doors and a lateral shelf that subtly extends its functional and visual impact.</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The entire structure is anchored by a stainless steel “cusp” section, with tapered edges that lend an ethereal lightness to its form. A distinctive base, positioned along the inner sides, creates the illusion of a floating presence, supported only by its lateral wings. The black back-painted stopsol glass top refines the composition, harmonizing strength with sophistication.</p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15015988166988,
+      "title": "Single Units - Teorema - By Ron Gilad",
+      "handle": "single-units-teorema-by-ron-gilad",
+      "url": "https://arowonen.com/products/single-units-teorema-by-ron-gilad",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Ron Gilad",
+        "single units"
+      ],
+      "created_at": "2025-08-07T13:46:32+02:00",
+      "updated_at": "2026-05-22T17:57:10+02:00",
+      "published_at": "2025-09-09T15:21:26+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53077338718540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3-Teorema.jpg?v=1754567297",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ed7556330111a1554f6b02317103f1e7.jpg?v=1754567343",
+          "alt": null,
+          "width": 1173,
+          "height": 1333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/12193984c9c7888c1ba81596a3c707a1.jpg?v=1754567343",
+          "alt": null,
+          "width": 1500,
+          "height": 993
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9d252b8e75f469f508323cb99b9941dc.jpg?v=1754567343",
+          "alt": null,
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/779ffaae23c2f4e9a2f5b22d5b83b9ca.jpg?v=1754567343",
+          "alt": null,
+          "width": 1777,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3-Teorema.jpg?v=1754567297",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Teorema project is the solid part of a void. It is the mould as design, the template transferred and shifted that becomes micro architecture, and exceeds all disciplinary boundaries.</p>\n<p class=\"generic-text  padding-line-element\"><meta charset=\"utf-8\"><span>Ron Gilad turns the chest of drawers featuring rotating elements in space into a storage unit where containment and open glass parts are stacked to create a single solid with a densely faceted surface.</span><br><br><span>The drawers can be placed in axis or unusually offset at 20° to the rest of the unit.</span></p>\n<section class=\"content-block dimension-medium\" id=\"block-2\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">A unit made of American walnut with open compartments or drawers used as a single unit or stacked in a linear or offset mode, to create night tables, chests of drawers or modular systems for the living area.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    }
+  ]
+}

@@ -1,0 +1,2043 @@
+{
+  "handle": "transparent",
+  "label": "Transparent",
+  "url": "https://arowonen.com/collections/transparent",
+  "scraped_at": "2026-05-22T15:56:07.080Z",
+  "product_count": 28,
+  "products": [
+    {
+      "id": 15050904994124,
+      "title": "Transparent - Preamp for old Vinyl players",
+      "handle": "transparent-preamp-for-old-vinyl-players",
+      "url": "https://arowonen.com/products/transparent-preamp-for-old-vinyl-players",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T16:41:59+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:55+02:00",
+      "available": true,
+      "price_min": 130,
+      "price_max": 130,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53207061332300,
+          "title": "Default Title",
+          "sku": null,
+          "price": "130.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rega1_w1000.jpg?v=1756305827",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rega3_w1000.jpg?v=1756305826",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rega4_w1000.jpg?v=1756305826",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rega5_w1000.jpg?v=1756305826",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Rega1_w1000.jpg?v=1756305827",
+      "description_html": "<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar\" id=\"module_29df5f91-7bf6-46b3-8ef6-b597e60ff489_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div id=\"module_2574e122-3c18-427c-afb8-fc831c345262_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-usps\">\n<p>— Rega high performance phono preamp for old vinyl players</p>\n<p>— Amplify pickup so it works with Transparent Speakers</p>\n<p>— Award winning, transparent sound performance</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_bd730c1f-282e-4bd2-a4eb-7809ea55c139\" class=\"after-product-main-section cms-module header-is-black\"></div>\n<div class=\"cms-content\">\n<span></span><meta charset=\"utf-8\">\n<span>Input sensitivity: 5mV for 500mV output</span><br><span>Input loading: 47k +100pF</span><br><span>Maximum input level: 70mV @ 1kHz</span><br><span>Output Impedance: 100 Ohms</span><br><span>Signal to noise ratio: 78dBA ref 5mV</span><br><span>Power requirements: 24VAC 85mA</span><br><span>Input for full scale digital output: 7.5mV</span><br><span>Dimensions W 102mm x D 125mm x H 30mm</span>\n<div class=\"clearfix\"><br></div>\n<div class=\"clearfix\">\n<meta charset=\"utf-8\">\n<span>Input 230V-50Hz 25mA</span><br><span>Output 24V-100mA</span><br><span>RCA to 3.5 mm (miniplug) cable</span>\n</div>\n<div data-module-info=\"\" id=\"module_172424dd-19c4-4dcd-8912-6670702f4fd5\" class=\"usp1 container section\">\n<div class=\"row reveresed-order\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050888315212,
+      "title": "Transparent - Sole Speaker",
+      "handle": "transparent-sole-speaker",
+      "url": "https://arowonen.com/products/transparent-sole-speaker",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T16:36:36+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:52+02:00",
+      "available": true,
+      "price_min": 1500,
+      "price_max": 1500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53206972105036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Front-01_w1000.jpg?v=1756305589",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Back-01_w1000.jpg?v=1756305589",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Drivers-01_w1000.jpg?v=1756305589",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Ebox-01_w1000.jpg?v=1756305589",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Gloves-01_w1000.jpg?v=1756305531",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sole-Speaker-Product-Card-Front-01_w1000.jpg?v=1756305589",
+      "description_html": "<div id=\"module_29df5f91-7bf6-46b3-8ef6-b597e60ff489_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p>Powerful yet balanced sound that fills any room. Made of aluminium and a tempered glass this speaker is designed to be as much an interior object as a great piece of technology. Comes with Bluetooth but it is also ready for whatever tech that might be useful in coming years. An aspiration to become better over time.<br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_2ccee38d-5a4e-4d44-9dc9-ba72cdcffcca\" class=\"after-product-main-section cms-module header-is-black\"></div>\n<div class=\"cms-content\">\n<span></span><meta charset=\"utf-8\">\n<span>The Sole Speaker collaboration manifests the transformation of waste material into a design and audio object, exemplifying how rejected soles from Axel Arigato sneaker production can be upcycled to create the speaker cabinet.</span>\n<div class=\"clearfix\"><br></div>\n<div data-module-info=\"\" id=\"module_3738e367-53f6-4ffa-9c23-bcadc4d6e265\" class=\"3738e36753f64ffa9c23bcadc4d6e265 container-full\">\n<div class=\"row reveresed-order\"><br></div>\n</div>\n</div>\n<p><meta charset=\"utf-8\"><span>Dimensions (W × H × D): 452 × 351 × 132 mm</span><br><span>Weight: 11 kg</span><br><span>L/R Drivers: 2 × 3’’ (Full Range)</span><br><span>Woofer: 1 × 6,5’’</span><br><span>Amplifier: Class D built in (Active)</span><br><span>Output power: 120 W</span><br><span>Sealed Cabinet Volume: 10,2 l</span><br><span>Frequency Response: 35 Hz — 20000 Hz ±3 dB on axis</span><br><span>High Quality Digital Signal Processing (DSP)</span><br><span>Front Controls: Bass, Treble and Volume adjustment on front panel</span><br><span>Line in: 2 × 3,5 mm Mini Jack (front and rear)</span><br><span>Wireless Module Compartment with 5V USB Power outlet</span><br><span>Wireless Module: Bluetooth 5.0 (pre-mounted)</span><br><span>Single or True Wireless (stereo) pairing</span><br><span>3.5 mm port for digital optical and analogue signals</span><br><span>µUSB port for 5V power</span><br><span>RX and TX mode (switch)</span><br><span>Chip: Qualcomm CSR8670C</span><br><span>Codec: aptX LL / SBC / MP3 / AAC</span><br><span>Low Latency: &lt;40ms</span><br><span>Gold-plated contacts for perfect signal transmission</span></p>"
+    },
+    {
+      "id": 15050880778572,
+      "title": "Transparent - Turntable Stand - White",
+      "handle": "transparent-turntable-stand-white",
+      "url": "https://arowonen.com/products/transparent-turntable-stand-white",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T16:33:55+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:49+02:00",
+      "available": true,
+      "price_min": 500,
+      "price_max": 500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53206923510092,
+          "title": "Default Title",
+          "sku": null,
+          "price": "500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-04_web_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-05_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 652
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-06_web_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-Front-02_web_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-Short-02-web_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-Short-03_w1000.jpg?v=1756305343",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-White-05-grid-image-2-_w1000.jpg?v=1756305344",
+          "alt": null,
+          "width": 1000,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-04_web_w1000.jpg?v=1756305344",
+      "description_html": "<div>\n<p>— Crafted from high quality materials and components</p>\n<p>— Pre-mounted Ortofon OM5E Cartridge</p>\n<p>— Pre-mounted Bluetooth 5.0 Module</p>\n<p>The Transparent Turntable is a reinvention of a classic vinyl record player, designed for a modern home and an ever evolving technology. The Transparent Turntable is meticulously crafted out of aluminium and tempered glass. It is a belt driven system with a built in phono stage, and a pre-mounted cartridge from Danish Ortofon.</p>\n</div>\n<div class=\"\">\n<meta charset=\"utf-8\">\n<div>\n<p>Nominal speeds: 33 ⅓ and 45 RPM<br>Speed variance: 33: ±0.70% 45: ±0.60%<br>Wow and flutter: 33: ±0.25% 45: ±0.25%<br>Signal to noise: ≥ 70dB at 1kHz, 0dB A-weighted<br>Frequency range: 20-25.000Hz +3 / -3<br>Stylus tip radius: r/R 8/18 µm<br>Tracking force range: 1.5-2.0 g (15-20 mN)<br>Tracking force, recommended: 1.75 g (17.5 mN)<br>Tracking angle: 20°<br>Replacement stylus unit: Ortofon Stylus 5E<br>Effective tonearm mass: 13.5g<br>Effective tonearm length: 220mm / 8.7in<br>Overhang: 19.5mm / 0.77in<br>Max power consumption: 15W<br>Dimensions (W x H x D): 410 x 125 x 320 mm / 16 x 5 x 13 in<br>Weight: 6,5kg / 14lb<br>Dimensions packaging (W x H x D): 580 x 240 x 460 mm / 23 x 10 x 19 in<br>Weight incl. packaging: 7,0kg / 15lb<br>Rated input voltage: 100~240Vac, @ 50/60Hz.<br>Bluetooth version: 5.0<br>Normal or True Wireless (stereo) pairing<br>3.5 mm port for digital optical and analogue signals<br>µUSB port for 5V power<br>RX and TX mode (switch)<br>Chip: Qualcomm CSR8670C<br>Codec: aptX LL / SBC / MP3 / AAC<br>Low Latency: &lt;40ms<br>Gold-plated contacts for perfect signal transmission</p>\n</div>\n</div>"
+    },
+    {
+      "id": 15050852925772,
+      "title": "Transparent - Turntable Stand - Black",
+      "handle": "transparent-turntable-stand",
+      "url": "https://arowonen.com/products/transparent-turntable-stand",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T16:24:28+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:46+02:00",
+      "available": true,
+      "price_min": 500,
+      "price_max": 500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53206743286092,
+          "title": "Default Title",
+          "sku": null,
+          "price": "500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-04-web_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-05_web_w1000.jpg?v=1756305027",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-06_web_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-Front-02-web_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-Short-02-web_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-Short-03-web_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-W-05-grid-image-2-_w1000.jpg?v=1756305028",
+          "alt": null,
+          "width": 1000,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TTT-B-04-web_w1000.jpg?v=1756305028",
+      "description_html": "<div>\n<p>— Crafted from high quality materials and components</p>\n<p>— Pre-mounted Ortofon OM5E Cartridge</p>\n<p>— Pre-mounted Bluetooth 5.0 Module</p>\n<p>The Transparent Turntable is a reinvention of a classic vinyl record player, designed for a modern home and an ever evolving technology. The Transparent Turntable is meticulously crafted out of aluminium and tempered glass. It is a belt driven system with a built in phono stage, and a pre-mounted cartridge from Danish Ortofon.</p>\n</div>\n<div class=\"\">\n<meta charset=\"utf-8\">\n<div>\n<p>Nominal speeds: 33 ⅓ and 45 RPM<br>Speed variance: 33: ±0.70% 45: ±0.60%<br>Wow and flutter: 33: ±0.25% 45: ±0.25%<br>Signal to noise: ≥ 70dB at 1kHz, 0dB A-weighted<br>Frequency range: 20-25.000Hz +3 / -3<br>Stylus tip radius: r/R 8/18 µm<br>Tracking force range: 1.5-2.0 g (15-20 mN)<br>Tracking force, recommended: 1.75 g (17.5 mN)<br>Tracking angle: 20°<br>Replacement stylus unit: Ortofon Stylus 5E<br>Effective tonearm mass: 13.5g<br>Effective tonearm length: 220mm / 8.7in<br>Overhang: 19.5mm / 0.77in<br>Max power consumption: 15W<br>Dimensions (W x H x D): 410 x 125 x 320 mm / 16 x 5 x 13 in<br>Weight: 6,5kg / 14lb<br>Dimensions packaging (W x H x D): 580 x 240 x 460 mm / 23 x 10 x 19 in<br>Weight incl. packaging: 7,0kg / 15lb<br>Rated input voltage: 100~240Vac, @ 50/60Hz.<br>Bluetooth version: 5.0<br>Normal or True Wireless (stereo) pairing<br>3.5 mm port for digital optical and analogue signals<br>µUSB port for 5V power<br>RX and TX mode (switch)<br>Chip: Qualcomm CSR8670C<br>Codec: aptX LL / SBC / MP3 / AAC<br>Low Latency: &lt;40ms<br>Gold-plated contacts for perfect signal transmission</p>\n</div>\n</div>"
+    },
+    {
+      "id": 15050635739468,
+      "title": "Transparent Speaker Small - Black Wi-Fi connected",
+      "handle": "transparent-speaker-small-black-wi-fi-connected",
+      "url": "https://arowonen.com/products/transparent-speaker-small-black-wi-fi-connected",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:45:08+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:43+02:00",
+      "available": true,
+      "price_min": 550,
+      "price_max": 550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205644640588,
+          "title": "Default Title",
+          "sku": null,
+          "price": "550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-wifi_w1000.jpg?v=1756295200",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000_83530c65-6202-4b22-b956-88bd1d9ceee5.jpg?v=1756295200",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-wifi_w1000.jpg?v=1756295200",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Elevate your sound experience with the Small Transparent Speaker and a Wi-Fi Module. Are you tired of listening to music on a single speaker, restricted to one room of your home? Create a multi-room set up with this elevating combo.</span><br><span>Includes 1 x Small Transparent Speaker in black and 1 x Wi-Fi Module.</span></p>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- All speakers has Bluetooth 5.0 connection<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- Dimensions: 268 x 203 x 95 mm / 10.5 x 8 x 3.7 In</span><br><span>- Weight: 3,3 kg / 6,5 Lbs</span><br><span>- Materials: Aluminium and tempered glass</span><br><span>- Colors: Black and white</span>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Output power: 2x 15W<br>- Sealed Cabinet Volume: 3 l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: 1 x Small Transparent Speaker ≈ 40 kvm, 2 x Small transparent Speakers ≈ 50 kvm</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- Cotton gloves<br>- Long and short audio cables<br>- Long and short power cables<br>- AC power plugs (A,C and G)<br>- Manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050633052492,
+      "title": "Transparent Speaker Small - White Wi-Fi connected",
+      "handle": "transparent-speaker-small-white-wi-fi-connected",
+      "url": "https://arowonen.com/products/transparent-speaker-small-white-wi-fi-connected",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:41:07+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:40+02:00",
+      "available": true,
+      "price_min": 600,
+      "price_max": 600,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205634974028,
+          "title": "Default Title",
+          "sku": null,
+          "price": "600.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-W-wifi_w1000.jpg?v=1756294988",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000_57eadf96-f523-4762-8491-3745f7e79782.jpg?v=1756294988",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-W-wifi_w1000.jpg?v=1756294988",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Elevate your sound experience with the Small Transparent Speaker and a Wi-Fi Module. Are you tired of listening to music on a single speaker, restricted to one room of your home? Create a multi-room set up with this elevating combo.</span><br><span>Includes 1 x Small Transparent Speaker in white and 1 x Wi-Fi Module.</span></p>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- All speakers has Bluetooth 5.0 connection<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- Dimensions: 268 x 203 x 95 mm / 10,5 x 8 x 3,7 In</span><br><span>- Weight: 3,3 kg / 6,5 Lbs</span><br><span>- Materials: Aluminium and tempered glass</span><br><span>- Colors: Black, white and metal</span>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- L/R Drivers: 2 × 3’’ (Full Range)</span><br><span>- Amplifier: Class D built-in (active)</span><br><span>- Output power: 2x 15W</span><br><span>- Sealed Cabinet Volume: 3 l</span><br><span>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis</span><br><span>- High Quality Digital Signal Processing (DSP)</span><br><span>- Recommended room size: 1 x Small Transparent Speaker ≈ 40 kvm, 2 x Small transparent Speakers ≈ 50 kvm</span>\n</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- Cotton gloves<br>- Long and short audio cables<br>- Long and short power cables<br>- AC power plugs (A,C and G)<br>- Manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050630168908,
+      "title": "Red Wires Transparent Speaker - Wi-Fi connected",
+      "handle": "red-wires-transparent-speaker-wi-fi-connected",
+      "url": "https://arowonen.com/products/red-wires-transparent-speaker-wi-fi-connected",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "KERST",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES",
+        "X-Mas"
+      ],
+      "created_at": "2025-08-27T13:36:36+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:37+02:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205627208012,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-wifi_w1000.jpg?v=1756294822",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000_e71a71cf-f446-4a2c-b762-f3fd52aedde5.jpg?v=1756294822",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-wifi_w1000.jpg?v=1756294822",
+      "description_html": "<div>The Transparent Speaker, a revolutionary speaker that offers a truly transparent sound experience. Designed with simplicity and elegance in mind, this speaker features a unique transparent design that blends seamlessly into any room while providing an unmatched audio experience. Made with aluminium and tempered glass, this 11 kg speaker is a statement piece that commands attention in any home.<br>\n</div>\n<div>\n<div>\n<div>\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<span>- Dimensions: 333 x 431 x 118 mm / 7 x 13 x 4,6 In</span><br><span>- Weight: 11 kg / 26,5 Lbs</span><br><span>- Materials: Aluminium and tempered glass</span><br><span>- Colors: Black, black with red cables and white</span><br><span>- Front Controls: Volume, bass and treble</span><br><span>- Line in: 2 x 3,5mm (front and back)</span>\n</div>\n</div>\n<div>\n<div>\n<strong>SOUND</strong>\n<div>- <span>L/R Drivers: 2 × 3’’ (Full Range)</span><br><span>- Woofer: 1 × 6.5’’</span><br><span>- Amplifier: Class D built-in (active)</span><br><span>- Rated power: 100-120W</span><br><span>- Sealed Cabinet Volume: 10,2 l</span><br><span>- Frequency Response: 35 Hz - 20 kHz ±5dB</span><br><span>- High Quality Digital Signal Processing (DSP)</span><br><span>- Recommended room size: ≈ 70 kvm</span>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050628596044,
+      "title": "Black Transparent Speaker - Wi-Fi connected",
+      "handle": "black-transparent-speaker-wi-fi-connected",
+      "url": "https://arowonen.com/products/black-transparent-speaker-wi-fi-connected",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:33:19+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:35+02:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205622980940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-wifi_w1000.jpg?v=1756294486",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000_4264ab2c-d91c-4d63-84a9-e7b7a912fa34.jpg?v=1756294486",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-wifi_w1000.jpg?v=1756294486",
+      "description_html": "<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>Elevate your sound experience with the Transparent Speaker and a Wi-Fi Module. Are you tired of listening to music on a single speaker, restricted to one room of your home? Create a multi-room set up with this elevating combo. Includes 1 x Transparent Speaker in black and 1 x Wi-Fi Module.</span><br>\n</div>\n<div>\n<div class=\"only-desktop\">\n<div class=\"product-description\"><br></div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\"> <span>- The Transparent Speaker comes with Bluetooth 5.0 connection</span><br><span>- Connect two speakers using True wireless and play both simultaneously</span><br><span>- Connect multiple devices with the Wi-Fi Module</span>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: White<br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050626203980,
+      "title": "White Transparent Speaker - Wi-Fi connected",
+      "handle": "white-transparent-speaker-wi-fi-connected",
+      "url": "https://arowonen.com/products/white-transparent-speaker-wi-fi-connected",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:26:55+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:31+02:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205615083852,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-W-wifi_w1000.jpg?v=1756294185",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000_72a74af9-28ad-4826-81df-665dec4b8627.jpg?v=1756294185",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-W-wifi_w1000.jpg?v=1756294185",
+      "description_html": "<div>\n<meta charset=\"utf-8\">\n<span>Powerful yet balanced sound that fills any room. Made of aluminium and a tempered glass this speaker is designed to be as much an interior object as a great piece of technology. Comes with Bluetooth™ but it is also ready for whatever tech that might be useful in coming years. An aspiration to become better over time.</span>\n</div>\n<div>\n<div class=\"only-desktop\">\n<div class=\"product-description\"></div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- The Transparent Speaker comes with Bluetooth 5.0 connection</span><br><span>- Connect two speakers using True wireless and play both simultaneously</span><br><span>- Connect multiple devices with the Wi-Fi Module</span>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: White<br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050622107980,
+      "title": "Transparent - Bluetooth 5.0 Module",
+      "handle": "transparent-bluetooth-5-0-module",
+      "url": "https://arowonen.com/products/transparent-bluetooth-5-0-module",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:21:05+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:28+02:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205600993612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Module-BT5-01_w1000.jpg?v=1756293802",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Module-BT5-02_w1000.jpg?v=1756293803",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Module-BT5-01_w1000.jpg?v=1756293802",
+      "description_html": "<div>\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_fb877bd3-35f8-4ede-aa57-e3b5422fbcf9_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p>— The latest bluetooth protocol that works with all phones, no app needed</p>\n<p>— True Wireless pairing, send stereo sound to two speakers from your phone</p>\n<p>— Invisible: Designed to be hidden away in the speaker</p>\n<p> </p>\n<p><br><meta charset=\"utf-8\"></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050620174668,
+      "title": "Transparent - iEast Wi-Fi Module",
+      "handle": "transparent-ieast-wi-fi-module",
+      "url": "https://arowonen.com/products/transparent-ieast-wi-fi-module",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:16:52+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:33:25+02:00",
+      "available": true,
+      "price_min": 100,
+      "price_max": 100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205590311244,
+          "title": "Default Title",
+          "sku": null,
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000.jpg?v=1756293505",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-3_w1000.jpg?v=1756293506",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-4_w1000.jpg?v=1756293506",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/olio-1_w1000.jpg?v=1756293505",
+      "description_html": "<div>\n<div id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div id=\"module_fb877bd3-35f8-4ede-aa57-e3b5422fbcf9_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>WiFi Module for Transparent speakers. Connect your speakers using Transparent WiFi module and stream your music through WiFi. Easy to connect with the AudioCast app. Use your iPhone®, iPad®, Android phone and tablet, Mac® and Windows® laptop and cast music to your Transparent Speakers through your house. With one wireless system you can get a multi-room set up and play music everywhere.</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_33f83065-1dfa-45e9-bed4-d37afcd98408\" class=\"after-product-main-section cms-module header-is-black\"></div>\n<div class=\"cms-content\">\n<div data-module-info=\"\" id=\"module_f49ddc11-6e69-4220-b0d8-37124b6f69f7\" class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2 container-full\">\n<div class=\"row reveresed-order\">\n<div id=\"submodule_f49ddc11-6e69-4220-b0d8-37124b6f69f7_text_and_image_image\" class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2-image image-block cms-module col-lg-6 col-md-12\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_53186456-3911-4d68-94ce-9bf5f4acdc22\" class=\"after-product-main-section cms-module header-is-black\"></div>\n<br>\n<div id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\" class=\"after-product-main-section cms-module header-is-black\"></div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<span><meta charset=\"utf-8\">- Connect your Transparent Speaker to your voice assistant devices such as Amazon Alexa and Siri devices<br>- Compatible with Airplay 2<br>- Stream music directly from any device that supports Spotify Connect and Tidal Connect<br>- Stream music from Deezer, Qobuz, Amazon Music, Napster, Pandora, Tuneln etc. using the iEAST App.</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- Dimensions (mm): 54.25 x 54.25 x 13.45</span><br><span>- Color: Black</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- Wi-Fi: 2.4G and 5G</span><br><span>- Bluetooth: 5.0 and 5.2</span><br><span>- Output: 24bit/192Khz</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- iEAST Olio Streamer</span><br><span>- USB Type C Cable</span><br><span>- AUX Cable</span><br><span>- User manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050617880908,
+      "title": "Transparent - Ortofon OM5E Stylus",
+      "handle": "transparent-ortofon-om5e-stylus",
+      "url": "https://arowonen.com/products/transparent-ortofon-om5e-stylus",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T13:12:35+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:30:39+02:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205582217548,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ortofon-Stylus-5E-01__1__w1000.jpg?v=1756293295",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ortofon-Stylus-5E-02__1__w1000.jpg?v=1756293295",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Ortofon-Stylus-5E-01__1__w1000.jpg?v=1756293295",
+      "description_html": "<div>\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_fb877bd3-35f8-4ede-aa57-e3b5422fbcf9_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">WiFi Module for Transparent speakers. Connect your speakers using Transparent WiFi module and stream your music through WiFi. Easy to connect with the AudioCast app. Use your iPhone®, iPad®, Android phone and tablet, Mac® and Windows® laptop and cast music to your Transparent Speakers through your house. With one wireless system you can get a multi-room set up and play music everywhere..</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_33f83065-1dfa-45e9-bed4-d37afcd98408\"></div>\n<div class=\"cms-content\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2 container-full\" id=\"module_f49ddc11-6e69-4220-b0d8-37124b6f69f7\" data-module-info=\"\">\n<div class=\"row reveresed-order\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2-image image-block cms-module col-lg-6 col-md-12\" id=\"submodule_f49ddc11-6e69-4220-b0d8-37124b6f69f7_text_and_image_image\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_53186456-3911-4d68-94ce-9bf5f4acdc22\"></div>\n<br>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\"></div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Connect your Transparent Speaker to your voice assistant devices such as Amazon Alexa and Siri devices</span><br><span>- Compatible with Airplay 2</span><br><span>- Stream music directly from any device that supports Spotify Connect and Tidal Connect</span><br><span>- Stream music from Deezer, Qobuz, Amazon Music, Napster, Pandora, Tuneln etc. using the iEAST App.</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Dimensions (mm): 54.25 x 54.25 x 13.45</span><br><span>- Color: Black</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Wi-Fi: 2.4G and 5G</span><br><span>- Bluetooth: 5.0 and 5.2</span><br><span>- Output: 24bit/192Khz</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- iEAST Olio Streamer</span><br><span>- USB Type C Cable</span><br><span>- AUX Cable</span><br><span>- User manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050593796428,
+      "title": "Transparent - Steel Speaker",
+      "handle": "transparent-steel-speaker",
+      "url": "https://arowonen.com/products/transparent-steel-speaker",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T12:56:51+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:30:28+02:00",
+      "available": true,
+      "price_min": 2500,
+      "price_max": 2500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205507801420,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Steel-Speaker-Front-01_w1000.jpg?v=1756292437",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Steel-Speaker-Rear-01_w1000.jpg?v=1756292437",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Steel-Speaker-Side-01_w1000.jpg?v=1756292437",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Steel-Accessories-01_w1000.jpg?v=1756292437",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Steel-Speaker-Front-01_w1000.jpg?v=1756292437",
+      "description_html": "<div>\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_fb877bd3-35f8-4ede-aa57-e3b5422fbcf9_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p><meta charset=\"utf-8\"><span>This speaker was handcrafted by blacksmith Jonas Majors in his workshop on the island of Mörkö south of Stockholm. The Steel Speaker is a heavy beast of 20 kilograms. It is supposed to manifest the power of our big speaker acoustic platform by its mere presence. The electronic appliance industry seems many times over crowded by black boxes. Therefore we saw it as our challenge to make the black box into a sculptural piece of craft that elevates a contemporary designed interior rather than violating it.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_33f83065-1dfa-45e9-bed4-d37afcd98408\"></div>\n<div class=\"cms-content\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2 container-full\" id=\"module_f49ddc11-6e69-4220-b0d8-37124b6f69f7\" data-module-info=\"\">\n<div class=\"row reveresed-order\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2-image image-block cms-module col-lg-6 col-md-12\" id=\"submodule_f49ddc11-6e69-4220-b0d8-37124b6f69f7_text_and_image_image\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_53186456-3911-4d68-94ce-9bf5f4acdc22\"></div>\n<br>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\"></div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<span><meta charset=\"utf-8\">- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module </span>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Dimensions: 333 x 431 x 118 mm / 17 x 13 x 4,6 In</span><br><span>- Weight: 13,1 kg / 33 Lbs</span><br><span>- Materials: Steel</span><br><span>- Front Controls: Volume, bass and treble</span><br><span>- Line in: 2 x 3,5mm (front and back)</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- L/R Drivers: 2 × 3’’ (Full Range)</span><br><span>- Woofer: 1 × 6.5’’</span><br><span>- Amplifier: Class D built-in (active)</span><br><span>- Rated power: 140W</span><br><span>- Sealed Cabinet Volume: 10,2 l</span><br><span>- Frequency Response: 35 Hz - 20 kHz ±5dB</span><br><span>- High Quality Digital Signal Processing (DSP)</span><br><span>- Recommended room size: ≈ 70 kvm</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- White cotton gloves</span><br><span>- Long and short audio cables</span><br><span>- Power cables (mains and USB)</span><br><span>- User manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050589110604,
+      "title": "Transparent - Light Speaker - White",
+      "handle": "transparent-light-speaker-white",
+      "url": "https://arowonen.com/products/transparent-light-speaker-white",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T12:51:14+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:29:43+02:00",
+      "available": true,
+      "price_min": 310,
+      "price_max": 310,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205496299852,
+          "title": "Default Title",
+          "sku": null,
+          "price": "310.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ls-front___w1000.jpg?v=1756292018",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ls-front_2_w1000.jpg?v=1756292018",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ls-front_3_w1000.jpg?v=1756292018",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LS-W-Top_w1000.jpg?v=1756292018",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LS-W-Top-Handle_w1000.jpg?v=1756292019",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ls-front___w1000.jpg?v=1756292018",
+      "description_html": "<div>\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_fb877bd3-35f8-4ede-aa57-e3b5422fbcf9_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p>The Light Speaker is a revolutionary portable glass speaker that brings a whole new level of sound to your home. With its unique transparent design and 360 degree sound experience, this speaker is a stunning piece of art that will light up any room. Featuring a powerful sound system, the Light Speaker is capable of producing clear, crisp audio for any type of music. Its lighting system will create an inviting atmosphere in your living space, while its Bluetooth connectivity makes it easy to stream your favorite tunes from any device. With up to 10 hours of battery time you can experience a truly immersive sound experience that will inspire and energize your senses.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_33f83065-1dfa-45e9-bed4-d37afcd98408\"></div>\n<div class=\"cms-content\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2 container-full\" id=\"module_f49ddc11-6e69-4220-b0d8-37124b6f69f7\" data-module-info=\"\">\n<div class=\"row reveresed-order\">\n<div class=\"module_class_name_3a69b37b4d7347ceab7f559ae9758ac2-image image-block cms-module col-lg-6 col-md-12\" id=\"submodule_f49ddc11-6e69-4220-b0d8-37124b6f69f7_text_and_image_image\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_53186456-3911-4d68-94ce-9bf5f4acdc22\"></div>\n<br>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\"></div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<span><meta charset=\"utf-8\">- Bluetooth: Version 5.0<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect up to 7 devices with the Wi-Fi Module.</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- Dimensions: 105 mm x 160 mm x 214 mm (with handle) 4,13 x 6,9 x 8,4 In (with handle</span><br><span>- Weight: 0,6kg / 13 Lbs</span><br><span>- Main materials: Aluminium and borosilicate glass</span><br><span>- Weather resistance rating: IPX2</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- Frequency response: 60Hz - 18kHz</span><br><span>- 1 x 2,5” full range driver</span><br><span>- 1 x 3” passive radiator</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>- Line in 3,5mm, double mini-jack AUX cable included</span><br><span>- USB C cable and adaptor included (A,C and G)</span><br><span>- Screw mounting handle accessory</span><br><span>- Tool for disassembly included</span><br><span>- Manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050583671116,
+      "title": "Transparent - Light Speaker - Black",
+      "handle": "transparent-light-speaker-black",
+      "url": "https://arowonen.com/products/transparent-light-speaker-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T12:47:05+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:28:46+02:00",
+      "available": true,
+      "price_min": 310,
+      "price_max": 310,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205463105868,
+          "title": "Default Title",
+          "sku": null,
+          "price": "310.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LS-B-front_2_w1000.jpg?v=1756291808",
+          "alt": null,
+          "width": 1000,
+          "height": 699
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LS-B-White-bakground-2_w1000.jpg?v=1756291809",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LS-B-front_2_w1000.jpg?v=1756291808",
+      "description_html": "<div>\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_99c5c542-02d9-474b-b014-6da07751dffb_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<p>The Light Speaker is a revolutionary portable glass speaker that brings a whole new level of sound to your home. With its unique transparent design and 360 degree sound experience, this speaker is a stunning piece of art that will light up any room. Featuring a powerful sound system, the Light Speaker is capable of producing clear, crisp audio for any type of music. Its lighting system will create an inviting atmosphere in your living space, while its Bluetooth connectivity makes it easy to stream your favorite tunes from any device. With up to 10 hours of battery time you can experience a truly immersive sound experience that will inspire and energize your senses.<meta charset=\"utf-8\"><meta charset=\"utf-8\"></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_53186456-3911-4d68-94ce-9bf5f4acdc22\"></div>\n<br>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\"></div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Bluetooth: Version 5.0</span><br><span>- Connect two speakers with True wireless and play both simultaneously</span><br><span>- Connect up to 7 devices with the Wi-Fi Module.</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Dimensions: 105 mm x 160 mm x 214 mm (with handle) 4,13 x 6,9 x 8,4 In (with handle</span><br><span>- Weight: 0,6kg / 13 Lbs</span><br><span>- Main materials: Aluminium and borosilicate glass</span><br><span>- Weather resistance rating: IPX2</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Frequency response: 60Hz - 18kHz</span><br><span>- 1 x 2,5” full range driver</span><br><span>- 1 x 3” passive radiator</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Line in 3,5mm, double mini-jack AUX cable included</span><br><span>- USB C cable and adaptor included (A,C and G)</span><br><span>- Screw mounting handle accessory</span><br><span>- Tool for disassembly included</span><br><span>- Manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050578264396,
+      "title": "Transparent - Brutalist Speaker - Black",
+      "handle": "transparent-brutalist-speaker-black",
+      "url": "https://arowonen.com/products/transparent-brutalist-speaker-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T12:42:57+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:28:33+02:00",
+      "available": true,
+      "price_min": 3800,
+      "price_max": 3800,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205450883404,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3800.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-01-Web_w1000.jpg?v=1756291485",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-02-Web_w1000.jpg?v=1756291486",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-03-Web_w1000.jpg?v=1756291485",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-04-Web_w1000.jpg?v=1756291485",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-06-Web_w1000.jpg?v=1756291485",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-B-01-Web_w1000.jpg?v=1756291485",
+      "description_html": "<div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\" id=\"module_c9def9a3-d2fd-4b1c-96fb-e75b087b6eec_product-main-block\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">\n<meta charset=\"utf-8\">\n<div id=\"module_50c9b349-8e37-4644-b176-71e6cef9c30d_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">The Brutalist Speaker serves as a captivating centerpiece in any home, combining form and function in a way that reflects Transparent’s commitment to extraordinary design. Crafted from 70% post-consumer recycled aluminum, the speaker not only features a sculptural appeareance, but also delivers optimal acoustical properties, ensuring an unparalleled audio experience.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_1f5df43b-4f79-4369-83d2-c5769279d6cc\" class=\"after-product-main-section cms-module header-is-black\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"after-product-main-section cms-module header-is-black\" id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\"></div>\n<br>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Wifi / Multiroom Audio (Wiim Mini module)</span><br><span>- Spotify Connect | Airplay 2 | Tidal Connect |  Amazon Music | (and many more)</span><br><span>- Alexa compatible (no built in mic)</span><br><span>- Bluetooth 5.2</span><br><span>- 2 x Line in</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Dimensions: 590x360x260mm/23.2x 14.2x10.2in</span><br><span>- Weight: 12 kg 26,5 lbs</span><br><span>- Materials: 70% Post Consumer Recycled aluminium</span><br><span>- Color: Aluminium / Black</span><br><span>- Front Controls: Volume, bass and treble</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Frequency Response: 32Hz — 20KHZ -6DB</span><br><span>- Power: 100-240V AC, 50/60 Hz, 120w MAX</span><br><span>- Audio Codeecs: MP3, A AC, ALAC, APE, F LAC, WAV, WMA, OGG</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Brutalist Speaker incl Wiim Mini wifi module</span><br><span>- White cotton gloves</span><br><span>- Long audio cable</span><br><span>- Power cable</span><br><span>- User manual</span><br>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050574954828,
+      "title": "Transparent - Brutalist Speaker - Metal",
+      "handle": "transparent-brutalist-speaker-metal",
+      "url": "https://arowonen.com/products/transparent-brutalist-speaker-metal",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2025-08-27T12:38:16+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:28:05+02:00",
+      "available": true,
+      "price_min": 3800,
+      "price_max": 3800,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205436072268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3800.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-A-01-Web_w1000.jpg?v=1756291290",
+          "alt": null,
+          "width": 1000,
+          "height": 651
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-A-02-Web_w1000.jpg?v=1756291291",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-A-03-Web_w1000.jpg?v=1756291291",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-A-04-Web_w1000.jpg?v=1756291291",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-A-05-Web_w1000.jpg?v=1756291290",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-Speaker-A-06-Web_w1000.jpg?v=1756291290",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TRANSPARENT-Brutalist-Speaker-A-01-Print_w1000.jpg?v=1756291290",
+          "alt": null,
+          "width": 1000,
+          "height": 954
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Brutalist-A-01-Web_w1000.jpg?v=1756291290",
+      "description_html": "<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<div id=\"module_c9def9a3-d2fd-4b1c-96fb-e75b087b6eec_product-main-block\" class=\"product-main-block cms-module container product-page  product-with-fixed-purchase-bar product-with-linked-products\">\n<div class=\"row\">\n<div class=\"col-lg-6 product-info-block\">\n<div class=\"product-info-block-content\">\n<div class=\"only-mobile\">\n<div class=\"product-description\">The Brutalist Speaker serves as a captivating centerpiece in any home, combining form and function in a way that reflects Transparent’s commitment to extraordinary design. Crafted from 70% post-consumer recycled aluminum, the speaker not only features a sculptural appeareance, but also delivers optimal acoustical properties, ensuring an unparalleled audio experience.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"module_ffaf0306-7906-41d9-a35c-fc96fa31ab9b\" class=\"after-product-main-section cms-module header-is-black\"></div>\n<br>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Wifi / Multiroom Audio (Wiim Mini module)</span><br><span>- Spotify Connect | Airplay 2 | Tidal Connect |  Amazon Music | (and many more)</span><br><span>- Alexa compatible (no built in mic)</span><br><span>- Bluetooth 5.2</span><br><span>- 2 x Line in</span><br>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Dimensions: 590x360x260mm/23.2x 14.2x10.2in</span><br><span>- Weight: 12 kg 26,5 lbs</span><br><span>- Materials: 70% Post Consumer Recycled aluminium</span><br><span>- Color: Aluminium / Black</span><br><span>- Front Controls: Volume, bass and treble</span><br>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>- Frequency Response: 32Hz — 20KHZ -6DB</span><br><span>- Power: 100-240V AC, 50/60 Hz, 120w MAX.</span><br><span>- Audio Codeecs: MP3, A AC, ALAC, APE, F LAC, WAV, WMA, OGG</span><br>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">\n<meta charset=\"utf-8\">\n<span>- Brutalist Speaker incl Wiim Mini wifi module</span><br><span>- White cotton gloves</span><br><span>- Long audio cable</span><br><span>- Power cable</span><br><span>- User manual</span>\n</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 15050571186508,
+      "title": "Transparent Speaker - Wiim Mini",
+      "handle": "transparent-speaker-wiim-mini",
+      "url": "https://arowonen.com/products/transparent-speaker-wiim-mini",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS"
+      ],
+      "created_at": "2025-08-27T12:33:17+02:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2025-08-30T12:27:52+02:00",
+      "available": true,
+      "price_min": 100,
+      "price_max": 100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53205408940364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wiim_w1000_w1000.jpg?v=1756290972",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wiim_w1000_w1000.jpg?v=1756290972",
+      "description_html": "<div>\n<meta charset=\"utf-8\">\n<span>The Wiim Mini is the ultimate audio streamer, offering AirPlay 2, DLNA, Spotify Connect, TIDAL Connect, Hi-Res lossless audio, Alexa integration, and multiroom audio support. It transforms your existing stereo setup into a smart system, giving you full control over your music from multiple sources.</span>\n</div>\n<div>\n<div>\n<div>\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- Connect your Transparent Speaker to your voice assistant devices such as Amazon Alexa and Siri devices</span><br><span>- AirPlay 2 Receiver - Stream music from iOS and Mac devices or transmit Apple TV audio, elevating your audio experience effortlessly.</span><br><span>- Stream music directly from any device that supports Spotify Connect and Tidal Connect</span><br><span>- Stream music from Deezer, Qobuz, Amazon Music, Napster, Pandora, Tuneln etc. using the WiiM Home App.</span>\n</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>\n<meta charset=\"utf-8\">\n<span>- Dimensions (mm): 69 × 69 × 24</span><br><span>- Color: Black</span>\n</div>\n</div>\n<div>\n<strong>SOUND</strong>\n<div>\n<meta charset=\"utf-8\">\n<span>- Wi-Fi: 2.4G and 5G</span><br><span>- Bluetooth: 5.2</span><br><span>- Output: 24bit/192Khz</span>\n</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>\n<meta charset=\"utf-8\">\n<div class=\"content\">- WiiM Mini Streamer<br>- USB Type C Cable<br>- AUX Cable<br>- User manual</div>\n</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879792423244,
+      "title": "Transparent Speaker - Red Wires",
+      "handle": "transparent-speaker-red",
+      "url": "https://arowonen.com/products/transparent-speaker-red",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T13:14:28+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T13:15:36+01:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744496927052,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-2021-Front-01_w1000.jpg?v=1708949722",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-Left-01_w1000.jpg?v=1708949724",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-2021-Rear-01_w1000.jpg?v=1708949726",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-R-2021-Front-01_w1000.jpg?v=1708949722",
+      "description_html": "<div>The Transparent Speaker, a revolutionary speaker that offers a truly transparent sound experience. Designed with simplicity and elegance in mind, this speaker features a unique transparent design that blends seamlessly into any room while providing an unmatched audio experience. Made with aluminium and tempered glass, this 11 kg speaker is a statement piece that commands attention in any home.<br>\n</div>\n<div>\n<div>\n<div>\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: Black <span data-mce-fragment=\"1\">with red cables</span><br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879783117132,
+      "title": "White Transparent Speaker",
+      "handle": "transparent-speaker-black-1",
+      "url": "https://arowonen.com/products/transparent-speaker-black-1",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T13:02:01+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T13:12:54+01:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744470679884,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ts-w-new_w1000.jpg?v=1708949499",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ts-side5_w1000.jpg?v=1708949500",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ts-back_w1000.jpg?v=1708949502",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ts-w-new_w1000.jpg?v=1708949499",
+      "description_html": "<div>The Transparent Speaker, a revolutionary speaker that offers a truly transparent sound experience. Designed with simplicity and elegance in mind, this speaker features a unique transparent design that blends seamlessly into any room while providing an unmatched audio experience. Made with aluminium and tempered glass, this 11 kg speaker is a statement piece that commands attention in any home.<br>\n</div>\n<div>\n<div class=\"only-desktop\">\n<div class=\"product-description\">\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: White<br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879768011084,
+      "title": "Black Transparent Speaker",
+      "handle": "transparent-speaker-black",
+      "url": "https://arowonen.com/products/transparent-speaker-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:48:38+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T13:01:08+01:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744426934604,
+          "title": "Default Title",
+          "sku": "",
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Front-01_w1000.webp?v=1708948670",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Left-01_w1000.webp?v=1708948672",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Rear-01_w1000.webp?v=1708948673",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Accessories-01_w1000.webp?v=1708948674",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Front-01_w1000.webp?v=1708948670",
+      "description_html": "<div>The Transparent Speaker, a revolutionary speaker that offers a truly transparent sound experience. Designed with simplicity and elegance in mind, this speaker features a unique transparent design that blends seamlessly into any room while providing an unmatched audio experience. Made with aluminium and tempered glass, this 11 kg speaker is a statement piece that commands attention in any home.<br>\n</div>\n<div>\n<div>\n<div>\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: Black<br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879763358028,
+      "title": "Acoustic Sculpture - Black",
+      "handle": "transparent-acoustic-sculpture-black",
+      "url": "https://arowonen.com/products/transparent-acoustic-sculpture-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:43:24+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T12:46:35+01:00",
+      "available": true,
+      "price_min": 3000,
+      "price_max": 3000,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744411238732,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-B-Front-01.webp?v=1708947950",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-B-Side-01.1_w1000.jpg?v=1708947951",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-B-Rear-01.webp?v=1708947953",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-B-Front-01.webp?v=1708947950",
+      "description_html": "<div>\n<p><strong>Transparent sound</strong></p>\n</div>\n<div>Transparent sound refers to a loudspeakers ability to channel the true intention of a musician through to the listener. We tune the drivers to perform perfectly in the unique sealed acoustic volumes creating high quality sounds from our premium components. Our special editions come with the same five star sound performance as our permanent collection. The acoustic sculpture shape maximizes the soundwaves path from the driver elements while also enhancing the stereo separation between the two drivers. With the sculpture you get crisp and punchy timbre (tone color) adding an extremely subtle touch that makes the object even more interesting and personal.</div>\n<div><br></div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>- Dimensions:<br>Height: 44,0 cm / 17,3 in<br>Width: 29,0 cm / 11,4 in<br>Depth: 24,0 cm / 9,4 in<br>- Weight: 7 kg<br>- Materials: Jesmonite<br>- Line in bottom: 3,5mm</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Rated power: 2x15W<br>- Sealed Cabinet Volume: 7l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- User manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879746908492,
+      "title": "Acoustic Sculpture - White",
+      "handle": "transparent-acoustic-sculpture-white",
+      "url": "https://arowonen.com/products/transparent-acoustic-sculpture-white",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:25:34+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T12:42:53+01:00",
+      "available": true,
+      "price_min": 3000,
+      "price_max": 3000,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744365101388,
+          "title": "Default Title",
+          "sku": "",
+          "price": "3000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-Front-01_w1000.webp?v=1708947757",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-Rear-01_w1000.webp?v=1708947758",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-Side-01_w1000.webp?v=1708947760",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AS-Front-01_w1000.webp?v=1708947757",
+      "description_html": "<div>\n<p><strong>Transparent sound</strong></p>\n</div>\n<div>Transparent sound refers to a loudspeakers ability to channel the true intention of a musician through to the listener. We tune the drivers to perform perfectly in the unique sealed acoustic volumes creating high quality sounds from our premium components. Our special editions come with the same five star sound performance as our permanent collection. The acoustic sculpture shape maximizes the soundwaves path from the driver elements while also enhancing the stereo separation between the two drivers. With the sculpture you get crisp and punchy timbre (tone color) adding an extremely subtle touch that makes the object even more interesting and personal.</div>\n<div><br></div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>- Dimensions:<br>Height: 44,0 cm / 17,3 in<br>Width: 29,0 cm / 11,4 in<br>Depth: 24,0 cm / 9,4 in<br>- Weight: 7 kg<br>- Materials: Jesmonite<br>- Line in bottom: 3,5mm</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Rated power: 2x15W<br>- Sealed Cabinet Volume: 7l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- User manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879745335628,
+      "title": "Transparent Turntable - Black",
+      "handle": "transparent-turntable-black",
+      "url": "https://arowonen.com/products/transparent-turntable-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:23:03+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T12:24:39+01:00",
+      "available": true,
+      "price_min": 1300,
+      "price_max": 1300,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744360251724,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1300.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-OVERHEAD-0001-WEBSHOP_w1000.webp?v=1708946636",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-ANGLED-0001-WEBSHOP_w1000.jpg?v=1708946638",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-FRONT-0001-WEBSHOP_w1000.jpg?v=1708946639",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-BACK-0001-WEBSHOP_w1000.jpg?v=1708946641",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-SIDE-0001-WEBSHOP_w1000.jpg?v=1708946642",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-HINGE-0001-WEBSHOP_w1000.jpg?v=1708946644",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-Pickup-0001-WEBSHOP_w1000.jpg?v=1708946645",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-ACCESSORIES-0001-WEBSHOP_w1000.jpg?v=1708946647",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-B-ITRADE-0823-OVERHEAD-0001-WEBSHOP_w1000.webp?v=1708946636",
+      "description_html": "<p><strong>Timeless Design</strong></p>\n<p>The Transparent Turntable is a reinvention of a classic vinyl record player, designed for a modern home and an ever evolving technology. The Transparent Turntable is meticulously crafted out of aluminium and tempered glass. It is a belt driven system with a built in phono stage, and a pre-mounted cartridge from Danish Ortofon.</p>\n<p><strong>Modular</strong></p>\n<p>Just like all Transparent products the TT has a completely modular design. With the future in mind, it is made for flexibility, upgradability and repairability.</p>\n<p><strong>Transparent Sound</strong></p>\n<p>The Transparent Turntable must be connected to a sound system to play music. It works excellent with a speaker from Transparent, but can also be used with other brands. It plays with effortless clarity and precision, and offers playback either with cable or without, using Bluetooth.</p>\n<p><strong>Technical Specifications</strong></p>\n<p>Nominal speeds: 33 ⅓ and 45 RPM<br>Speed variance: 33: ±0.70% 45: ±0.60%<br>Wow and flutter: 33: ±0.25% 45: ±0.25%<br>Signal to noise: ≥ 70dB at 1kHz, 0dB A-weighted<br>Frequency range: 20-25.000Hz +3 / -3<br>Stylus tip radius: r/R 8/18 µm<br>Tracking force range: 1.5-2.0 g (15-20 mN)<br>Tracking force, recommended: 1.75 g (17.5 mN)<br>Tracking angle: 20°<br>Replacement stylus unit: Ortofon Stylus 5E<br>Effective tonearm mass: 13.5g<br>Effective tonearm length: 220mm / 8.7in<br>Overhang: 19.5mm / 0.77in<br>Max power consumption: 15W<br>Dimensions (W x H x D): 410 x 125 x 320 mm / 16 x 5 x 13 in<br>Weight: 6,5kg / 14lb<br>Dimensions packaging (W x H x D): 580 x 240 x 460 mm / 23 x 10 x 19 in<br>Weight incl. packaging: 7,0kg / 15lb<br>Rated input voltage: 100~240Vac, @ 50/60Hz.<br>Bluetooth version: 5.0<br>Normal or True Wireless (stereo) pairing<br>3.5 mm port for digital optical and analogue signals<br>µUSB port for 5V power<br>RX and TX mode (switch)<br>Chip: Qualcomm CSR8670C<br>Codec: aptX LL / SBC / MP3 / AAC<br>Low Latency: &lt;40ms<br>Gold-plated contacts for perfect signal transmission</p>"
+    },
+    {
+      "id": 8879724331340,
+      "title": "Transparent Turntable - White",
+      "handle": "transparent-turntable",
+      "url": "https://arowonen.com/products/transparent-turntable",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:00:19+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T12:21:19+01:00",
+      "available": true,
+      "price_min": 1300,
+      "price_max": 1300,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744303300940,
+          "title": "Default Title",
+          "sku": "",
+          "price": "1300.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-OVERHEAD-0001-WEBSHOP-02_w1000.webp?v=1708946371",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-ANGLED-0002-WEBSHOP_w1000.jpg?v=1708946373",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-FRONT-0001-WEBSHOP_w1000.jpg?v=1708946373",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-BACK-0001-WEBSHOP_w1000.jpg?v=1708946375",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-SIDE-0001-WEBSHOP_w1000.jpg?v=1708946376",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-HINGE-0001-WEBSHOP_w1000.jpg?v=1708946378",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-Pickup-0001-WEBSHOP_w1000.jpg?v=1708946380",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-ACCESSORIES-0001-WEBSHOP_w1000.jpg?v=1708946381",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TT-W-ITRADE-0823-OVERHEAD-0001-WEBSHOP-02_w1000.webp?v=1708946371",
+      "description_html": "<p><strong>Timeless Design</strong></p>\n<p>The Transparent Turntable is a reinvention of a classic vinyl record player, designed for a modern home and an ever evolving technology. The Transparent Turntable is meticulously crafted out of aluminium and tempered glass. It is a belt driven system with a built in phono stage, and a pre-mounted cartridge from Danish Ortofon.</p>\n<p><strong>Modular</strong></p>\n<p>Just like all Transparent products the TT has a completely modular design. With the future in mind, it is made for flexibility, upgradability and repairability.</p>\n<p><strong>Transparent Sound</strong></p>\n<p>The Transparent Turntable must be connected to a sound system to play music. It works excellent with a speaker from Transparent, but can also be used with other brands. It plays with effortless clarity and precision, and offers playback either with cable or without, using Bluetooth.</p>\n<p><strong>Technical Specifications</strong></p>\n<p>Nominal speeds: 33 ⅓ and 45 RPM<br>Speed variance: 33: ±0.70% 45: ±0.60%<br>Wow and flutter: 33: ±0.25% 45: ±0.25%<br>Signal to noise: ≥ 70dB at 1kHz, 0dB A-weighted<br>Frequency range: 20-25.000Hz +3 / -3<br>Stylus tip radius: r/R 8/18 µm<br>Tracking force range: 1.5-2.0 g (15-20 mN)<br>Tracking force, recommended: 1.75 g (17.5 mN)<br>Tracking angle: 20°<br>Replacement stylus unit: Ortofon Stylus 5E<br>Effective tonearm mass: 13.5g<br>Effective tonearm length: 220mm / 8.7in<br>Overhang: 19.5mm / 0.77in<br>Max power consumption: 15W<br>Dimensions (W x H x D): 410 x 125 x 320 mm / 16 x 5 x 13 in<br>Weight: 6,5kg / 14lb<br>Dimensions packaging (W x H x D): 580 x 240 x 460 mm / 23 x 10 x 19 in<br>Weight incl. packaging: 7,0kg / 15lb<br>Rated input voltage: 100~240Vac, @ 50/60Hz.<br>Bluetooth version: 5.0<br>Normal or True Wireless (stereo) pairing<br>3.5 mm port for digital optical and analogue signals<br>µUSB port for 5V power<br>RX and TX mode (switch)<br>Chip: Qualcomm CSR8670C<br>Codec: aptX LL / SBC / MP3 / AAC<br>Low Latency: &lt;40ms<br>Gold-plated contacts for perfect signal transmission</p>"
+    },
+    {
+      "id": 8879718302028,
+      "title": "Transparent Speaker Small - Black",
+      "handle": "transparent-speaker-small-black",
+      "url": "https://arowonen.com/products/transparent-speaker-small-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T11:54:05+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T11:57:27+01:00",
+      "available": true,
+      "price_min": 550,
+      "price_max": 550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744291078476,
+          "title": "Default Title",
+          "sku": null,
+          "price": "550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS_B_front_w1000.jpg?v=1708944913",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-Left-01_w1000.jpg?v=1708944915",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-Under-01__1__w1000.jpg?v=1708944917",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-Rear-01_w1000.jpg?v=1708944920",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-B-Accessories-02_w1000.jpg?v=1708944922",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS_B_front_w1000.jpg?v=1708944913",
+      "description_html": "<p>The Small Transparent Speaker - a compact yet powerful device that delivers exceptional sound quality with its unique Transparent sound technology. This sleek and stylish speaker made of tempered glass and aluminium is the perfect addition to any music lover's collection. This speaker is designed to be as much an interior object as a great sounding piece of technology. It comes with Bluetooth 5.0, but it is also ready for whatever tech that might be useful in coming years.</p>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- All speakers has Bluetooth 5.0 connection<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>- Dimensions (mm): 268 × 203 × 95<br>- Weight: 3,3 kg<br>- Materials: Aluminium and tempered glass<br>- Color: Black</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Output power: 2x 15W<br>- Sealed Cabinet Volume: 3 l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: 1 x Small Transparent Speaker ≈ 40 kvm, 2 x Small transparent Speakers ≈ 50 kvm</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- Cotton gloves<br>- Long and short audio cables<br>- Long and short power cables<br>- AC power plugs (A,C and G)<br>- Manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879715680588,
+      "title": "Transparent Speaker Small - White",
+      "handle": "transparent-speaker-small-white",
+      "url": "https://arowonen.com/products/transparent-speaker-small-white",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T11:50:41+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T11:52:49+01:00",
+      "available": true,
+      "price_min": 550,
+      "price_max": 550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744281936204,
+          "title": "Default Title",
+          "sku": null,
+          "price": "550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-W-image-1500-1000-5_w1000.jpg?v=1708944725",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS_W_Left_w1000.jpg?v=1708944727",
+          "alt": null,
+          "width": 1000,
+          "height": 652
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS_W_Rear_w1000.jpg?v=1708944729",
+          "alt": null,
+          "width": 1000,
+          "height": 652
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS_W_Under_w1000.jpg?v=1708944730",
+          "alt": null,
+          "width": 1000,
+          "height": 652
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-W-Accessories-2_w1000.jpg?v=1708944733",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-W-image-1500-1000-5_w1000.jpg?v=1708944725",
+      "description_html": "<p>The Small Transparent Speaker - a compact yet powerful device that delivers exceptional sound quality with its unique Transparent sound technology. This sleek and stylish speaker made of tempered glass and aluminium is the perfect addition to any music lover's collection. This speaker is designed to be as much an interior object as a great sounding piece of technology. It comes with Bluetooth 5.0, but it is also ready for whatever tech that might be useful in coming years.</p>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- All speakers has Bluetooth 5.0 connection<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>- Dimensions (mm): 268 × 203 × 95<br>- Weight: 3,3 kg<br>- Materials: Aluminium and tempered glass<br>- Color: White </div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Output power: 2x 15W<br>- Sealed Cabinet Volume: 3 l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: 1 x Small Transparent Speaker ≈ 40 kvm, 2 x Small transparent Speakers ≈ 50 kvm</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- Cotton gloves<br>- Long and short audio cables<br>- Long and short power cables<br>- AC power plugs (A,C and G)<br>- Manual</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8879690023244,
+      "title": "Transparent Speaker Small - Metal",
+      "handle": "transparent-speaker-small-metal",
+      "url": "https://arowonen.com/products/transparent-speaker-small-metal",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T11:13:53+01:00",
+      "updated_at": "2026-05-22T17:56:07+02:00",
+      "published_at": "2024-02-26T11:33:11+01:00",
+      "available": true,
+      "price_min": 600,
+      "price_max": 600,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744177111372,
+          "title": "Default Title",
+          "sku": "",
+          "price": "600.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-M-Front_w1000.webp?v=1708943381",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-M-Rear-SmallWebb_w1000.jpg?v=1708943383",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-M-Side-SmallWebb_kopiera_w1000.jpg?v=1708943384",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-M-Bottom_image-SmallWebb_w1000.jpg?v=1708943385",
+          "alt": null,
+          "width": 1000,
+          "height": 648
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STS-M-Front_w1000.webp?v=1708943381",
+      "description_html": "<p>The Small Transparent Speaker - a compact yet powerful device that delivers exceptional sound quality with its unique Transparent sound technology. This sleek and stylish speaker made of tempered glass and aluminium is the perfect addition to any music lover's collection. This speaker is designed to be as much an interior object as a great sounding piece of technology. It comes with Bluetooth 5.0, but it is also ready for whatever tech that might be useful in coming years.</p>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- All speakers has Bluetooth 5.0 connection<br>- Connect two speakers with True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong>\n<div>- Dimensions (mm): 268 × 203 × 95<br>- Weight: 3,3 kg<br>- Materials: Aluminium and tempered glass<br>- Color: Metal</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Amplifier: Class D built-in (active)<br>- Output power: 2x 15W<br>- Sealed Cabinet Volume: 3 l<br>- Frequency Response: 60 Hz - 20 kHz ±3 dB on axis<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: 1 x Small Transparent Speaker ≈ 40 kvm, 2 x Small transparent Speakers ≈ 50 kvm</div>\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- Cotton gloves<br>- Long and short audio cables<br>- Long and short power cables<br>- AC power plugs (A,C and G)<br>- Manual</div>\n</div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

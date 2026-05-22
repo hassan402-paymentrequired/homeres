@@ -1,0 +1,1710 @@
+{
+  "handle": "fendi-casa",
+  "label": "Fendi Casa",
+  "url": "https://arowonen.com/collections/fendi-casa",
+  "scraped_at": "2026-05-22T15:55:19.497Z",
+  "product_count": 23,
+  "products": [
+    {
+      "id": 14876516811084,
+      "title": "Sofa - Gran Pliè",
+      "handle": "sofa-gran-plie",
+      "url": "https://arowonen.com/products/sofa-gran-plie",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T14:02:21+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T14:03:01+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529402773836,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GRANPLIE_DIVANO_6.webp?v=1746964976",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GRANPLIE_verticale.jpg?v=1746964976",
+          "alt": null,
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GRANPLIE_DIVANO_9.jpg?v=1746964976",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GRANPLIE_DIVANO_6.webp?v=1746964976",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p><meta charset=\"utf-8\"><span>The Gran Plié seating collection by Thierry Lemaire consists of a series of two- and three-seater sofas and an inviting armchair. The visually light metal frame, which recalls the balletic plié position, embraces padded elements to create a pleasing harmony of soft curves. Ideal for both classic and contemporary decor schemes, each piece is a finely-calibrated balance of volumes designed for stylish comfort.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14876516286796,
+      "title": "Sofa - Fun Fendi",
+      "handle": "sofa-fun-fendi",
+      "url": "https://arowonen.com/products/sofa-fun-fendi",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T14:01:08+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T14:01:51+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529401463116,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FUNFENDICHAISELONGUE_3.webp?v=1746964917",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FunFendisofa_FendiCasa.webp?v=1746964917",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FUNFENDICHAISELONGUE_13.jpg?v=1746964906",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FUNFENDICHAISELONGUE_3.webp?v=1746964917",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The renowned Fendi artisanal heritage is expressed to perfection in this playful series of ultra-comfortable padded armchairs and sofas inspired by the iconic Peekaboo bag. Designed by Atelier Oï, each piece features fabric or leather upholstery with side slits offering glimpses of the padding for an original series of soft forms. The different pieces combine in a myriad of ways to create inviting compositions that can be arranged to suit the space and your mood. </p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14876515893580,
+      "title": "Sofa - Welcome!",
+      "handle": "sofa-welcome",
+      "url": "https://arowonen.com/products/sofa-welcome",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:59:43+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T14:00:27+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529400414540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Welcome_FendiCasa_3.jpg?v=1746964822",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WelcomesofaFendiCasa.jpg?v=1746964822",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Welcome_FendiCasa_1.jpg?v=1746964822",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_WelcomeSofa_02_ChiaraAndreatti.webp?v=1746964820",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/WelcomeFendi_Casa_2.webp?v=1746964821",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Welcome_FendiCasa_3.jpg?v=1746964822",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>A restyling of the piece designed by Chiara Andreatti for Design Miami 2017, this iteration of the Welcome! sofa boasts a contemporary look and sartorial details. Available as a two- or three-seater, with its inviting backrest, it brings undeniable personality to the living room. The combination of leather or fabric upholstery and decorative cushions make this a striking and exceptionally versatile piece.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14876515729740,
+      "title": "Sofa - Parsifal Round",
+      "handle": "sofa-parsifal",
+      "url": "https://arowonen.com/products/sofa-parsifal",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:58:08+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T13:59:12+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529399333196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PARSIFALROUND__8__1500x1685_FendiCasa.webp?v=1746964734",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_Parsifalround_03_ThierryLemaire.webp?v=1746964734",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ParsifalRoundbluesofaFendiCasa.webp?v=1746964734",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PARSIFALROUND__8__1500x1685_FendiCasa.webp?v=1746964734",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>With its inviting form, the Parsifal round sofa is destined to become an irresistible magnet in your home as the place to live, socialise or simply relax. The semi-circular shape embraces the space like an amphitheatre, while the padded frame with armrests in Pequin fabric creates a striking effect. The padding is designed to deliver exceptional comfort. </p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14876515139916,
+      "title": "Sofa - Taiko",
+      "handle": "sofa-taiko",
+      "url": "https://arowonen.com/products/sofa-taiko",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:55:09+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T13:56:04+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529395269964,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKOPELLE_0040_1500x1685_FendiCasa.webp?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKOleathersofaFendicasadesignfurniture.jpg?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKOPELLE_0023_1500x1685_FendiCasa.jpg?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKO_0004_1500x1685_FendiCasa.jpg?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKO-03Fendicasadesignfurniture.jpg?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKO-05Fendicasadesignfurniture.jpg?v=1746964560",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKO_Alivingroomwithacouchandchairs_brown_FendiCasacontemporarydesignfurniture.webp?v=1746964557",
+          "alt": null,
+          "width": 900,
+          "height": 781
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TAIKOPELLE_0040_1500x1685_FendiCasa.webp?v=1746964560",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The Taiko sofa, designed by Piero Lissoni, stands out for its generous volumes and deep, comfortable seating. Exuding personality, the piece has a linear, lightweight expression, underpinned by a modular design that will easily fit multiple landscapes. Refined finishing touches nod to Fendi's iconic leather craftsmanship – notice the interlaced micro-piping and FF motifs. Customisable cushions complete the design, giving life to a personal and luxurious concept of contemporary living.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14876514386252,
+      "title": "Sofa - Peekasit",
+      "handle": "sofa-peekasit",
+      "url": "https://arowonen.com/products/sofa-peekasit",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:53:56+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T13:54:41+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529391436108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASITSOFA_0004_1500x1685_FendiCasa.webp?v=1746964476",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASIT-03Fendicasadesignfurniture.jpg?v=1746964476",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASITSOFA_0026_1500x1685_FendiCasa.webp?v=1746964476",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASITSOFA_0006_1500x1685_FendiCasa.webp?v=1746964474",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASIT-02Fendicasadesignfurniture.webp?v=1746964473",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PEEKASITSOFA_0004_1500x1685_FendiCasa.webp?v=1746964476",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The Peekasit seating project designed by Controvento, a spin-off of Studio Wanders and led by Gabriele Chiave, is inspired by Fendi's iconic Peekaboo bag. In a design that amazes with its pure and welcoming shapes, the fabric or sheepskin upholstery and the structure in fine Signoria leather create an original inside-out effect. The different elements combine in a compositional game with a strong visual impact, which amazes for its comfort and structural variety.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14876513567052,
+      "title": "Sofa - Sohoft",
+      "handle": "sofa-sohoft",
+      "url": "https://arowonen.com/products/sofa-sohoft",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:51:06+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T13:52:28+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529386258764,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0013.jpg?v=1746964312",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0035.jpg?v=1746964311",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0038.jpg?v=1746964312",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0045.jpg?v=1746964311",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0048.jpg?v=1746964312",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0054.jpg?v=1746964312",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0061.jpg?v=1746964311",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0062.jpg?v=1746964311",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0057.webp?v=1746964311",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOHOFT_0013.jpg?v=1746964312",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>Full shapes and oversized volumes characterise the Sohoft sofa, featuring a tactile combination of soft padded elements. Calibrated proportions and iconic Fendi details are the defining traits of a new interrelation between fashion and luxury design. The variety of modules offers interesting style opportunities with a distinctly contemporary touch, ranging from vis-à-vis seating to more articulated and expansive solutions.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14876513304908,
+      "title": "Sofa - F-Stripes",
+      "handle": "sofa-f-stripes",
+      "url": "https://arowonen.com/products/sofa-f-stripes",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-05-11T13:49:11+02:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-05-11T13:50:41+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52529382162764,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0009.webp?v=1746964236",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0013.jpg?v=1746964236",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0032.jpg?v=1746964236",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0045.jpg?v=1746964236",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0015.webp?v=1746964228",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0034.webp?v=1746964228",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_STRIPES_0009.webp?v=1746964236",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>Representing Italian savoir-faire, the F-Stripes sofa subtly reveals iconic elements of Fendi's artisanal tradition. Its sleek, discreet shape is undoubtedly captivating; by looking closer one can appreciate all its distinctive details: the slender, tapering legs, its vertical elements finished with FF logo details and leather side bands inspired by Fendi's Selleria workmanship. Its neutral tones and logoed cushions create a welcoming atmosphere in the living area.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14713819693388,
+      "title": "Carpet - FF Illusion",
+      "handle": "carpet-ff-illusion",
+      "url": "https://arowonen.com/products/carpet-ff-illusion",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-02-15T20:25:59+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-02-15T20:27:29+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51985753407820,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_1795.jpg?v=1739647647",
+          "alt": null,
+          "width": 1179,
+          "height": 1163
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_1795.jpg?v=1739647647",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>Available in 250x350 and 350x450</p>\n<p>Handtufted</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681031409996,
+      "title": "Sofa - Fendi F-Affair",
+      "handle": "sofa-fendi-f-affair",
+      "url": "https://arowonen.com/products/sofa-fendi-f-affair",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:48:29+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:49:22+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865807782220,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0068.webp?v=1738064957",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0074.jpg?v=1738064957",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0085.jpg?v=1738064957",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0073.webp?v=1738064955",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0093.webp?v=1738064955",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0095.webp?v=1738064955",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0098.webp?v=1738064955",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/F_AFFAIR_0068.webp?v=1738064957",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The Fendi F-Affair sofa by Controvento is shaped on Fendi's iconic FF logo. Eclectic and playful, the modular seats fit intimately into each other, creating infinite design combinations and chromatic possibilities. A harmonious balance between concept and comfort translates into a versatile, welcoming seating solution.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681027510604,
+      "title": "Sofa - Blow Up",
+      "handle": "sofa-blow-up",
+      "url": "https://arowonen.com/products/sofa-blow-up",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:42:31+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:42:55+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865759646028,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1Blowupsofa_SOFA_0029copia_seatingsystem_FendiCasa.webp?v=1738064571",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BLOW-UP02-BISFendicasadesignfurniture.webp?v=1738064571",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1Blowupsofa_CHAISELOUNGE_0006_seatingsystem_FendiCasa.webp?v=1738064571",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1Blowupsofa_CHAISELOUNGE_0008_seatingsystem_FendiCasa.webp?v=1738064570",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1Blowupsofa_SOFA_0003_seatingsystem_FendiCasa.webp?v=1738064570",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1Blowupsofa_SOFA_0029copia_seatingsystem_FendiCasa.webp?v=1738064571",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p><meta charset=\"utf-8\"><span>Featuring a broad, comfortable shape, the Blow Up sofa by Controvento combines iconic elements and transforms them into contemporary design. Seats and backrests effortlessly combine into modular volumes: smooth forms, as if shaped by the wind, alternate Pequin-striped seating with sartorial-inspired pleated details. The substantial wooden base lifts the sofa off the ground, enhancing the feeling of lightness and support.</span></p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681025806668,
+      "title": "Chair - Annabelle",
+      "handle": "chair-annabelle",
+      "url": "https://arowonen.com/products/chair-annabelle",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "CHAIRS"
+      ],
+      "created_at": "2025-01-28T12:40:40+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:41:21+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865742901580,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GAZZELLAPOLTRONA_19.webp?v=1738064476",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ANNABELLE_verticale.webp?v=1738064476",
+          "alt": null,
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GAZZELLAPOLTRONA_18.webp?v=1738064476",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GAZZELLAPOLTRONA_19.webp?v=1738064476",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The Annabelle armchair combines a rounded back in brushed metal with a swivel base and a cocooning design that fosters conversation and relaxation. Its audacious yet harmonious form features upholstery in a palette of neutral tones, including a gazelle option for a truly exclusive addition to your living room.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681006735692,
+      "title": "Chair - Groove & Groovy",
+      "handle": "chair-groove-groovy",
+      "url": "https://arowonen.com/products/chair-groove-groovy",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "CHAIRS"
+      ],
+      "created_at": "2025-01-28T12:29:38+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:30:36+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865648791884,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVE_GROOVYE_0009copia.webp?v=1738063824",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GroovyarmchairssoftwhiteandlightgreenFendiCasa.jpg?v=1738063824",
+          "alt": null,
+          "width": 900,
+          "height": 781
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVE_GROOVY-01Fendicasadesignfurniture.jpg?v=1738063824",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVEEGROOVY_28.jpg?v=1738063824",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVE_GROOVY-02Fendicasadesignfurniture.jpg?v=1738063824",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVEEGROOVY_12.webp?v=1738063821",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GROOVE_GROOVYE_0009copia.webp?v=1738063824",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>With its retro-futuristic design, the Groove &amp; Groovy chair is designed with sheer relaxation in mind. Its inviting form creates a sense of elegant yet informal comfort, with its soft seat and matching ottoman only adding to its tempting presence. Both pieces feature a matt metal base in dual finish, with a swivel mechanism in the footrest. The yellow sheepskin upholstery injects a striking touch of stylish colour into any interior.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14681002639692,
+      "title": "Side Table - Bottini Marble",
+      "handle": "side-table-bottini-marble",
+      "url": "https://arowonen.com/products/side-table-bottini-marble",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "TABLES & DESKS"
+      ],
+      "created_at": "2025-01-28T12:26:30+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:27:21+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865626411340,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BOTTINIMARBLE_5.webp?v=1738063670",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BOTTINI_verticale.webp?v=1738063670",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BOTTINIMARBLE_21.webp?v=1738063670",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BOTTINIMARBLE_5.webp?v=1738063670",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p><span>Featuring a slim, round top that is harmoniously paired with an oval-shaped base, the Bottini Marble coffee table adds a contemporary touch to the living area. </span></p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680999395660,
+      "title": "Table - Sumo",
+      "handle": "coffee-table-sumo",
+      "url": "https://arowonen.com/products/coffee-table-sumo",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "TABLES & DESKS"
+      ],
+      "created_at": "2025-01-28T12:24:20+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:25:11+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865610649932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO__55__1500x1685_FendiCasa.webp?v=1738063539",
+          "alt": null,
+          "width": 866,
+          "height": 973
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Sumo_aroundtablewitharedandorangestripedsurface_Aunique_avant-gardepiecedefinedbymatericcontrastsandastrongpersonality_FendiCasacontemporarydesignfurniture.jpg?v=1738063506",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO_0015Fendicasacoffeetabledesign.jpg?v=1738063506",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO__44__1500x1685_FendiCasa.webp?v=1738063505",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO_0025Fendicasacoffeetabledesign.webp?v=1738063504",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO_27_1500x1685_FendiCasa.webp?v=1738063503",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUMO__55__1500x1685_FendiCasa.webp?v=1738063539",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The Sumo table showcases irregular and rounded shapes supported by sculptural legs. Escaping predefined patterns, it melds the tactile quality of raw metal with the refined, watery effect of the double-layered top, creating a contrast with a strong presence. This interior design project is strongly representative of the Fendi Maison spirit, capturing attention and enriching the living space.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680997364044,
+      "title": "Coffee Table - Metropolis",
+      "handle": "coffee-table-metropolis",
+      "url": "https://arowonen.com/products/coffee-table-metropolis",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "TABLES & DESKS"
+      ],
+      "created_at": "2025-01-28T12:21:15+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:22:37+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865584206156,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLISM_2.jpg?v=1738063323",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Metropoliscoffeetable_FendiCasa.jpg?v=1738063323",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLISM_56.jpg?v=1738063318",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLIS_verticale.jpg?v=1738063319",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLISL_18.webp?v=1738063318",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLISM_47.webp?v=1738063318",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/METROPOLISM_2.jpg?v=1738063323",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>Arches of solids and void alternate with pleasing regularity in the legs of the Metropolis coffee table, made entirely in steel in a choice of elegant finishes. The visually light top in coloured glass combines to create an almost sculptural effect in this innovative piece by Atelier Oï. Available in three formats, it brings a touch of urban chic to spaces ranging from the entrance way to the living room.</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680994840908,
+      "title": "Ottoman - S'Mores",
+      "handle": "ottoman-smores",
+      "url": "https://arowonen.com/products/ottoman-smores",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:18:44+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:19:37+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865554846028,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/S_MORES__24__1500x1685_FendiCasa.webp?v=1738063171",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Smores_cut.webp?v=1738063171",
+          "alt": null,
+          "width": 900,
+          "height": 752
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-01-28om12.19.12.png?v=1738063171",
+          "alt": null,
+          "width": 416,
+          "height": 200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/S_MORES__24__1500x1685_FendiCasa.webp?v=1738063171",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p><meta charset=\"utf-8\"><span>The S'Mores ottoman is an ideal complement to a sofa, or as a stunning focal element of the living area. Small and oval, large and round, its sophisticated silhouette expresses innate versatility, while the tubular metal finishes enriched with FF details become a decorative, highly iconic element. The essential fluidity of this project demonstrates how the stylistic strength of minimal design can adapt to different styles of home, from classic to contemporary environments.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680992907596,
+      "title": "Sofa - Five",
+      "handle": "sofa-five",
+      "url": "https://arowonen.com/products/sofa-five",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:17:05+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:18:07+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865533940044,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVEDIVANO_4.webp?v=1738063079",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVE_verticale.webp?v=1738063079",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVEDIVANO_32.jpg?v=1738063079",
+          "alt": null,
+          "width": 900,
+          "height": 1009
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVE_dettaglio.jpg?v=1738063079",
+          "alt": null,
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVE_dettaglio_V02.webp?v=1738063079",
+          "alt": null,
+          "width": 900,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FIVEDIVANO_4.webp?v=1738063079",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>A seamless dialogue between architecture and design, the Five sofa by Marcel Wanders is a harmoniously-balanced of seating and storage solution. Each padded modular seating unit is upholstered in a choice of fabric or leather, creating an elegant contrast of solids and voids with the marble side table and its push-pull drawer in varnished wood. A supremely versatile item of furniture with a host of configurations, it is designed to foster convivial living.<a class=\"c-button c-button--underline button--small\" href=\"https://www.fendicasa.com/on/demandware.static/-/Library-Sites-FendiCasa-contentlib/default/dwca78df56/pdf/pdp-technical-sheets/FENDI%20CASA%20-%20Five%20-%202023.pdf\" target=\"_blank\"><span class=\"button__label\" data-english-label=\"null\"></span></a></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680989696332,
+      "title": "Table - Dedalo",
+      "handle": "table-dedalo",
+      "url": "https://arowonen.com/products/table-dedalo",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "TABLES & DESKS"
+      ],
+      "created_at": "2025-01-28T12:13:59+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:15:36+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865502974284,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DedaloTav_2.webp?v=1738062922",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Dedalodiningtable_FendiCasa.jpg?v=1738062922",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-01-28om12.14.58.png?v=1738062922",
+          "alt": null,
+          "width": 315,
+          "height": 286
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_DedaloTable_02_Dimorestudio_1.jpg?v=1738062921",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-01-28om12.14.53.png?v=1738062921",
+          "alt": null,
+          "width": 607,
+          "height": 461
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_DedaloTable_03_Dimorestudio_1.webp?v=1738062916",
+          "alt": null,
+          "width": 900,
+          "height": 600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DedaloTav_2.webp?v=1738062922",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>A restyling of the iconic table created for Design Miami 2014, Dedalo casts a hypnotic-like effect with its intermingling base frames of steel squared tubes in contrasting finishes, creating the idea of a labyrinth in which you could easily lose yourself. Available in 5 formats, all with a glass top. Naturally elegant, the link with the legend makes for a table that evokes visions of epic, poetic scenes and extreme tension.<a class=\"c-button c-button--underline button--small\" href=\"https://www.fendicasa.com/on/demandware.static/-/Library-Sites-FendiCasa-contentlib/default/dw6d3bcc9f/pdf/pdp-technical-sheets/dedalo.pdf\" target=\"_blank\"><span class=\"button__label\" data-english-label=\"null\"></span></a></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680987468108,
+      "title": "Sofa - Totu",
+      "handle": "sofa-totu",
+      "url": "https://arowonen.com/products/sofa-totu",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "SOFAS"
+      ],
+      "created_at": "2025-01-28T12:11:02+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:12:29+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865486033228,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TOTUSOFAFendiCasa.webp?v=1738062706",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TotusofasystemFendiCasa.webp?v=1738062706",
+          "alt": null,
+          "width": 900,
+          "height": 884
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TOTUSOFA_042.webp?v=1738062706",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TOTUsofa_FendiCasaPdp.webp?v=1738062706",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Totu_Sofa_FendiCasa_1.webp?v=1738062706",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TOTUSOFAFendiCasa.webp?v=1738062706",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>The visual lightness and exceptional comfort offered by the Totu sofa strike a happy balance as the central piece in the living zone. The tubular metal structure, designed by Toan Nguyen, is complemented by soft padded cushions and armrests featuring the FF logo. Every piece in the Totu collection is designed to create an intimate corner in the living area that fosters conversation and relaxation. </p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14680983142732,
+      "title": "Decorative Cushion - Bouclé FR",
+      "handle": "decorative-cushion-boucle-fr",
+      "url": "https://arowonen.com/products/decorative-cushion-boucle-fr",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "DECORATIVE CUSHIONS"
+      ],
+      "created_at": "2025-01-28T12:06:25+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:06:39+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865442484556,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CUSCINO_005.webp?v=1738062396",
+          "alt": null,
+          "width": 450,
+          "height": 300
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CUSCINO_093_1.webp?v=1738062396",
+          "alt": null,
+          "width": 1000,
+          "height": 1500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CUSCINO_005.webp?v=1738062396",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>The Fendi Roma cushion is a homage to the distinctive design and aesthetic of the Maison. Made from soft bouclé with fabric logo, it is available in a choice of iconic yellow or brown. Delightful to the touch, its elegant, versatile colour accents make it the perfect accessory for any decor style.</span><br></p>"
+    },
+    {
+      "id": 14680977244492,
+      "title": "Dining Chair - Totu",
+      "handle": "chair-totu",
+      "url": "https://arowonen.com/products/chair-totu",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "DINING CHAIRS"
+      ],
+      "created_at": "2025-01-28T12:01:10+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T12:02:43+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865403228492,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_TotuChair_01_ToanNguyen.jpg?v=1738938654",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ICARO-01_20Fendi_20casa_20design_20furniture.webp?v=1738938666",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDI_20Casa_Totu_20Chair_03_Toan_20Nguyen_20_1.webp?v=1738938666",
+          "alt": null,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Totu_Chair.webp?v=1738938653",
+          "alt": null,
+          "width": 900,
+          "height": 769
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TOTU_WOOD_LIGHT_0024_20copia.webp?v=1738938653",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FENDICasa_TotuChair_01_ToanNguyen.jpg?v=1738938654",
+      "description_html": "<p><meta charset=\"utf-8\"><span>The Totu chair pairs an elegant metal tubular frame with upholstery in a choice of leather finishes and large inviting cushions on the seat and back. Designed for contemporary, convivial spaces, it combines the dynamic, visually clean lines of the structure with the softness of the seat. The result of this pairing of contrasting materials is a comfortable and elegant dining chair.</span><br></p>"
+    },
+    {
+      "id": 14680917737804,
+      "title": "Side Table - Bottini Jelly",
+      "handle": "side-table-bottini-jelly",
+      "url": "https://arowonen.com/products/side-table-bottini-jelly",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "TABLES & DESKS"
+      ],
+      "created_at": "2025-01-28T11:28:03+01:00",
+      "updated_at": "2026-05-22T17:55:19+02:00",
+      "published_at": "2025-01-28T11:28:03+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51865141903692,
+          "title": "Default Title",
+          "sku": "",
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Bottinijelly_lowtable__30__1500x1685_FendiCasa.webp?v=1738060025",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Bottinijelly_lowtable__13__1500x1685_FendiCasa.webp?v=1738060025",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-01-28om11.26.53.png?v=1738060026",
+          "alt": null,
+          "width": 354,
+          "height": 314
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BOTTINI__21_copia.webp?v=1738060025",
+          "alt": null,
+          "width": 900,
+          "height": 1011
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Bottinijelly_lowtable__30__1500x1685_FendiCasa.webp?v=1738060025",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Featuring a slim, round top that is harmoniously paired with an oval-shaped base, the Bottini jelly coffee table adds a contemporary touch to the living area. Its masterfully balanced shapes are enriched by a resin base with FF details and a glossy lacquered top. The aesthetic purity of these elements translates into a simple yet sophisticated design, ideal to match with the various combinations of the Bottini table in a perfectly coordinated play of light and colour.</span></p>"
+    }
+  ]
+}

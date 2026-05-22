@@ -1,0 +1,1437 @@
+{
+  "handle": "plaids-bedspreads",
+  "label": "Bedding",
+  "url": "https://arowonen.com/collections/plaids-bedspreads",
+  "scraped_at": "2026-05-22T15:58:41.170Z",
+  "product_count": 14,
+  "products": [
+    {
+      "id": 15472599925068,
+      "title": "Plaid - Aiden Cream 150x200cm",
+      "handle": "plaid-aidem-cream-150x200cm",
+      "url": "https://arowonen.com/products/plaid-aidem-cream-150x200cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "HOME ACCESSORIES",
+        "PLAIDS",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2025-12-20T17:02:47+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2025-12-20T17:02:48+01:00",
+      "available": true,
+      "price_min": 199,
+      "price_max": 199,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56288384811340,
+          "title": "Default Title",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_1.jpg?v=1766246583",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_3.jpg?v=1766246583",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_2.jpg?v=1766246542",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design.jpg?v=1766246542",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_1.jpg?v=1766246583",
+      "description_html": "<p>Transform your living space with the Aiden cream plaid, a sophisticated textile investment measuring 150x200 cm. Whether styled casually or formally, this versatile piece delivers both functional warmth and curated elegance to elevate your interior design.</p>"
+    },
+    {
+      "id": 8918511026508,
+      "title": "Dreamer Fitted Sheet - Satin Navy",
+      "handle": "dreamer-fitted-sheet-satin-navy",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-navy",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:28:44+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:29:27+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841373749580,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841373782348,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841373815116,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841373847884,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-navy_2.webp?v=1710682162",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-navy_1.webp?v=1710682162",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-navy.webp?v=1710682162",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-navy_3.webp?v=1710682157",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-navy_2.webp?v=1710682162",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918508732748,
+      "title": "Dreamer Fitted Sheet - Satin Light Sand",
+      "handle": "dreamer-fitted-sheet-satin-light-sand",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-light-sand",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:26:15+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:27:34+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841360085324,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841360118092,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841360150860,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841360183628,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-licht-zand_3.webp?v=1710682051",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-licht-zand_2.webp?v=1710682051",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-licht-zand.webp?v=1710682051",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-licht-zand_3.webp?v=1710682051",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918506701132,
+      "title": "Dreamer Fitted Sheet - Satin Light Blue",
+      "handle": "dreamer-fitted-sheet-light-blue",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-light-blue",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:25:03+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:25:45+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841341964620,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841341997388,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841342030156,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841342062924,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-lichtblauw_2.webp?v=1710681940",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-lichtblauw_1.webp?v=1710681940",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-lichtblauw.webp?v=1710681940",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-lichtblauw.jpg?v=1710681936",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-lichtblauw_2.webp?v=1710681940",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918505914700,
+      "title": "Dreamer Fitted Sheet - Satin Anthracite",
+      "handle": "dreamer-fitted-sheet-satin-anthracite",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-anthracite",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:24:25+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:24:44+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841339277644,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841339310412,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841339343180,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841339375948,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-antraciet_2.webp?v=1710681878",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-antraciet_1.webp?v=1710681878",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-antraciet.webp?v=1710681878",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-antraciet_3.webp?v=1710681874",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-antraciet_2.webp?v=1710681878",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918504964428,
+      "title": "Dreamer Fitted Sheet - Satin Ivory",
+      "handle": "dreamer-fitted-sheet-satin-ivory",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-ivory",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:23:22+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:23:37+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841329348940,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841329381708,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841329414476,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841329447244,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-ivoor_2.webp?v=1710681814",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-ivoor_1.webp?v=1710681814",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-ivoor.webp?v=1710681814",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-ivoor_3.webp?v=1710681809",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-ivoor_2.webp?v=1710681814",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918503391564,
+      "title": "Dreamer Fitted Sheet - Satin Taupe",
+      "handle": "dreamer-fitted-sheet-satin-taupe",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-taupe",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:21:54+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:22:41+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841323778380,
+          "title": "140x200 cm",
+          "sku": null,
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841323811148,
+          "title": "160x200 cm",
+          "sku": null,
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841323843916,
+          "title": "180x200 cm",
+          "sku": null,
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841323876684,
+          "title": "200x200 cm",
+          "sku": null,
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-taupe_2.webp?v=1710681751",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-taupe_1.webp?v=1710681751",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-taupe.webp?v=1710681751",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-taupe_3.webp?v=1710681749",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-taupe_2.webp?v=1710681751",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918495789388,
+      "title": "Dreamer Fitted Sheet - Satin White",
+      "handle": "dreamer-fitted-sheet-satin-white",
+      "url": "https://arowonen.com/products/dreamer-fitted-sheet-satin-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T14:15:22+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T14:17:21+01:00",
+      "available": true,
+      "price_min": 47.95,
+      "price_max": 62.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47841287504204,
+          "title": "140x200 cm",
+          "sku": "",
+          "price": "47.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841287569740,
+          "title": "160x200 cm",
+          "sku": "",
+          "price": "50.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "160x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841287602508,
+          "title": "180x200 cm",
+          "sku": "",
+          "price": "55.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "180x200 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841287668044,
+          "title": "200x200 cm",
+          "sku": "",
+          "price": "62.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200 cm",
+            "160x200 cm",
+            "180x200 cm",
+            "200x200 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-wit_2.webp?v=1710681413",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-wit_1.webp?v=1710681413",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-wit.webp?v=1710681413",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-wit_3.webp?v=1710681400",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-hoeslaken-katoen-satijn-wit_2.webp?v=1710681413",
+      "description_html": "<p>The satin fitted sheet from the Sundays collection proves that you can also use simplicity to make a big impact on style and mood. It's all about the right quality, colours and finish. The fitted sheet is made from the trusted quality in 100% cotton and woven in a satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen.</p>\n<p><strong>﻿SPECIFICATIONS<br><br>Material</strong><br>100% cotton-satin: soft, supple and smooth. Woven in satin weave<br data-mce-fragment=\"1\"><strong>Fabric</strong><br>Subtle luxurious silk sheen<br data-mce-fragment=\"1\"><strong>Mattress Thickness</strong><br>Suitable for mattresses up to 25 cm high<br data-mce-fragment=\"1\"><strong>All-round elastication</strong><br>The all-round elastication ensures a perfect fit<br data-mce-fragment=\"1\"><strong>Features</strong><br>Breathable and skin-friendly<br data-mce-fragment=\"1\"><strong>Washing instructions</strong><br>Wash up to 60 degrees, dry at low temperature</p>"
+    },
+    {
+      "id": 8918464758092,
+      "title": "Dreamer Duvet Cover - Satin Navy",
+      "handle": "duvet-cover-satin-navy",
+      "url": "https://arowonen.com/products/duvet-cover-satin-navy",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:51:26+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:52:04+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47841060356428,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": null,
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841060389196,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841060421964,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy_3.webp?v=1710681550",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy_2.webp?v=1710681550",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy_1.webp?v=1710681550",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy.webp?v=1710681550",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy_4.webp?v=1710679901",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-navy_3.webp?v=1710681550",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    },
+    {
+      "id": 8918453715276,
+      "title": "Dreamer Duvet Cover - Satin Light Sand",
+      "handle": "duvet-cover-satin-light-sand",
+      "url": "https://arowonen.com/products/duvet-cover-satin-light-sand",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:42:35+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:47:15+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47841006092620,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": null,
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841006125388,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47841006158156,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_3.webp?v=1710681546",
+          "alt": null,
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_2.webp?v=1710681546",
+          "alt": null,
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_1.webp?v=1710681546",
+          "alt": null,
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image.webp?v=1710681546",
+          "alt": null,
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_4.webp?v=1710679598",
+          "alt": null,
+          "width": 1500,
+          "height": 1500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_3.webp?v=1710681546",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    },
+    {
+      "id": 8918438445388,
+      "title": "Dreamer Duvet Cover - Satin Anthracite",
+      "handle": "duvet-cover-satin-anthracite",
+      "url": "https://arowonen.com/products/duvet-cover-satin-anthracite",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:31:56+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:32:41+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47840960446796,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": null,
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840960479564,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840960512332,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet_3.webp?v=1710681524",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet_1.webp?v=1710681524",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet_2.webp?v=1710681524",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet.webp?v=1710681523",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet_4.webp?v=1710678729",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-antraciet_3.webp?v=1710681524",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    },
+    {
+      "id": 8918418358604,
+      "title": "Dreamer Duvet Cover - Satin Ivory",
+      "handle": "dreamer-duvet-cover-satin-ivory",
+      "url": "https://arowonen.com/products/dreamer-duvet-cover-satin-ivory",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:12:04+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:13:33+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47840891076940,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": null,
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840891109708,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840891142476,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-ivoor_3.webp?v=1710681534",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-ivoor_1.webp?v=1710681534",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-ivoor.webp?v=1710681534",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-ivoor_2.webp?v=1710681534",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-ivoor_3.webp?v=1710681534",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    },
+    {
+      "id": 8918415901004,
+      "title": "Dreamer Duvet Cover - Satin Taupe",
+      "handle": "dreamer-duvet-cover-satin-taupe-1",
+      "url": "https://arowonen.com/products/dreamer-duvet-cover-satin-taupe-1",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:09:48+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:11:13+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47840884293964,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": null,
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840884326732,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840884359500,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": null,
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe_4.webp?v=1710681555",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe_2.webp?v=1710681555",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe_1.webp?v=1710681555",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe.webp?v=1710681555",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe_3.webp?v=1710681555",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-taupe_4.webp?v=1710681555",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    },
+    {
+      "id": 8918408692044,
+      "title": "Dreamer Duvet Cover - Satin White",
+      "handle": "dreamer-duvet-cover-satin-white",
+      "url": "https://arowonen.com/products/dreamer-duvet-cover-satin-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2024-03-17T13:02:09+01:00",
+      "updated_at": "2026-05-22T17:58:41+02:00",
+      "published_at": "2024-03-17T13:08:14+01:00",
+      "available": true,
+      "price_min": 49.95,
+      "price_max": 99.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47840869384524,
+          "title": "140x200/220 + 1 pillowcase",
+          "sku": "",
+          "price": "49.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "140x200/220 + 1 pillowcase",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840869417292,
+          "title": "200x200/220 + 2 pillowcases",
+          "sku": "",
+          "price": "89.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47840869450060,
+          "title": "240x200/220 + 2 pillowcases",
+          "sku": "",
+          "price": "99.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "240x200/220 + 2 pillowcases",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "140x200/220 + 1 pillowcase",
+            "200x200/220 + 2 pillowcases",
+            "240x200/220 + 2 pillowcases"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit_3.webp?v=1710681559",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit_2.webp?v=1710681559",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit_1.webp?v=1710681559",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit.webp?v=1710677283",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit_4.webp?v=1710677259",
+          "alt": null,
+          "width": 660,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sundays-dekbedovertrek-katoen-satijn-wit_3.webp?v=1710681559",
+      "description_html": "<p>This duvet cover from Cinderella is made of 100% cotton, woven in satin weave. This gives the fabric a wonderfully soft, supple and smooth feel and a subtle silk sheen. The matching pillowcases are finished with a stylish Oxford flounce on 3 sides, giving a luxurious look. Cinderella duvet covers feature a full-width double tuck-in strip, making them suitable for duvets up to 220 cm long. Cinderella duvet covers come with matching pillowcases in 60x70 cm size. Single duvet covers come with 1 pillowcase, the other sizes include 2 pillowcases. Besides the cotton-satin duvet covers, Cinderella also has plain cotton-satin fitted sheets, sheets and pillowcases in the range in the same colours where you can mix and match for a beautiful whole.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Specifications<br><br></strong><strong>Material</strong><br>100% Cotton satin<br data-mce-fragment=\"1\"><strong>Pillowslips</strong><br>Fitted with oxford border<br data-mce-fragment=\"1\"><strong>Closure</strong><br>Full width stopper strip<br data-mce-fragment=\"1\"><strong>Duvet length<br></strong>Suitable for duvets up to 220 cm<br data-mce-fragment=\"1\"><strong>Washing instructions<br></strong>Wash up to 60 degrees, dry at low temperature<br data-mce-fragment=\"1\"><strong>Quality mark</strong> <br>Oeko-TEX® certified<br></p>"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "handle": "chaise-longues",
+  "label": "Chaise Longues",
+  "url": "https://arowonen.com/collections/chaise-longues",
+  "scraped_at": "2026-05-22T15:56:45.467Z",
+  "product_count": 7,
+  "products": [
+    {
+      "id": 15008843858252,
+      "title": "Sofa - Ginestra - By Antonino Sciortino",
+      "handle": "sofa-ginestra-by-antonino-sciortino",
+      "url": "https://arowonen.com/products/sofa-ginestra-by-antonino-sciortino",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Antonino Sciortino",
+        "Hide",
+        "hide-price",
+        "SOFAS"
+      ],
+      "created_at": "2025-08-04T12:17:03+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-08-06T12:46:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054798233932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_49_4e6198d7-d29e-4e4f-b35b-51a2e1dd25b5.avif?v=1754302777",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_50_8ab96a60-1386-49aa-bc18-05ad72faf9e5.avif?v=1754302777",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_51_3d6d3817-82af-41a7-a754-52509a9eed33.avif?v=1754302776",
+          "alt": null,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_49_4e6198d7-d29e-4e4f-b35b-51a2e1dd25b5.avif?v=1754302777",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">Antonino Sciortino’s Ginestra chaise longue is an original symbol of everyday living, dividing the living space with the graphic play of its striking frame. Made entirely of galvanized metal rod and painted matte black, the sofa features a rhythmic pattern that alternates full and empty, curved and severe shapes. The key design element of the chaise longue is the high vertical backrest that embraces and supports the leather-upholstered cushioned seat. The decorative profile of the seat cushion draws soft shapes and wins you over with Ginestra’s unique comfort.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14983456063820,
+      "title": "Chaise longues - sveva capitonné",
+      "handle": "chaise-longues-sveva-capitonne",
+      "url": "https://arowonen.com/products/chaise-longues-sveva-capitonne",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:27:49+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:30:00+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967075807564,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Sveva_lettini_dehors_1_2deb79dacc.webp?v=1753973241",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_FULL_BLEED_PDP_DESKTOP_Sveva_10086b035e.webp?v=1753973242",
+          "alt": null,
+          "width": 2048,
+          "height": 1173
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_2023_Sveva_Capitonne_chaiselongue_tec_1_ccb0c22038.webp?v=1753973241",
+          "alt": null,
+          "width": 2048,
+          "height": 1374
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Sveva_lettini_dehors_1_2deb79dacc.webp?v=1753973241",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <span>Structure in poplar plywood with support in metal for legs ﬁxing. Padding in polyurethane in double density, for capitonné working. External proﬁle in rigid polyurethane. Headrest cushion 60x30 cm in feather with pipings and with ﬁxing bands. Upholstered with fabric or leather and with pipings. Sliding roof with adjustable inclination in fabric. Legs and turnings in shiny aluminium.</span><br><span>Metal parts can be lacquered in any colour of the metal ﬁnish selection. and turnings in shiny aluminium.</span>\n</div>\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><span></span></div>\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><span><meta charset=\"utf-8\">L 228 × H 130 × W 107 cm<br>L 89 3/4\" × H 51 1/8\" × W 42 1/8\"</span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14983448068428,
+      "title": "Chaise longues - Fedro",
+      "handle": "chaise-longues-fedro",
+      "url": "https://arowonen.com/products/chaise-longues-fedro",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:23:45+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:25:35+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967058735436,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Fedro_Chaise_Longue_01_5de2977868.webp?v=1753973399",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Fedro_Chaise_Longue_02_47ae84ecce.webp?v=1753973399",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Fedro_01_4e759dfc7a_1.jpg?v=1753973399",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Fedro_ac3c1b6c22.jpg?v=1753973399",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Fedro_01_4e759dfc7a.jpg?v=1753973399",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_Fedro_chaise_longue_dwg_c402cc79c9.webp?v=1753973399",
+          "alt": null,
+          "width": 2048,
+          "height": 1374
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Fedro_Chaise_Longue_01_5de2977868.webp?v=1753973399",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Double and single padded chaise longue, internal structure in plywood and solid fir, padding in open cell polyurethane with different densities. Elastic straps. External frame formed by two cylindrical padded tubes that enclose a mattress and form the base and backrest. Upholstery in leather or fabric, the central mattress is covered separately and equipped with a top layer in Memory Foam®.</div>\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"></div>\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span>L 180 × H 83 × W 115 / 148 cm</span><br><span>L 70 7/8\" × H 32 5/8\" × W 45 1/4 / 58 1/4\"</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14983441776972,
+      "title": "Chaise longues - Dubhe",
+      "handle": "chaise-longues-douglas",
+      "url": "https://arowonen.com/products/chaise-longues-douglas",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:20:18+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:23:00+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967046021452,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_chaise_longue_turche_0001_dubhe_32c90554fa.webp?v=1753973578",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Dubhe_Chaise_Longue_01_b96a063bb5.webp?v=1753973578",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_FULL_BLEED_PDP_DESKTOP_Dubhe_cde64a2845.webp?v=1753973543",
+          "alt": null,
+          "width": 2048,
+          "height": 1173
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_2023_Dubhe_chaiselongue_tec_1_6b693e2395.webp?v=1753973542",
+          "alt": null,
+          "width": 2048,
+          "height": 1374
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_chaise_longue_turche_0001_dubhe_32c90554fa.webp?v=1753973578",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Base in plywood. Padding in polyurethane of different densities and acrylic ﬁbre layer. Cover in stretch ecological fur; with decorative chain and Visionnaire plate.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<span>L 216 × H 82 × W 116 cm</span><br><span>L 85\" × H 32 1/4\" × W 45 5/8\"</span><br><meta charset=\"utf-8\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14983438369100,
+      "title": "Chaise longues - Deimos",
+      "handle": "chaise-longues-deimos",
+      "url": "https://arowonen.com/products/chaise-longues-deimos",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:18:43+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:19:58+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967037043020,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Deimos_Chaise_Longue_01_834fb3d16b.webp?v=1753973694",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_DEIMOS_chaise_longue_gallery_07_28ca3d4ef4.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_DEIMOS_chaise_longue_gallery_05_0612cd50d2.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 1482
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_DEIMOS_chaise_longue_gallery_06_752a6d38d7.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 1491
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_DEIMOS_chaise_longue_gallery_03_80e22c3daf.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_DEIMOS_chaise_longue_gallery_02_0684b955f5.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_FULL_BLEED_PDP_DESKTOP_Deimos_01_89be317677.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 1173
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_FULL_BLEED_PDP_DESKTOP_Deimos_b01c474000.webp?v=1753973695",
+          "alt": null,
+          "width": 2048,
+          "height": 1173
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_2022_Deimos_chaise_longue_tec_01_a7b8bc614e.webp?v=1753973694",
+          "alt": null,
+          "width": 2048,
+          "height": 1374
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Deimos_Chaise_Longue_01_834fb3d16b.webp?v=1753973694",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Dormeuse upholstered in leather or fabric. Curved and shaped frame in solid and multiply wood, externally covered in rigid shaped polyurethane with concave and curved external surfaces. Internal armrests and backrest in convex polyurethane and seat in polyurethane with variable density and acrylic layer, with elastic belt springing. Body in mat painted ash solid wood.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"flex my-2\">\n<div class=\"flex flex-row-reverse md:flex-row flex-wrap my-2 pt-0  mt-0 mb-0 hidden md:block text-6xl font-serif text-black leading-17 md:px-0 justify-between\"><span class=\"base\" data-ui-id=\"page-title-wrapper\"><meta charset=\"utf-8\">\n<span>L 223 × H 74 × W 94 cm</span><br><span>L 87 3/4\" × H 29 1/8\" × W 37\"</span></span></div>\n</div>\n<div class=\"text-primary text-sm mb-2\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14983437025612,
+      "title": "Chaise longues - Citizen",
+      "handle": "chaise-longues-citizen",
+      "url": "https://arowonen.com/products/chaise-longues-citizen",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:17:53+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:18:28+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967034290508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Citizen_Chaise_Longue_2ce4979a3b.webp?v=1753973790",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_FULL_BLEED_PDP_DESKTOP_Citizen_2b971e2bef.webp?v=1753973791",
+          "alt": null,
+          "width": 2048,
+          "height": 1173
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Citizen_Chaise_Longue_2ce4979a3b.webp?v=1753973790",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Internal structure in solid wood and plywood, equipped with spring system with straps; seat, backrest and armrests padded in polyurethane foam in differentdensities, Memory Foam® and acrylic ﬁbre. Upholstery in leather or fabric. Wooden base coated in satinized stainless steel. In the one-armrest version, decorative coat of arms on the oblique part of the backrest in satinized stainless steel. Metal parts available in the satinized metal ﬁnishing selection. Upon request, available loose round cushions Ø35 cm and rectangular cushions 35x40 cm ﬁlled in feather, upholstered in leather or fabric. Available in Action version, with seat and back upholstery ﬁnished with canneté quilted motif.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14983425229132,
+      "title": "Chaise longues - Blazing",
+      "handle": "chaise-longues-selfless",
+      "url": "https://arowonen.com/products/chaise-longues-selfless",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "SOFAS"
+      ],
+      "created_at": "2025-07-22T17:11:49+02:00",
+      "updated_at": "2026-05-22T17:56:45+02:00",
+      "published_at": "2025-07-22T17:14:06+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52967013220684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Blazing_Chaise_Longue_ff7cc20459.webp?v=1753974076",
+          "alt": null,
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Blazing_4852b8d805.webp?v=1753974076",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Blazing_02_87cf2ddab2.webp?v=1753974076",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GALLERY_CON_SLIDER_PDP_Blazing_01_88f4c6b0ad.jpg?v=1753974077",
+          "alt": null,
+          "width": 1132,
+          "height": 1326
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d_import_2020_Blazing_chaiselongue_tec_01_120f984bb0.webp?v=1753974076",
+          "alt": null,
+          "width": 2048,
+          "height": 1374
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Blazing_Chaise_Longue_ff7cc20459.webp?v=1753974076",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Wooden and metal structure with spring system with straps; padding in polyurethane foam in different densities. Seat cushion in polyurethane, Memory Foam® and goose down. Loose cushions in feather. Upholstery in leather or fabric. Side shelf in marble. Legs and inserts in satinized stainless steel, available in the metal ﬁnishing selection.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<span>L 180 × H 60 × W 80 cm</span><br><span>L 70 7/8\" × H 23 5/8\" × W 31 1/2\"</span>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    }
+  ]
+}

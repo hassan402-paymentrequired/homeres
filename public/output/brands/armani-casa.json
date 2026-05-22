@@ -1,0 +1,706 @@
+{
+  "handle": "armani-casa",
+  "label": "Armani/Casa",
+  "url": "https://arowonen.com/collections/armani-casa",
+  "scraped_at": "2026-05-22T15:54:42.682Z",
+  "product_count": 5,
+  "products": [
+    {
+      "id": 9019143356748,
+      "title": "Wallpaper - Refined Structures 2 - Brera",
+      "handle": "wallpaper-refined-structures-2-brera",
+      "url": "https://arowonen.com/products/wallpaper-refined-structures-2-brera",
+      "vendor": "ARMANI/CASA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T15:26:56+02:00",
+      "updated_at": "2026-05-22T17:54:42+02:00",
+      "published_at": "2024-05-19T15:31:18+02:00",
+      "available": true,
+      "price_min": 199,
+      "price_max": 199,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48141000737100,
+          "title": "9510",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9510",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141000769868,
+          "title": "9511",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9511",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141011681612,
+          "title": "9512",
+          "sku": "",
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9512",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141011714380,
+          "title": "9513",
+          "sku": "",
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9513",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141011747148,
+          "title": "9514",
+          "sku": "",
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9514",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48141011779916,
+          "title": "9515",
+          "sku": "",
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9515",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "9510",
+            "9511",
+            "9512",
+            "9513",
+            "9514",
+            "9515"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9510.jpg?v=1716125411",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9511.jpg?v=1716125412",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9512.jpg?v=1716125410",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9513.jpg?v=1716125411",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9514.jpg?v=1716125412",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9515.jpg?v=1716125411",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9510.jpg?v=1716125411",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">Brera, “the district of the artists”, is the most renowned of Milan: located in the heart of the historic city center, it is famous for its charming atmosphere and fine boutiques. The same elegance defines this new wallcovering, inspired by the details of the Armani Privé collections. The design created by the embroidering of thousands of beads is reproduced on the vinyl support, made precious by the use of a pearlescent finishing that highlights the three-dimensional effect. Presented in neutral tones as well as pastel blue and green.</div>\n</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"><br></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"><br></div>\n</div>\n</div>\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<table class=\"w-100\">\n<tbody>\n<tr>\n<td class=\"pb-3\">Width</td>\n<td class=\"pb-3 testo-light\">0,700 mt - 2,296 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Length</td>\n<td class=\"pb-3 testo-light\">10,050 mt - 32,964 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Quality</td>\n<td class=\"pb-3 testo-light\">Vinilico</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Composition</td>\n<td class=\"pb-3 testo-light\">Heavy weight vinyl</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Unity</td>\n<td class=\"pb-3 testo-light\">Roll</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Repeat</td>\n<td class=\"pb-3 testo-light\">64,00 cm - 25,20 in</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Match</td>\n<td class=\"pb-3 testo-light\">Offset match</td>\n</tr>\n</tbody>\n</table>\n<br>\n</div>\n</div>\n<div x-data=\"{ expanded: false }\"><br></div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019139031372,
+      "title": "Wallpaper - Refined Structures 1 - Versailles",
+      "handle": "wallpaper-refined-structures-1-versailles",
+      "url": "https://arowonen.com/products/wallpaper-refined-structures-1-versailles",
+      "vendor": "ARMANI/CASA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T15:23:27+02:00",
+      "updated_at": "2026-05-22T17:54:42+02:00",
+      "published_at": "2024-05-19T15:26:13+02:00",
+      "available": true,
+      "price_min": 199,
+      "price_max": 199,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 48140990513484,
+          "title": "9260",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9260",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140990546252,
+          "title": "9261",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9261",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "9260",
+            "9261"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9261.jpg?v=1716279125",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9260.jpg?v=1716279125",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9261.jpg?v=1716279125",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">Versailles represents shadows of royal oaks trees where nature is painted in turquoise green or in ice and beige; Louvre is an elegant and thin canneté in eight nuances, from light tones to strong blues.</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"><br></div>\n</div>\n</div>\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<table class=\"w-100\">\n<tbody>\n<tr>\n<td class=\"pb-3\">Width</td>\n<td class=\"pb-3 testo-light\">0,700 mt - 2,296 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Length</td>\n<td class=\"pb-3 testo-light\">10,050 mt - 32,964 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Quality</td>\n<td class=\"pb-3 testo-light\">Vinilico</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Composition</td>\n<td class=\"pb-3 testo-light\">Heavy weight vinyl</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Unity</td>\n<td class=\"pb-3 testo-light\">Roll</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Repeat</td>\n<td class=\"pb-3 testo-light\">95,00 cm - 37,40 in</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Match</td>\n<td class=\"pb-3 testo-light\">Offset match</td>\n</tr>\n</tbody>\n</table>\n<br>\n</div>\n</div>\n<div x-data=\"{ expanded: false }\"><br></div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019104166220,
+      "title": "Wallpaper - Refined Structures 1 - Pantheon",
+      "handle": "wallpaper-refined-structures-1-pantheon",
+      "url": "https://arowonen.com/products/wallpaper-refined-structures-1-pantheon",
+      "vendor": "ARMANI/CASA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T14:38:37+02:00",
+      "updated_at": "2026-05-22T17:54:42+02:00",
+      "published_at": "2024-05-19T15:21:38+02:00",
+      "available": true,
+      "price_min": 189,
+      "price_max": 189,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 7,
+      "variants": [
+        {
+          "id": 48140863111500,
+          "title": "9240",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9240",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863144268,
+          "title": "9241",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9241",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863177036,
+          "title": "9242",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9242",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863209804,
+          "title": "9243",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9243",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863242572,
+          "title": "9244",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9244",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863275340,
+          "title": "9245",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9245",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140863308108,
+          "title": "9246",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9246",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "9240",
+            "9241",
+            "9242",
+            "9243",
+            "9244",
+            "9245",
+            "9246"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9242.jpg?v=1716279120",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9240.jpg?v=1716279120",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9241.jpg?v=1716279120",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9243.jpg?v=1716124724",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9244.jpg?v=1716124723",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9245.jpg?v=1716124723",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9246.jpg?v=1716124724",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9242.jpg?v=1716279120",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">Pantheon as a materic texture made by small checks, in seven colourways from ivory tones to pompeian red and turquoise.</div>\n</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"><br></div>\n</div>\n</div>\n<meta charset=\"utf-8\">\n<table class=\"w-100\">\n<tbody>\n<tr>\n<td class=\"pb-3\">Width</td>\n<td class=\"pb-3 testo-light\">0,700 mt - 2,296 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Length</td>\n<td class=\"pb-3 testo-light\">10,050 mt - 32,964 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Quality</td>\n<td class=\"pb-3 testo-light\">Vinilico</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Composition</td>\n<td class=\"pb-3 testo-light\">Heavy weight vinyl</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Unity</td>\n<td class=\"pb-3 testo-light\">Roll</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Repeat</td>\n<td class=\"pb-3 testo-light\">70,00 cm - 27,56 in</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Match</td>\n<td class=\"pb-3 testo-light\">Straight match</td>\n</tr>\n</tbody>\n</table>\n<br>\n</div>\n</div>\n<div x-data=\"{ expanded: false }\"><br></div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019092762956,
+      "title": "Wallpaper - Refined Structures 1 - Montmartre",
+      "handle": "wallpaper-refined-structures-1-montmartre",
+      "url": "https://arowonen.com/products/wallpaper-refined-structures-1-montmartre",
+      "vendor": "ARMANI/CASA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T14:21:10+02:00",
+      "updated_at": "2026-05-22T17:54:42+02:00",
+      "published_at": "2024-05-19T14:33:19+02:00",
+      "available": true,
+      "price_min": 189,
+      "price_max": 189,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 48140826771788,
+          "title": "9220",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9220",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140826804556,
+          "title": "9221",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9221",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140826837324,
+          "title": "9222",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9222",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140826870092,
+          "title": "9223",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9223",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140826902860,
+          "title": "9224",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9224",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140826935628,
+          "title": "9225",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9225",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "9220",
+            "9221",
+            "9222",
+            "9223",
+            "9224",
+            "9225"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9223.jpg?v=1716279111",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9220.jpg?v=1716279111",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9221.jpg?v=1716279111",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9222.jpg?v=1716279111",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9224.jpg?v=1716121483",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9225.jpg?v=1716121483",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9223.jpg?v=1716279111",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">Proposed in six color nuances – from tenuous tones, cold and warm, to pompeian red – with a galuchat design in a damier interpretation.</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"></div>\n</div>\n</div>\n</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\">\n<meta charset=\"utf-8\">\n<table class=\"w-100\">\n<tbody>\n<tr>\n<td class=\"pb-3\">Width</td>\n<td class=\"pb-3 testo-light\">0,700 mt - 2,296 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Length</td>\n<td class=\"pb-3 testo-light\">10,050 mt - 32,964 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Quality</td>\n<td class=\"pb-3 testo-light\">Vinilico</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Composition</td>\n<td class=\"pb-3 testo-light\">Heavy weight vinyl</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Unity</td>\n<td class=\"pb-3 testo-light\">Roll</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Repeat</td>\n<td class=\"pb-3 testo-light\">60,00 cm - 23,62 in</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Match</td>\n<td class=\"pb-3 testo-light\">Straight match</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9019087913292,
+      "title": "Wallpaper - Refined Structures 1 - Louvre",
+      "handle": "wallpaper-refined-structures-1-louvre",
+      "url": "https://arowonen.com/products/wallpaper-refined-structures-1-louvre",
+      "vendor": "ARMANI/CASA",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "WALLPAPER"
+      ],
+      "created_at": "2024-05-19T14:14:22+02:00",
+      "updated_at": "2026-05-22T17:54:42+02:00",
+      "published_at": "2024-05-19T14:19:26+02:00",
+      "available": true,
+      "price_min": 189,
+      "price_max": 189,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 8,
+      "variants": [
+        {
+          "id": 48140816646476,
+          "title": "9200",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9200",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140816679244,
+          "title": "9201",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9201",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140816712012,
+          "title": "9202",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9202",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140816744780,
+          "title": "9203",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9203",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140816777548,
+          "title": "9204",
+          "sku": null,
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9204",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140824117580,
+          "title": "9205",
+          "sku": "",
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9205",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140860064076,
+          "title": "9206",
+          "sku": "",
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9206",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 48140824150348,
+          "title": "9207",
+          "sku": "",
+          "price": "189.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "9207",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Kleur",
+          "values": [
+            "9200",
+            "9201",
+            "9202",
+            "9203",
+            "9204",
+            "9205",
+            "9206",
+            "9207"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9205.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9200.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9201.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9202.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9203.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9204.jpg?v=1716279103",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9207.jpg?v=1716121083",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SCAN_9206.jpg?v=1716122094",
+          "alt": null,
+          "width": 1191,
+          "height": 850
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9205.jpg?v=1716279103",
+      "description_html": "<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<div class=\"mb-12\">\n<div class=\"wysiwyg mb-4 font-light max-w-xl\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<div class=\"testo mt-3 text-center\">Represents shadows of royal oaks trees where nature is painted in turquoise green or in ice and beige; Louvre is an elegant and thin canneté in eight nuances, from light tones to strong blues.</div>\n<div class=\"altri-parati mt-4\">\n<div class=\"d-flex flex-wrap\">\n<div class=\"div-altri-parati\"></div>\n</div>\n</div>\n<table class=\"w-100\">\n<tbody>\n<tr>\n<td class=\"pb-3\">Width</td>\n<td class=\"pb-3 testo-light\">0,700 mt / 2,296 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Length</td>\n<td class=\"pb-3 testo-light\">10,050 mt / 32,964 ft</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Quality</td>\n<td class=\"pb-3 testo-light\">Vinilico</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Composition</td>\n<td class=\"pb-3 testo-light\">Heavy weight vinyl</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Unity</td>\n<td class=\"pb-3 testo-light\">Roll</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Repeat</td>\n<td class=\"pb-3 testo-light\">64,00 cm - 25,20 in</td>\n</tr>\n<tr>\n<td class=\"pb-3\">Match</td>\n<td class=\"pb-3 testo-light\">Free match</td>\n</tr>\n</tbody>\n</table>\n<br>\n</div>\n</div>\n<div x-data=\"{ expanded: false }\"><br></div>\n</div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

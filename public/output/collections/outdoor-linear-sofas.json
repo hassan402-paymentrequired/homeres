@@ -1,0 +1,101 @@
+{
+  "handle": "outdoor-linear-sofas",
+  "label": "Outdoor Linear Sofas",
+  "url": "https://arowonen.com/collections/outdoor-linear-sofas",
+  "scraped_at": "2026-05-22T15:59:21.493Z",
+  "product_count": 1,
+  "products": [
+    {
+      "id": 15008769671500,
+      "title": "Sofa - Elephant - By Paola Navone",
+      "handle": "sofa-elephant-by-paola-navone",
+      "url": "https://arowonen.com/products/sofa-elephant-by-paola-navone",
+      "vendor": "BAXTER MADE IN ITALY",
+      "product_type": "",
+      "tags": [
+        "Hide",
+        "hide-price",
+        "Outdoor Armchair",
+        "OUTDOOR LINEAR SOFAS",
+        "Outdoor sofa",
+        "Paola Navone"
+      ],
+      "created_at": "2025-08-04T11:22:34+02:00",
+      "updated_at": "2026-05-22T17:59:21+02:00",
+      "published_at": "2025-08-05T16:43:38+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054499422540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_13_5ceb30e1-936d-4058-8a30-4d32e7caf0eb.avif?v=1754299468",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_14_fb91e882-9742-4f73-9a4f-e57ecc471ec5.avif?v=1754299468",
+          "alt": null,
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_19_b7892da6-e629-4b56-9aa4-983b78c622cf.avif?v=1754299578",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_15_574daf5e-7498-4c54-b330-741d1d8c827f.avif?v=1754299578",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_16_9a769098-24dd-4f20-a86d-7b6cbe6fde4b.avif?v=1754299578",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_17_7ce56cbe-303b-49db-ba4d-81e811158d28.avif?v=1754299578",
+          "alt": null,
+          "width": 771,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_18_3314043e-7736-42ef-b6dd-c19c47636592.avif?v=1754299578",
+          "alt": null,
+          "width": 772,
+          "height": 1080
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_13_5ceb30e1-936d-4058-8a30-4d32e7caf0eb.avif?v=1754299468",
+      "description_html": "<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<div class=\"ProductTop top\">\n<div class=\"right\">\n<div class=\"about\">\n<p class=\"content body s\">The Elephant outdoor sofa and armchair designed by Paola Navone for Baxter feature all of the designer’s typical elements, enhanced here by the use of innovative materials and refined finishes. The etched copper frame for the Open-Air version (available in the Verderame finish for the Outdoor version) of the large sofa and armchair is the linear element that contrasts with the voluminous quilted upholstery of the seat and backrest. These generous cushions are available in a wide variety of materials, such as Cloister and Lido leather (or fabric) upholstery for the Open-Air collection designed for more sheltered areas. Alternatively, there are durable cushion covers made of Lido leather or water-repellent double-stitched fabric for the Outdoor collection.</p>\n</div>\n</div>\n</div>\n<div class=\"navbar\">\n<div class=\"item\">\n<div class=\"cta\">\n<div class=\"\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

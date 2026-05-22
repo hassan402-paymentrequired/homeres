@@ -1,0 +1,345 @@
+{
+  "handle": "plaids",
+  "label": "Plaids",
+  "url": "https://arowonen.com/collections/plaids",
+  "scraped_at": "2026-05-22T15:58:40.000Z",
+  "product_count": 5,
+  "products": [
+    {
+      "id": 15472599925068,
+      "title": "Plaid - Aiden Cream 150x200cm",
+      "handle": "plaid-aidem-cream-150x200cm",
+      "url": "https://arowonen.com/products/plaid-aidem-cream-150x200cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "HOME ACCESSORIES",
+        "PLAIDS",
+        "PLAIDS & BEDDING"
+      ],
+      "created_at": "2025-12-20T17:02:47+01:00",
+      "updated_at": "2026-05-22T17:58:40+02:00",
+      "published_at": "2025-12-20T17:02:48+01:00",
+      "available": true,
+      "price_min": 199,
+      "price_max": 199,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56288384811340,
+          "title": "Default Title",
+          "sku": null,
+          "price": "199.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_1.jpg?v=1766246583",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_3.jpg?v=1766246583",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_2.jpg?v=1766246542",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design.jpg?v=1766246542",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dekken-mika-200x150cm-creme-kare-design_1.jpg?v=1766246583",
+      "description_html": "<p>Transform your living space with the Aiden cream plaid, a sophisticated textile investment measuring 150x200 cm. Whether styled casually or formally, this versatile piece delivers both functional warmth and curated elegance to elevate your interior design.</p>"
+    },
+    {
+      "id": 8918649012556,
+      "title": "Plaid - Black Fox",
+      "handle": "plaid-real-fox-black-fox",
+      "url": "https://arowonen.com/products/plaid-real-fox-black-fox",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS"
+      ],
+      "created_at": "2024-03-17T16:53:48+01:00",
+      "updated_at": "2026-05-22T17:58:40+02:00",
+      "published_at": "2024-03-17T16:54:04+01:00",
+      "available": true,
+      "price_min": 2999,
+      "price_max": 2999,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47841953710412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2999.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4302.jpg?v=1710690846",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4304.jpg?v=1710690843",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4303.jpg?v=1710690843",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4302.jpg?v=1710690846",
+      "description_html": "<p>Add some atmosphere to your home with this plaid. This plaid is made from genuine fox fur.</p>\n<p><strong>﻿Size<br></strong>130x180cm</p>\n<p><strong>The responsible use of nature's resources:</strong><br>The durable and natural material fur has environmentally friendly properties: As it is ecologically completely safe to use, it is a genuinely sustainable alternative to faux fur, which is made from synthetics, i.e. plastic.<br><br>Fur from wild animals is the \"ultimate natural product\". Their use is fully in line with the concept of sustainability. Thanks to strict regulations and professional independent management, the optimal population density of fur animal species is never negatively affected. Only what nature gives is used.<br><br>Furthermore, furs from controlled and certified animal husbandry are a clean and sustainable fashion material. Animal welfare is a top priority and is further promoted through a series of ambitious initiatives. Particular attention is paid to good housing and feed, the health of the animals and their behaviour. This is not only for the benefit of fur: The other animal products are also utilised completely and without residues.<br><br>The fur industry also pays careful attention to global standards and guidelines in the finishing process in order to offer biologically sound processes. During tanning and colouring, which are carried out as services by other companies, all health and environmental protection guidelines are checked and adhered to.</p>"
+    },
+    {
+      "id": 8918648029516,
+      "title": "Plaid - Rusty Brown",
+      "handle": "plaid-real-fox-rusty-brown",
+      "url": "https://arowonen.com/products/plaid-real-fox-rusty-brown",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS"
+      ],
+      "created_at": "2024-03-17T16:52:21+01:00",
+      "updated_at": "2026-05-22T17:58:40+02:00",
+      "published_at": "2024-03-17T16:52:59+01:00",
+      "available": true,
+      "price_min": 2999,
+      "price_max": 2999,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47841949811020,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2999.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4293.jpg?v=1710690775",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4294.jpg?v=1710690775",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4296.jpg?v=1710690775",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4293.jpg?v=1710690775",
+      "description_html": "<p>Add some atmosphere to your home with this plaid. <br>This plaid is made from genuine fox fur.</p>\n<p><strong>Size<br></strong>130x180cm</p>\n<p><strong>The responsible use of nature's resources:</strong><br>The durable and natural material fur has environmentally friendly properties: As it is ecologically completely safe to use, it is a genuinely sustainable alternative to faux fur, which is made from synthetics, i.e. plastic.<br><br>Fur from wild animals is the \"ultimate natural product\". Their use is fully in line with the concept of sustainability. Thanks to strict regulations and professional independent management, the optimal population density of fur animal species is never negatively affected. Only what nature gives is used.<br><br>Furthermore, furs from controlled and certified animal husbandry are a clean and sustainable fashion material. Animal welfare is a top priority and is further promoted through a series of ambitious initiatives. Particular attention is paid to good housing and feed, the health of the animals and their behaviour. This is not only for the benefit of fur: The other animal products are also utilised completely and without residues.<br><br>The fur industry also pays careful attention to global standards and guidelines in the finishing process in order to offer biologically sound processes. During tanning and colouring, which are carried out as services by other companies, all health and environmental protection guidelines are checked and adhered to.<br></p>"
+    },
+    {
+      "id": 8918647210316,
+      "title": "Plaid - Cool Brown",
+      "handle": "plaid-real-fox-cool-brown",
+      "url": "https://arowonen.com/products/plaid-real-fox-cool-brown",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS"
+      ],
+      "created_at": "2024-03-17T16:51:22+01:00",
+      "updated_at": "2026-05-22T17:58:40+02:00",
+      "published_at": "2024-03-17T16:51:59+01:00",
+      "available": true,
+      "price_min": 2999,
+      "price_max": 2999,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47841946272076,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2999.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4285.jpg?v=1710690715",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4290.jpg?v=1710690715",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4288.jpg?v=1710690715",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4285.jpg?v=1710690715",
+      "description_html": "<p>Add some atmosphere to your home with this plaid. This plaid is made from genuine fox fur.</p>\n<p><strong>﻿Size<br></strong>130x180cm</p>\n<p><strong>The responsible use of nature's resources:</strong><br>The durable and natural material fur has environmentally friendly properties: As it is ecologically completely safe to use, it is a genuinely sustainable alternative to faux fur, which is made from synthetics, i.e. plastic.<br><br>Fur from wild animals is the \"ultimate natural product\". Their use is fully in line with the concept of sustainability. Thanks to strict regulations and professional independent management, the optimal population density of fur animal species is never negatively affected. Only what nature gives is used.<br><br>Furthermore, furs from controlled and certified animal husbandry are a clean and sustainable fashion material. Animal welfare is a top priority and is further promoted through a series of ambitious initiatives. Particular attention is paid to good housing and feed, the health of the animals and their behaviour. This is not only for the benefit of fur: The other animal products are also utilised completely and without residues.<br><br>The fur industry also pays careful attention to global standards and guidelines in the finishing process in order to offer biologically sound processes. During tanning and colouring, which are carried out as services by other companies, all health and environmental protection guidelines are checked and adhered to.</p>"
+    },
+    {
+      "id": 8918643081548,
+      "title": "Plaid - Icy White",
+      "handle": "plaid-real-fox-icy-white",
+      "url": "https://arowonen.com/products/plaid-real-fox-icy-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "just dropped in",
+        "Just launched in the online store",
+        "PLAIDS"
+      ],
+      "created_at": "2024-03-17T16:46:54+01:00",
+      "updated_at": "2026-05-22T17:58:40+02:00",
+      "published_at": "2024-03-17T16:46:54+01:00",
+      "available": true,
+      "price_min": 2999,
+      "price_max": 2999,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47841930051916,
+          "title": "Default Title",
+          "sku": "",
+          "price": "2999.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4274.jpg?v=1710690418",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4275.jpg?v=1710690418",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4276.jpg?v=1710690417",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-4274.jpg?v=1710690418",
+      "description_html": "<p>Add some atmosphere to your home with this plaid. This plaid is made from genuine fox fur.</p>\n<p><strong>﻿Size<br></strong>130x180cm</p>\n<p><strong>The responsible use of nature's resources:</strong><br>The durable and natural material fur has environmentally friendly properties: As it is ecologically completely safe to use, it is a genuinely sustainable alternative to faux fur, which is made from synthetics, i.e. plastic.<br><br>Fur from wild animals is the \"ultimate natural product\". Their use is fully in line with the concept of sustainability. Thanks to strict regulations and professional independent management, the optimal population density of fur animal species is never negatively affected. Only what nature gives is used.<br><br>Furthermore, furs from controlled and certified animal husbandry are a clean and sustainable fashion material. Animal welfare is a top priority and is further promoted through a series of ambitious initiatives. Particular attention is paid to good housing and feed, the health of the animals and their behaviour. This is not only for the benefit of fur: The other animal products are also utilised completely and without residues.<br><br>The fur industry also pays careful attention to global standards and guidelines in the finishing process in order to offer biologically sound processes. During tanning and colouring, which are carried out as services by other companies, all health and environmental protection guidelines are checked and adhered to.</p>"
+    }
+  ]
+}

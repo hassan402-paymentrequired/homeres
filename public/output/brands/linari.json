@@ -1,0 +1,269 @@
+{
+  "handle": "linari",
+  "label": "Linari",
+  "url": "https://arowonen.com/collections/linari",
+  "scraped_at": "2026-05-22T15:55:46.320Z",
+  "product_count": 5,
+  "products": [
+    {
+      "id": 15397977063756,
+      "title": "LUCE Diffuser 500 ml",
+      "handle": "luce-diffusor-500-ml",
+      "url": "https://arowonen.com/products/luce-diffusor-500-ml",
+      "vendor": "LINARI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-11-23T13:16:30+01:00",
+      "updated_at": "2026-05-22T17:55:46+02:00",
+      "published_at": "2025-11-23T13:17:12+01:00",
+      "available": true,
+      "price_min": 99,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56037556158796,
+          "title": "Default Title",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LUCE_img_big_b91f1524-04fb-4d46-902a-1fb064bda10c.jpg?v=1763900228",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LUCE_img_big_b91f1524-04fb-4d46-902a-1fb064bda10c.jpg?v=1763900228",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Brilliance and Liveliness - Luminous and pure like spring water, uniting soft green notes of bergamot and jasmine in a sensually vibrant freshness that is brilliantly surrounded by fine accords of musk and cedarwood base notes. Perfumer: MARK BUXTON</span><br></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>LUCE comes in a gleaming gratuated gold-coloured flacon out of Italian glass with a fine three-dimensional ring structure and an innovative multiplex lid with alternate light and dark wooden veneers.</span><br></p>"
+    },
+    {
+      "id": 15397976637772,
+      "title": "SASSO Diffuser 500 ml",
+      "handle": "sasso-diffuser-500-ml",
+      "url": "https://arowonen.com/products/sasso-diffuser-500-ml",
+      "vendor": "LINARI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-11-23T13:14:18+01:00",
+      "updated_at": "2026-05-22T17:55:46+02:00",
+      "published_at": "2025-11-23T13:15:30+01:00",
+      "available": true,
+      "price_min": 99,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56037554848076,
+          "title": "Default Title",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SASSO_img_big_61481129-35a9-4293-b1b0-7cd3ca9855f0.jpg?v=1763900116",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SASSO_img_big_61481129-35a9-4293-b1b0-7cd3ca9855f0.jpg?v=1763900116",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Fusion and Vivacity - The scent of soothing, fresh citrus notes from delicate grapefruit, Calabrian mandarin and orange creates a unique invigorating atmosphere in combination with Italian orange blossom. The subtle interplay of flowery chords of Turkish rose and freesia builds a fine and delicate heart note, elegantly rounded by musk, woody American cedar and Indonesian patchouli.</span><br></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>The deep black design of the LINARI-SASSO diffuser represents a pretentious milestone. In contrast to the highly transparent, cylindrical glass surface, there is the abstract and finely textured pebble decoration, which cleverly surrounds the bottle diffusely. The minimalist, matt black screw-top lid made of solid bakelite as well as the label with an innovative soft-touch surface and fine gloss lettering complete the avant-garde look. The use of natural-coloured capillary sticks maximises the appearance of the puristic graphic decor.</span><br></p>"
+    },
+    {
+      "id": 15397974049100,
+      "title": "KYARA Diffuser 500 ml",
+      "handle": "kyara-diffuser-500-ml",
+      "url": "https://arowonen.com/products/kyara-diffuser-500-ml",
+      "vendor": "LINARI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-11-23T13:13:22+01:00",
+      "updated_at": "2026-05-22T17:55:46+02:00",
+      "published_at": "2025-11-23T13:13:24+01:00",
+      "available": true,
+      "price_min": 99,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56037548491084,
+          "title": "Default Title",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KYARA_img_big.jpg?v=1763899941",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KYARA_img_big.jpg?v=1763899941",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Complexity and Relaxation – A radiant creation of red berries, sweet fennel and Calabrian bergamot that is perfectly balanced by a complex balsamic-sweet bouquet of aromatic guaiac resin, nutmeg, enchanting stephanotis and subtle woody amyris. The sensual base is dominated by woody-spicy notes of amber, labdanum, cedar wood, gurjun balm and earthy patchouli that is accompanied by a powdery-sweet note of musk.</span></p>\n<p><meta charset=\"utf-8\"><span>A deep antique green Italian glass flacon with an eye-catching elegant silver wave design, a matt black wooden lid and a black, embossed metal label. The result is a glorious play of the black and white colouring. The diffuser comes complete with exclusive black evaporating sticks that emphasise the avant-garde look of this stunning product.</span></p>"
+    },
+    {
+      "id": 15397972574540,
+      "title": "KYARA Room Spray 100 ml",
+      "handle": "kyara-room-spray-100-ml",
+      "url": "https://arowonen.com/products/kyara-room-spray-100-ml",
+      "vendor": "LINARI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "ROOM SPRAYS"
+      ],
+      "created_at": "2025-11-23T13:09:28+01:00",
+      "updated_at": "2026-05-22T17:55:46+02:00",
+      "published_at": "2025-11-23T13:10:32+01:00",
+      "available": true,
+      "price_min": 47,
+      "price_max": 47,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56037527126348,
+          "title": "Default Title",
+          "sku": null,
+          "price": "47.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KYARA_RS_img_big_a53a4bb0-c7df-4228-bfca-60a8c9e7de28.jpg?v=1763899830",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KYARA_RS_img_big_a53a4bb0-c7df-4228-bfca-60a8c9e7de28.jpg?v=1763899830",
+      "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Complexity and Relaxation – A radiant creation of red berries, sweet fennel and Calabrian bergamot that is perfectly balanced by a complex balsamic-sweet bouquet of aromatic guaiac resin, nutmeg, enchanting stephanotis and subtle woody amyris. The sensual base is dominated by woody-spicy notes of amber, labdanum, cedar wood, gurjun balm and earthy patchouli that is accompanied by a powdery-sweet note of musk.</span><br><br></p>\n<p><span><meta charset=\"utf-8\">A deep antique green Italian glass flacon with an eye-catching elegant silver wave design, a matt black wooden lid and a black, embossed metal label. The result is a glorious play of the black and white colouring.<br></span></p>"
+    },
+    {
+      "id": 15397971951948,
+      "title": "SOGNO Room Spray 100 ml",
+      "handle": "linari-sogno-room-spray-100-ml",
+      "url": "https://arowonen.com/products/linari-sogno-room-spray-100-ml",
+      "vendor": "LINARI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "ROOM SPRAYS"
+      ],
+      "created_at": "2025-11-23T13:07:58+01:00",
+      "updated_at": "2026-05-22T17:55:46+02:00",
+      "published_at": "2025-11-23T13:08:00+01:00",
+      "available": true,
+      "price_min": 47,
+      "price_max": 47,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56037518999884,
+          "title": "Default Title",
+          "sku": null,
+          "price": "47.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOGNO_RS_img_big.jpg?v=1763899656",
+          "alt": null,
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SOGNO_RS_img_big.jpg?v=1763899656",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Softness and Temptation - A smooth balsamic composition of spicy ginger and exotic elemi with a citric nuance that is surrounded by gentle accents of olibanum and amber, an incomparable infatuating scent experience. Perfumer: MARK BUXTON</span><br></p>\n<p><span><meta charset=\"utf-8\">SOGNO comes in a gleaming gratuated gold-coloured flacon out of Italian glass and an innovative multiplex lid with alternate light and dark wooden veneers.<br></span></p>"
+    }
+  ]
+}

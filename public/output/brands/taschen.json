@@ -1,0 +1,1325 @@
+{
+  "handle": "taschen",
+  "label": "Taschen",
+  "url": "https://arowonen.com/collections/taschen",
+  "scraped_at": "2026-05-22T15:56:01.625Z",
+  "product_count": 9,
+  "products": [
+    {
+      "id": 15064389321036,
+      "title": "Book - Hokusai",
+      "handle": "book-hokusai",
+      "url": "https://arowonen.com/products/book-hokusai",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-09-05T10:12:51+02:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2025-09-05T10:25:22+02:00",
+      "available": true,
+      "price_min": 175,
+      "price_max": 175,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53274873561420,
+          "title": "Default Title",
+          "sku": null,
+          "price": "175.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ac7a8d375365df12572d168710706ad9.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/70d6b7d05da5cae0943d432144abe46d.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/64c48bb36341c46a6d24efd6c5b06e87.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2063b8a07385a1e0ffa4f47615ff3a09.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b86e90ab6f638f9a7afcd6841c725026.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1919070bb435e59fa62265e440427282.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3262505bd5052baff05ca04dd148af08.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0f60930497d783c2bcac0a38e03bb809.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/29cf8c92867d2bc47c626b30c93635be.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1810338de5225196eca1460c8d431509.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/cc73066fc6af6f7e6fd60cea0ae1015e.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1cce5ace8e734c7c7c93772e5ac4fe11.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bbc830ae32ae4408b815d153402d1155.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e305ae56da260f074e82c50ff9d33e63.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4c692427f9e121c74ea0e06dd40fb755.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5e38ebb0c10ee9e410e8db3af2c3bf91.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d2831a69e2edb59d229e739f90b084e2.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f9c3b20e057a624490c55e75ab477e4d.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c95ca087651b579e8f04f4b5ec9088c7.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7c52efd5ba620fe43a9403cc433bfc72.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e716e82ed2cbcb82ce065630c31dd2e8.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/68587d4c711ecbe4cfba02cb8a8ea8f8.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5851e58436aebe92c372a52f3a280050.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d85b4b7b3f11bdb15527629eed6c4007.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c7c8ee87c1801dd144d1cfad302f21ad.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/25e84e0402543bb772462914b214da03.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c05448d81ceec864fe65fccb2892dd72.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a91501e20251028e5b2e54c18e7fec84.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/28db33ef5702df3433f91bd016bc4073.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b779d3e358ed9b3eedd5e659b516000e.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0a5411932ad1645659bd8379cf3e9542.webp?v=1757060717",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ac7a8d375365df12572d168710706ad9.webp?v=1757060717",
+      "description_html": "<div>From<span> </span><span>haunting ghosts</span><span> </span>to<span> </span><span>alluring women</span>, or the landscapes of Mount Fuji and the Tōkaidō road: the<span> </span><span>woodblock prints, paintings, and book illustrations</span><span> </span>of<span> Hokusai </span>reveal a masterfully versatile career. Packed with<span> </span><span>new photography</span><span> </span>and artworks from<span> </span><span>over 100 institutions worldwide</span>, this is the<span> </span><span>most complete profile yet</span><span> </span>of Japan’s preeminent artist.</div>\n<p class=\"product-detail-information__below-nutshell\"> </p>\n<p><span><strong>Each book is bound either in green or in purple cloth</strong> and will be delivered with one of the colours available.</span></p>\n<p> </p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, <meta charset=\"utf-8\"> <span class=\"edition-selection__single-edition\">clothbound, available in green or purple, with ribbon bookmark, <br></span></span><span data-testid=\"book-details--dimensions\">29 x 39.5 cm, 6</span><span data-testid=\"book-details--weight\">.95 kg, </span><span>722 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\"><span class=\"edition-selection__single-edition\">Edition: <meta charset=\"utf-8\"> <span>Multilingual (English, French, German)</span></span></div>\n<div class=\"read-more__biography--book-edition\">\n<span class=\"edition-selection__single-edition\"></span><br>\n</div>\n<div class=\"read-more__biography--book-edition\"><br></div>"
+    },
+    {
+      "id": 8949696823628,
+      "title": "Book - The James Bond Archives - Art Edition No. 501–1,000 ‘No Time To Die’, 2021",
+      "handle": "book-the-james-bond-archives-art-edition-no-501-1-000-no-time-to-die-2021",
+      "url": "https://arowonen.com/products/book-the-james-bond-archives-art-edition-no-501-1-000-no-time-to-die-2021",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "SPECIAL EDITIONS"
+      ],
+      "created_at": "2024-04-04T13:44:16+02:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2025-08-27T17:32:58+02:00",
+      "available": true,
+      "price_min": 2000,
+      "price_max": 2000,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933859561804,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.12.56.png?v=1728051237",
+          "alt": null,
+          "width": 535,
+          "height": 608
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0fc762423712f54c873e8474fe2f1ada.webp?v=1712231304",
+          "alt": null,
+          "width": 1200,
+          "height": 680
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bf8f7cd7728fc733739279e896c1fcc4.webp?v=1712231304",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f1daaeb8618e51b72f9e324b682a2ec2.webp?v=1712231304",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1c29a4912ba91ad5408736ba45395022.webp?v=1712231304",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3efd51d33b997717c15cbeef2d81bdec.jpg?v=1712231304",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b042045c0a49ef785a21e3866819cae1.webp?v=1712231280",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2097c6960f756adcfc6338384105885b.webp?v=1712231278",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a6b92547240345a46e3802b9ffaa78f8.webp?v=1712231281",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5468b4786792b256fc033553a5356507.webp?v=1712231277",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e173110c2dd63c16f44c53d35a7a2887.webp?v=1712231278",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/168f98cf1c7c4b7c81045e8c71fa0de0.webp?v=1712231277",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/924878fddcac7099985e597b4bfafc71.webp?v=1712231279",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5c415669643b15825b8f1838f67daf1e.webp?v=1712231281",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7a0b6edd8975a11ec3661c8fb1175fa7.webp?v=1712231280",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0121d7b0adfaba9f090536a65c60facc.webp?v=1712231279",
+          "alt": null,
+          "width": 1200,
+          "height": 449
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.12.56.png?v=1728051237",
+      "description_html": "<p>Limited Art Edition (No. 501–1,000), numbered and signed by Daniel Craig, Michael G. Wilson and Barbara Broccoli with the signed print <em>No Time To Die, 2021</em> by Greg Williams. <br><br><em>The James Bond Archives</em> is the ultimate companion to all things 007, covering the making of every single movie in the James Bond franchise, from <em>Dr. No</em> to the 25th film <em>No Time To Die</em>. With more than 1,007 images and an oral history featuring 150 members of cast and crew, this comprehensively updated Art Edition will delight fans of the most successful and longest-running film franchise in cinema history.</p>\n<p><span>Museum-quality print on archival paper, 50 x 60 cm; Hardcover volume in clamshell box with print in portfolio, 41.1 x 30 cm, 6.65 kg, 648 pages</span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\"><span>ISBN </span><span>978-3-8365-8626-9</span></p>\n<p class=\"read-more__biography--book-isbn\"><span>Edition: English</span></p>\n<p class=\"read-more__biography--book-isbn\"> </p>\n</div>"
+    },
+    {
+      "id": 8949679718732,
+      "title": "Book - Ice Cold. Art Edition No. 1–100 -  Zach Boisjoly ‘Megan Thee Stallion’",
+      "handle": "book-ice-cold-art-edition-no-1-100-zach-boisjoly-megan-thee-stallion",
+      "url": "https://arowonen.com/products/book-ice-cold-art-edition-no-1-100-zach-boisjoly-megan-thee-stallion",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "SPECIAL EDITIONS"
+      ],
+      "created_at": "2024-04-04T13:33:53+02:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2025-08-27T17:32:30+02:00",
+      "available": true,
+      "price_min": 1250,
+      "price_max": 1250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933778395468,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.25.16.jpg?v=1728051992",
+          "alt": null,
+          "width": 413,
+          "height": 541
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/80356d0a71b6e15b21626e06ad9f436b.webp?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b4b9b32a967c9226ac4c602b0c0f7f80_20c636fb-6f07-4b0a-b785-9c86daea13de.webp?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/62764ec09b4241d648d787548315a276_3b93acf2-c538-420a-b8f5-eae3dcb845cc.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c76a3cef0490161f2b6f82c634999d1d_81afb876-c89b-4aa8-8a47-472950c0ba63.webp?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5254f45f64941b4d00dda51cc12b2bed_5deb5310-cb65-4024-a7ab-3c3df633ede9.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/204e44a4dfb070fc7ad8b7d571a1ff69_d09cc66d-4234-495f-96de-7cf424245d3a.webp?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bb45abc3a09e87bfb474e8823c6a4218_04149f62-3f0e-4c26-84cf-aa2aa1655155.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6a7692a1aca8ac77a6e5d7ad859e8870_b7d24440-0a05-41ba-b41f-9af260a9e124.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/8e2140f2676935e6fce3ae1cc2ce6105_c7341339-b2a3-4cca-9624-4b1bb4b25024.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a01dddb386d727692da916c09f9b5a9d_9db49a83-f533-4c18-a645-9894d0abd9ec.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b1ca9ec31ee533bdf4c24ec0c65f203f_04fc9902-f6f3-4a03-9870-72ac4b2cd615.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ebe8a02f0f501fd3a050efcdf5293675_67d29158-7de1-4648-8d30-8ad99bc4e317.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f36fd25d1a368920239ce26eac5b3f89_c3fda26d-6694-40ff-8297-16686f66dcc8.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d8d13dca5fdecfc2c1afeb9aa2ca2961_c722070e-da4a-41ac-bc1e-6239aa132ab2.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e973201f78dba3880baa00db65da4376_af67fc2e-d130-4436-b952-999f04bbc9bf.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f0a9a3b5c55c863e0eb8df8d804db2aa_c7c3f616-e0c3-4a33-958e-60e3d4288cff.jpg?v=1712230870",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/acbd6d56da4c161b469b34b39bdcaf39_eaf48dfc-2cd3-417d-88c7-52fd4d3f8d5a.jpg?v=1712230832",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b7a3aa6677bf8e62783020d907998633_b2c64089-6bd4-442a-ba74-5ebadad8648b.jpg?v=1712230832",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/516ad8fefec42bfc482334c379011807_82181117-9866-4a89-ab23-3b601762890a.jpg?v=1712230832",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/179fc37f33c97c7ff237d247dec2efbd_b1d20bf6-6149-486a-90d3-a53470d7e04e.jpg?v=1712230832",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bc919e3281a8eae43d5fb46fb9873102_c7758212-7112-4859-88d3-05661d7bdc69.jpg?v=1712230832",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/cbafd494ef51e0e7748b25c50363599a_02448193-fae1-4a58-afce-63cf7699f8b4.jpg?v=1712230720",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.25.16.jpg?v=1728051992",
+      "description_html": "<p><em>Ice Cold: A Hip-Hop Jewelry History</em> presents the bling culture of rappers and their jewelry. Through 40 years of iconic imagery and compelling stories, this visual history shines a light on the world of hip-hop, where mega stars from Run-DMC to Tupac and Jay-Z to Migos and Cardi B flash brilliant custom pieces to show status and personal style.</p>\n<p><span>Signed color inkjet print on archival paper, 41 x 51 cm; hardcover volume in a slipcase, 25 x 34 cm, 2.85 kg, 388 pages</span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\"><span>ISBN </span><span>978-3-8365-9426-4</span></p>\n<div class=\"read-more__biography--book-edition\"><span>Edition: Multilingual (English, French, German)</span></div>\n<p class=\"read-more__biography--book-isbn\"> </p>\n</div>"
+    },
+    {
+      "id": 8949669527884,
+      "title": "Book - Ice Cold - Art Edition No. 101–200 - Tomo Brejc ‘A$AP Rocky’",
+      "handle": "copy-of-book-ferrari-xxl",
+      "url": "https://arowonen.com/products/copy-of-book-ferrari-xxl",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "SPECIAL EDITIONS"
+      ],
+      "created_at": "2024-04-04T13:24:15+02:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2025-08-27T17:32:07+02:00",
+      "available": true,
+      "price_min": 1250,
+      "price_max": 1250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47933738451276,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.27.40.jpg?v=1728052170",
+          "alt": null,
+          "width": 435,
+          "height": 554
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5254f45f64941b4d00dda51cc12b2bed.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b4b9b32a967c9226ac4c602b0c0f7f80.webp?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c76a3cef0490161f2b6f82c634999d1d.webp?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a0e87769ab7699d78bafa9886fc0b5c5.webp?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/62764ec09b4241d648d787548315a276.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e973201f78dba3880baa00db65da4376.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b1ca9ec31ee533bdf4c24ec0c65f203f.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f36fd25d1a368920239ce26eac5b3f89.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/179fc37f33c97c7ff237d247dec2efbd.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/204e44a4dfb070fc7ad8b7d571a1ff69.webp?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ebe8a02f0f501fd3a050efcdf5293675.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f0a9a3b5c55c863e0eb8df8d804db2aa.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/8e2140f2676935e6fce3ae1cc2ce6105.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a01dddb386d727692da916c09f9b5a9d.jpg?v=1712230192",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d8d13dca5fdecfc2c1afeb9aa2ca2961.jpg?v=1712230187",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/acbd6d56da4c161b469b34b39bdcaf39.jpg?v=1712230187",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/b7a3aa6677bf8e62783020d907998633.jpg?v=1712230187",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/516ad8fefec42bfc482334c379011807.jpg?v=1712230187",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/cbafd494ef51e0e7748b25c50363599a.jpg?v=1712230187",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bb45abc3a09e87bfb474e8823c6a4218.jpg?v=1712230144",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6a7692a1aca8ac77a6e5d7ad859e8870.jpg?v=1712230145",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bc919e3281a8eae43d5fb46fb9873102.jpg?v=1712230145",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-10-04om16.27.40.jpg?v=1728052170",
+      "description_html": "<p><em>Ice Cold: A Hip-Hop Jewelry History</em> presents the bling culture of rappers and their jewelry. Through 40 years of iconic imagery and compelling stories, this visual history shines a light on the world of hip-hop, where mega stars from Run-DMC to Tupac and Jay-Z to Migos and Cardi B flash brilliant custom pieces to show status and personal style.</p>\n<p><span>Signed black-and-white pigment print on Canson Platine paper, 41 x 51 cm; hardcover volume in a slipcase, 25 x 34 cm, 2.85, 388 pages</span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\"><span>ISBN </span><span>978-3-8365-9428-8</span></p>\n<div class=\"read-more__biography--book-edition\"><span>Edition: Multilingual (English, French, German)</span></div>\n<p class=\"read-more__biography--book-isbn\"> </p>\n</div>"
+    },
+    {
+      "id": 8891599618380,
+      "title": "Book - Dalí. The Paintings",
+      "handle": "book-dali-the-paintings",
+      "url": "https://arowonen.com/products/book-dali-the-paintings",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-04T11:59:32+01:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2024-03-04T12:01:58+01:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47774479778124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_3d_44644_2106141521_id_1275099.png-640x758.jpg?v=1709550105",
+          "alt": null,
+          "width": 640,
+          "height": 758
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_120_121_44644_1910241730_id_1278328.jpg?v=1709550111",
+          "alt": null,
+          "width": 1640,
+          "height": 959
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_138_139_44644_1910241732_id_1278454.jpg?v=1709550111",
+          "alt": null,
+          "width": 1640,
+          "height": 959
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_252_253_44644_1910241730_id_1278283.jpg?v=1709550112",
+          "alt": null,
+          "width": 1640,
+          "height": 959
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_376_377_44644_1910241730_id_1278301.jpg?v=1709550112",
+          "alt": null,
+          "width": 1640,
+          "height": 959
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_550_551_44644_1910241732_id_1278544.jpg?v=1709550111",
+          "alt": null,
+          "width": 1640,
+          "height": 953
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_open001_640_641_44644_1910241731_id_1278409.jpg?v=1709550111",
+          "alt": null,
+          "width": 1640,
+          "height": 953
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/dali_kl_gb_3d_44644_2106141521_id_1275099.png-640x758.jpg?v=1709550105",
+      "description_html": "<p>At the age of six,<strong> Salvador Dalí </strong>(1904–1989) wanted to be a cook. At the age of seven, he wanted to be Napoleon. “Since then,” he later said, “my ambition has steadily grown, and my megalomania with it. Now I want only to be Salvador Dalí, I have no greater wish.” Throughout his life, Dalí was out to become Dalí: that is, <strong>one of the most significant artists and eccentrics of the 20th century</strong>.<br><br>This weighty volume is <strong>the most complete study </strong><strong>of</strong><strong> Dalí’s painted works ever published</strong>. After years of research, Robert Descharnes and Gilles Néret located painted works by the master that had been inaccessible for years—so many, in fact, that almost half the featured illustrations appear in public for the first time in this book.</p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, </span><span data-testid=\"book-details--dimensions\">21 x 26 cm, </span><span data-testid=\"book-details--weight\">2.66 kg, </span><span>752 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-7624-6</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    },
+    {
+      "id": 8891573666124,
+      "title": "Book - Virgil Abloh. Nike. ICONS",
+      "handle": "book-virgil-abloh-nike-icons",
+      "url": "https://arowonen.com/products/book-virgil-abloh-nike-icons",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "DESIGN & PHOTOGRAPHY",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-04T11:32:07+01:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2024-03-04T11:32:50+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47774380982604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/virgil_abloh_nike_va_gb_3d_rgb_kdi_08018_2206081104_id_1342237.png-640x737.jpg?v=1709548368",
+          "alt": null,
+          "width": 640,
+          "height": 737
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_02_2101111556_id_1342416.jpg?v=1709548401",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_03_2101111556_id_1342425.jpg?v=1709548403",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_04_2101111556_id_1342434.jpg?v=1709548402",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_05_2101111557_id_1342443.jpg?v=1709548401",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_06_2101111557_id_1342452.jpg?v=1709548400",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_07_2101111558_id_1342461.jpg?v=1709548402",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/virgil_abloh_nike_va_gb_3d_rgb_kdi_08018_2206081104_id_1342237.png-640x737.jpg?v=1709548368",
+      "description_html": "<p>Bringing together all the greats—from <strong>Air Jordan 1</strong> to <strong>Air Presto</strong>—<strong>Nike and Virgil Abloh reinvent sneaker culture</strong> with the collaborative project The Ten and redesign 10 sneaker icons. <strong>Experience engineering ingenuity and Abloh’s investigative design process</strong>: each shoe is a piece of industrial design, a readymade sculpture, and a wearable all at once. The artful <strong>Swiss binding</strong> <strong>showcases an open spine</strong>, reflecting Abloh’s deconstructive vocabulary and disclosing the production of <em>ICONS</em>.</p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, Swiss binding with open spine, </span><span data-testid=\"book-details--dimensions\">25.5 x 29.7 cm, </span><span data-testid=\"book-details--weight\">2.09 kg, </span><span>352 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-8509-5</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    },
+    {
+      "id": 8891562557772,
+      "title": "Book - Greatest Of All Time - A Tribute to Muhammad Ali",
+      "handle": "book-greatest-of-all-time-a-tribute-to-muhammad-ali",
+      "url": "https://arowonen.com/products/book-greatest-of-all-time-a-tribute-to-muhammad-ali",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "DESIGN & PHOTOGRAPHY",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-04T11:24:07+01:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2024-03-04T11:27:29+01:00",
+      "available": true,
+      "price_min": 125,
+      "price_max": 125,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47774349492556,
+          "title": "Default Title",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/go_goat_trade_edition_xl_gb_3d_05737_1503130928_id_912782.png-640x631.jpg?v=1709548001",
+          "alt": null,
+          "width": 640,
+          "height": 631
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_002_003_05737_1501141000_id_385082.jpg?v=1709548012",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_004_005_05737_1501141000_id_385095.jpg?v=1709548013",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_008_009_05737_1501141000_id_385108.jpg?v=1709548014",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_010_011_05737_1501141000_id_385145.jpg?v=1709548013",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_014_015_05737_1501141001_id_385197.jpg?v=1709548012",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_026_027_05737_1501141001_id_385184.jpg?v=1709548013",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/go_goat_trade_edition_xl_gb_open001_05737_1501140958_id_810601.jpg?v=1709548019",
+          "alt": null,
+          "width": 1640,
+          "height": 428
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/go_goat_trade_edition_xl_gb_open002_05737_1404251436_id_810611.jpg?v=1709548019",
+          "alt": null,
+          "width": 1640,
+          "height": 516
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/goat_trade_xl_gb_as001_05737_1501231059_id_877718.jpg?v=1709548019",
+          "alt": null,
+          "width": 1640,
+          "height": 798
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/xl_goat_trade_jba_000_001_05737_1501140959_id_385069.jpg?v=1709548020",
+          "alt": null,
+          "width": 1640,
+          "height": 806
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/go_goat_trade_edition_xl_gb_3d_05737_1503130928_id_912782.png-640x631_6078f83a-66cc-47cf-8c2a-bae4248ba034.jpg?v=1709548038",
+          "alt": null,
+          "width": 640,
+          "height": 631
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/go_goat_trade_edition_xl_gb_3d_05737_1503130928_id_912782.png-640x631.jpg?v=1709548001",
+      "description_html": "<p><strong>GREATEST OF ALL TIME:</strong> MUHAMMAD ALI is a book with the power, courage, depth, creativity, and dazzling energy of its extraordinary subject. Slimmed down from the heavyweight Collector’s Edition, this bantamweight edition is smaller in size, but pulls no punches on its expertise, passion, and insight on The Champ.</p>\n<p>With thousands of images, including photography, art, and memorabilia and two gatefold sequences, the book pays vivid tribute to The Greatest both in and outside of the ring. Original essays and five decades’ worth of interviews and writing explore the courage, convictions, and extraordinary image-building that made Ali one of the most recognizable and inspirational individuals on the planet, an icon not only as an extraordinary athlete, but also as an impassioned advocate of social justice, interfaith understanding, and peace.</p>\n<p><br></p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover with fold-outs, </span><span data-testid=\"book-details--dimensions\">33 x 33 cm, </span><span data-testid=\"book-details--weight\">6.86 kg, </span><span>652 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-2067-6</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    },
+    {
+      "id": 8876152062284,
+      "title": "Book - Sneaker Freaker: World's Greatest Sneaker Collectors",
+      "handle": "book-sneaker-freaker-worlds-greatest-sneaker-collectors",
+      "url": "https://arowonen.com/products/book-sneaker-freaker-worlds-greatest-sneaker-collectors",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-02-23T19:24:29+01:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2024-02-23T19:35:06+01:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47735280992588,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2e029f61099377d926d0d45bf6e5c9dd.webp?v=1708713283",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/738a064a92a8730401232609c5ac57c7.webp?v=1708713280",
+          "alt": null,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4ec630991458ade11673db5e76468fe3.webp?v=1708713285",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/164ef27b5f4d19b2368f329dbd8177fd.webp?v=1708713282",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/602ee968af3232587adf5a39c5b6f292.webp?v=1708713282",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a0df1f5f296e8df38daa1bc1d337f3cc.webp?v=1708713283",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6d44a9a1685b0e6e39b4525e39b53bc0.webp?v=1708713280",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bf36780d164b67bf7e56e1ec9bb0d9a1.webp?v=1708713281",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48f32a4349e1fb616453dd8164417150.webp?v=1708713282",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a7a74b57eeff0b197629098d93835ead.webp?v=1708713281",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2c259e3fe54aee267f61c686f2f105f9.webp?v=1708713281",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/799b97f94e995d20930e4d2c9682eb3e.webp?v=1708713281",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/15522f032d679f294d84959e16b30f50.webp?v=1708713285",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/e7341bc34bf7f65453ee5cd6471994c7.webp?v=1708713283",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/08e638cb07fc1b7d53faf939362a1fe0.webp?v=1708713281",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a14d704bc0870355082f91e34bd34cb8.webp?v=1708713283",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3ffb79c485e119fde23c9fcb598707a8.webp?v=1708713284",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/8ef6b80c898bad497a7bbb1275c47de1.webp?v=1708713280",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/163b65acc98510c4b3ece96b8ec9e08b.webp?v=1708713284",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5654a54aa898cdfceff2b81dcbdd7ab5.webp?v=1708713282",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/28920a9caf60fb445d0686b20fd04b35.webp?v=1708713285",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/088056b4ee110d6bde8786158eabffcb.webp?v=1708713284",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f0c273a59e57fbb39c976073342e9e39.webp?v=1708713280",
+          "alt": null,
+          "width": 1200,
+          "height": 801
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2e029f61099377d926d0d45bf6e5c9dd.webp?v=1708713283",
+      "description_html": "<p><span>The first magazine of its kind, </span><span>Sneaker Freaker</span><span> has been at the forefront of the global sneaker scene for nearly two decades. With over </span><span>650 redesigned pages</span><span>, fresh photography, immense historical detail, and otaku-level minutiae, this anthology combines the magazine's finest and content </span><span>created exclusively for TASCHEN</span><span> into one big celebration of sneakers.</span></p>\n<p><br></p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, </span><span data-testid=\"book-details--dimensions\">21 x 31.5 cm, </span><span data-testid=\"book-details--weight\">3.21 kg, </span><span>752 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-9629-9</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    },
+    {
+      "id": 8876102123852,
+      "title": "Book - Sneaker Freaker: The Ultimate Sneaker Book",
+      "handle": "book-sneaker-freaker-the-ultimate-sneaker-book",
+      "url": "https://arowonen.com/products/book-sneaker-freaker-the-ultimate-sneaker-book",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-02-23T18:57:57+01:00",
+      "updated_at": "2026-05-22T17:56:01+02:00",
+      "published_at": "2024-02-23T19:06:23+01:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 50,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47735178559820,
+          "title": "Default Title",
+          "sku": null,
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-02-23om19.04.45.png?v=1708711593",
+          "alt": null,
+          "width": 489,
+          "height": 587
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/df7456601ba1772b78466550e1c4b422.webp?v=1708711592",
+          "alt": null,
+          "width": 1200,
+          "height": 866
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/020a36e9942f5b87d690e38b08c9769f.webp?v=1708711592",
+          "alt": null,
+          "width": 1200,
+          "height": 860
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/19f0386071e6290faf527ab764f19158.webp?v=1708711593",
+          "alt": null,
+          "width": 1200,
+          "height": 860
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/387aac595a7cc8f88229d088d56578a6.webp?v=1708711593",
+          "alt": null,
+          "width": 1200,
+          "height": 851
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3a4a317bded2d070eece603b638c6abe.webp?v=1708711594",
+          "alt": null,
+          "width": 1200,
+          "height": 851
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-02-23om19.04.45.png?v=1708711593",
+      "description_html": "<p><span>The first magazine of its kind, </span><span>Sneaker Freaker</span><span> has been at the forefront of the global sneaker scene for nearly two decades. With over </span><span>650 redesigned pages</span><span>, fresh photography, immense historical detail, and otaku-level minutiae, this anthology combines the magazine's finest and content </span><span>created exclusively for TASCHEN</span><span> into one big celebration of sneakers.</span></p>\n<p><br></p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, </span><span data-testid=\"book-details--dimensions\">21 x 31.5 cm, </span><span data-testid=\"book-details--weight\">3.21 kg, </span><span>672 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-7223-1</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    }
+  ]
+}

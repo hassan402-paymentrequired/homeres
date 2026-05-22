@@ -1,0 +1,1160 @@
+{
+  "handle": "studio-zar",
+  "label": "Studio Zar",
+  "url": "https://arowonen.com/collections/studio-zar",
+  "scraped_at": "2026-05-22T15:56:00.340Z",
+  "product_count": 21,
+  "products": [
+    {
+      "id": 15050500047180,
+      "title": "Vase - The Prox Champagne",
+      "handle": "vase-the-prox-champagne",
+      "url": "https://arowonen.com/products/vase-the-prox-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:51:46+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:27:26+02:00",
+      "available": true,
+      "price_min": 485,
+      "price_max": 485,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53204606091596,
+          "title": "Default Title",
+          "sku": null,
+          "price": "485.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_0684.webp?v=1756288380",
+          "alt": null,
+          "width": 1540,
+          "height": 1540
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Inspiratie11kopie.webp?v=1761479289",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_0684.webp?v=1756288380",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<div class=\"product__description rte remove-empty-space\">\n<meta charset=\"utf-8\">\n<p><span>The Prox a playful and artistic design. This piece takes its inspiration from the fluid and elegant movements of a ballerina. The glassblowers behind \"The Prox\" have expertly captured the essence of a dancer's grace, infusing the object with a sense of movement and life. The glass seems to twirl and pirouette, as if caught mid-performance, which is a testament to the craftsmanship involved in creating this stunning piece. The Prox is available in multiple colors and because of it it's size and shape it is the perfect piece to use in twofold for symmetry in your surroundings.</span></p>\n</div>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div role=\"region\" class=\"toggle__content rte remove-empty-space\" data-js-content=\"\" id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\">\n<div class=\"metafield-rich_text_field\">\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<p>width 30 cm | height 19 cm</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050481566028,
+      "title": "Vase - The Zepp Champagne",
+      "handle": "vase-the-zepp-champagne",
+      "url": "https://arowonen.com/products/vase-the-zepp-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:43:34+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:27:00+02:00",
+      "available": true,
+      "price_min": 555,
+      "price_max": 555,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53204192133452,
+          "title": "Default Title",
+          "sku": null,
+          "price": "555.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/935.webp?v=1756287884",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/935.webp?v=1756287884",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<div class=\"product__description rte remove-empty-space\">\n<meta charset=\"utf-8\">\n<p><span>The Zepp is a departure from the typical Studio Zar design. Its oval form gracefully flows into a steady foot, creating an elevated piece that exudes a sense of lightness and femininity. It’s a piece that reminds us of the endless possibilities provided by the art of glassblowing. Available in multiple colors, with the opal white option remaining a true favorite.</span></p>\n</div>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<div role=\"region\" class=\"toggle__content rte remove-empty-space\" data-js-content=\"\" id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\">\n<div class=\"metafield-rich_text_field\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>width 38 cm | height 24 cm</span><br></p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050397024588,
+      "title": "Vase - The Lab Uranium",
+      "handle": "vase-the-lab-uranium",
+      "url": "https://arowonen.com/products/vase-the-lab-uranium",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:36:37+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:26:46+02:00",
+      "available": true,
+      "price_min": 810,
+      "price_max": 810,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53203811008844,
+          "title": "Default Title",
+          "sku": null,
+          "price": "810.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1001.webp?v=1756287471",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1001.webp?v=1756287471",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<div class=\"product__description rte remove-empty-space\">\n<meta charset=\"utf-8\">\n<p><span>The Lab is part of our beautiful uranium selection. This piece will add a sense of grandeur to your décor. A sleek design, with a long neck that gradually moves into a flared base. The thick glass contributes to a strong foundation making it the perfect object for tall floral arrangements. Like all Studio Zar designs this piece has been brought to life by the skilled hands of our master glassblowers.</span></p>\n<p>The Lab in uranium is part of Studio Zar's exclusive color range and also belongs to the Uranium Selection</p>\n</div>\n<div class=\"product__description rte remove-empty-space\">\n<span></span><br>\n</div>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div role=\"region\" class=\"toggle__content rte remove-empty-space\" data-js-content=\"\" id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\">\n<div class=\"metafield-rich_text_field\">\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>width 26 cm | height 42 cm</span><br></p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050384212300,
+      "title": "Vase - The Roq Light Smoke",
+      "handle": "vase-the-roq-light-smoke",
+      "url": "https://arowonen.com/products/vase-the-roq-light-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:32:54+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:26:34+02:00",
+      "available": true,
+      "price_min": 675,
+      "price_max": 675,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53203781779788,
+          "title": "Default Title",
+          "sku": null,
+          "price": "675.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheRoqsmoke.webp?v=1756287250",
+          "alt": null,
+          "width": 1540,
+          "height": 1540
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1kopie.webp?v=1756287260",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheRoqsmoke.webp?v=1756287250",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<div class=\"product__description rte remove-empty-space\">\n<span>The Roq is our crowning jewel, an objet d'art that transcends the boundaries of conventional decor. This extraordinary design is a testament to the fusion of art and design, making it the logical choice for those who appreciate beauty that defies the ordinary. </span><span>This objet d'art is a celebration of artistry, an embodiment of creativity, and a declaration of individuality. The Roq challenges the ordinary and invites you to embrace the extraordinary. It promises to transform your living space into a canvas of inspiration and imagination, a place where art and design merge seamlessly to create a unique and timeless experience.</span>\n</div>\n<div class=\"product__description rte remove-empty-space\">\n<span></span><br>\n</div>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<div role=\"region\" class=\"toggle__content rte remove-empty-space\" data-js-content=\"\" id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\">\n<div class=\"metafield-rich_text_field\">\n<p><meta charset=\"utf-8\"><span>width 36 cm | height 24 cm</span></p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050381132108,
+      "title": "Vase - The Roq Uranium",
+      "handle": "vase-the-roq-uranium",
+      "url": "https://arowonen.com/products/vase-the-roq-uranium",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:30:24+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:25:48+02:00",
+      "available": true,
+      "price_min": 905,
+      "price_max": 905,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53203765690700,
+          "title": "Default Title",
+          "sku": null,
+          "price": "905.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/inspiratie10kopie.webp?v=1756287109",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/inspiratie10kopie.webp?v=1756287109",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p><span>The Roq is our crowning jewel, an objet d'art that transcends the boundaries of conventional decor. This extraordinary design is a testament to the fusion of art and design, making it the logical choice for those who appreciate beauty that defies the ordinary. </span><span>This objet d'art is a celebration of artistry, an embodiment of creativity, and a declaration of individuality. The Roq challenges the ordinary and invites you to embrace the extraordinary. It promises to transform your living space into a canvas of inspiration and imagination, a place where art and design merge seamlessly to create a unique and timeless experience.</span></p>\n<p>The Roq in uranium is part of Studio Zar's exclusive color range and also belongs to the Uranium Selection.</p>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div role=\"region\" class=\"toggle__content rte remove-empty-space\" data-js-content=\"\" id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\">\n<div class=\"metafield-rich_text_field\">\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<p>width 36 cm | height 23 cm</p>\n</div>\n</div>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050377920844,
+      "title": "Vase - The Roq Champagne",
+      "handle": "vase-the-roq-champagne",
+      "url": "https://arowonen.com/products/vase-the-roq-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:28:31+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:25:30+02:00",
+      "available": true,
+      "price_min": 675,
+      "price_max": 675,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53203752386892,
+          "title": "Default Title",
+          "sku": null,
+          "price": "675.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/721.webp?v=1756286987",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/721.webp?v=1756286987",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\"><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">The Roq is our crowning jewel, an objet d'art that transcends the boundaries of conventional decor. This extraordinary design is a testament to the fusion of art and design, making it the logical choice for those who appreciate beauty that defies the ordinary. This objet d'art is a celebration of artistry, an embodiment of creativity, and a declaration of individuality. The Roq challenges the ordinary and invites you to embrace the extraordinary. It promises to transform your living space into a canvas of inspiration and imagination, a place where art and design merge seamlessly to create a unique and timeless experience.es them with ease, becoming a living work of art that constantly evolves with the changing seasons.</span></p>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<div id=\"toggle--3d5afeb9-e035-44d7-99e1-5e2539f274d9\" data-js-content=\"\" class=\"toggle__content rte remove-empty-space\" role=\"region\">\n<div class=\"metafield-rich_text_field\">\n<p>width 36 cm | height 24 cm</p>\n</div>\n</div>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\"> <strong>Unique handcrafted objects<meta charset=\"utf-8\"></strong></span></p>\n<p>very Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 15050373333324,
+      "title": "Vase - The Rev Amber",
+      "handle": "vase-the-rev-amber",
+      "url": "https://arowonen.com/products/vase-the-rev-amber",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2025-08-27T11:24:38+02:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2025-08-30T12:25:19+02:00",
+      "available": true,
+      "price_min": 695,
+      "price_max": 695,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53203715850572,
+          "title": "Default Title",
+          "sku": null,
+          "price": "695.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC9136.webp?v=1756286795",
+          "alt": null,
+          "width": 1540,
+          "height": 1540
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC9136.webp?v=1756286795",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\"><meta charset=\"utf-8\"><span>The very first encounter with The Rev reveals its undeniable presence. It's a vase that demands attention, an object that dominates its surroundings with a sense of authority and style. Crafted from thick, resilient glass, it promises to stand the test of time, offering a versatile elegance that effortlessly fits into multiple design styles. Whether you choose to display vibrant blooms, lush foliage, or towering branches, The Rev accommodates them with ease, becoming a living work of art that constantly evolves with the changing seasons.</span></p>\n<p style=\"font-weight: 400;\"><strong>DETAILS</strong></p>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\">width 35 cm | height 23 cm</span></p>\n<p style=\"font-weight: 400;\"><span><meta charset=\"utf-8\">\n<strong>Unique handcrafted objects</strong></span></p>\n<p>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.</p>\n<p>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.</p>\n</div>"
+    },
+    {
+      "id": 8875996643660,
+      "title": "Vase - The Grand Amber",
+      "handle": "vase-the-grand-amber",
+      "url": "https://arowonen.com/products/vase-the-grand-amber",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:55:12+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:55:27+01:00",
+      "available": true,
+      "price_min": 735,
+      "price_max": 735,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734942728524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "735.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandamber.webp?v=1708707321",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandamber.webp?v=1708707321",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Grand is a masterpiece of craftmanship, meticulously handblown by our team of master glassblowers. The sharp lines, the thickness of the glass, the use of color, it’s a design that can only be executed by the best of the best. Available in a range of beautiful bold colors and elegant neutrals. <br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 32 cm | height 30 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875995627852,
+      "title": "Vase - The Grand Champagne",
+      "handle": "vase-the-grand-champagne",
+      "url": "https://arowonen.com/products/vase-the-grand-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:54:23+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:54:58+01:00",
+      "available": true,
+      "price_min": 735,
+      "price_max": 735,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734938337612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "735.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandchampagnekopie.webp?v=1708707294",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandchampagnekopie.webp?v=1708707294",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Grand is a masterpiece of craftmanship, meticulously handblown by our team of master glassblowers. The sharp lines, the thickness of the glass, the use of color, it’s a design that can only be executed by the best of the best. Available in a range of beautiful bold colors and elegant neutrals. <br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 32 cm | height 30 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875994284364,
+      "title": "Vase - The Dae Smoke",
+      "handle": "vase-the-dae-smoke",
+      "url": "https://arowonen.com/products/vase-the-dae-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:53:16+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:53:45+01:00",
+      "available": true,
+      "price_min": 775,
+      "price_max": 775,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734934700364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "775.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheDaesmoke.webp?v=1708707219",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheDaesmoke.webp?v=1708707219",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">With its imposing height, \"The Dae\" commands attention in any space. A sculpture that rises above the ordinary, reaches for the skies and brings life to your home, transforming it into a gallery of artistry and elegance. The Dae is and investment piece in the art of living beautifully.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 35 cm | height 38 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875993301324,
+      "title": "Vase - The Lux Green",
+      "handle": "vase-the-lux-green",
+      "url": "https://arowonen.com/products/vase-the-lux-green",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES",
+        "X-Mas"
+      ],
+      "created_at": "2024-02-23T17:52:27+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:52:49+01:00",
+      "available": true,
+      "price_min": 595,
+      "price_max": 595,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734932963660,
+          "title": "Default Title",
+          "sku": null,
+          "price": "595.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLuxgreenkopie.webp?v=1708707161",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLuxgreenkopie.webp?v=1708707161",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">With its name echoing opulence and allure, The Lux gives exactly that. Its design finds a home in both modern and classic interiors, effortlessly blending with diverse aesthetics. Placed in a sleek minimalistic living room or adorning a vintage-inspired dining room, it brings an air of sophistication and artistry to any setting.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 20 cm | height 44 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875991236940,
+      "title": "Vase - The Lux Champagne",
+      "handle": "vase-the-lux-champagne",
+      "url": "https://arowonen.com/products/vase-the-lux-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:50:38+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:52:10+01:00",
+      "available": true,
+      "price_min": 635,
+      "price_max": 635,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734927688012,
+          "title": "Default Title",
+          "sku": null,
+          "price": "635.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLuxchampagne.webp?v=1708707119",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLuxchampagne.webp?v=1708707119",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">With its name echoing opulence and allure, The Lux gives exactly that. Its design finds a home in both modern and classic interiors, effortlessly blending with diverse aesthetics. Placed in a sleek minimalistic living room or adorning a vintage-inspired dining room, it brings an air of sophistication and artistry to any setting.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 20 cm | height 44 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875987140940,
+      "title": "Vase - The Phat Smoke",
+      "handle": "vase-the-phat-smoke",
+      "url": "https://arowonen.com/products/vase-the-phat-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:47:44+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:49:55+01:00",
+      "available": true,
+      "price_min": 695,
+      "price_max": 695,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734912254284,
+          "title": "Default Title",
+          "sku": null,
+          "price": "695.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ThePhatsmoke.webp?v=1708706952",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ThePhatsmoke.webp?v=1708706952",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">This substantial piece commands attention, and its commanding presence makes it an unparalleled addition to any space. With its sharp lines and substantial width, \"The Phat\" asserts its character boldly and unapologetically. Whether placed in a minimalist setting, a contemporary space, or an eclectic environment, \"The Phat\" doesn’t fade into the background, it will always make a statement.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 40 cm | height 27 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875986190668,
+      "title": "Vase - The Lab Smoke",
+      "handle": "vase-the-lab-smoke",
+      "url": "https://arowonen.com/products/vase-the-lab-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:46:53+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:47:15+01:00",
+      "available": true,
+      "price_min": 620,
+      "price_max": 620,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734910583116,
+          "title": "Default Title",
+          "sku": null,
+          "price": "620.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLabsmoke.webp?v=1708706830",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLabsmoke.webp?v=1708706830",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Lab will add a sense of grandeur to your décor. A sleek design, with a long neck that gradually moves into a flared base. The thick glass contributes to a strong foundation making it the perfect object for tall floral arrangements. Like all Studio Zar designs this piece has been brought to life by the skilled hands of our master glassblowers.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 26 cm | height 42 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875978621260,
+      "title": "Vase - The Lab Amber",
+      "handle": "vase-the-low-champagne",
+      "url": "https://arowonen.com/products/vase-the-low-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:39:48+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:55:48+01:00",
+      "available": true,
+      "price_min": 580,
+      "price_max": 580,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734894199116,
+          "title": "Default Title",
+          "sku": null,
+          "price": "580.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLabamberkopie.webp?v=1708706761",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheLabamberkopie.webp?v=1708706761",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Lab will add a sense of grandeur to your décor. A sleek design, with a long neck that gradually moves into a flared base. The thick glass contributes to a strong foundation making it the perfect object for tall floral arrangements. Like all Studio Zar designs this piece has been brought to life by the skilled hands of our master glassblowers.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 26 cm | height 42 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875963711820,
+      "title": "Vase - The Dae Champagne",
+      "handle": "vase-the-dae-champagne",
+      "url": "https://arowonen.com/products/vase-the-dae-champagne",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:24:51+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:26:00+01:00",
+      "available": true,
+      "price_min": 775,
+      "price_max": 775,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734855008588,
+          "title": "Default Title",
+          "sku": null,
+          "price": "775.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheDaechampagnekopie.webp?v=1708705553",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheDaechampagnekopie.webp?v=1708705553",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">With its imposing height, \"The Dae\" commands attention in any space. A sculpture that rises above the ordinary, reaches for the skies and brings life to your home, transforming it into a gallery of artistry and elegance. The Dae is and investment piece in the art of living beautifully.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 35 cm | height 38 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875961909580,
+      "title": "Vase - The Zepp Opal White",
+      "handle": "vase-the-zepp-opal-white",
+      "url": "https://arowonen.com/products/vase-the-zepp-opal-white",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:23:17+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:23:51+01:00",
+      "available": true,
+      "price_min": 555,
+      "price_max": 555,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734850683212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "555.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheZeppwhite.webp?v=1708705423",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheZeppwhite.webp?v=1708705423",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Zepp is a departure from the typical Studio Zar design. Its oval form gracefully flows into a steady foot, creating an elevated piece that exudes a sense of lightness and femininity. It’s a piece that reminds us of the endless possibilities provided by the art of glassblowing. Available in multiple colors, with the opal white option remaining a true favorite.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 38 cm | height 24 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875958993228,
+      "title": "Vase - The Zepp Smoke",
+      "handle": "vase-the-zepp-smoke",
+      "url": "https://arowonen.com/products/vase-the-zepp-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:20:53+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:22:25+01:00",
+      "available": true,
+      "price_min": 555,
+      "price_max": 555,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734845243724,
+          "title": "Default Title",
+          "sku": null,
+          "price": "555.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheZeppsmoke.webp?v=1708705330",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheZeppsmoke.webp?v=1708705330",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Zepp is a departure from the typical Studio Zar design. Its oval form gracefully flows into a steady foot, creating an elevated piece that exudes a sense of lightness and femininity. It’s a piece that reminds us of the endless possibilities provided by the art of glassblowing. Available in multiple colors, with the opal white option remaining a true favorite.<br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 38 cm | height 24 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875922719052,
+      "title": "Vase - The Grand Green",
+      "handle": "vase-the-grand-green",
+      "url": "https://arowonen.com/products/vase-the-grand-green",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "CHRISTMAS",
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "KERST",
+        "VASES",
+        "X-Mas"
+      ],
+      "created_at": "2024-02-23T17:05:00+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:05:34+01:00",
+      "available": true,
+      "price_min": 735,
+      "price_max": 735,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734762930508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "735.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandgreenkopie.webp?v=1708704325",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandgreenkopie.webp?v=1708704325",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Grand is a masterpiece of craftmanship, meticulously handblown by our team of master glassblowers. The sharp lines, the thickness of the glass, the use of color, it’s a design that can only be executed by the best of the best. Available in a range of beautiful bold colors and elegant neutrals. <br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 32 cm | height 30 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875919769932,
+      "title": "Vase - The Grand Smoke",
+      "handle": "vase-the-grand-smoke",
+      "url": "https://arowonen.com/products/vase-the-grand-smoke",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T17:03:19+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T17:04:06+01:00",
+      "available": true,
+      "price_min": 735,
+      "price_max": 735,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734759096652,
+          "title": "Default Title",
+          "sku": null,
+          "price": "735.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/781.webp?v=1708704242",
+          "alt": null,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/781.webp?v=1708704242",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Grand is a masterpiece of craftmanship, meticulously handblown by our team of master glassblowers. The sharp lines, the thickness of the glass, the use of color, it’s a design that can only be executed by the best of the best. Available in a range of beautiful bold colors and elegant neutrals. <br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 32 cm | height 30 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    },
+    {
+      "id": 8875903189324,
+      "title": "Vase - The Grand Blue",
+      "handle": "vase-the-grand-blue",
+      "url": "https://arowonen.com/products/vase-the-grand-blue",
+      "vendor": "STUDIO ZAR",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-02-23T16:47:13+01:00",
+      "updated_at": "2026-05-22T17:56:00+02:00",
+      "published_at": "2024-02-23T16:47:13+01:00",
+      "available": true,
+      "price_min": 735,
+      "price_max": 735,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47734724526412,
+          "title": "Default Title",
+          "sku": "",
+          "price": "735.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandbluekopie.webp?v=1708703235",
+          "alt": null,
+          "width": 1280,
+          "height": 1280
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TheGrandbluekopie.webp?v=1708703235",
+      "description_html": "<div class=\"product__description rte remove-empty-space\">\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">The Grand is a masterpiece of craftmanship, meticulously handblown by our team of master glassblowers. The sharp lines, the thickness of the glass, the use of color, it’s a design that can only be executed by the best of the best. Available in a range of beautiful bold colors and elegant neutrals. <br><br><strong>DETAILS<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">width 32 cm | height 30 cm<br><br><strong>UNIQUE HANDCRAFTED OBJECTS<br></strong></span><br>Every Studio Zar object is individually handcrafted using the art of glassblowing, ensuring that each piece is inherently one-of-a-kind.<br><br>Variations in color are a natural outcome of this production method.</p>\n<p>The provided measurements serve as approximate indications rather than precise dimensions.</p>\n<p>Several distinctive features are inherent to this production method, including delicate bell shapes within the glass, small pits and subtle lines resulting from the turning of the glassblower's pipe. These beauty marks signify that you are purchasing an artisanal, handcrafted product.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p style=\"font-weight: 400;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><strong></strong></span><br></p>\n</div>"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "handle": "versacehome",
+  "label": "Versace",
+  "url": "https://arowonen.com/collections/versacehome",
+  "scraped_at": "2026-05-22T15:56:08.091Z",
+  "product_count": 1,
+  "products": [
+    {
+      "id": 8987109982540,
+      "title": "Virtus Gala - Dish White - 14cm",
+      "handle": "virtus-gala-dish-white-14cm",
+      "url": "https://arowonen.com/products/virtus-gala-dish-white-14cm",
+      "vendor": "VERSACE",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "TRAYS & COASTERS"
+      ],
+      "created_at": "2024-04-26T20:28:03+02:00",
+      "updated_at": "2026-05-22T17:56:08+02:00",
+      "published_at": "2024-04-26T20:28:03+02:00",
+      "available": true,
+      "price_min": 255,
+      "price_max": 255,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48060251210060,
+          "title": "Default Title",
+          "sku": "",
+          "price": "255.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/14085-403730-25814_1_f25.jpg?v=1714156086",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/14085-403730-25814_1_f25.jpg?v=1714156086",
+      "description_html": "<ul>\n<li class=\"details-list-item string_diameter_of_item\">Diameter:<span> </span><span class=\"content\">18,30 cm</span>\n</li>\n<li class=\"details-list-item string_length_of_item\">Length:<span> </span><span class=\"content\">13,20 cm</span>\n</li>\n<li class=\"details-list-item string_width_of_item\">Width:<span> </span><span class=\"content\">13,20 cm</span>\n</li>\n<li class=\"details-list-item string_height_of_item\">Height:<span> </span><span class=\"content\">2,20 cm</span>\n</li>\n<li class=\"details-list-item string_weight_without_packaging\">Weight of article:<span> </span><span class=\"content\">253 gr</span>\n</li>\n<li class=\"details-list-item string_length_of_packaging\">Package length:<span> </span><span class=\"content\">14,50 cm</span>\n</li>\n<li class=\"details-list-item string_width_of_packaging\">Package width:<span> </span><span class=\"content\">14,50 cm</span>\n</li>\n<li class=\"details-list-item string_height_of_packaging\">Package height:<span> </span><span class=\"content\">3,60 cm</span>\n</li>\n<li class=\"details-list-item string_weight_of_packaging\">Weight of packaging:<span> </span><span class=\"content\">72 gr</span>\n</li>\n<li class=\"details-list-item string_weight_with_packaging\">Package weight:<span> </span><span class=\"content\">325 gr</span>\n</li>\n</ul>"
+    }
+  ]
+}

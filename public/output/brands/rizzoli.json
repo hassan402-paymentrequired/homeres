@@ -1,0 +1,394 @@
+{
+  "handle": "rizzoli",
+  "label": "Rizzoli",
+  "url": "https://arowonen.com/collections/rizzoli",
+  "scraped_at": "2026-05-22T15:55:54.736Z",
+  "product_count": 4,
+  "products": [
+    {
+      "id": 8939932909900,
+      "title": "Book - Lamborghini",
+      "handle": "book-lamborghini",
+      "url": "https://arowonen.com/products/book-lamborghini",
+      "vendor": "RIZZOLI",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-29T18:56:46+01:00",
+      "updated_at": "2026-05-22T17:55:54+02:00",
+      "published_at": "2024-03-29T19:01:38+01:00",
+      "available": true,
+      "price_min": 80,
+      "price_max": 80,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47901739712844,
+          "title": "Default Title",
+          "sku": null,
+          "price": "80.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LAMBOBOOK.webp?v=1711735293",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/646786.jpg?v=1711735293",
+          "alt": null,
+          "width": 1700,
+          "height": 1116
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/646788_v2.jpg?v=1711735293",
+          "alt": null,
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LAMBOBOOK.webp?v=1711735293",
+      "description_html": "<p>This official book is dedicated to the history of the Italian car brand founded in Sant’Agata Bolognese in 1963 by Ferruccio Lamborghini. Ferruccio’s dream was to create the perfect car and still today, more than half a century later, Lamborghini continues to produce super sport cars that are sought after and renowned throughout the world.<br><br>The book is divided into five macro-sections:<br><br></p>\n<ul>\n<li>\n<b>Where:</b><span> </span>In Sant’Agata Bolognese, Emilia, Italy—a small remote village now known throughout the world.</li>\n<li>\n<b>How:</b><span> </span>With the ingredients that make it unique—the passion of the local people, mechanical purity and unstoppable technical innovation, forward-looking design, stylish and original use of color, and a constant dialogue with new generations.</li>\n<li>\n<b>Who:</b><span> </span>Lamborghini’s strength is its people, from the past and the present, who deserve respect for what they do and what they have done.</li>\n<li>\n<b>When:</b><span> </span>The history of Lamborghini spans from 1963 to today, from the brilliant moments from the past to the successes of today, as well as the more difficult periods that were overcome with great dignity and commitment.</li>\n<li>\n<b>Why:</b><span> </span>All the models that have shaped the history of Lamborghini are illustrated here, including special editions, those that underwent significant evolution, and unreleased models.</li>\n</ul>\n<p><strong>ISBN</strong><br><span data-mce-fragment=\"1\">978-88-918393-8-1<br></span><strong>PAGES</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\">240<br><strong>SIZE<br></strong>25x2,3x30,2 cm</span></p>\n<div class=\"product-info__complementary-products v-stack gap-3 sm:gap-4\">\n<div class=\"h-stack justify-between gap-4\"><br></div>\n</div>"
+    },
+    {
+      "id": 8939856331084,
+      "title": "Book - Tom Ford",
+      "handle": "book-tom-ford",
+      "url": "https://arowonen.com/products/book-tom-ford",
+      "vendor": "RIZZOLI",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-29T16:52:58+01:00",
+      "updated_at": "2026-05-22T17:55:54+02:00",
+      "published_at": "2024-03-29T17:01:03+01:00",
+      "available": true,
+      "price_min": 125,
+      "price_max": 125,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47901188391244,
+          "title": "Default Title",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_1_583244eb-e4e0-457c-a08c-256babf23fe6.webp?v=1711728092",
+          "alt": null,
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_c3dedacc-3f2c-4e54-bd93-5e6ee3f20a8c.webp?v=1711728092",
+          "alt": null,
+          "width": 600,
+          "height": 783
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image.jpg?v=1711728051",
+          "alt": null,
+          "width": 600,
+          "height": 780
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_4.jpg?v=1711728046",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_5.jpg?v=1711728050",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_6.jpg?v=1711728048",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image1.jpg?v=1711728046",
+          "alt": null,
+          "width": 600,
+          "height": 783
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_7.jpg?v=1711728051",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_8.jpg?v=1711728049",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage.jpg?v=1711728046",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_1.jpg?v=1711728048",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_9.jpg?v=1711728053",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_2.jpg?v=1711728051",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_10.jpg?v=1711728050",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_3.jpg?v=1711728052",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_11.jpg?v=1711728052",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_13.jpg?v=1711728050",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_14.jpg?v=1711728047",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_16.jpg?v=1711728047",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_12.jpg?v=1711728046",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_15.jpg?v=1711728046",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fullpage_17.jpg?v=1711728050",
+          "alt": null,
+          "width": 560,
+          "height": 728
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/image_1_583244eb-e4e0-457c-a08c-256babf23fe6.webp?v=1711728092",
+      "description_html": "<p><span style=\"color: #000000;\" data-mce-fragment=\"1\" data-mce-style=\"color: #000000;\">Tom Ford has become one of fashion's great icons. Over the past decade, he has transformed Gucci from a moribund accessories label into one of the sexiest fashion brands in the world. His designs have increased sales at Gucci tenfold and helped build the Gucci brand into the luxury goods conglomerate it is today. <br><br>This book is a complete catalogue of Ford's design work for both Gucci and Yves Saint Laurent from 1994 to 2004. The book not only describes Ford's designs for clothing and accessories for both houses, but also explores Ford's grand vision of the complete design of a brand, including architecture, shop design and advertising. Tom Ford includes more than 200 photographs by Richard Avedon, Mario Testino, Steven Meisel, Helmut Newton, Herb Ritts, Terry Richardson, Craig McDean, Todd Eberle and numerous other photographers, including many never-before-published images.<br><br>Published to mark his departure from Gucci, this book was created with Ford's full cooperation and every page reflects his exceptional taste. It is Ford's testament to a career full of unique moments in which the boundaries of style and sensuality in clothing were reinvented.<br></span></p>\n<p><strong>ISBN</strong><br><span data-mce-fragment=\"1\">9780847826698<br></span><span><strong>PAGES</strong><br>414<br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>SIZE</strong><br></span>28,4 × 5,5 × 37,1 cm<br></span></p>"
+    },
+    {
+      "id": 8913526554956,
+      "title": "Book - Versace",
+      "handle": "book-versace",
+      "url": "https://arowonen.com/products/book-versace",
+      "vendor": "RIZZOLI",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-15T16:48:52+01:00",
+      "updated_at": "2026-05-22T17:55:54+02:00",
+      "published_at": "2024-03-15T16:53:30+01:00",
+      "available": true,
+      "price_min": 85,
+      "price_max": 85,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47832913772876,
+          "title": "Default Title",
+          "sku": null,
+          "price": "85.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Versace1.jpg?v=1710518005",
+          "alt": null,
+          "width": 640,
+          "height": 560
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Versace4.jpg?v=1710518004",
+          "alt": null,
+          "width": 381,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Versace3.jpg?v=1710518004",
+          "alt": null,
+          "width": 550,
+          "height": 699
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Versace2.jpg?v=1710518004",
+          "alt": null,
+          "width": 533,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Versace1.jpg?v=1710518005",
+      "description_html": "<p><span style=\"color: #000000;\" data-mce-fragment=\"1\" data-mce-style=\"color: #000000;\">Written by Donatella Versace, Maria Luisa Frisa and Stefano Tonchi, Contribution by Tim Blanks and Ingrid Sischy. A long-awaited and highly intimate visual history of Versace, the glamorous and globally renowned Italian fashion house. Versace—a name that epitomizes Italian opulence, bold sexiness, and a flair for the extravagant—holds its place firmly in the fashion world as a legendary and iconic luxury brand. Taking over the creative artistic direction of the family-run fashion house in 1997, the enigmatic and alluring Donatella Versace has since catapulted the brand into popular culture, cementing Versace as a go-to label for A-list celebrities. This richly illustrated tome chronicles Donatella’s interpretation of Versace in the twenty-first century and her remarkable work as the curator and face of Versace.<br></span></p>\n<p><strong>ISBN</strong><br><span data-mce-fragment=\"1\">9780847846078<br></span><span><strong>PAGES</strong><br>336<br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>SIZE</strong><br></span>28,5 x 35,3 x 3,1 cm<br></span></p>"
+    },
+    {
+      "id": 8900365746508,
+      "title": "Book - Mosques: Splendors of Islam",
+      "handle": "book-mosques-splendors-of-islam",
+      "url": "https://arowonen.com/products/book-mosques-splendors-of-islam",
+      "vendor": "RIZZOLI",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2024-03-08T14:18:06+01:00",
+      "updated_at": "2026-05-22T17:55:54+02:00",
+      "published_at": "2024-03-08T14:18:06+01:00",
+      "available": true,
+      "price_min": 85,
+      "price_max": 85,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47795858014540,
+          "title": "Default Title",
+          "sku": "",
+          "price": "85.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-03-08om14.17.47.png?v=1709903890",
+          "alt": null,
+          "width": 486,
+          "height": 477
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/550x660.jpg?v=1709903889",
+          "alt": null,
+          "width": 550,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mosques.jpg?v=1709903889",
+          "alt": null,
+          "width": 550,
+          "height": 653
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-03-08om14.17.47.png?v=1709903890",
+      "description_html": "<p><span>One of the most important and authoritative books to celebrate mosque architecture and Islamic design, featuring many new photographs commissioned for this volume.</span><br></p>\n<p><span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>ISBN</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">9780847860357</span><br><strong>PAGES</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">304</span><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>SIZE</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">26 x 31 x 3 cm</span></span></p>"
+    }
+  ]
+}

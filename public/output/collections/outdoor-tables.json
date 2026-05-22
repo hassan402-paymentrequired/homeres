@@ -1,0 +1,350 @@
+{
+  "handle": "outdoor-tables",
+  "label": "Outdoor Tables (All)",
+  "url": "https://arowonen.com/collections/outdoor-tables",
+  "scraped_at": "2026-05-22T15:59:34.871Z",
+  "product_count": 3,
+  "products": [
+    {
+      "id": 15010798862668,
+      "title": "Outdoor Side Table - Picea - By Vincent Van Duysen",
+      "handle": "outdoor-side-table-picea-by-vincent-van-duysen",
+      "url": "https://arowonen.com/products/outdoor-side-table-picea-by-vincent-van-duysen",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "OUTDOOR SIDE TABLE",
+        "OUTDOOR TABLES",
+        "Table",
+        "Vincent Van Duysen"
+      ],
+      "created_at": "2025-08-05T10:35:50+02:00",
+      "updated_at": "2026-05-22T17:59:35+02:00",
+      "published_at": "2025-08-05T11:56:42+02:00",
+      "available": true,
+      "price_min": 1055,
+      "price_max": 1295,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 6,
+      "variants": [
+        {
+          "id": 53312821002572,
+          "title": "Ecru / Yes",
+          "sku": null,
+          "price": "1295.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ecru",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312821035340,
+          "title": "Ecru / No",
+          "sku": null,
+          "price": "1055.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ecru",
+          "option2": "No",
+          "option3": null
+        },
+        {
+          "id": 53312821068108,
+          "title": "Merlot Red / Yes",
+          "sku": null,
+          "price": "1295.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Merlot Red",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312821100876,
+          "title": "Merlot Red / No",
+          "sku": null,
+          "price": "1055.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Merlot Red",
+          "option2": "No",
+          "option3": null
+        },
+        {
+          "id": 53312821133644,
+          "title": "Anthracite / Yes",
+          "sku": null,
+          "price": "1295.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Anthracite",
+          "option2": "Yes",
+          "option3": null
+        },
+        {
+          "id": 53312821166412,
+          "title": "Anthracite / No",
+          "sku": null,
+          "price": "1055.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Anthracite",
+          "option2": "No",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Ecru",
+            "Merlot Red",
+            "Anthracite"
+          ]
+        },
+        {
+          "name": "Add Waterproof Cover?",
+          "values": [
+            "Yes",
+            "No"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6605a24d99511_1_1_Picea_03.jpg?v=1754227832",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Picea_Indoor_01.jpg?v=1754227832",
+          "alt": null,
+          "width": 2066,
+          "height": 2480
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6605a246e182b_1_1_Picea_02.jpg?v=1754214052",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6605a2564d744_1_1_Picea.jpg?v=1754214052",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Picea_Indoor_02.jpg?v=1754213983",
+          "alt": null,
+          "width": 1054,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Picea_Indoor_03.jpg?v=1754213984",
+          "alt": null,
+          "width": 2322,
+          "height": 1470
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6605a24d99511_1_1_Picea_03.jpg?v=1754227832",
+      "description_html": "<p class=\"generic-text  padding-line-element\">The Picea coffee table, a Vincent Van Duysen design, is a seamless addition to the Outdoor Timeout Collection. Crafted entirely in ceramic, Picea boasts gracefully rounded lines and a harmonious design, echoing the natural beauty of the Arctic evergreen spruce tree from which it takes its name.</p>\n<section id=\"block-1\" class=\"content-block dimension-medium\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Picea’s slight hourglass shape offers a wider base and a comfortable support surface, evoking a sense of movement without disrupting the fluidity of its solid color body. This design language speaks of sophistication, eschewing unnecessary complexity while embracing a robust presence.</p>\n<section id=\"block-3\" class=\"content-block\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">Available in three timeless colors—Ecru, Anthracite, and Merlot Red—the Picea coffee table offers versatility in design and aesthetic appeal. With dimensions of 34.5 cm in diameter and 45 cm in height, it stands as a symbol of understated elegance in any outdoor setting.</p>\n<section id=\"block-4\" class=\"content-block dimension-medium\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">Whether as a duo, a cluster, or a standalone piece, Picea coffee tables invite exploration and creativity. Monochrome or mixed, they elevate outdoor spaces with their timeless charm and enduring allure.</p>\n<p class=\"block-text-label\">Diameter: 34,5 cm</p>\n<p class=\"block-text-label\">Height: 45 cm</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div class=\"show-for-mobile  padding-line-element\"><br></div>\n<p><br><meta charset=\"utf-8\"></p>"
+    },
+    {
+      "id": 15008771408204,
+      "title": "Coffee Table - Sway - By Yabu Pushelberg",
+      "handle": "coffee-table-sway-by-yabu-pushelberg",
+      "url": "https://arowonen.com/products/coffee-table-sway-by-yabu-pushelberg",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "OUTDOOR",
+        "Outdoor coffee Table",
+        "OUTDOOR TABLES",
+        "Yabu Pushelberg"
+      ],
+      "created_at": "2025-08-04T11:23:28+02:00",
+      "updated_at": "2026-05-22T17:59:35+02:00",
+      "published_at": "2025-08-05T11:42:20+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53054501323084,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_sway_01.jpg?v=1754299590",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65ca283aebb5f_Casa_Novina_0377_2024_WEB.jpg?v=1754299590",
+          "alt": null,
+          "width": 2480,
+          "height": 1365
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/65ca29169cf16_Casa_Novina_0534_2024_WEB.jpg?v=1754299590",
+          "alt": null,
+          "width": 1552,
+          "height": 1572
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_0587_2024_WEB.jpg?v=1754299590",
+          "alt": null,
+          "width": 1495,
+          "height": 1758
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1142_2024_WEB.jpg?v=1754299590",
+          "alt": null,
+          "width": 2480,
+          "height": 1287
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Casa_Novina_1002_2024_WEB.jpg?v=1754299590",
+          "alt": null,
+          "width": 1859,
+          "height": 1658
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Sway_01.jpg?v=1754299590",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Sway_02.jpg?v=1754299590",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1_Sway_03.jpg?v=1754299590",
+          "alt": null,
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_sway_01.jpg?v=1754299590",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Crafted with meticulous attention to detail, the Sway outdoor coffee table by Yabu Pushelberg exudes warmth and natural charm.</p>\n<section class=\"content-block dimension-medium\" id=\"block-3\">\n<div class=\"wrapper-content\">\n<div class=\"block-text block-text__align-left  row animation-y\">\n<div class=\"col-12\">\n<div>\n<p class=\"generic-text\">The series of coffee tables, available in three sizes, features the same aesthetic motifs as the Sway family, presenting a harmonious and customizable addition. Perfect for serving refreshments or displaying decorative accents, this small coffee table is designed to enhance the overall ambiance and style.</p>\n<section class=\"content-block\" id=\"block-5\">\n<div class=\"wrapper-content  dimension-medium\">\n<div class=\"block-text-img block-text-img_small block-text-img_text-right  row\">\n<div class=\"block-text-img-text  col-4  is-768\">\n<div>\n<p class=\"generic-text\">It is available with a natural teak wood finish, with a sleek ceramic finish or with a fabric inclusion, bringing an elegant texture to the tabletop for both style and functionality.</p>\n<p class=\"block-text-label\"> </p>\n</div>\n</div>\n</div>\n</div>\n</section>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 15007346360652,
+      "title": "Outdoor Coffee Table - Mateo",
+      "handle": "outdoor-coffee-table-mateo",
+      "url": "https://arowonen.com/products/outdoor-coffee-table-mateo",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store",
+        "OUTDOOR",
+        "OUTDOOR TABLES"
+      ],
+      "created_at": "2025-08-03T16:46:22+02:00",
+      "updated_at": "2026-05-22T17:59:35+02:00",
+      "published_at": "2025-08-03T16:48:21+02:00",
+      "available": true,
+      "price_min": 1495,
+      "price_max": 1495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53046696935756,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_0_1_1_460d15d8-dabb-48ab-a40f-eab0f20d0eb4.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_1_1_1_54d51b8c-6d0e-491f-aa50-80a1f5b3777b.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_5_1_1_50b21a29-a0c5-4765-90fc-29ca094b231b.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_6_1_1.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_2_1_1_dc694390-776f-4332-ae71-5db28027547b.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_3_1_1_6fdbc946-b1ef-4b6a-96fa-61f9ed2d153e.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_4_1_1_1752991d-d645-421a-acd8-ff7f5c6aafa4.webp?v=1754232505",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119027_0_1_1_460d15d8-dabb-48ab-a40f-eab0f20d0eb4.webp?v=1754232505",
+      "description_html": "<p class=\"text-special-sm\">Elevate your outdoor oasis with the Mateo Outdoor Coffee Table.</p>\n<p class=\"text-special-sm\"><span>Featuring a sleek light grey glaze and modern silhouette, this table introduces a refined, minimalist aesthetic. Perfectly balancing form and function, its elegant surface serves as a captivating focal point for alfresco gatherings, inviting luxury and style into your environment. Ideal for discerning tastes seeking understated sophistication.</span><br></p>\n<p class=\"text-special-sm\"><span><meta charset=\"utf-8\">\n<strong>Dimensions</strong></span></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 98 | W. 98 | H. 42.5 cm</span></li>\n</ul>\n<p><span class=\"dimension-value\"><meta charset=\"utf-8\">\n<strong>Specifications</strong></span></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Light grey glaze</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">193</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">425.49</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor &amp; outdoor use</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"pb-6\"></div>"
+    }
+  ]
+}

@@ -1,0 +1,3108 @@
+{
+  "handle": "fornasetti",
+  "label": "Fornasetti",
+  "url": "https://arowonen.com/collections/fornasetti",
+  "scraped_at": "2026-05-22T15:55:25.798Z",
+  "product_count": 40,
+  "products": [
+    {
+      "id": 15056888955212,
+      "title": "Candle - Silenzio Immaginazione - 235g",
+      "handle": "candle-silenzio-immaginazione-235g",
+      "url": "https://arowonen.com/products/candle-silenzio-immaginazione-235g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:19:38+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:47+02:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239374348620,
+          "title": "Default Title",
+          "sku": null,
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0f92aa7986ab46ef3fa6106f7cd64ad2_1920x1920_e58ad459-7432-475a-be0c-db4598a25a26.png?v=1756736446",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5abe796146895b314036cb6ea2309837_1920x1920_ca5a4eeb-38bf-48cd-a57e-f57905bcca48.png?v=1756736445",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2728f174e04d91d7447458a81df8be71_1920x1920_1bdff90f-2815-4d2e-b629-b69714732126.avif?v=1756736444",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/a4fa81fb0970e8f903054dee3ad8e3f5_1920x1920_7f4b0617-55b9-4893-a5a9-a664cef51a32.png?v=1756736446",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0f92aa7986ab46ef3fa6106f7cd64ad2_1920x1920_e58ad459-7432-475a-be0c-db4598a25a26.png?v=1756736446",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>Enjoy Silenzio Immaginazione Candle by Fornasetti Profumi, is one of the most loved in the unmistakable Tema e Variazioni series. Playing with the different expressions on the front and back encourages the creation of silent dialogues and ever-new combinations.</p>\n<p>The porcelain candle is decorated by hand and enriched with a gold finish applied to the base with a brush.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's visual language: woody and aromatic notes that are as elegant and timeless as Fornasetti's objects.</p>\n<p>All small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Linalool, Linalyl Acetate, Coumarin, Citronellol, Iso E Super (anthamber Premium, Timbrone Supra).</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056979263820,
+      "title": "Candle - Tra le Nuove Immaginazione 235g",
+      "handle": "candle-tra-le-nuove-immaginazione-235g",
+      "url": "https://arowonen.com/products/candle-tra-le-nuove-immaginazione-235g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:51:14+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:30:24+02:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239772578124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/517df8f59213e6b9a88cd956be7f4a67_1920x1920_3478810a-bb68-4a62-b5be-a7ff4de68c0e.png?v=1756738353",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/560d809054d46f29480d0146cb6ce15c_1920x1920_db0585b1-85ce-48d5-a01c-5f785c8d5d0b.png?v=1756738353",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/825955e3c2d619da109c6e2b22598829_1920x1920_6e36a8a0-27de-46ac-869f-3604a7be21f8.png?v=1756738353",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f82b0d5147dbf2773744bc3b7037cd04_1920x1920_cb00aaf7-c3c8-43d5-943b-b71aad0a499d.png?v=1756738353",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5f18f8d65f65e09bf99e56ea03773cbb_1920x1920_48205c25-1359-43d3-9baf-2b016daf10ba.avif?v=1756738353",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/517df8f59213e6b9a88cd956be7f4a67_1920x1920_3478810a-bb68-4a62-b5be-a7ff4de68c0e.png?v=1756738353",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>Tra le Nuove Immaginazione Candle by Fornasetti Profumi is an invitation to dream. The unmistakable female face captivates with her enchanting look on the front, while on the back she merges into another dimension. Clouds surround her, flowing all over the decorated surface and creating a surreal mood.</p>\n<p>The porcelain candle is decorated by hand and enriched with a gold finish applied to the base with a brush.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's visual language: woody and aromatic notes that are as elegant and timeless as Fornasetti's objects.</p>\n<p>All the small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n</div>\n</div>\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DETAILS</strong></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div id=\"accordionExtraInfo\" class=\"pdp-accordion accordion accordion-flush mx-6\">\n<div class=\"accordion-item\">\n<div data-bs-parent=\"#accordionExtraInfo\" class=\"accordion-collapse collapse show\" id=\"ingredients\">\n<div class=\"accordion-body\">\n<meta charset=\"utf-8\">\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div id=\"accordionExtraInfo\" class=\"pdp-accordion accordion accordion-flush mx-6\">\n<div class=\"accordion-item\">\n<div data-bs-parent=\"#accordionExtraInfo\" class=\"accordion-collapse collapse show\" id=\"ingredients\">\n<div class=\"accordion-body\">\n<meta charset=\"utf-8\">\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Linalool, Linalyl Acetate, Coumarin, Citronellol, Iso E Super (anthamber Premium, Timbrone Supra).</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056969564492,
+      "title": "Talvolta - Room Spray - Tra i F G Segreto - 100ml",
+      "handle": "talvolta-room-spray-tra-i-f-g-segreto-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-tra-i-f-g-segreto-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-09-01T16:48:13+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:30:23+02:00",
+      "available": true,
+      "price_min": 210,
+      "price_max": 210,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239694819660,
+          "title": "Default Title",
+          "sku": null,
+          "price": "210.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/11c93fc26994c694f4b7ba74e7b11255_1000x1000_697d7ae4-1c3b-44a0-977b-0a9404adea1f.png?v=1756738176",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f75be5c43d0d53617b8f36b71939e18a_1000x1000_b2503036-00d2-4f8a-bf26-8746a5785bdb.png?v=1756738185",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/50ed100c9b57edcba885db8b206f38b1_1000x1000_6df1d1dd-1db8-406d-b211-4f802fbbdb1b.avif?v=1756738185",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/90bcd46d283d1c35167cd6b04f86917c_1000x1000_e89584bc-0b0d-4263-85ef-46ba86bcab0d.avif?v=1756738185",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/11c93fc26994c694f4b7ba74e7b11255_1000x1000_697d7ae4-1c3b-44a0-977b-0a9404adea1f.png?v=1756738176",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>The Talvolta Room Spray Giardino Tra i Fiori - Giardino Segreto by Fornasetti is a lush room spray inspired by the Giardino Settecentesco decor. In this unique design, the iconic face of Lina Cavalieri is decorated with colourful flowers from the Fornasetti archive. The fragrance Giardino Segreto comes from inspiration from nature. The mystical scent of sandalwood is given an eccentric twist by the presence of myrrh, old wood and ebony.</p>\n</div>\n</div>\n<div class=\"row g-0\">\n<div class=\"col-12 text-center mb-9 mb-lg-13\">\n<div class=\"fragrance-notes-wrapper\">\n<meta charset=\"utf-8\">\n<h3 class=\"text-white mb-3 mb-lg-6\">Fragrance notes</h3>\n<div class=\"fragrance-notes px-6 px-lg-0\">\n<p>Top: rhubarb, tomato leaves, blackcurrant, wild black raspberry<br>Heart: galbanum, petitgrain, geranium, whisky, carnation<br>Base: opopanax, myrrh, sandalwood, ebony, oud wood</p>\n</div>\n</div>\n</div>\n</div>\n<p><strong>DETAILS</strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Made Of 24,79% Glass, 13,77% Liquid, 6,20% Cap (zamak + Plastic) + 1,38% Pump + 53,86% Porcelain</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056953540940,
+      "title": "Candle Set - Nel Mentre - Farfalle Giardino",
+      "handle": "candle-set-nel-mentre-farfalle-giardino",
+      "url": "https://arowonen.com/products/candle-set-nel-mentre-farfalle-giardino",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:43:59+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:30:21+02:00",
+      "available": true,
+      "price_min": 950,
+      "price_max": 950,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239566762316,
+          "title": "Default Title",
+          "sku": null,
+          "price": "950.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3003e59a0b38d4264e2e9201ca4949bf_1920x1920_9f471685-ba9d-4b54-bdcf-16768dcb2bd7.png?v=1756737925",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4a1d3f98f74fa470655b875cf1ab1ef3_1920x1920_7be0fe89-63e8-439f-9759-6f405234c831.png?v=1756737925",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/04f60c3f9f98bdc15edd5887f257a73c_1920x1920_558f8a04-c033-4a2a-ac82-c57e87b2d145.png?v=1756737925",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/180f29b33233a428c51336722c6cf9c8_1920x1920_211ab0a9-e543-4465-a7a5-d095498ff772.png?v=1756737925",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0696e898bfbe7cbd9666d8b98ec15d97_1920x1920_e33130d1-81a1-49ed-8327-a51956914537.png?v=1756737925",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3003e59a0b38d4264e2e9201ca4949bf_1920x1920_9f471685-ba9d-4b54-bdcf-16768dcb2bd7.png?v=1756737925",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p><meta charset=\"utf-8\"><span>Nel Mentre Candle Set Farfalle e Balaustra - Giardino is an opulent scented candle set with a dreamy décor. The candles are enveloped in designs of balustrades and butterflies, which combine with the scent of Giardino Segreto to create a mystical atmosphere. The fragrance Giardino Segreto is inspired by nature. Myrrh, old wood and ebony add an eccentric twist to the mystical scent of sandalwood. Add a hint of enchantment to any room with these scented candles.</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056943448396,
+      "title": "Candle - Giorno e Notte Imm - 235g",
+      "handle": "candle-giorno-e-notte-imm-235g",
+      "url": "https://arowonen.com/products/candle-giorno-e-notte-imm-235g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:40:58+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:30:19+02:00",
+      "available": true,
+      "price_min": 170,
+      "price_max": 170,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239508730188,
+          "title": "Default Title",
+          "sku": null,
+          "price": "170.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3bcb4f1f5037462e6b446ebfe8bf6d2c_1920x1920_47008e48-d8ea-4990-8331-075cc233c992.png?v=1756737744",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/48101c0cd654df3a92b8fa851bbb75af_1920x1920_418df505-d171-4614-921a-8ca7c9ebd5ee.avif?v=1756737744",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c42d7bab965430136dfc74ce4fed454f_1920x1920_2b4b084c-137f-411d-8b48-04b2622bd9bc.avif?v=1756737744",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c5378f83fa80e4ef57e44159fd477f24_1920x1920_20888f52-9521-48b6-9c98-278da8df7b49.avif?v=1756737744",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2ab4cfa922e5b6d8c0583e968ad5bb01_1920x1920_efb12dd1-c9aa-410d-8074-fb2943e05ce3.png?v=1756737744",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3bcb4f1f5037462e6b446ebfe8bf6d2c_1920x1920_47008e48-d8ea-4990-8331-075cc233c992.png?v=1756737744",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>Meet Giorno e Notte Imm. Candle by Fornasetti Profumi. A play of contrasts: day and night, light and darkness, masculine and feminine, created by the meeting between the sun and the moon. The graphic silhouettes of the two celestial bodies fully express the elegance of the Fornasetti style.</p>\n<p>The porcelain candle is decorated by hand and enriched with a gold finish applied to the base with a brush.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's imagery: woody and aromatic notes that are as elegant and timeless as the Fornasetti objects.</p>\n<p>All the small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n</div>\n</div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DETAILS</strong></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">\n<meta charset=\"utf-8\">\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Linalool, Linalyl Acetate, Coumarin, Citronellol, Iso E Super (anthamber Premium, Timbrone Supra).</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056935321932,
+      "title": "Candle - Architettura - Immaginazione - 235g",
+      "handle": "candle-architettura-immaginazione-235g",
+      "url": "https://arowonen.com/products/candle-architettura-immaginazione-235g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:38:19+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:30:15+02:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239491559756,
+          "title": "Default Title",
+          "sku": null,
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4e73928a2b714c31edab17f758502457_1920x1920_8e040dfc-9d1e-422e-a91c-6fff58501e65.png?v=1756737597",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/218f8ec3ec3d4f9dccad245ef8c72a7f_1920x1920_f3019cf5-b656-4389-8235-9787a208c92a.avif?v=1756737594",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/aaf1edd79866ff68bc622b143073c09e_1920x1920_178a2bec-ee0b-4f6a-8e6a-ed54fc11e616.avif?v=1756737596",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c61417a24a74708fd0020908ba47c5be_1920x1920_f952d969-0c66-4152-9e45-bb569a728c0e.png?v=1756737597",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4e73928a2b714c31edab17f758502457_1920x1920_8e040dfc-9d1e-422e-a91c-6fff58501e65.png?v=1756737597",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>Get carried away by Architettura Immaginazione Candle by Fornasetti Profumi, celebrates the architecture of the past by making it eternal. By placing or stacking several candles side by side, it is possible to create imaginary urban landscapes, sophisticated settings that add poetry to different corners of the home, from bookshelves to desks or bedside tables.</p>\n<p>The porcelain candle is hand decorated and enriched with a gold finish applied to the base with a brush.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's visual language: woody and aromatic notes that are as elegant and timeless as Fornasetti's objects.</p>\n<p>All small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Linalool, Linalyl Acetate, Coumarin, Citronellol, Iso E Super (anthamber Premium, Timbrone Supra).</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056922214732,
+      "title": "Candle - Se Poi - Bocche Frutto Proibito - 1020g",
+      "handle": "candle-se-poi-bocche-frutto-proibito-1020g",
+      "url": "https://arowonen.com/products/candle-se-poi-bocche-frutto-proibito-1020g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:33:48+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:56+02:00",
+      "available": true,
+      "price_min": 430,
+      "price_max": 430,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239445193036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "430.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2997950328e0b233a49044efb97d9ef2_1000x1000_6048e515-9ab2-4779-ab3d-0555dcb8d626.png?v=1756737363",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ab586b0c5efc9af1883b630f4e6f93a4_1000x1000_4ece10b2-24e5-4045-ac7c-6b3c1634ad3e.avif?v=1756737362",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c685621213e8e37d398b69c049001f12_1000x1000_5e23aefc-10a4-4809-91e6-dca8e3a52ec6.avif?v=1756737362",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2997950328e0b233a49044efb97d9ef2_1000x1000_6048e515-9ab2-4779-ab3d-0555dcb8d626.png?v=1756737363",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>The Nel Mentre Candle Bocche - Frutto Proibito by Fornasetti is a sophisticated scented candle that echoes the lips of Fornasetti icon Lina Cavalieri. The seductive fragrance Frutto Proibito excites the senses with Mediterranean and citrus top notes, jasmine, tuberose and sweet rosewood. In Fornasetti candles, design and fragrance merge into a timeless, sensory experience. Variations can be visible, as each creation is handmade and each one is unique. Ignite the candle and be enveloped by the olfactory fragrance experience of Frutto Proibito.<br><br><em>This scented candle by Fornasetti has a burn time of 119 hours.</em></p>\n</div>\n</div>\n<div class=\"row g-0\">\n<div class=\"col-12 text-center mb-9 mb-lg-13\">\n<div class=\"fragrance-notes-wrapper\">\n<meta charset=\"utf-8\">\n<h3 class=\"text-white mb-3 mb-lg-6\">Fragrance notes</h3>\n<div class=\"fragrance-notes px-6 px-lg-0\">\n<p>Top: aniseed, bergamot, blood orange, grapefruit from Sicily<br>Heart: jasmine, tuberose from Mexico, ylang-ylang, cyclamen<br>Base: vanilla, oakmoss, cedar from Cuba, rosewood</p>\n</div>\n</div>\n</div>\n</div>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Made Of 50% Porcelain And 50% Wax</div>\n<div class=\"accordion-body\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056912646476,
+      "title": "Candle - Se Poi - Bocche Frutto Proibito - 310g",
+      "handle": "candle-se-poi-frutto-proibito-310g",
+      "url": "https://arowonen.com/products/candle-se-poi-frutto-proibito-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:30:13+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:53+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239427006796,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4404d10ac7b0a8217fdfb56fcf3ea8aa_1000x1000_66265476-0533-43a8-b523-ced777ecef79.png?v=1756737128",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9b42ebff83732e20377c7c7c0010ca30_1000x1000_bd4cac56-3e08-4eef-a9e7-f90325b356c7.avif?v=1756737128",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10d02818285502fd031b96a6b75ca09a_1000x1000_75d3bab1-e3b9-4e0f-a552-8230802d5c4a.avif?v=1756737128",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/d4ce0aa2dcd473001f0ea142fd2d1b3d_1000x1000_533e9b05-45c3-4f5a-bd01-ea1877103202.avif?v=1756737076",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4404d10ac7b0a8217fdfb56fcf3ea8aa_1000x1000_66265476-0533-43a8-b523-ced777ecef79.png?v=1756737128",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p><meta charset=\"utf-8\"><span>The Se Poi Candle Bocche - Frutto Proibito by Fornasetti is a sophisticated scented candle that echoes the lips of Fornasetti icon Lina Cavalieri. The seductive fragrance Frutto Proibito excites the senses with Mediterranean and citrus top notes, jasmine, tuberose and sweet rosewood. In Fornasetti candles, design and fragrance merge into a timeless, sensory experience. Variations can be visible, as each creation is handmade and each one is unique. Ignite the candle and be enveloped by the olfactory fragrance experience of Frutto Proibito.</span><br><br><em>This scented candle by Fornasetti has a burn time of 70 hours.</em></p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"><span>Made Of 55% Porcelain And 45% Wax</span><br></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056893935948,
+      "title": "Candle - Nel Mentr - Reperti Immagi - 1020g",
+      "handle": "candle-silenzio-immaginazione-235g-copy",
+      "url": "https://arowonen.com/products/candle-silenzio-immaginazione-235g-copy",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:22:08+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:50+02:00",
+      "available": true,
+      "price_min": 550,
+      "price_max": 550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239384080716,
+          "title": "Default Title",
+          "sku": null,
+          "price": "550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2e7d14df8647ca09dc0726f9329e2333_1000x1000_afc9317e-931d-4791-a37e-b097702a9229.png?v=1756736693",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/02f247f026764b267e9e8294fabaf653_1000x1000_bcf5f447-2e61-4e90-abdc-d0e68f61786c.png?v=1756736694",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/57f984f4ffc22e9bee673c0c55397f4e_1000x1000_7088e375-375e-4754-80c9-a021670b9f39.png?v=1756736865",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c1414d3ee013f6ab691dc4e1d7a37c28_1000x1000_186b77c3-e095-4168-abdb-c45fceca0830.png?v=1756736865",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/39bd39af61e64c212412a78f8641662f_1000x1000_bfde52a7-7b8a-4737-99c6-cd112abaa770.png?v=1756736865",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2e7d14df8647ca09dc0726f9329e2333_1000x1000_afc9317e-931d-4791-a37e-b097702a9229.png?v=1756736693",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>The Nel Mentre Candle Reperti - Immaginazione by Fornasetti is a spicy scented candle, with a design that reflects the timeless elegance of neoclassicism. The scent Immaginazione is a powerful, yet elegant fragrance. A combination of Mediterranean herbs from Casa Fornasetti's garden and cedar and sandalwood offers complexity to the room where candle is burned.</p>\n<p><em>This scented candle from Fornasetti has a burn time of 119 hours.</em></p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">\n<meta charset=\"utf-8\">\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Made Of 50% Porcelain And 50% Wax</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056879944012,
+      "title": "Talvolta - Room Spray Soli - Reperti Immagi - 100ml",
+      "handle": "talvolta-room-spray-soli-reperti-immagi-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-soli-reperti-immagi-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "ROOM SPRAYS",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-09-01T16:14:27+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:44+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239342334284,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/72c3abfa88a28fb124b76feb54853ea1_1000x1000_c95cc61f-d650-4880-aa50-37c69d126bfd.png?v=1756736321",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/aec91c26a2c2f6a0ba7cbea971a51aee.png?v=1756736321",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/74c09f93fe90b79a4a1ff7808fdcbe08_1000x1000_dc15c742-af19-418d-962c-6a43213ddf22.png?v=1756736295",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c4e379e3a368f6264ccf496c7c4e85a7_1000x1000_247d4795-d260-48c1-b2d3-7d10c90cad23.png?v=1756736295",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fb5d62ba623c32aaf26380bc8ec3467f_1000x1000_980322e1-08d4-416b-a2dc-2830010a0b14.png?v=1756736295",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/72c3abfa88a28fb124b76feb54853ea1_1000x1000_c95cc61f-d650-4880-aa50-37c69d126bfd.png?v=1756736321",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>The Talvolta Room Spray Reperti - Immaginazione by Fornasetti is a spicy room spray, with a design that reflects the timeless elegance of neoclassicism. The scent Immaginazione is a powerful, yet elegant fragrance. A combination of Mediterranean herbs from Casa Fornasetti's garden and cedar and sandalwood offers complexity to the space where the spray is misted.</p>\n</div>\n</div>\n<div class=\"row g-0\">\n<div class=\"col-12 text-center mb-9 mb-lg-13\">\n<div class=\"fragrance-notes-wrapper\"><br></div>\n</div>\n</div>\n<h3 class=\"text-white mb-3 mb-lg-6\">Fragrance notes</h3>\n<div class=\"row g-0\">\n<div class=\"col-12 text-center mb-9 mb-lg-13\">\n<div class=\"fragrance-notes-wrapper\">\n<div class=\"fragrance-notes px-6 px-lg-0\">\n<p>Top: lavender, thyme, juniper, geranium<br>Heart: cedarwood, patchouli, vanilla<br>Base: amber, oakmoss, tonka beans, oud wood, sandalwood</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"fragrance-notes px-6 px-lg-0\"><br></div>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\">\n<div id=\"ingredients\" class=\"accordion-collapse collapse show\" data-bs-parent=\"#accordionExtraInfo\">\n<div class=\"accordion-body\">Made Of 24,79% Glass, 13,77% Liquid, 6,20% Cap (zamak + Plastic) + 1,38% Pump + 53,86% Porcelain</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n<p> </p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056865853772,
+      "title": "Candle - Soli e Lune Immaginazione - 235g",
+      "handle": "candle-soli-e-lune-immaginazione-235-g",
+      "url": "https://arowonen.com/products/candle-soli-e-lune-immaginazione-235-g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:09:43+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:41+02:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239311466828,
+          "title": "Default Title",
+          "sku": null,
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/558550fbe09c7b89e87b9cfbb92e7fd3_1920x1920_db2d58ef-6632-41d8-8e4d-158663bce900.avif?v=1756735956",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/37f11cf430af5d8aa2458b29dc0a00b9_1920x1920_8ae558ab-3690-4e37-91f7-01623e548971.png?v=1756735956",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/fa3e0c45a23159d9c475b8c846ebccd1_1920x1920_5d1391c7-34cd-4a17-9070-54d9aab9e534.png?v=1756735956",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9cceb268c7ea2205aa13c185f7931981_1920x1920_2ee355c1-79cf-4c38-b29e-46722f4c3aa8.png?v=1756735956",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/558550fbe09c7b89e87b9cfbb92e7fd3_1920x1920_db2d58ef-6632-41d8-8e4d-158663bce900.avif?v=1756735956",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti Profumi introduces Soli e Lune Immaginazione Candle, an imaginary solar system condensed into an everyday object, making it an exclusive decoration piece. Piero Fornasetti's self-portrait can be recognised in the moustached sun.</p>\n<p>The porcelain candle is decorated by hand and enriched with a gold finish applied to the base with a brush.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's visual language: woody and aromatic notes that are as elegant and timeless as Fornasetti's objects.</p>\n<p>All the small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056856777036,
+      "title": "Candle - Casa con Colonne Imm - 235g",
+      "handle": "candle-casa-con-colonne-imm-235g",
+      "url": "https://arowonen.com/products/candle-casa-con-colonne-imm-235g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T16:04:45+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:39+02:00",
+      "available": true,
+      "price_min": 185,
+      "price_max": 185,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53239268016460,
+          "title": "Default Title",
+          "sku": null,
+          "price": "185.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c2d1e2d961593f6a777e2617079c6867_1920x1920_eabd794c-8112-4b58-b381-961e31177838.png?v=1756735881",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/34fe18ae207ea09c25c3c6fc2fa80d74_1920x1920_c6bc5f46-b563-4d4c-8fc0-017f221b6aea.png?v=1756735881",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/277eeb48b2b2ab6309a2067814a5d084_1920x1920_6d789f45-f48a-400e-970a-17e82dcf3b95.png?v=1756735881",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/215423b41bf4b86b77a83619ab5ccdb2_1920x1920_58da4be9-ead0-41ce-bef9-713250779a13.png?v=1756735881",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c2d1e2d961593f6a777e2617079c6867_1920x1920_eabd794c-8112-4b58-b381-961e31177838.png?v=1756735881",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>Discover Casa con Colonne Imm. Candle by Fornasetti Profumi. A neoclassical colonnade runs around the decorated surface, transforming the majestic architecture of the past into a sophisticated object for the home. One of the most striking expressions of Fornasetti's traditional monochrome graphic style.</p>\n<p>The porcelain candle is hand-decorated and enriched with a gold finish applied by brush to the base.</p>\n<p>The already iconic fragrance Immaginazione is the ultimate distillation of the Atelier's visual language: woody and aromatic notes that are as elegant and timeless as Fornasetti's objects.</p>\n<p>All small differences between similar creations are the result of craftsmanship and testify to the uniqueness of each product.</p>\n</div>\n</div>\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div id=\"accordionExtraInfo\" class=\"pdp-accordion accordion accordion-flush mx-6\"></div>\n</div>\n</div>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"product-detail-about bg-primary text-white py-8 pe-xl-9 ps-xl-13 py-xl-10 pe-xxl-9\">\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div id=\"accordionExtraInfo\" class=\"pdp-accordion accordion accordion-flush mx-6\">\n<div class=\"accordion-item\">\n<div data-bs-parent=\"#accordionExtraInfo\" class=\"accordion-collapse collapse show\" id=\"ingredients\">\n<div class=\"accordion-body\">Linalool, Linalyl Acetate, Coumarin, Citronellol, Iso E Super (anthamber Premium, Timbrone Supra).</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail-experts bg-neutral-20 px-6 py-8 px-xl-9 py-xl-10 ps-xxl-13 pe-xxl-9\">\n<div class=\"wrapper\">\n<div class=\"row flex-column flex-xl-row\">\n<div class=\"col col-lg-4 d-xl-flex flex-xl-column justify-content-xl-center\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056772923724,
+      "title": "Candle - Nel Mentre - Giardino - 800g",
+      "handle": "candle-nel-mentre-giardino-800g",
+      "url": "https://arowonen.com/products/candle-nel-mentre-giardino-800g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T15:02:15+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:36+02:00",
+      "available": true,
+      "price_min": 350,
+      "price_max": 350,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53238924378444,
+          "title": "Default Title",
+          "sku": null,
+          "price": "350.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/584bbf5b4c6f358ae570ccfc888a3463_1920x1920_5158a301-a7a2-481c-b721-e2c3e5dc3177.avif?v=1756731853",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5fc49ea9475162db0fd87602436bac32_1920x1920_f1847c77-97b5-429c-a9a3-982baf1af79a.avif?v=1756731853",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/97b11a22465fbbccf65f572672e18ac1_1920x1920_9aa098fd-2a10-4dc6-a011-ae8b2790a005.avif?v=1756731853",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/584bbf5b4c6f358ae570ccfc888a3463_1920x1920_5158a301-a7a2-481c-b721-e2c3e5dc3177.avif?v=1756731853",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<div class=\"row g-0 product-description product-description-mobile mt-0 mb-9 d-lg-none\">\n<div class=\"col-12 px-6\">\n<p>The Nel Mentre Scented Candle Vase - Giardino Segreto by Fornasetti is an opulent scented candle inspired by the Giardino Settecentesco decor. Rooted in stunning landscapes and neoclassical architecture, the design exudes a sophisticated aesthetic. The Giardino Segreto fragrance is inspired by nature. Myrrh, old wood and ebony add an eccentric twist to the mystical scent of sandalwood.</p>\n</div>\n</div>\n<div class=\"row g-0 d-xl-none\">\n<div class=\"col-12\">\n<div class=\"pdp-accordion accordion accordion-flush mx-6\" id=\"accordionExtraInfo\">\n<div class=\"accordion-item\"></div>\n</div>\n</div>\n</div>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"><span>Paraffin 88%, Essence (parfum) 10%, Vegetable Wax 1,95%, Additives 0,05%</span><br></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056726622540,
+      "title": "Candle - Se Poi - Farfalle Giardino",
+      "handle": "candle-se-poi-farfalle-giardino-800g",
+      "url": "https://arowonen.com/products/candle-se-poi-farfalle-giardino-800g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-09-01T14:33:55+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:33+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 430,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 53238812475724,
+          "title": "530g",
+          "sku": null,
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "530g",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238812508492,
+          "title": "800g",
+          "sku": null,
+          "price": "350.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "800g",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 53238812541260,
+          "title": "1020g",
+          "sku": null,
+          "price": "430.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "1020g",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "530g",
+            "800g",
+            "1020g"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/862d04b67e923ebeecaddeb1a4f1cbfc_1920x1920_f57a3907-9839-43f7-99b9-8caa7f76bf49.avif?v=1756730142",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5dee9e24b73f32db2b055eee202a718b_1920x1920_7055225b-7752-4886-a510-4657b02ab51a.avif?v=1756730360",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/eba24ff4eb9bcf8c19dbe79deaa6fd6e_1920x1920_a72616f9-6fae-4168-b78b-32eb1f79d275.avif?v=1756730334",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4fea93bf2152af06c7345f44b048c8d7_1920x1920_c13b13e9-df97-4d07-a4a3-dfd6245d94d8.png?v=1756730144",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/862d04b67e923ebeecaddeb1a4f1cbfc_1920x1920_f57a3907-9839-43f7-99b9-8caa7f76bf49.avif?v=1756730142",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>The Nel Mentre Candle Farfalle e Balaustra - Giardino is an opulent scented candle with a dreamy décor. The candle is enveloped in designs of balustrades and butterflies, which combine with the scent of Giardino Segreto to create a mystical atmosphere. The fragrance Giardino Segreto is inspired by nature. Myrrh, old wood and ebony add an eccentric twist to the mystical scent of sandalwood. Add a hint of enchantment to your space with this scented candle.</p>\n<h3 class=\"text-white mb-3 mb-lg-6\">Fragrance notes</h3>\n<p><meta charset=\"utf-8\"><span>Top: rhubarb, tomato leaves, blackcurrant, wild black raspberry</span><br><span>Heart: galbanum, petitgrain, geranium, whisky, carnation</span><br><span>Base: opopanax, myrrh, sandalwood, ebony, oud wood</span></p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><span>Paraffin 88%, Essence (parfum) 10%, Vegetable Wax 1,95%, Additives 0,05%</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15056720036172,
+      "title": "Talvolta Room Spray - Bocche F Proibito - 100ml",
+      "handle": "talvolta-room-spray-bocche-f-proibito-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-bocche-f-proibito-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "ROOM SPRAYS",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2025-09-01T14:22:31+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:30+02:00",
+      "available": true,
+      "price_min": 210,
+      "price_max": 210,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53238742221132,
+          "title": "Default Title",
+          "sku": null,
+          "price": "210.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0fa5fe0ca8b6ad90a46d8862260c0ffd_1000x1000_18be2947-ce8b-4664-ac9d-5c120507fa34.png?v=1756729505",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3fe81dc8dddf749ebdc1237d1669dc04_1000x1000_0aa1abb5-2dbf-4669-bffd-99d1229c6dbe.png?v=1756729504",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/19a2218a336cf816b7340cab36ddb33c_1000x1000_c1645fc8-c5f2-4e17-a2eb-749e148368ee.avif?v=1756729504",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c21ff6336c28e47fb13e29c9935a0f04_1000x1000_6d58cc67-2cc9-4089-873d-fe450bce8a64.png?v=1756729528",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0fa5fe0ca8b6ad90a46d8862260c0ffd_1000x1000_18be2947-ce8b-4664-ac9d-5c120507fa34.png?v=1756729505",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p><meta charset=\"utf-8\"><span>The Talvolta Room Spray Bocche - Frutto Proibito by Fornasetti is a sophisticated room spray that echoes the lips of Fornasetti icon Lina Cavalieri. The seductive fragrance Frutto Proibito excites the senses with Mediterranean and citrus top notes, jasmine, tuberose and sweet rosewood. In Fornasetti products, design and fragrance merge into a timeless, sensory experience. Variations may be visible as each creation is handcrafted and each one is unique. Mist the spray and be enveloped by the olfactory fragrance experience of Frutto Proibito.</span></p>\n<h3 class=\"text-white mb-3 mb-lg-6\">Fragrance notes</h3>\n<p><meta charset=\"utf-8\"><span>Top: aniseed, bergamot, blood orange, grapefruit from Sicily</span><br><span>Heart: jasmine, tuberose from Mexico, ylang-ylang, cyclamen</span><br><span>Base: vanilla, oakmoss, cedar from Cuba, rosewood</span></p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>Made Of 24,79% Glass, 13,77% Liquid, 6,20% Cap (zamak + Plastic) + 1,38% Pump + 53,86% Porcelain</span><br></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15055821078860,
+      "title": "Candle - Nel Mentre - Tra i F G Segreto - 1020gr",
+      "handle": "candle-nel-mentre-tra-i-f-g-segreto-1020gr",
+      "url": "https://arowonen.com/products/candle-nel-mentre-tra-i-f-g-segreto-1020gr",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-08-31T17:55:24+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:27+02:00",
+      "available": true,
+      "price_min": 430,
+      "price_max": 430,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53234742821196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "430.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/18760cc13d13bd3600dc2d45f6fc5b3c_1920x1920_d5921989-5ceb-4e38-a69f-4e9e20153f5f.png?v=1756656250",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/c67bb7b9afea60f1a5227d6dfd101ec0_1920x1920_c38e06d2-09cc-4eca-b259-6db71b8d6350.png?v=1756656250",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/be87f2a14ea4840bbb534f62cc6419fa_400x400_e6cf4310-0d22-4257-823f-4aa9e509966b.png?v=1756656250",
+          "alt": null,
+          "width": 400,
+          "height": 400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/697d1f41710d3a9617c6231919b7467c_1920x1920_140e7db8-361c-42ae-a259-fc8c808f748a.png?v=1756656250",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/f6f8396f9ba3b104e79891d6a229bae3_1920x1920_7cb31747-11a3-4010-b3a1-2ea0daa8491b.png?v=1756656064",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/18760cc13d13bd3600dc2d45f6fc5b3c_1920x1920_d5921989-5ceb-4e38-a69f-4e9e20153f5f.png?v=1756656250",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>The Nel Mentre Scented Candle Tra i Fiori - Giardino Segreto by Fornasetti is a sumptuous scented candle inspired by the Giardino Settecentesco decor. In this unique design, the iconic face of Lina Cavalieri is decorated with colourful flowers from the Fornasetti archive. The fragrance Giardino Segreto comes from inspiration from nature. The mystical scent of sandalwood is given an eccentric twist by the presence of myrrh, old wood and ebony.</p>\n<p><em>This scented candle by Fornasetti has a burn time of 119 hours.</em></p>\n<p><strong><em>INGREDIENTS:</em></strong></p>\n<p><em><meta charset=\"utf-8\">\n<span>Made Of 50% Porcelain And 50% Wax</span></em></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 15055815573836,
+      "title": "Candle - Se Poi - Scented Giardino - 310g",
+      "handle": "candle-se-poi-scented-giardino-310g",
+      "url": "https://arowonen.com/products/candle-se-poi-scented-giardino-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2025-08-31T17:49:11+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2025-09-05T16:32:24+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53234711003468,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4e8a74a85ca9b3a766dd3e52c9b22f4f_1920x1920_16c2b49f-8ab9-421b-b491-e4c3c3c08e8c.png?v=1756655425",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/899e674a5a7ca96c2cb8bc57c5eab0d7_1920x1920_79fe1986-eaa7-4b60-b9da-1c46d5787050.png?v=1756655424",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/56644d5b18bc1fe8a206fdaa848da9ec_1920x1920_80df01a1-d6e5-41a2-9d92-6e7be242ecaf.png?v=1756655425",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/bd4ede7d3494abd5a58d27315af2fbd9_1920x1920_91e30317-f667-4703-b0ac-de9d0b3cd53c.png?v=1756655425",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4e8a74a85ca9b3a766dd3e52c9b22f4f_1920x1920_16c2b49f-8ab9-421b-b491-e4c3c3c08e8c.png?v=1756655425",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Se Poi Scented Candle Giardino by Fornasetti is an opulent scented candle inspired by the Giardino Settecentesco décor. Rooted in stunning landscapes and neoclassical architecture, the design exudes a sophisticated aesthetic. The Giardino Segreto fragrance is inspired by nature. Myrrh, old wood and ebony give the mystical scent of sandalwood an eccentric twist. Experience the sophistication of Giardino and add a hint of enchantment to your space.</p>\n<p><em>This scented candle by Fornasetti has a burn time of 70 hours.</em></p>\n<p> </p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121882964300,
+      "title": "Refill Candle - Set Of 6 - Sul Tardi - 45gr",
+      "handle": "refill-candle-set-of-6-sul-tardi-45gr",
+      "url": "https://arowonen.com/products/refill-candle-set-of-6-sul-tardi-45gr",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T16:50:09+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T16:53:15+02:00",
+      "available": true,
+      "price_min": 95,
+      "price_max": 95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379777155404,
+          "title": "Default Title",
+          "sku": null,
+          "price": "95.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZREFFOR22_BIA_1.jpg?v=1719586303",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZREFFOR22_BIA_2.jpg?v=1720170952",
+          "alt": null,
+          "width": 1706,
+          "height": 1706
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZREFFOR22_BIA_1_1.jpg?v=1720170952",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZREFFOR22_BIA_1.jpg?v=1719586303",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>The refill turns this ceramic candelabra into a timeless design object.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>100% vegetable wax</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>6 x 45 gr - 0,09 lb Weight - 6 x 6 burning hours</span><br></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121880899916,
+      "title": "Refill Candle - Set Of 2 - 60gr",
+      "handle": "refill-candle-set-of-2-60gr",
+      "url": "https://arowonen.com/products/refill-candle-set-of-2-60gr",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T16:46:55+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T16:48:05+02:00",
+      "available": true,
+      "price_min": 80,
+      "price_max": 80,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379772993868,
+          "title": "Default Title",
+          "sku": null,
+          "price": "80.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YREFFOR22_BIA_1.jpg?v=1719586061",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YREFFOR22_BIA_3.jpg?v=1719586098",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YREFFOR22_BIA_4.jpg?v=1719586098",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YREFFOR22_BIA_2.jpg?v=1719586098",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YREFFOR22_BIA_1.jpg?v=1719586061",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>The refill turns the ceramic candelabra and the scented candle into timeless design objects.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>100% vegetable wax</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>2 x 60 gr - 0,13 lb Weight - 2 x 14 burning hours</span><br></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121845870924,
+      "title": "Candle - Se Poi - Farfalle Giardino - 310g",
+      "handle": "candle-se-poi-farfalle-giardino-310g",
+      "url": "https://arowonen.com/products/candle-se-poi-farfalle-giardino-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T16:09:58+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T16:11:47+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379685503308,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_1.jpg?v=1719583851",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_2.jpg?v=1720170838",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_3.jpg?v=1720170838",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_1_1.jpg?v=1720170838",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_4.jpg?v=1720170838",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_5.jpg?v=1719583853",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM514YGSFOR22_MUL_1.jpg?v=1719583851",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Farfalle e Balaustra décor is a dream-like setting where countless stories float freely.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>Design and fragrance meet in the Fornasetti home candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: <meta charset=\"utf-8\"><span>55% ceramic, 45% vegetable wax</span><br><strong>Measurements</strong>: 1<meta charset=\"utf-8\"><span>5 cm - 5,9 inches Height x 9 cm - 3,5 inches Lenght x 7,5 cm - 3 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>310 gr - 0,68 lb Weight - 72 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121835876684,
+      "title": "Candle - Nel Mentre - Architettura - 800g",
+      "handle": "candle-nel-mentre-architettura-800g",
+      "url": "https://arowonen.com/products/candle-nel-mentre-architettura-800g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T16:03:00+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T16:04:11+02:00",
+      "available": true,
+      "price_min": 350,
+      "price_max": 350,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379663384908,
+          "title": "Default Title",
+          "sku": null,
+          "price": "350.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_1.jpg?v=1719583424",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_2_1.jpg?v=1720170600",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_3.jpg?v=1720170600",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_5.jpg?v=1719583423",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_5_1.jpg?v=1719583424",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPT419XIMFOR22_BIA_1.jpg?v=1719583424",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>This scented candle is part of a triptych in an imaginary cityscape suspended in time and history.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>51% ceramic, 49% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>24 cm - 9,5 inches Height x 9 cm - 3,5 inches Lenght x 9 cm - 3,5 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>800 gr - 1,76 lb Weight - 182 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121823719756,
+      "title": "Candle - Al Buio - Frutto Proibito - 110g",
+      "handle": "candle-al-buio-frutto-proibito-110g",
+      "url": "https://arowonen.com/products/candle-al-buio-frutto-proibito-110g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:53:24+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:56:14+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379634155852,
+          "title": "Default Title",
+          "sku": null,
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YFPFOR22_MUL_1.jpg?v=1719582912",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YFPFOR22_MUL_3.jpg?v=1719582958",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YFPFOR22_MUL_4.jpg?v=1719582958",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YFPFOR22_MUL_2.jpg?v=1719582958",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBN044YFPFOR22_MUL_1.jpg?v=1719582912",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's muse joins the snake to interpret the theme of original sin.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: <meta charset=\"utf-8\"><span>73% ceramic, 28% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>9 cm - 3,5 inches Height x 17 cm - 6,7 inches Lenght x 13,5 cm - 5,3 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>110 gr - 0,24 lb Weight - 25 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121818280268,
+      "title": "Candle - Nel Mentre - Soli Immaginazione - 530g",
+      "handle": "candle-nel-mentre-soli-immaginazione-530g",
+      "url": "https://arowonen.com/products/candle-nel-mentre-soli-immaginazione-530g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:49:13+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:52:12+02:00",
+      "available": true,
+      "price_min": 300,
+      "price_max": 300,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379622818124,
+          "title": "Default Title",
+          "sku": null,
+          "price": "300.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ300ZIMFOR23_ORO_1.jpg?v=1719582657",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ300ZIMFOR23_ORO_2.jpg?v=1719582657",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ300ZIMFOR23_ORO_3.jpg?v=1719582658",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ300ZIMFOR23_ORO_4.jpg?v=1719582715",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ300ZIMFOR23_ORO_1.jpg?v=1719582657",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>This candle is part of a triptych where design and fragrance meet creating a sensory experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>53% ceramic, 47% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>10 cm - 4 inches Height x 15,7 cm - 6,2 inches Lenght x 9 cm - 3,5 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>530 gr - 1,16 lb Weight - 70 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121813594444,
+      "title": "Candle Set - Nel Mentre - Architettura",
+      "handle": "candle-set-nel-mentre-architettura",
+      "url": "https://arowonen.com/products/candle-set-nel-mentre-architettura",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:45:29+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:47:48+02:00",
+      "available": true,
+      "price_min": 950,
+      "price_max": 950,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379614298444,
+          "title": "Default Title",
+          "sku": null,
+          "price": "950.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_1.jpg?v=1719582411",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_2.jpg?v=1719582463",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_1_1.jpg?v=1719582463",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_3.jpg?v=1719582411",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_4.jpg?v=1719582411",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_5.jpg?v=1719582437",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_6.jpg?v=1719582437",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_7.jpg?v=1719582437",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_9.jpg?v=1719582437",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_9_1.jpg?v=1719582438",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_10.jpg?v=1719582438",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI419IMFOR22_BIA_1.jpg?v=1719582411",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>This triptych of scented candles is an imaginary cityscape suspended in time and history.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span><meta charset=\"utf-8\">51% ceramic, 49% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>24 cm - 9,5 inches Height x 21,9 cm - 8,6 inches Lenght x 19,5 cm - 7,7 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>2350 gr - 5,18 lb Weight</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121808810316,
+      "title": "Talvolta Room Spray - Giardino - 100ml",
+      "handle": "talvolta-room-spray-giardino-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-giardino-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-06-28T15:41:49+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:42:46+02:00",
+      "available": true,
+      "price_min": 210,
+      "price_max": 210,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379604271436,
+          "title": "Default Title",
+          "sku": null,
+          "price": "210.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_1.jpg?v=1719582136",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_4.jpg?v=1719582162",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_2.jpg?v=1719582162",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_2_1.jpg?v=1719582162",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_3.jpg?v=1719582162",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_5.jpg?v=1719582244",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP126YGSFOR23_BLU_1.jpg?v=1719582136",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Giardino Settecentesco décor combines fantastic landscapes and neoclassical architecture in a setting where whimsy and precision are combined.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br><strong>Material</strong>:<meta charset=\"utf-8\"><span> 24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span><meta charset=\"utf-8\">16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121800487244,
+      "title": "Candle - Nel Mentre - Giardino - 1020g",
+      "handle": "candle-nel-mentre-giardino-1020g",
+      "url": "https://arowonen.com/products/candle-nel-mentre-giardino-1020g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:35:12+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:37:21+02:00",
+      "available": true,
+      "price_min": 430,
+      "price_max": 430,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379586085196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "430.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPB126YGSFOR23_BLU_1.jpg?v=1719581816",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPB126YGSFOR23_BLU_2_1.jpg?v=1720170739",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPB126YGSFOR23_BLU_3.jpg?v=1720170739",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPB126YGSFOR23_BLU_4.jpg?v=1720170739",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPB126YGSFOR23_BLU_1.jpg?v=1719581816",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Giardino Settecentesco décor combines fantastic landscapes and neoclassical architecture in a setting where whimsy and precision are combined.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>This set of scented candles is designed as a triptych where design and fragrance meet creating a sensory experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\"> <span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>50% ceramic, 50% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span><meta charset=\"utf-8\">17 cm - 6,7 inches Height x 14 cm - 5,5 inches Lenght x 11 cm - 4,3 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>1020 gr - 2,24 lb Weight - 119 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121798521164,
+      "title": "Candle - Nel Mentre - Giardino - 530g",
+      "handle": "candle-nel-mentre-giardino-530g",
+      "url": "https://arowonen.com/products/candle-nel-mentre-giardino-530g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:32:44+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:34:25+02:00",
+      "available": true,
+      "price_min": 230,
+      "price_max": 230,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379582120268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "230.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ126YGSFOR23_BLU_1.jpg?v=1719581646",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ126YGSFOR23_BLU_2.jpg?v=1720170745",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ126YGSFOR23_BLU_3.jpg?v=1720170745",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPJ126YGSFOR23_BLU_1.jpg?v=1719581646",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div id=\"description-panel\" class=\"js-description-and-details-panel\">\n<div class=\"pt-24\">\n<p>The Giardino Settecentesco décor combines fantastic landscapes and neoclassical architecture in a setting where whimsy and precision are combined.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>This set of scented candles is designed as a triptych where design and fragrance meet creating a sensory experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\">\n<span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>53% ceramic, 47% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>10 cm - 4 inches Height x 15,7 cm - 6,2 inches Lenght x 9 cm - 3,5 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>530 gr - 1,16 lb Weight - 70 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121780695372,
+      "title": "Candle Set - Nel Mentre - Giardino",
+      "handle": "candle-set-nel-mentre-giardino",
+      "url": "https://arowonen.com/products/candle-set-nel-mentre-giardino",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:27:22+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:31:29+02:00",
+      "available": true,
+      "price_min": 950,
+      "price_max": 950,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379558854988,
+          "title": "Default Title",
+          "sku": null,
+          "price": "950.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_1.jpg?v=1719581392",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_2.jpg?v=1719581392",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_3.jpg?v=1719581392",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_4.jpg?v=1719581392",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_6.jpg?v=1719581423",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_7.jpg?v=1719581423",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_8.jpg?v=1719581423",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_9.jpg?v=1719581423",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPTRI126YGSFOR23_BLU_1.jpg?v=1719581392",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Giardino Settecentesco décor combines fantastic landscapes and neoclassical architecture in a setting where whimsy and precision are combined.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>This set of scented candles is designed as a triptych where design and fragrance meet creating a sensory experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><meta charset=\"utf-8\">\n<span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br></span><strong>Material</strong>: <meta charset=\"utf-8\"><span>51% ceramic, 49% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>24 cm - 9,5 inches Height x 21,9 cm - 8,6 inches Lenght x 19,5 cm - 7,7 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>2350 gr - 5,18 lb Weight</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121745502540,
+      "title": "Talvolta Room Spray Soli - Immaginazione - 100ml",
+      "handle": "talvolta-room-spray-soli-immaginazione-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-soli-immaginazione-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-06-28T15:18:23+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:25:32+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379501740364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP300ZIMFOR23_ORO_1.jpg?v=1719581115",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP300ZIMFOR23_ORO_4.jpg?v=1719581127",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP300ZIMFOR23_ORO_3.jpg?v=1719581127",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP300ZIMFOR23_ORO_5.jpg?v=1719581115",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP300ZIMFOR23_ORO_1.jpg?v=1719581115",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's essential, refined stroke transforms the Soli candles into unmistakable and timeless objects.<br><br>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br><strong>Material</strong>: <meta charset=\"utf-8\"><span>24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121742258508,
+      "title": "Talvolta Room Spray - Farfalle Giardino - 100ml",
+      "handle": "talvolta-room-spray-farfalle-giardino-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-farfalle-giardino-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-06-28T15:16:16+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:17:41+02:00",
+      "available": true,
+      "price_min": 210,
+      "price_max": 210,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379489419596,
+          "title": "Default Title",
+          "sku": null,
+          "price": "210.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP514YGSFOR22_MUL_1.jpg?v=1719580628",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP514YGSFOR22_MUL_4.jpg?v=1719580653",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP514YGSFOR22_MUL_2.jpg?v=1719580653",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP514YGSFOR22_MUL_3.jpg?v=1719580653",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP514YGSFOR22_MUL_1.jpg?v=1719580628",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Farfalle e Balaustra décor is a dream-like setting where countless stories float freely.<br><br>The Giardino Segreto fragrance emerges from the wild, lush natural world, a secret undergrowth that takes on mystical, eccentric traits thanks to the enveloping presence of myrrh, sandalwood and ebony.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br><strong>Material</strong>: <meta charset=\"utf-8\"><span>24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121734852940,
+      "title": "Candle - Se Poi - Soli Immaginazione - 310g",
+      "handle": "candle-se-poi-soli-immaginazione-310g",
+      "url": "https://arowonen.com/products/candle-se-poi-soli-immaginazione-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:11:09+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:14:43+02:00",
+      "available": true,
+      "price_min": 290,
+      "price_max": 290,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379463336268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "290.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM300ZIMFOR23_ORO_1.jpg?v=1719580438",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM300ZIMFOR23_ORO_2.jpg?v=1720170844",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM300ZIMFOR23_ORO_3.jpg?v=1720170844",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM300ZIMFOR23_ORO_4.jpg?v=1719580439",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM300ZIMFOR23_ORO_1.jpg?v=1719580438",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's essential, refined stroke transforms the Soli candles into unmistakable and timeless objects.<br><br>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>Design and fragrance meet in the Fornasetti scented candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br><strong>Material</strong>: <meta charset=\"utf-8\"><span>55% ceramic, 45% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>15 cm - 5,9 inches Height x 9 cm - 3,5 inches Lenght x 7,5 cm - 3 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>310 gr - 0,68 lb Weight - 72 burning hours</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9121720205644,
+      "title": "Candle Holder - Sul Tardi - Frutto Proibito - 380g",
+      "handle": "candle-holder-sul-tardi-frutto-proibito",
+      "url": "https://arowonen.com/products/candle-holder-sul-tardi-frutto-proibito",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLE & TEALIGHT HOLDERS",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-06-28T15:04:37+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-06-28T15:09:09+02:00",
+      "available": true,
+      "price_min": 1900,
+      "price_max": 1900,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48379411005772,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1900.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZFPFOR22_MUL_1.jpg?v=1719580079",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZFPFOR22_MUL_2.jpg?v=1720170852",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZFPFOR22_MUL_4.jpg?v=1720170852",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZFPFOR22_MUL_3.jpg?v=1719580129",
+          "alt": null,
+          "width": 853,
+          "height": 853
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPC044ZFPFOR22_MUL_1.jpg?v=1719580079",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Design and fragrance meet in the Fornasetti candelabra, creating a sensorial experience where time seems suspended.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Refills will also be available for the scented central apple and for candles.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p><meta charset=\"utf-8\"><span>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.</span><br><strong>Material</strong>: <span>46% ceramic, 43% brass, 11% vegetable wax</span><br><strong>Measurements</strong>: <meta charset=\"utf-8\"><span>41,9 cm - 16,5 inches Height x 44 cm - 17,3 inches Lenght x 44 cm - 17,3 inches Depth</span><br><strong>Wax</strong>: <meta charset=\"utf-8\"><span>380 gr - 0,83 lb Weight</span></p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9007021359436,
+      "title": "Talvolta Room Spray - Architettura - Immaginazione - 100ml",
+      "handle": "talvolta-room-spray-architettura-immaginazione-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-architettura-immaginazione-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-05-10T20:35:22+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:37:19+02:00",
+      "available": true,
+      "price_min": 210,
+      "price_max": 210,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111350415692,
+          "title": "Default Title",
+          "sku": null,
+          "price": "210.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_1.jpg?v=1715366225",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_4.jpg?v=1715366233",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_2.jpg?v=1715366233",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_3.jpg?v=1715366233",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_5.jpg?v=1715366225",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_6.jpg?v=1715366224",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_7.jpg?v=1715366225",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP419XIMFOR22_BIA_1.jpg?v=1715366225",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Architettura décor is an imaginary cityscape suspended in time and history.<br><br>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic<br><strong>Measurements</strong>: 16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9007016247628,
+      "title": "Talvolta Room Spray - Peccato - Frutto Proibito - 100ml",
+      "handle": "talvolta-room-spray-peccato-frutto-proibito-100ml",
+      "url": "https://arowonen.com/products/talvolta-room-spray-peccato-frutto-proibito-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-05-10T20:29:54+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:32:18+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111339438412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_1.jpg?v=1715365926",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_4.jpg?v=1715365932",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_2.jpg?v=1715365932",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_3.jpg?v=1715365932",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_5.jpg?v=1715365926",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_6.jpg?v=1715365927",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSP044ZFPFOR22_MUL_1.jpg?v=1715365926",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's muse joins the snake to interpret the theme of original sin.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic<br><strong>Measurements</strong>: 16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9007011758412,
+      "title": "Talvolta Room Spray - Mascherina - Frutto Proibito - 100ml",
+      "handle": "room-spray-mascherina-frutto-proibito-100ml",
+      "url": "https://arowonen.com/products/room-spray-mascherina-frutto-proibito-100ml",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-05-10T20:24:52+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:28:03+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111331803468,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_1.jpg?v=1715365632",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_4.jpg?v=1715365636",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_2.jpg?v=1715365636",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_3.jpg?v=1715365636",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_5.jpg?v=1715365633",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_6.jpg?v=1715365631",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSPTV1ZFPFOR23_BIA_1.jpg?v=1715365632",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The new Mascherina décor is the most most captivating and mysterious design of the series, with Lina Cavalieri's enigmatic glance.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti scented room spray, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 24,79% glass, 13,77% liquid, 6,20% cap (zamak + plastic) + 1,38% pump + 53,86% ceramic<br><strong>Measurements</strong>: 16,5 cm - 6,5 inches Height x 6,5 cm - 2,5 inches Lenght x 6,5 cm - 2,5 inches Depth / 100 ml - 3,38 oz</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9006998520140,
+      "title": "Candle - Peccato - Frutto Proibito - 310g",
+      "handle": "candle-peccato-frutto-proibito-310g",
+      "url": "https://arowonen.com/products/candle-peccato-frutto-proibito-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-05-10T20:18:04+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:20:15+02:00",
+      "available": true,
+      "price_min": 290,
+      "price_max": 290,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111302476108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "290.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_1.jpg?v=1715365199",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_2.jpg?v=1720170828",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_3.jpg?v=1720170828",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_4.jpg?v=1715365199",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_5.jpg?v=1715365197",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_6.jpg?v=1715365198",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM044ZFPFOR22_MUL_1.jpg?v=1715365199",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's muse joins the snake to interpret the theme of original sin.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 55% ceramic, 45% vegetable wax<br><strong>Measurements</strong>: 15 cm - 5,9 inches Height x 9 cm - 3,5 inches Lenght x 7,5 cm - 3 inches Depth<br><strong>Wax</strong>: 310 gr - 0,68 lb Weight - 72 burning hours</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9006981251404,
+      "title": "Candle - Mascherina - Frutto Proibito - 310g",
+      "handle": "candle-mascherina-frutto-proibito-310g",
+      "url": "https://arowonen.com/products/candle-mascherina-frutto-proibito-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-05-10T20:07:34+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:09:43+02:00",
+      "available": true,
+      "price_min": 290,
+      "price_max": 290,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111247688012,
+          "title": "Default Title",
+          "sku": null,
+          "price": "290.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_1.jpg?v=1715364571",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_2.jpg?v=1720170591",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_3.jpg?v=1720170591",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_4.jpg?v=1715364571",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_5.jpg?v=1715364571",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSMTV1ZFPFOR23_BIA_1.jpg?v=1715364571",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The new Mascherina décor is the most most captivating and mysterious design of the series, with Lina Cavalieri's enigmatic glance.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 55% ceramic, 45% vegetable wax<br><strong>Measurements</strong>: 15 cm - 5,9 inches Height x 9 cm - 3,5 inches Lenght x 7,5 cm - 3 inches Depth<br><strong>Wax</strong>: 310 gr - 0,68 lb Weight - 72 burning hours</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9006976860492,
+      "title": "Candle - Architettura - Immaginazione - 310g",
+      "handle": "candle-architettura-immaginazione-310g",
+      "url": "https://arowonen.com/products/candle-architettura-immaginazione-310g",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-05-10T20:03:29+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:05:35+02:00",
+      "available": true,
+      "price_min": 250,
+      "price_max": 250,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111238283596,
+          "title": "Default Title",
+          "sku": null,
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_1.jpg?v=1715364320",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_2.jpg?v=1720170575",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_3.jpg?v=1720170575",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_4.jpg?v=1715364321",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_5.jpg?v=1715364319",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_6.jpg?v=1715364319",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPSM419XIMFOR22_BIA_1.jpg?v=1715364320",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The Architettura décor is an imaginary cityscape suspended in time and history.<br><br>The Immaginazione fragrance is the quintessence of the Atelier's imagery in an elegant yet intense scent: a combination of Mediterranean herbs from Casa Fornasetti's garden with cedar and sandalwood producing woody, aromatic notes.<br><br>Design and fragrance meet in the Fornasetti scented candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 55% ceramic, 45% vegetable wax<br><strong>Measurements</strong>: 15 cm - 5,9 inches Height x 9 cm - 3,5 inches Lenght x 7,5 cm - 3 inches Depth<br><strong>Wax</strong>: 310 gr - 0,68 lb Weight - 72 burning hours</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9006968930636,
+      "title": "Candle - Peccato - Frutto Proibito - 1KG",
+      "handle": "candle-peccato-frutto-proibito-1kg",
+      "url": "https://arowonen.com/products/candle-peccato-frutto-proibito-1kg",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-05-10T19:55:46+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T20:01:24+02:00",
+      "available": true,
+      "price_min": 550,
+      "price_max": 550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111216591180,
+          "title": "Default Title",
+          "sku": null,
+          "price": "550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_1.jpg?v=1715364071",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_2.jpg?v=1715364071",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_3.jpg?v=1715364072",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_4.jpg?v=1715364071",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_5.jpg?v=1715364072",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPG044ZFPFOR22_MUL_1.jpg?v=1715364071",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>Fornasetti's muse joins the snake to interpret the theme of original sin.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><meta charset=\"utf-8\"></p>\n<p>All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br><strong>Material</strong>: 40% ceramic, 60% vegetable wax<br><strong>Measurements</strong>: 15 cm - 5,9 inches Height x 14 cm - 5,5 inches Lenght x 10 cm - 4 inches Depth<br><strong>Wax</strong>: 1020 gr - 2,24 lb Weight - 107 burning hours</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 9006957527372,
+      "title": "Candle - Mascherina - Frutto Proibito - 1KG",
+      "handle": "candle-mascherina-frutto-proibito-1kg",
+      "url": "https://arowonen.com/products/candle-mascherina-frutto-proibito-1kg",
+      "vendor": "FORNASETTI",
+      "product_type": "",
+      "tags": [
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-05-10T19:42:15+02:00",
+      "updated_at": "2026-05-22T17:55:25+02:00",
+      "published_at": "2024-05-10T19:48:02+02:00",
+      "available": true,
+      "price_min": 490,
+      "price_max": 490,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48111183528268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "490.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_1.jpg?v=1715363156",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_2_1.jpg?v=1720170584",
+          "alt": null,
+          "width": 1706,
+          "height": 1706
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_3.jpg?v=1720170584",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_5.jpg?v=1720170584",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_4.jpg?v=1715363196",
+          "alt": null,
+          "width": 1706,
+          "height": 1706
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FPBTV1ZFPFOR23_BIA_1.jpg?v=1715363156",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p>The new Mascherina décor is the most most captivating and mysterious design of the series, with Lina Cavalieri's enigmatic glance.<br><br>The Fornasetti fragrance Frutto Proibito is seductive. It awakens the senses with Mediterranean and citrus top notes that embrace the scent of jasmine in a luxurious abandonment to enticing tuberose notes and sweet rosewood caresses.<br><br>Design and fragrance meet in the Fornasetti candles, creating a sensorial experience where time seems suspended.<br><br>Any minor discrepancies between similar creations are the result of craftsmanship and attest to the uniqueness of each product.</p>\n<p><strong>DETAILS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">All Fornasetti home fragrances have been designed exclusively for the Atelier using eco-friendly ingredients for a non-polluting burning.<br></span><strong>Material</strong>: 50% ceramic, 50% vegetable wax<br><strong>Measurements</strong>: 17 cm - 6,7 inches Height x 14 cm - 5,5 inches Lenght x 11 cm - 4,3 inches Depth<br><strong>Wax</strong>: 1020 gr - 2,24 lb Weight - 119 burning hours</p>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

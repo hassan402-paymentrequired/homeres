@@ -1,0 +1,531 @@
+{
+  "handle": "office-chairs",
+  "label": "Office Chairs",
+  "url": "https://arowonen.com/collections/office-chairs",
+  "scraped_at": "2026-05-22T15:56:55.442Z",
+  "product_count": 6,
+  "products": [
+    {
+      "id": 14997475885388,
+      "title": "Office Chair - Stilgar",
+      "handle": "office-chair-stilgar",
+      "url": "https://arowonen.com/products/office-chair-stilgar",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:44:21+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:49:53+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53018093060428,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STILGAR_office-chaire_gallery_01.jpg?v=1753800587",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Stilgar_01.jpg?v=1753800595",
+          "alt": null,
+          "width": 2560,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STILGAR_office-chaire_gallery_02.jpg?v=1753800595",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STILGAR_office-chaire_gallery_03.jpg?v=1753800595",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STILGAR_office-chaire_gallery_04.jpg?v=1753800595",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_Stilgar_02.jpg?v=1753800587",
+          "alt": null,
+          "width": 2878,
+          "height": 3840
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/STILGAR_office-chaire_gallery_01.jpg?v=1753800587",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Office armchair in leather or fabric. Shell in curved and shaped thin-thickness plywood. Upholstery in leather or fabric. The internal part of the backrest has a quilted and perforated finish with padded horizontal bands. Separate backrest supported by two metal elements, armrests decorated with stainless steel bracelets. 5-spoke swivel stainless steel base with wheels, height adjustment with gas piston. High wheels smoothness with anti-scratch tread. The metal parts are available in the metallic finishes selection.</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14997471789388,
+      "title": "Office Chair - Sévigné office",
+      "handle": "office-chair-sevigne-office",
+      "url": "https://arowonen.com/products/office-chair-sevigne-office",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:43:20+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:43:53+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53018084344140,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0019_sevigneoffice.jpg?v=1753800235",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0713_poltrona_sevigne_office_01_0.jpg?v=1753800235",
+          "alt": null,
+          "width": 751,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0713_poltrona_sevigne_office_02_0.jpg?v=1753800235",
+          "alt": null,
+          "width": 751,
+          "height": 1000
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0019_sevigneoffice.jpg?v=1753800235",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Swivel padded armchair upholstered in leather or fabric. Structure in curved plywood, padding in polyurethane foam. Seat sprung system with elastic belts. Base in polished stainless steel with 5 spokes laser finishing, with wheels and aluminium turnings. Base structure is provided of swivel cushioned piston with reclining system. Metal parts available in the metal finishing selection.</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14997446197580,
+      "title": "Office Chair - Sadko",
+      "handle": "office-chair-sadko",
+      "url": "https://arowonen.com/products/office-chair-sadko",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:37:12+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:42:57+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53018039222604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_01.jpg?v=1753799902",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_02.jpg?v=1753799902",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_03.jpg?v=1753799901",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_04.jpg?v=1753799902",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_05.jpg?v=1753799902",
+          "alt": null,
+          "width": 3840,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_06.jpg?v=1753799902",
+          "alt": null,
+          "width": 2878,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_07.jpg?v=1753799902",
+          "alt": null,
+          "width": 3367,
+          "height": 3840
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2879_0.jpg?v=1753799902",
+          "alt": null,
+          "width": 3896,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2887_0.jpg?v=1753799902",
+          "alt": null,
+          "width": 1733,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2884.jpg?v=1753799902",
+          "alt": null,
+          "width": 1733,
+          "height": 2600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2886.jpg?v=1753799902",
+          "alt": null,
+          "width": 1733,
+          "height": 2600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SADKO_office-chair_gallery_01.jpg?v=1753799902",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Main structure in curved and solid multilayer wood. Seat and armrest padding in differentiated densities. Upholstery in leather or fabric, with separate three-zone upholstery for armrests and backrest. Curved outer shell covered in leather or fabric with decorative stitching. Five-spoke stainless steel base with castors, aluminium turnings. Cushioned swivel piston adjustable in height. The base is available in a selection of metal finishes.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14997420441932,
+      "title": "Office Chair - Planet",
+      "handle": "office-chair-planet",
+      "url": "https://arowonen.com/products/office-chair-planet",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:30:42+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:33:32+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017991217484,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_04.jpg?v=1753799510",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-NJB22--1745_V_0.jpg?v=1753799614",
+          "alt": null,
+          "width": 1334,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_05.jpg?v=1753799614",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_03.jpg?v=1753799614",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/P1044193_0.jpg?v=1753799510",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_06.jpg?v=1753799509",
+          "alt": null,
+          "width": 1442,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/P1044430.jpg?v=1753799509",
+          "alt": null,
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_07.jpg?v=1753799511",
+          "alt": null,
+          "width": 3840,
+          "height": 3022
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_01.jpg?v=1753799510",
+          "alt": null,
+          "width": 1619,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_04_0.jpg?v=1753799510",
+          "alt": null,
+          "width": 1440,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_02.jpg?v=1753799510",
+          "alt": null,
+          "width": 1707,
+          "height": 2160
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/planet_office_armchair_04.jpg?v=1753799510",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Supporting frame in shaped plywood and solid wood; seat with elastic belt spring system. Seat and armrest padding with different densities. Upholstery in leather, armrests and backrest cover decorated with quilted embroidery and perforation pattern. Curved external structure upholstered in leather. Base in stainless steel with 5 wheels, turnings in aluminium. Rotary piston damper with self-locking drive system and adjustable height. Base can be ﬁnished with any lacquer of the metal lacquer ﬁnish selection.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14997408907596,
+      "title": "Office Chair - Nanook",
+      "handle": "office-chair-nanook",
+      "url": "https://arowonen.com/products/office-chair-nanook",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:27:39+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:28:49+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017967919436,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0015_nanook.jpg?v=1753799331",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0085.jpg?v=1753799331",
+          "alt": null,
+          "width": 1140,
+          "height": 1520
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0078.jpg?v=1753799331",
+          "alt": null,
+          "width": 1139,
+          "height": 1537
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_0171_2.jpg?v=1753799331",
+          "alt": null,
+          "width": 2800,
+          "height": 2100
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0015_nanook.jpg?v=1753799331",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Structure in shaped plywood and solid wood, padding in polyurethane foam and spring system with straps, upholstery in leather or fabric. High back padded in polyurethane foam and acrylic ﬁbres, portions padded individually; external part decorated with embroidery in relief, creating a geometrical pattern. Base in stainless steel with 5 laser-cut spokes, with wheels and turnings in aluminium, available in the metal ﬁnishing selec-tion. Swivel shock absorber piston, adjustable in height, with lockable reclining system.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14997402747212,
+      "title": "Office Chair - Ginsberg",
+      "handle": "office-chair-ginsberg",
+      "url": "https://arowonen.com/products/office-chair-ginsberg",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "CHAIRS",
+        "FURNITURE",
+        "OFFICE CHAIRS"
+      ],
+      "created_at": "2025-07-29T16:26:22+02:00",
+      "updated_at": "2026-05-22T17:56:55+02:00",
+      "published_at": "2025-07-29T16:27:13+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53017958023500,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0009_ginsbergpoltronadaufficio.jpg?v=1753799235",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_padiglione_3_0008.jpg?v=1753799235",
+          "alt": null,
+          "width": 1036,
+          "height": 1382
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_padiglione_3_0015.jpg?v=1753799235",
+          "alt": null,
+          "width": 1169,
+          "height": 1559
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_padiglione_3_0017.jpg?v=1753799235",
+          "alt": null,
+          "width": 1141,
+          "height": 1522
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_padiglione_3_0019.jpg?v=1753799235",
+          "alt": null,
+          "width": 1169,
+          "height": 1559
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0009_ginsbergpoltronadaufficio.jpg?v=1753799235",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Back frame in shaped plywood joined to the seat frame. Seat sprung system with twisted elastic belts. Upholstery in leather or fabric. Seat padding in polyurethane foam. Internal part of the back in polyurethane foam and acrylic ﬁbres, parts padded individually. External part equipped with a 10 mm layer of polyurethane. Base in polished stainless steel with 5 laser-ﬁnished spokes, 8 mm in width, with aluminium turnings and chrome wheels, available in the metal ﬁnishing selection.</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

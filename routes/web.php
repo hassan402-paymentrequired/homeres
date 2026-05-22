@@ -38,6 +38,24 @@ Route::get('/shop', function (Request $request) {
     ]);
 })->name('shop');
 
+Route::get('/collections/{handle}', function (string $handle, Request $request) {
+    return Inertia::render('catalog/index', [
+        'collection' => $handle,
+        'q' => $request->query('q'),
+    ]);
+})->name('collections.show');
+
+Route::get('/brands/{handle}', function (string $handle, Request $request) {
+    return Inertia::render('catalog/index', [
+        'brand' => $handle,
+        'q' => $request->query('q'),
+    ]);
+})->name('brands.show');
+
+Route::get('/brands', fn () => Inertia::render('catalog/index', [
+    'brandIndex' => true,
+]))->name('brands');
+
 Route::get('/products/{id}', fn (string $id) => Inertia::render('product/show', [
     'id' => $id,
 ]))->name('products.show');

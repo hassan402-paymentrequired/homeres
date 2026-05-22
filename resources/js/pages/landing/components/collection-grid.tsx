@@ -57,33 +57,11 @@ const CATEGORY_COLLECTIONS: Omit<Collection, 'id'>[] = [
         image: '/assets/images/Golden Chandelier-1.jpg',
         alt: 'Statement lighting including chandeliers and floor lamps',
         slug: 'lighting',
-    },
-    {
-        name: 'New Arrivals',
-        image: '/assets/images/Floor lamp Cassini - gold 2.jpg',
-        alt: 'Latest additions to the Homère collection',
-        slug: 'new-arrivals',
-    },
-];
-
-const BRAND_SLUGS: { slug: string; name: string }[] = [
-    { slug: 'fornasetti', name: 'Fornasetti' },
-    // { slug: 'gaggenau', name: 'Gaggenau' },
-    // { slug: 'glas-italia', name: 'Glas Italia' },
-    // { slug: 'guaxs', name: 'Guaxs' },
-    // { slug: 'helle-mardahl-studio', name: 'Helle Mardahl Studio' },
-    // { slug: 'jonathan-adler', name: 'Jonathan Adler' },
+    }
 ];
 
 const collections: Collection[] = [
     ...CATEGORY_COLLECTIONS.map((item, i) => ({ id: i + 1, ...item })),
-    ...BRAND_SLUGS.map((brand, i) => ({
-        id: CATEGORY_COLLECTIONS.length + i + 1,
-        name: brand.name,
-        slug: brand.slug,
-        alt: `${brand.name} collection at Homère`,
-        image: GRID_IMAGES[(CATEGORY_COLLECTIONS.length + i) % GRID_IMAGES.length],
-    })),
 ];
 
 function collectionHref(slug: string): string {

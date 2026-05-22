@@ -1,0 +1,999 @@
+{
+  "handle": "teckell",
+  "label": "Teckell",
+  "url": "https://arowonen.com/collections/teckell",
+  "scraped_at": "2026-05-22T15:56:02.759Z",
+  "product_count": 13,
+  "products": [
+    {
+      "id": 8994735063372,
+      "title": "Cue Rack",
+      "handle": "cue-rack",
+      "url": "https://arowonen.com/products/cue-rack",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-05-01T15:45:42+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-05-01T15:51:52+02:00",
+      "available": true,
+      "price_min": 2660,
+      "price_max": 2660,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48081928782156,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2660.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Pooltables-accessories-Cue-rack-2-667x800_1.webp?v=1714571483",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Pooltables-accessories-Cue-rack-667x800.webp?v=1714571498",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Pooltables-accessories-Cue-rack-2-667x800.webp?v=1714571498",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Pooltables-accessories-Cue-rack-2-667x800_1.webp?v=1714571483",
+      "description_html": "<ul>\n<li><meta charset=\"utf-8\"></li>\n<li>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Low iron tempered glass  structure</span><br>\n</li>\n<li>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Can hold seven cues</span><br>\n</li>\n<li>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Black Oak</span><br>\n</li>\n<li>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor use</span><br>\n</li>\n</ul>\n<ul>\n<li style=\"font-weight: bold;\">\n<strong>Teckell<sup style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;\">®</sup><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Tool Kit</span></strong><meta charset=\"utf-8\">\n</li>\n</ul>\n<div data-widget_type=\"wd_title.default\" data-element_type=\"widget\" data-id=\"add050d\" class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989329555788,
+      "title": "Chess Set - Stratego - White",
+      "handle": "chess-set-stratego-white",
+      "url": "https://arowonen.com/products/chess-set-stratego-white",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "GAMES",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-04-28T16:50:14+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T16:53:42+02:00",
+      "available": true,
+      "price_min": 9680,
+      "price_max": 9680,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48067289022796,
+          "title": "Default Title",
+          "sku": null,
+          "price": "9680.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Stratego-White-1-667x800.webp?v=1714315955",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Stratego-White-2.webp?v=1714315955",
+          "alt": null,
+          "width": 2000,
+          "height": 2400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Stratego-White-3.webp?v=1714315955",
+          "alt": null,
+          "width": 2000,
+          "height": 2400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_02_d24b01de-29bf-4255-810a-cbc78bddf0d2.webp?v=1714315973",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_03_900df6f6-750f-4856-b921-df8972fa9999.webp?v=1714315973",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_01_990e285e-8976-4471-bec7-c11f5621bd35.webp?v=1714315974",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Stratego-White-1-667x800.webp?v=1714315955",
+      "description_html": "<ul>\n<li>\n<strong>Base:</strong><span> </span>White calacatta marble with a simple magnetic opening system.</li>\n<li>\n<strong>Game Sheets:</strong><span> </span>A single board can be used to play four different games. </li>\n<li>\n<strong>Top:</strong><span> </span>Low iron tempered glass top.</li>\n<li>\n<strong>Chess Pieces:</strong><span> </span>Chess pieces made of lathed, extra-clear borosilicate glass cylinders- Decorated with 24K Gold and chrome-plated brass.</li>\n</ul>\n<div class=\"elementor-element elementor-element-5fccbb9 elementor-widget elementor-widget-heading\" data-id=\"5fccbb9\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-41dafa8 wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"41dafa8\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate<br>• Instructions and tools for assembling and maintaining the product.</p>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8989306913100,
+      "title": "Chess Set - Stratego - Black",
+      "handle": "chess-set-stratego-black",
+      "url": "https://arowonen.com/products/chess-set-stratego-black",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "GAMES",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-04-28T16:19:33+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T16:19:33+02:00",
+      "available": true,
+      "price_min": 9680,
+      "price_max": 9680,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48067215360332,
+          "title": "Default Title",
+          "sku": "",
+          "price": "9680.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Sratego-Black-S-1.webp?v=1714313979",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Sratego-Black-S-2.webp?v=1714313976",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_02.webp?v=1714313978",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_03.webp?v=1714313977",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_stratego_slider_01.webp?v=1714313976",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Sratego-Black-S-1.webp?v=1714313979",
+      "description_html": "<ul>\n<li>\n<strong>Base:</strong><span> </span>Black marquina marble with a simple magnetic opening system.</li>\n<li>\n<strong>Game Sheets:</strong><span> </span>A single board can be used to play four different games. </li>\n<li>\n<strong>Top:</strong><span> </span>Low iron tempered glass top.</li>\n<li>\n<strong>Chess Pieces:</strong><span> </span>Chess pieces made of lathed, extra-clear borosilicate glass cylinders- Decorated with 24K Gold and chrome-plated brass.</li>\n</ul>\n<div class=\"elementor-element elementor-element-5fccbb9 elementor-widget elementor-widget-heading\" data-id=\"5fccbb9\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-41dafa8 wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"41dafa8\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate<br>• Instructions and tools for assembling and maintaining the product.</p>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8989232103756,
+      "title": "Ciclotte Exercise Bike - Glossy",
+      "handle": "ciclotte-exercise-bike-glossy",
+      "url": "https://arowonen.com/products/ciclotte-exercise-bike-glossy",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T15:02:25+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T15:03:36+02:00",
+      "available": true,
+      "price_min": 16940,
+      "price_max": 16940,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066958033228,
+          "title": "Default Title",
+          "sku": null,
+          "price": "16940.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Ciclotte-Chrome-667x800.webp?v=1714309403",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_Ciclotte_slider_8_144413a8-c5e4-4e37-9e07-809eaea4bbec.webp?v=1714309403",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_Ciclotte_slider_7_ce2bf4a3-04de-40eb-9024-8c398346f2da.webp?v=1714309403",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_ciclotte_6_48fe7ff6-52da-40f2-b5f2-c9a06f814f4a.webp?v=1714309403",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Ciclotte-Chrome-667x800.webp?v=1714309403",
+      "description_html": "<ul></ul>\n<section id=\"start\" data-element_type=\"section\" data-id=\"823293b\" class=\"wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-823293b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\">\n<div class=\"elementor-container elementor-column-gap-default\">\n<div data-element_type=\"column\" data-id=\"2663f97\" class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2663f97 text-center\">\n<div class=\"elementor-widget-wrap elementor-element-populated\">\n<div data-widget_type=\"wd_text_block.default\" data-element_type=\"widget\" data-id=\"6215bfc\" class=\"elementor-element elementor-element-6215bfc elementor-widget elementor-widget-wd_text_block\">\n<div class=\"elementor-widget-container\">\n<div class=\"wd-text-block reset-last-child text-left\">\n<div data-widget_type=\"wd_title.default\" data-element_type=\"widget\" data-id=\"56f53d3\" class=\"elementor-element elementor-element-56f53d3 wd-width-100 elementor-widget elementor-widget-wd_title\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<ul></ul>\n<ul>\n<li>\n<strong>Glass Disc:</strong><span> </span>A 30-mm glass disc replaces the bike's original circular frame for a stunning, sleek look. Frame in steel and laser cut multi-layer glass: external layers in tempered glass and internal layer in hardened glass.</li>\n<li>\n<strong>Frame:</strong><span> </span>Polished stainless steel.</li>\n<li>\n<strong>Base:</strong><span> </span>The flexible, chrome-finished base follows the body's movements. The frame flexes sideways when under pressure, just as when cycling on a street.</li>\n<li>\n<strong>Handlebar:</strong><span> </span>Handlebar and grip system for an ergonomic, vertical structure. Handlebar adjustable in height and grade.</li>\n<li>\n<strong>Pedals:</strong><span> </span>Due to the unusually compact transmission, the distance between the pedals is only 6 cm. This narrow gap helps the rider avoid joint problems.</li>\n<li>\n<strong>Seat:</strong><span> </span>Racing bike gel seat with trim for use both for cycling and spinning. Adjustable in height and grade. The seat has a standard attachment that allows the customer to replace the provided seat with others of their choice.<br>-<span> </span><em><strong>Pitch:</strong></em><span> </span>16 mm<br>-<span> </span><em><strong>Total Stoke:</strong><span> </span></em>21 cm<br>-<span> </span><em><strong>Maximum user's weight:</strong></em><span> </span>118 Kg</li>\n<li>\n<strong>Training Highlights:</strong><span> </span>High-performance training is possible thanks to an adjustable magnetic resistance system (12 magnets and the flywheel make up the transmission). The flywheel spins at a high speed due to a system that multiples the pedal turns, enhancing the magnetic field's strength. the transmission with gear box simulates a racing bike. An electric system regulates resistance.</li>\n<li>\n<strong>Connectivity:</strong><span> </span>This bluetooth-enabled bike is equipped with a sturdy stand (black only) for a smartphone or tablet. Watch movies, listen to music or follow simulated trail or road routes via a special android/ios-compatible app that also tracks speed and distance. Featuring 10 resistance levels fine adjustment.</li>\n<li>\n<strong>Certifications:</strong><span> </span>EU / US / CHINA</li>\n<li>\n<strong>Patented Design:</strong><span> </span>Covered by international ornamental model.<br><br><em>Designed for indoor use.</em>\n</li>\n</ul>\n<ul>\n<li><b><meta charset=\"utf-8\"></b></li>\n</ul>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 8989228859724,
+      "title": "Ciclotte Exercise Bike - Black",
+      "handle": "ciclotte-exercise-bike-black",
+      "url": "https://arowonen.com/products/ciclotte-exercise-bike-black",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T14:58:25+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T15:01:29+02:00",
+      "available": true,
+      "price_min": 16940,
+      "price_max": 16940,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066950234444,
+          "title": "Default Title",
+          "sku": null,
+          "price": "16940.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Ciclotte-Black-S-1.webp?v=1714309277",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_Ciclotte_slider_8.webp?v=1714309277",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_Ciclotte_slider_7.webp?v=1714309277",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_ciclotte_6.webp?v=1714309277",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Ciclotte-Black-S-1.webp?v=1714309277",
+      "description_html": "<ul></ul>\n<section id=\"start\" data-element_type=\"section\" data-id=\"823293b\" class=\"wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-823293b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\">\n<div class=\"elementor-container elementor-column-gap-default\">\n<div data-element_type=\"column\" data-id=\"2663f97\" class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2663f97 text-center\">\n<div class=\"elementor-widget-wrap elementor-element-populated\">\n<div data-widget_type=\"wd_text_block.default\" data-element_type=\"widget\" data-id=\"6215bfc\" class=\"elementor-element elementor-element-6215bfc elementor-widget elementor-widget-wd_text_block\">\n<div class=\"elementor-widget-container\">\n<div class=\"wd-text-block reset-last-child text-left\">\n<div data-widget_type=\"wd_title.default\" data-element_type=\"widget\" data-id=\"56f53d3\" class=\"elementor-element elementor-element-56f53d3 wd-width-100 elementor-widget elementor-widget-wd_title\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<ul>\n<li>\n<strong>Glass Disc:</strong><span> </span>A 30-mm glass disc replaces the bike's original circular frame for a stunning, sleek look. Frame in steel and laser cut multi-layer glass: external layers in low iron tempered glass and internal layer in hardened glass.</li>\n<li>\n<strong>Frame:</strong><span> </span>Polished black varnished stainless steel.</li>\n<li>\n<strong>Base:</strong><span> </span>The flexible, chrome-finished base follows the body's movements. The frame flexes sideways when under pressure, just as when cycling on a street.</li>\n<li>\n<strong>Handlebar:</strong><span> </span>Handlebar and grip system for an ergonomic, vertical structure. Handlebar adjustable in height and grade.</li>\n<li>\n<strong>Pedals:</strong><span> </span>Due to the unusually compact transmission, the distance between the pedals is only 6 cm. This narrow gap helps the rider avoid joint problems.</li>\n<li>\n<strong>Seat:</strong><span> </span>Racing bike gel seat with trim for use both for cycling and spinning. Adjustable in height and grade. The seat has a standard attachment that allows the customer to replace the provided seat with others of their choice.<br>-<span> </span><em><strong>Pitch:</strong></em><span> </span>16 mm<br>-<span> </span><em><strong>Total Stoke:</strong><span> </span></em>21 cm<br>-<span> </span><em><strong>Maximum user's weight:</strong></em><span> </span>118 Kg</li>\n<li>\n<strong>Training Highlights:</strong><span> </span>High-performance training is possible thanks to an adjustable magnetic resistance system (12 magnets and the flywheel make up the transmission). The flywheel spins at a high speed due to a system that multiples the pedal turns, enhancing the magnetic field's strength. the transmission with gear box simulates a racing bike. An electric system regulates resistance.</li>\n<li>\n<strong>Connectivity:</strong><span> </span>This bluetooth-enabled bike is equipped with a sturdy stand (black only) for a smartphone or tablet. Watch movies, listen to music or follow simulated trail or road routes via a special android/ios-compatible app that also tracks speed and distance. Featuring 10 resistance levels fine adjustment.</li>\n<li>\n<strong>Certifications:</strong><span> </span>EU / US / CHINA</li>\n<li>\n<strong>Patented Design:</strong><span> </span>Covered by international ornamental model.<br><br><em>Designed for indoor use.</em><br>\n</li>\n</ul>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 8989218275660,
+      "title": "Table Tennis - Effetto 71",
+      "handle": "table-tennis-effetto-71",
+      "url": "https://arowonen.com/products/table-tennis-effetto-71",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T14:36:53+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T14:36:53+02:00",
+      "available": true,
+      "price_min": 31500,
+      "price_max": 31500,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066910552396,
+          "title": "Default Title",
+          "sku": "",
+          "price": "31500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Table-Tennis-Effetto-71-1.jpg?v=1714307816",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Table-Tennis-Effetto-71-3.jpg?v=1714307818",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Table-Tennis-Effetto-71-2.jpg?v=1714307817",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Table-Tennis-Effetto-71-1.jpg?v=1714307816",
+      "description_html": "<ul>\n<li>\n<strong>Playing Field:<span> </span></strong>Low iron tempered glass, 15 mm (9/16\") Thick, with beveled and cerium oxidepolished corners.</li>\n<li>\n<strong>Legs:</strong><span> </span>Made of solid milled canaletto walnut.</li>\n<li>\n<strong>Joints:</strong><span> </span>Made of stainless steel, milled and polished.</li>\n<li>\n<strong>Net:</strong><span> </span>The table tennis nets are made of alcantara, one in a light versione and one in a dark version (both provided with the table).<br>The supporting structure of the net is made of brass and can be removed to convert the ping pong table into a living room table.</li>\n<li>\n<strong>Accessories:</strong><span> </span>Included with the table tennis, 4 paddles and game balls are also provided.</li>\n</ul>\n<section class=\"wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-823293b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"823293b\" data-element_type=\"section\" id=\"start\">\n<div class=\"elementor-container elementor-column-gap-default\">\n<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2663f97 text-center\" data-id=\"2663f97\" data-element_type=\"column\">\n<div class=\"elementor-widget-wrap elementor-element-populated\">\n<div class=\"elementor-element elementor-element-6215bfc elementor-widget elementor-widget-wd_text_block\" data-id=\"6215bfc\" data-element_type=\"widget\" data-widget_type=\"wd_text_block.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"wd-text-block reset-last-child text-left\">\n<ul>\n<li><em>Designed for indoor use.</em></li>\n</ul>\n<p> Table Tennis Includes:</p>\n<div class=\"elementor-element elementor-element-a43b690 elementor-widget elementor-widget-heading\" data-id=\"a43b690\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-56f53d3 wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"56f53d3\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate<br>• Instructions and tools for assembling and maintaining the product</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "id": 8989201236300,
+      "title": "Foosball Table - Intervallo",
+      "handle": "foosball-table-intervallo",
+      "url": "https://arowonen.com/products/foosball-table-intervallo",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:54:18+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:57:35+02:00",
+      "available": true,
+      "price_min": 6050,
+      "price_max": 6050,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066845278540,
+          "title": "Default Title",
+          "sku": null,
+          "price": "6050.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fossball-Intervallo.jpg?v=1714305407",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fossball-Intervallo-2.jpg?v=1714305407",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fossball-Intervallo-3.jpg?v=1714305407",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-04-28om13.57.09.png?v=1714305441",
+          "alt": null,
+          "width": 1590,
+          "height": 1496
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fossball-Intervallo.jpg?v=1714305407",
+      "description_html": "<ul>\n<li><meta charset=\"utf-8\"></li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Structure: </strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Solid milled Canaletto walnut structure.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Shell perimeter:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">in15 mm thick low iron tempered glass. The vertical plates are low iron tempered glass; the curved ends have undergone a hot bending process. Every component is polished with cerium oxide.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Playing field:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Playing field in 12mm thick, tempered clear crystal, Thick crystal structure increases the game’s speed.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Players: </strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Made of aluminum, one team colorless anodized aluminum; the other black anodized aluminum.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Handles: </strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Quick mount Canaletto walnut handles that fit perfectly and can be removed and replaced.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Goals: </strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Goals with polished stainless steel frames and handcrafted black nets.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Feet:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Hidden, adjustable for leveling table.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Bars &amp; Rods:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Telescopic. Rod ends feature two layers of shock absorption. Rods are equipped with special, self- lubricating bearings so that they slide back and forth quietly, smoothly and quickly.</span><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor use.</em><br>\n</li>\n</ul>\n<div class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\" data-id=\"dafc9b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\" data-id=\"1bac899\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"add050d\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989199794508,
+      "title": "Foosball Table - Fuoriclasse",
+      "handle": "foosball-table-fuoriclasse",
+      "url": "https://arowonen.com/products/foosball-table-fuoriclasse",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:48:38+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:52:19+02:00",
+      "available": true,
+      "price_min": 17550,
+      "price_max": 17550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066841772364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "17550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Outdoor-S-1.webp?v=1714305130",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Outdoor-S-2.webp?v=1714305130",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Outdoor-S-3.webp?v=1714305130",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/teckell-cristallino-outdoor-slide-6.webp?v=1714305130",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/teckell-cristallino-outdoor-slide-9.webp?v=1714305130",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/teckell-cristallino-outdoor-slide-7.webp?v=1714305130",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Outdoor-S-1.webp?v=1714305130",
+      "description_html": "<ul>\n<li>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Structure:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Low iron tempered glass, 15mm (9/16”) thick, with cerium oxide-polished corners.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Playing field:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Made on pure white Corian®, making this foosball table suitable for outdoors.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Players:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">One team white powder coated aluminium, the other black powder coated aluminum.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Handles:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Chrome-plated brass. Quick mount that fit perfectly and can be removed and replaced.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Scoring Unit:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Chrome-plated brass.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Goals:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">with polished stainless steel frames and handcrafted black nets.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Joints:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Brass joints that are milled. Chrome plated and polished.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Feet:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Adjustable feet for uneven ground.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Bars &amp; Rods:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The telescopic rods are made of aisi 316 stainless stell. Rod ends feature two layers of shock absorption. Equipped with special. Self-lubricating bearings so that they slide back and forth quietly. Smoothly and quickly.</span><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor and outdoor use.</em><br>\n</li>\n</ul>\n<div class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\" data-id=\"dafc9b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\" data-id=\"1bac899\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"add050d\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989198811468,
+      "title": "Foosball Table - Cristallino Gold LE",
+      "handle": "football-table-cristallino-gold-le",
+      "url": "https://arowonen.com/products/football-table-cristallino-gold-le",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:43:26+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:46:54+02:00",
+      "available": true,
+      "price_min": 20570,
+      "price_max": 20570,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066838823244,
+          "title": "Default Title",
+          "sku": null,
+          "price": "20570.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-24k-S-1.webp?v=1714304806",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-24k-S-2.webp?v=1714304806",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-24k-S-3.webp?v=1714304806",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Gold-2022-16-scaled-1200x900.webp?v=1714304806",
+          "alt": null,
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Gold-2022-18-scaled-1200x900.webp?v=1714304806",
+          "alt": null,
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Gold-2022-12-scaled-1200x900.webp?v=1714304806",
+          "alt": null,
+          "width": 1200,
+          "height": 900
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-24k-S-1.webp?v=1714304806",
+      "description_html": "<ul>\n<li>\n<strong>Structure:</strong><span> </span>Low iron tempered glass, 15mm (9/16”) thick, with cerium oxide-polished corners.</li>\n<li>\n<strong>Playing field:</strong><span> </span>In laminated smoked glass: Thick glass structure increases the game's speed.</li>\n<li>\n<strong>Players:</strong><span> </span>One team made of 24K Gold plated, the other od shiny chrome aluminum.</li>\n<li>\n<strong>Handles:</strong><span> </span>Chrome-plated brass. Quick mount that fit perfectly and can be removed and replaced.</li>\n<li>\n<strong>Scoring Unit:</strong><span> </span>24K Gold plated end pieces and chrome-plated brass pieces..</li>\n<li>\n<strong>Goals:</strong><span> </span>with polished stainless steel frames and handcrafted black nets.</li>\n<li>\n<strong>Joints:</strong><span> </span>Brass and stainless steel joints that are milled. 24K Gold plated and polished.</li>\n<li>\n<strong>Feet:</strong><span> </span>Hidden, adjustable for leveling table.</li>\n<li>\n<strong>Bars &amp; Rods:</strong><span> </span>Telescopic. Rod ends feature two layers of shock absorption. Equipped with special. Self-lubricating bearings so that they slide back and forth quietly. Smoothly and quickly.<em><br><br>Designed for indoor use.</em>\n</li>\n</ul>\n<div class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\" data-id=\"dafc9b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\" data-id=\"1bac899\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"add050d\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989197140300,
+      "title": "Foosball Table - Cristallino Classic",
+      "handle": "football-table-cristallino-classic",
+      "url": "https://arowonen.com/products/football-table-cristallino-classic",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:38:59+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:42:01+02:00",
+      "available": true,
+      "price_min": 16335,
+      "price_max": 16335,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066832433484,
+          "title": "Default Title",
+          "sku": null,
+          "price": "16335.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Trasparent-2023-S-1.webp?v=1714304486",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Trasparent-2023-S-2.webp?v=1714304486",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Transparent-2022-13-scaled-e1689600682791.webp?v=1714304486",
+          "alt": null,
+          "width": 1245,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Transparent-2022-26-scaled-e1689600671800.webp?v=1714304486",
+          "alt": null,
+          "width": 1245,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_calciobalilla_cristallino_05_80a189ac-51bc-486b-b219-aebbcf274c06.webp?v=1714304486",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Trasparent-2023-S-1.webp?v=1714304486",
+      "description_html": "<ul>\n<li>\n<strong>Structure:</strong><span> </span>Low iron tempered glass, 15mm (9/16”) thick, with cerium oxide-polished corners.</li>\n<li>\n<strong>Playing field:</strong><span> </span>In laminated smoked glass: Thick glass structure increases the game's speed.</li>\n<li>\n<strong>Players:</strong><span> </span>One team colorless anodized aluminium, the other black anodized aluminum.</li>\n<li>\n<strong>Handles:</strong><span> </span>Chrome-plated brass. Quick mount that fit perfectly and can be removed and replaced.</li>\n<li>\n<strong>Scoring Unit:</strong><span> </span>Chrome-plated brass.</li>\n<li>\n<strong>Goals:</strong><span> </span>with polished stainless steel frames and handcrafted black nets.</li>\n<li>\n<strong>Joints:</strong><span> </span>Brass and stainless steel joints that are milled. Chrome plated and polished. Glued elements.</li>\n<li>\n<strong>Feet:</strong><span> </span>Hidden, adjustable for leveling table.</li>\n<li>\n<strong>Bars &amp; Rods:</strong><span> </span>Telescopic. Rod ends feature two layers of shock absorption. Equipped with special. Self-lubricating bearings so that they slide back and forth quietly. Smoothly and quickly.</li>\n</ul>\n<p><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor use.</em><br></p>\n<div data-widget_type=\"text-editor.default\" data-element_type=\"widget\" data-id=\"dafc9b0\" class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div data-widget_type=\"heading.default\" data-element_type=\"widget\" data-id=\"1bac899\" class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div data-widget_type=\"wd_title.default\" data-element_type=\"widget\" data-id=\"add050d\" class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989195338060,
+      "title": "Foosball Table - Cristallino Black",
+      "handle": "football-table-cristallino-black",
+      "url": "https://arowonen.com/products/football-table-cristallino-black",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:30:28+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:32:51+02:00",
+      "available": true,
+      "price_min": 16335,
+      "price_max": 16335,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066824503628,
+          "title": "Default Title",
+          "sku": null,
+          "price": "16335.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Black-2023-S-1-667x800.webp?v=1714303952",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Black-2023-S-2-667x800.webp?v=1714303952",
+          "alt": null,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Transparent-2022-23-scaled-e1689600828332.webp?v=1714303952",
+          "alt": null,
+          "width": 1245,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Black-2022-6-scaled-e1689600816169.webp?v=1714303952",
+          "alt": null,
+          "width": 1245,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_calciobalilla_cristallino_05.webp?v=1714303952",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-Cristallino-Black-2023-S-1-667x800.webp?v=1714303952",
+      "description_html": "<ul>\n<li>\n<strong>Structure:</strong><span> </span>Low iron tempered glass, 15mm (9/16”) thick, with cerium oxide-polished corners.</li>\n<li>\n<strong>Playing field:</strong><span> </span>In laminated smoked glass: Thick glass structure increases the game's speed.</li>\n<li>\n<strong>Players:</strong><span> </span>One team colorless anodized aluminium, the other black anodized aluminum.</li>\n<li>\n<strong>Handles:</strong><span> </span>Chrome-plated brass. Quick mount that fit perfectly and can be removed and replaced.</li>\n<li>\n<strong>Scoring Unit:</strong><span> </span>Chrome-plated brass.</li>\n<li>\n<strong>Goals:</strong><span> </span>with polished stainless steel frames and handcrafted black nets.</li>\n<li>\n<strong>Joints:</strong><span> </span>Brass and stainless steel joints that are milled. Chrome plated and polished. Glued elements.</li>\n<li>\n<strong>Feet:</strong><span> </span>Hidden, adjustable for leveling table.</li>\n<li>\n<strong>Bars &amp; Rods:</strong><span> </span>Telescopic. Rod ends feature two layers of shock absorption. Equipped with special. Self-lubricating bearings so that they slide back and forth quietly. Smoothly and quickly.</li>\n</ul>\n<p><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor use.</em><br></p>\n<div data-widget_type=\"text-editor.default\" data-element_type=\"widget\" data-id=\"dafc9b0\" class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div data-widget_type=\"heading.default\" data-element_type=\"widget\" data-id=\"1bac899\" class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div data-widget_type=\"wd_title.default\" data-element_type=\"widget\" data-id=\"add050d\" class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989193929036,
+      "title": "Foosball Table - 90° Minuto Wood",
+      "handle": "football-table-90-minuto-wood",
+      "url": "https://arowonen.com/products/football-table-90-minuto-wood",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:22:53+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:25:35+02:00",
+      "available": true,
+      "price_min": 14000,
+      "price_max": 14000,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066817524044,
+          "title": "Default Title",
+          "sku": null,
+          "price": "14000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-wood-S-3.webp?v=1714303518",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-wood-S-2.webp?v=1714303518",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-wood-S-1.webp?v=1714303518",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-CALCIOBALILLA-90Minuto-Detail-2-scaled-e1689600314146.webp?v=1714303518",
+          "alt": null,
+          "width": 1245,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_calciobalilla_90MInuto_03.webp?v=1714303518",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell_calciobalilla_90MInuto_01.webp?v=1714303518",
+          "alt": null,
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-wood-S-3.webp?v=1714303518",
+      "description_html": "<ul>\n<li><meta charset=\"utf-8\"></li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Structure:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Solid milled Canaletto walnut wood.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Shell perimeter:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">in 9/16”-thick crystal. The vertical plates are in low iron tempered glass; the curved ends have undergone a hot bending process. Every component is polished with cerium oxide.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Playing field:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">in thick low iron tempered glass. Thick glass structure increases the game's speed.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Players:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">one team in Canaletto walnut wood, the other in ash wood.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Handles:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Canaletto walnut. Quick mount that fit perfectly and can be removed and replaced.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Scoring Unit:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Canaletto walnut.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Goals:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">with polished stainless steel, frames and handcrafted black nets.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Feet:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Hidden, adjustable for leveling table.</span><br>\n</li>\n<li>\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Bars &amp; Rods:</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Rod ends feature two layers of shock absorption,Equipped with special, self-lubrificating bearings so that they slide back and forth quietly. smoothly and quickly.</span><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><br style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><em style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Designed for indoor use.</em><br>\n</li>\n</ul>\n<div class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\" data-id=\"dafc9b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\" data-id=\"1bac899\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"add050d\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    },
+    {
+      "id": 8989191209292,
+      "title": "Foosball Table - 90° Minuto Matte",
+      "handle": "football-table-90-minuto-matte",
+      "url": "https://arowonen.com/products/football-table-90-minuto-matte",
+      "vendor": "TECKELL",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "LEISURE"
+      ],
+      "created_at": "2024-04-28T13:16:57+02:00",
+      "updated_at": "2026-05-22T17:56:03+02:00",
+      "published_at": "2024-04-28T13:16:57+02:00",
+      "available": true,
+      "price_min": 13550,
+      "price_max": 13550,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48066805170508,
+          "title": "Default Title",
+          "sku": "",
+          "price": "13550.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-chalk-S-3.webp?v=1714303020",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-chalk-S-2.webp?v=1714303022",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-chalk-S-1.webp?v=1714303021",
+          "alt": null,
+          "width": 1000,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-04-28om13.13.54.png?v=1714303022",
+          "alt": null,
+          "width": 1592,
+          "height": 1606
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Teckell-90-minuto-chalk-S-3.webp?v=1714303020",
+      "description_html": "<ul>\n<li>\n<strong>Structure:</strong><span> </span>Solid Wood Painted Chalk White</li>\n<li>\n<strong>Shell perimeter:</strong><span> </span>in 15mm-thick crystal. The vertical plates are in low iron tempered glass and replaceable, Every component is polished with cerium oxide.</li>\n<li>\n<strong>Playing field:</strong><span> </span>12mm-thick, tempered clear crystal.</li>\n<li>\n<strong>Players:</strong><span> </span>made of aluminium: one team chalk white painted, the other black painted.</li>\n<li>\n<strong>Handles:</strong><span> </span>Chalk white painted aluminium, quick mount that fit perfectly and can be removed and replaced</li>\n<li>\n<strong>Scoring Unit:</strong><span> </span>Chalk white painted aluminium scoring unit.</li>\n<li>\n<strong>Goals:</strong><span> </span>with polished stainless steel frames and handcrafted black nets.</li>\n<li>\n<strong>Feet:</strong><span> </span>Hidden, adjustable for leveling table.</li>\n<li>\n<strong>Bars &amp; Rods:</strong><span> </span>Telescopic and chromed, Rod ends feature two layers of shock absorption. Equipped with special, self-lubricating bearings so that they slide back and forth quietly, smoothly and quickly.<br><br><em>Designed for indoor use.</em>\n</li>\n</ul>\n<div class=\"elementor-element elementor-element-dafc9b0 text-center color-scheme-inherit elementor-widget elementor-widget-text-editor\" data-id=\"dafc9b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Each foosball tables Includes:</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-1bac899 elementor-widget elementor-widget-heading\" data-id=\"1bac899\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h4 class=\"elementor-heading-title elementor-size-default\">Teckell<sup>®</sup><span> </span>Tool Kit</h4>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-add050d wd-width-100 elementor-widget elementor-widget-wd_title\" data-id=\"add050d\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n<div class=\"elementor-widget-container\">\n<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-extra-large text-center\">\n<div class=\"title-after_title set-cont-mb-s reset-last-child wd-fontsize-s\">\n<p>• Warranty certificate.<br>• Instructions and tools for assembling and maintaining the product<br>(including a special lubricant for a smoothly flowing game).</p>\n</div>\n</div>\n</div>\n</div>\n<p> </p>"
+    }
+  ]
+}

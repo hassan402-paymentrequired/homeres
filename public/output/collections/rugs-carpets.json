@@ -1,0 +1,3091 @@
+{
+  "handle": "rugs-carpets",
+  "label": "Rugs & Carpets",
+  "url": "https://arowonen.com/collections/rugs-carpets",
+  "scraped_at": "2026-05-22T15:57:14.377Z",
+  "product_count": 49,
+  "products": [
+    {
+      "id": 15582011982156,
+      "title": "Rug - Featherstone - beige grey 300 x 400 cm",
+      "handle": "rug-featherstone-beige-grey-300-x-400-cm",
+      "url": "https://arowonen.com/products/rug-featherstone-beige-grey-300-x-400-cm",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2026-02-17T11:43:20+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2026-02-20T14:28:58+01:00",
+      "available": true,
+      "price_min": 5995,
+      "price_max": 5995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56741706531148,
+          "title": "Default Title",
+          "sku": null,
+          "price": "5995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_4_120770_0_1_1_700x_e063e87e-e39f-487d-a1dd-3205057e3b59.webp?v=1771325145",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_6_120770_1_1_700x_c5d097aa-0179-436b-8aca-ca34ebf0e7f7.webp?v=1771325145",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_7_120770_2_1_1_700x_6e5578e6-ce36-446c-aa9e-2d89170086a1.webp?v=1771325144",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_8_120770_3_1_1_700x_c9435089-8d00-4acb-9e94-23081f6ad494.webp?v=1771325145",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_9_120770_4_1_1_700x_37115f1b-215a-45b0-9f82-3174fd31ad15.webp?v=1771325145",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/imageye___-_imgi_4_120770_0_1_1_700x_e063e87e-e39f-487d-a1dd-3205057e3b59.webp?v=1771325145",
+      "description_html": "<p class=\"text-special-sm\"><meta charset=\"utf-8\"><span>Discover the Eichholtz Featherstone Rug for endless sophistication and timeless craftsmanship. Expertly handwoven with a jacquard technique, allowing the artisans to create a highly intricate pattern. This exquisite Eichholtz rug comes in beige-grey, allowing it to seamlessly blend with other colors and textures. Add it to your living room, bedroom or dining space.</span></p>\n<p><strong>Dimensions<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><span class=\"dimension-value\">L. 400 | W. 300 cm</span></p>\n</div>\n</div>\n<p class=\"mt-4 text-justify\">All mentioned dimensions are approximate and may vary by up to 2%.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Specifications</strong><br><meta charset=\"utf-8\"></p>\n<p> </p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Beige | grey| hand woven | 50% viscose | 30% wool | 20% cotton</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n<p><br></p>"
+    },
+    {
+      "id": 15020478792012,
+      "title": "Rug - Zenon 200x300 cm - Ivory",
+      "handle": "rug-zenon-200x300-cm-ivory",
+      "url": "https://arowonen.com/products/rug-zenon-200x300-cm-ivory",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-08-08T19:46:23+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-08-08T19:46:44+02:00",
+      "available": true,
+      "price_min": 2795,
+      "price_max": 2795,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53089683702092,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_0_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_1_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_2_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_3_1_1.webp?v=1744368928",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_0_1_1.webp?v=1744368929",
+      "description_html": "<p class=\"text-special-sm\">Elevate your living space with the exquisite Carpet Zenon, a signature piece in the Eichholtz collection.</p>\n<p class=\"text-special-sm\"><span>Woven from luxurious wool in an ivory hue, this carpet embodies timeless sophistication. Its tactile texture and subtle off-white shades make it an elegant addition to any room. The Zenon series extends the Eichholtz reputation for craftsmanship, offering exclusive interior design solutions that cater to a refined lifestyle.</span><br></p>\n<p><strong>Dimensions<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 400 | W. 300 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Specifications</strong><br><meta charset=\"utf-8\"></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Ivory</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Extra info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Extra info\">Hand tufted | 90% New Zealand wool | 7% cotton | 3% polyester pile</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "id": 15010990752076,
+      "title": "Rug - Musco - By Marta Ferri",
+      "handle": "rug-musco-by-marta-ferri",
+      "url": "https://arowonen.com/products/rug-musco-by-marta-ferri",
+      "vendor": "MOLTENI&C",
+      "product_type": "",
+      "tags": [
+        "Marta Ferri",
+        "OUTDOOR",
+        "OUTDOOR RUGS",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-08-05T11:51:49+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-08-06T17:53:58+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53061750817100,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_musco.jpg?v=1754387602",
+          "alt": null,
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1187_Oliva_012_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1189_Oliva_013_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1000,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1195_BEIGE_014_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1198_015_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1000,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1228_019_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1480,
+          "height": 941
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TappetoOut_1239_021_2022_HR.jpg?v=1754387603",
+          "alt": null,
+          "width": 1480,
+          "height": 986
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_3_musco.jpg?v=1754387602",
+      "description_html": "<p class=\"generic-text  padding-line-element\">Musco, by Marta Ferri, proposes geometric patterns and run-up bands that enhance a palette inspired by the shades of the undergrowth. Available both monochrome in beige and olive green, and multicoloured in shades of olive green, earth brown and sand, it is complemented by tone-on-tone or contrasting fringes. There are two distinct shapes - rectangular and round - characterised by a rustic yet pleasant touch.</p>\n<p class=\"generic-text  padding-line-element\"> </p>"
+    },
+    {
+      "id": 15003025375564,
+      "title": "Rug - Coralie - 300x400cm - Ivory",
+      "handle": "rug-coralie-300x400cm-ivory",
+      "url": "https://arowonen.com/products/rug-coralie-300x400cm-ivory",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-31T16:42:14+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-31T16:45:06+02:00",
+      "available": true,
+      "price_min": 5995,
+      "price_max": 5995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53033096184140,
+          "title": "Default Title",
+          "sku": null,
+          "price": "5995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119149_0_1_1.webp?v=1753973077",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119149_1_1_1.webp?v=1753973077",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119149_2_1_1.webp?v=1753973077",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119149_3_1_1.webp?v=1753973077",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119149_0_1_1.webp?v=1753973077",
+      "description_html": "<p class=\"text-special-sm\">Immerse yourself in the refined elegance of the Carpet Coralie.</p>\n<p class=\"text-special-sm\"><span>This luxurious 300 x 400 cm piece, with its rich ivory palette, is crafted from 100% New Zealand wool. Its plush texture and sophisticated design effortlessly enhance any opulent setting, offering a perfect balance of warmth and style for discerning tastes.</span></p>\n<p class=\"text-2xl text-black normal-case\"><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<span class=\"dimension-value\">L. 400 | W. 300 cm</span><span class=\"dimension-value\"></span>\n</li>\n</ul>\n<p><span class=\"dimension-value\"><meta charset=\"utf-8\">\n<strong>Specifications</strong></span></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Ivory | hand knotted | 100% New Zealand wool pile</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "id": 14979670835532,
+      "title": "Carpet - Rock",
+      "handle": "carpet-rock",
+      "url": "https://arowonen.com/products/carpet-rock",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:32:56+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:33:25+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951380066636,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ROCK_carpet_gallery_01.jpg?v=1752928399",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ROCK_carpet_gallery_01.jpg?v=1752928399",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979653337420,
+      "title": "Carpet - Variety Cold",
+      "handle": "carpet-variety-cold",
+      "url": "https://arowonen.com/products/carpet-variety-cold",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:14:55+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:15:23+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951259054412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0015_VARIETYCOLD_0.jpg?v=1752927315",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0015_VARIETYCOLD_0.jpg?v=1752927315",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand-tufted carpet. 100% silk, octagonal-geometrical pattern in 2 shades. Upon request, it is possible to finish the perimeter with a decorative chain in chromed metal. Backing in cotton. Available in two tone versions: “cold” and “warm”.</span></p>"
+    },
+    {
+      "id": 14979651436876,
+      "title": "Carpet - Tyrion",
+      "handle": "carpet-tyrion",
+      "url": "https://arowonen.com/products/carpet-tyrion",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:13:55+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:14:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951235559756,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0024_TYRION.jpg?v=1752927272",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0024_TYRION.jpg?v=1752927272",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand-tufted carpet inbamboo silk and New Zealand wool with carving work. Cotton backing.</span></p>"
+    },
+    {
+      "id": 14979650322764,
+      "title": "Carpet - Thufir",
+      "handle": "carpet-thufir",
+      "url": "https://arowonen.com/products/carpet-thufir",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:13:08+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:13:35+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951214719308,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/THUFIR_carpet_gallery_01.jpg?v=1752927209",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/THUFIR_carpet_gallery_01.jpg?v=1752927209",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand tufted high relief carpet with waved heavy effect in wool and bamboo silk.</span></p>"
+    },
+    {
+      "id": 14979648291148,
+      "title": "Carpet - Tagora",
+      "handle": "carpet-tagora",
+      "url": "https://arowonen.com/products/carpet-tagora",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:11:07+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:11:58+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951174578508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0026_TAGORA.jpg?v=1752927161",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_tagora_01.jpg?v=1752927161",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0026_TAGORA.jpg?v=1752927161",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand-tufted carpet inbamboo silk and New Zealand wool with carving work. Cotton backing.</span></p>"
+    },
+    {
+      "id": 14979648160076,
+      "title": "Carpet - Sapho",
+      "handle": "carpet-sapho",
+      "url": "https://arowonen.com/products/carpet-sapho",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:10:07+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:10:43+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951174381900,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SAPHO_carpet_gallery_01.jpg?v=1752927035",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SAPHO_carpet_gallery_01.jpg?v=1752927035",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Hand-tufted carpet in bamboo silk and New Zealand wool with carving work. Metal insert with Visionnaire logo engraved in bas-relief. Cotton backing.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>"
+    },
+    {
+      "id": 14979647340876,
+      "title": "Carpet - Rémy-17",
+      "handle": "carpet-remy-17",
+      "url": "https://arowonen.com/products/carpet-remy-17",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:07:31+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:08:53+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951171957068,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Remy-17_carpet_tec_01.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_remy17_02.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 438
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_remy17_01.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeti_0000_remy-17.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_5355_0.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 609
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VisionnaireSdM23_850_5380_3.jpg?v=1752926916",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Remy-17_carpet_tec_01.jpg?v=1752926916",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Hand-tufted carpet. 100% bamboo silk. Tone-ontone geometrical pattern with bas rilief work. A corner contains an insert in satinized brass with Visionnaire logo engraved in bas-relief. Backing in cotton.</div>"
+    },
+    {
+      "id": 14979643081036,
+      "title": "Carpet - Rémy",
+      "handle": "carpet-remy",
+      "url": "https://arowonen.com/products/carpet-remy",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:05:52+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:06:44+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951156851020,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0007_REMY.jpg?v=1752926798",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0533.jpg?v=1752926798",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0212.jpg?v=1752926798",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VisionnaireSdM23_850_4572_0.jpg?v=1752926798",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0007_REMY.jpg?v=1752926798",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand-tufted carpet, 70% bamboo silk, 30% New Zealand Wool. Tone-on-tone geometrical pattern. A corner contains an insert in satinized brass with Visionnaire logo engraved in bas-relief. Backing in cotton.</span></p>"
+    },
+    {
+      "id": 14979641573708,
+      "title": "Carpet - Regis",
+      "handle": "carpet-regis",
+      "url": "https://arowonen.com/products/carpet-regis",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:04:52+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:05:14+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951134044492,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0021_REGIS.jpg?v=1752926700",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_regis_02.jpg?v=1752928288",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0021_REGIS.jpg?v=1752926700",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span><meta charset=\"utf-8\">Hand-tufted carpet inbamboo silk and New Zealand wool with carving work. Cotton backing.</span>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979639017804,
+      "title": "Carpet - Philidor",
+      "handle": "carpet-philidor",
+      "url": "https://arowonen.com/products/carpet-philidor",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:03:26+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:03:59+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951099408716,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Philidor_carpet_01.jpg?v=1752926631",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/P1044309_1.jpg?v=1752928244",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Philidor_carpet_01.jpg?v=1752926631",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Carpet in bamboo silk, decorated by hand with high definition of details. Colour shades emphasised by the low-relied hand-carved Ultrasound decorative motif in wool and lurex.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979637903692,
+      "title": "Carpet - Perspective Light",
+      "handle": "carpet-perspective-light",
+      "url": "https://arowonen.com/products/carpet-perspective-light",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T14:02:42+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:03:02+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951091609932,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PERSPECTIVETAPPETI_01_1.jpg?v=1752926579",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/P1043921_1.jpg?v=1752928197",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/PERSPECTIVETAPPETI_01_1.jpg?v=1752926579",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Carpet in bamboo silk and Mohair wool, handcrafted in high-definition of details, shades of color emphasized by handwork.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n<br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979634331980,
+      "title": "Carpet - Marvel",
+      "handle": "carpet-marvel",
+      "url": "https://arowonen.com/products/carpet-marvel",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:59:24+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T14:01:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951071293772,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0008_MARVEL.jpg?v=1752926457",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Marvel_carpet_01.jpg?v=1752926487",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_0153.jpg?v=1752926487",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_0004_0.jpg?v=1752926486",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0008_MARVEL.jpg?v=1752926457",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span>Hand-tufted carpet, 100% Bamboo Silk. Marble-like pattern in different shades. Rounded corners with four inserts in satinized brass with Visionnaire logo engraved in bas-relief. Backing in cotton.</span>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979633283404,
+      "title": "Carpet - Liquid",
+      "handle": "carpet-liquid",
+      "url": "https://arowonen.com/products/carpet-liquid",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:58:14+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:58:56+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951067165004,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LIQUID_carpet_gallery_01.jpg?v=1752926304",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LIQUID_carpet_gallery_01.jpg?v=1752926304",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Hand-tufted bamboo silk carpet with colour nuances emphasised by manual 'carving'. Cotton backing.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979632234828,
+      "title": "Carpet - Limen",
+      "handle": "carpet-limen",
+      "url": "https://arowonen.com/products/carpet-limen",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:57:02+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:57:39+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951065133388,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BURGUNDY-carpet_cover.jpg?v=1752926247",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BURGUNDY-carpet_cover.jpg?v=1752926247",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>Hand-tufted rug in bamboo silk with high-definition detailing. Cotton backing.</span><br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979631120716,
+      "title": "Carpet - Gotham",
+      "handle": "carpet-gotham",
+      "url": "https://arowonen.com/products/carpet-gotham",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:55:42+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:56:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951063396684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0006_GOTHAM.jpg?v=1752926159",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gotham_carpet.jpg?v=1752928115",
+          "alt": null,
+          "width": 500,
+          "height": 343
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_padiglione_5-177_0.jpg?v=1752928114",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0006_GOTHAM.jpg?v=1752926159",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\"> <span>Hand-tufted carpet, 100% silk. Geometrical pattern in 2 colours with blurred effect. Backing in cotton.</span><br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979629416780,
+      "title": "Carpet - Fremen",
+      "handle": "carpet-fremen-1",
+      "url": "https://arowonen.com/products/carpet-fremen-1",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:54:50+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:55:16+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52951057170764,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FREMEN_carpet_gallery_01.jpg?v=1752926112",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FREMEN_carpet_gallery_01.jpg?v=1752926112",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>Hand-tufted bamboo silk carpet with high definition details. A corner contains an insert in satinized brass with Visionnaire logo engraved in bas-relief. Cotton backing.</span><br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979609526604,
+      "title": "Carpet - Esperyde",
+      "handle": "carpet-esperyde",
+      "url": "https://arowonen.com/products/carpet-esperyde",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:38:49+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:39:18+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950903161164,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ESPERYDE_carpet_gallery_01.jpg?v=1752925150",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/esperyde_carpet_01.jpg?v=1752928046",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ESPERYDE_carpet_gallery_01.jpg?v=1752925150",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<span>Hand-tufted carpet in bamboo silk and New Zealand wool with carving work. Metal insert with Visionnaire logo engraved in bas-relief. Cotton backing.</span><br>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979608510796,
+      "title": "Carpet - Enigma Light",
+      "handle": "carpet-enigma-light",
+      "url": "https://arowonen.com/products/carpet-enigma-light",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:38:01+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:38:24+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950901686604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0017_ENIGMALIGHT.jpg?v=1752927994",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/enigma-light-carpet-00.jpg?v=1752927994",
+          "alt": null,
+          "width": 500,
+          "height": 400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/enigma-light-carpet-01.jpg?v=1752927994",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FuoriSalone23-898_3.jpg?v=1752927985",
+          "alt": null,
+          "width": 500,
+          "height": 314
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0017_ENIGMALIGHT.jpg?v=1752927994",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span><meta charset=\"utf-8\">Carpet in bamboo silk, handcrafted in high-definition of details, shades of color emphasized by “carving” handwork, over 150 color tones, inserts in extremely fine pure silk for more detailed shades.</span>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979607757132,
+      "title": "Carpet - Enigma Dark",
+      "handle": "carpet-enigma-dark",
+      "url": "https://arowonen.com/products/carpet-enigma-dark",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:37:22+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:37:44+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950900605260,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0018_ENIGMADARK.jpg?v=1752925050",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/enigma-dark-carpet-00.jpg?v=1752927910",
+          "alt": null,
+          "width": 500,
+          "height": 400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/enigma-dark-carpet-01.jpg?v=1752927910",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0018_ENIGMADARK.jpg?v=1752925050",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\"> <span>Carpet in bamboo silk, handcrafted in high-definition of details, shades of color emphasized by “carving” handwork, over 150 color tones, inserts in extremely fine pure silk for more detailed shades.</span>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979605332300,
+      "title": "Carpet - Demetre Dark",
+      "handle": "carpet-demetre-dark",
+      "url": "https://arowonen.com/products/carpet-demetre-dark",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:36:12+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:36:43+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950875144524,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0031_DEMETREDARK.jpg?v=1752927864",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-steve-leung-015_0582.jpg?v=1752927864",
+          "alt": null,
+          "width": 500,
+          "height": 368
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-salone-015_2665_1.jpg?v=1752927854",
+          "alt": null,
+          "width": 500,
+          "height": 635
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0031_DEMETREDARK.jpg?v=1752927864",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"></div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Bamboo silk rug with manual high detailed definition handwork.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979603857740,
+      "title": "Carpet - Conway",
+      "handle": "carpet-conway",
+      "url": "https://arowonen.com/products/carpet-conway",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:35:01+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:35:42+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950864462156,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0022_CONWAY.jpg?v=1752924926",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_conway_02_734c9afd-3dbc-4ecf-8716-f49010a51d87.jpg?v=1752927796",
+          "alt": null,
+          "width": 500,
+          "height": 666
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FuoriSalone23-1364_0_f7f0cf31-aa07-4793-892c-d27ef62712ad.jpg?v=1752927796",
+          "alt": null,
+          "width": 500,
+          "height": 331
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VisionnaireSdM23_P1044412_0_62512939-4f28-4bd3-9ead-b110f8a4adc3.jpg?v=1752927796",
+          "alt": null,
+          "width": 500,
+          "height": 276
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0022_CONWAY.jpg?v=1752924926",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\">\n<meta charset=\"utf-8\"> <meta charset=\"utf-8\">\n</div>\n<p> </p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979603136844,
+      "title": "Carpet - Chimera",
+      "handle": "carpet-chimera",
+      "url": "https://arowonen.com/products/carpet-chimera",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:34:08+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:34:40+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950861513036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BELISARIO-carpet_gallery_01_0.jpg?v=1752924874",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BELISARIO-carpet_gallery_01_0.jpg?v=1752924874",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<span>Bamboo silk rug, handcrafted with high-definition detailing. Colour gradients are emphasised by the manual 'carving' technique on Ca’ Foscari graphics, creating bas-relief traces in wool.</span>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<p> </p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979602186572,
+      "title": "Carpet - Binkley",
+      "handle": "carpet-binkley",
+      "url": "https://arowonen.com/products/carpet-binkley",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:32:46+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:33:35+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950858924364,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0023_BINKLEY.jpg?v=1752924797",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_binkley_01.jpg?v=1752927685",
+          "alt": null,
+          "width": 500,
+          "height": 375
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Binkley_carpet_01.jpg?v=1752927684",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_binkley_02.jpg?v=1752927684",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0023_BINKLEY.jpg?v=1752924797",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Hand-tufted carpet inbamboo silk and New Zealand wool with carving work. Cotton backing.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n<p> </p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979599630668,
+      "title": "Carpet - Argante",
+      "handle": "carpet-argante",
+      "url": "https://arowonen.com/products/carpet-argante",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:29:53+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:32:23+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950854467916,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ARGANTE_carpet_gallery_01.jpg?v=1752924693",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/0513_tappeto_argante_01_0.jpg?v=1752927614",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_argante_02_0.jpg?v=1752927615",
+          "alt": null,
+          "width": 500,
+          "height": 353
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tappeto_argante_01_0.jpg?v=1752927614",
+          "alt": null,
+          "width": 500,
+          "height": 353
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/argante_tappeto1_0.jpg?v=1752927615",
+          "alt": null,
+          "width": 500,
+          "height": 360
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ARGANTE_carpet_gallery_01.jpg?v=1752924693",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span>Butterfly shaped carpet made in silk and Tibetan wool knotted by hand. Body of butterfly in black, wings in white and black. Available in two sizes.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979598287180,
+      "title": "Carpet - Arabel",
+      "handle": "carpet-arabel",
+      "url": "https://arowonen.com/products/carpet-arabel",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:28:19+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:29:07+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950852141388,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0029_ARABEL.jpg?v=1752927524",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-steve-leung-015_0608.jpg?v=1752927524",
+          "alt": null,
+          "width": 500,
+          "height": 364
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-salone-015_2820_0.jpg?v=1752927519",
+          "alt": null,
+          "width": 500,
+          "height": 668
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tappeti_0029_ARABEL.jpg?v=1752927524",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">Bamboo silk rug with manual high detailed definition handwork.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979597566284,
+      "title": "Carpet - Alexandrita",
+      "handle": "carpet-alexandrita",
+      "url": "https://arowonen.com/products/carpet-alexandrita",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:27:16+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:27:57+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950851027276,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ALEXANDRITA_carpet_gallery_01.jpg?v=1752924467",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VisionnaireSdM23_850_4991_0.jpg?v=1752927460",
+          "alt": null,
+          "width": 500,
+          "height": 357
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ALEXANDRITA_carpet_gallery_01.jpg?v=1752924467",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span><meta charset=\"utf-8\">Rug in bamboo silk and linen, high definition manual detailing. Colour shades emphasized by manual processing. Backing in cotton.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979596681548,
+      "title": "Carpet - Sablé",
+      "handle": "carpet-sable",
+      "url": "https://arowonen.com/products/carpet-sable",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:26:03+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:26:48+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950848635212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SABLE_carpet_gallery_01.jpg?v=1752928488",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SABLE-carpet_gallery_01.jpg?v=1752928488",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SABLE_carpet_gallery_01.jpg?v=1752928488",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span>Hand-tufted bamboo silk carpet with high definition details. Cotton backing.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979595895116,
+      "title": "Carpet - Luxor",
+      "handle": "carpet-luxor",
+      "url": "https://arowonen.com/products/carpet-luxor",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:24:36+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:25:35+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950847291724,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LUXOR-carpet_gallery_01_ed8b8a3a-c270-4793-b574-fc787153ae34.jpg?v=1752924320",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LUXOR-carpet_gallery_01_ed8b8a3a-c270-4793-b574-fc787153ae34.jpg?v=1752924320",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p><meta charset=\"utf-8\"><span>Hand-tufted rug made of 70% Bamboo Silk and 30% New Zealand Wool, featuring a tone-on-tone geometric pattern. Cotton backing.</span></p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14979592945996,
+      "title": "Carpet - Imperium",
+      "handle": "carpet-imperium",
+      "url": "https://arowonen.com/products/carpet-imperium",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:20:37+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:21:18+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950843425100,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMPERIUM-carpet_gallery_01.jpg?v=1752924070",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMPERIUM-carpet_gallery_01.jpg?v=1752924070",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Bamboo silk and linen rug, handcrafted with high-definition detailing. Colour gradients are emphasised by the manual crafting process. Cotton backin</span></p>"
+    },
+    {
+      "id": 14979591897420,
+      "title": "Carpet - Caelum",
+      "handle": "carpet-caelum",
+      "url": "https://arowonen.com/products/carpet-caelum",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:19:15+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:19:56+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950840344908,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CAELUM-carpet_gallery_01.jpg?v=1752923988",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CAELUM-carpet_gallery_01.jpg?v=1752923988",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Hand-tufted rug in bamboo silk and New Zealand wool with manual carving craftsmanship. Cotton backing.</p>\n</div>"
+    },
+    {
+      "id": 14979590291788,
+      "title": "Carpet - Burgundy",
+      "handle": "carpet-burgundy",
+      "url": "https://arowonen.com/products/carpet-burgundy",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:16:55+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:17:38+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950834774348,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BURGUNDY_carpet_gallery_01.jpg?v=1752923853",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BURGUNDY_carpet_gallery_01.jpg?v=1752923853",
+      "description_html": "<p><meta charset=\"utf-8\"><span>Hand-tufted bamboo silk carpet with high definition details. A corner contains an insert in satinized brass with Visionnaire logo engraved in bas-relief. Cotton backing.</span></p>"
+    },
+    {
+      "id": 14979589603660,
+      "title": "Carpet - Belisario",
+      "handle": "carpet-belisario",
+      "url": "https://arowonen.com/products/carpet-belisario",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-07-19T13:15:42+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-07-19T13:16:23+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52950833201484,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Belisario_carpet_01.jpg?v=1752923781",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Belisario_carpet_01.jpg?v=1752923781",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Carpet in bamboo silk, hand-tufted with high attention to details. Colour shades are emphasised by the bas-relief hand-carved Ca’ Foscari decoration in wool and lurex.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14830325039436,
+      "title": "Rug - Zenon 400x300 cm - Ivory",
+      "handle": "rug-zenon-300x400cm-ivory",
+      "url": "https://arowonen.com/products/rug-zenon-300x400cm-ivory",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-04-11T12:53:29+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-04-11T12:55:38+02:00",
+      "available": true,
+      "price_min": 5495,
+      "price_max": 5495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52348491792716,
+          "title": "Default Title",
+          "sku": null,
+          "price": "5495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_0_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_1_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_2_1_1.webp?v=1744368929",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_3_1_1.webp?v=1744368928",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117560_0_1_1.webp?v=1744368929",
+      "description_html": "<p class=\"text-special-sm\">Elevate your living space with the exquisite Carpet Zenon, a signature piece in the Eichholtz collection.</p>\n<p class=\"text-special-sm\"><span>Woven from luxurious wool in an ivory hue, this carpet embodies timeless sophistication. Its tactile texture and subtle off-white shades make it an elegant addition to any room. The Zenon series extends the Eichholtz reputation for craftsmanship, offering exclusive interior design solutions that cater to a refined lifestyle.</span><br></p>\n<p><strong>Dimensions<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 400 | W. 300 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Specifications</strong><br><meta charset=\"utf-8\"></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Ivory</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Extra info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Extra info\">Hand tufted | 90% New Zealand wool | 7% cotton | 3% polyester pile</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "id": 14713819693388,
+      "title": "Carpet - FF Illusion",
+      "handle": "carpet-ff-illusion",
+      "url": "https://arowonen.com/products/carpet-ff-illusion",
+      "vendor": "FENDI CASA",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-02-15T20:25:59+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-02-15T20:27:29+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51985753407820,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_1795.jpg?v=1739647647",
+          "alt": null,
+          "width": 1179,
+          "height": 1163
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_1795.jpg?v=1739647647",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<p>Available in 250x350 and 350x450</p>\n<p>Handtufted</p>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681370689868,
+      "title": "Carpet - Malcom",
+      "handle": "carpet-malcom",
+      "url": "https://arowonen.com/products/carpet-malcom",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-01-28T17:21:20+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-01-28T17:21:50+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51867535212876,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Malcom_carpet_01.jpg?v=1738081306",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Malcom_carpet_01.jpg?v=1738081306",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Carpet in bamboo silk, hand-tufted with high attention to details. Colour shades are emphasised by the carving decoration and finishing in New Zealand wool.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 14681254527308,
+      "title": "Carpet - Seldon",
+      "handle": "carpet-seldon",
+      "url": "https://arowonen.com/products/carpet-seldon",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2025-01-28T16:12:52+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2025-01-28T16:13:31+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51867001848140,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Seldon_carpet_01.jpg?v=1738077207",
+          "alt": null,
+          "width": 2160,
+          "height": 2160
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire-2020_2930_0.jpg?v=1738077208",
+          "alt": null,
+          "width": 1573,
+          "height": 1920
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Seldon_carpet_01.jpg?v=1738077207",
+      "description_html": "<div class=\"product-detail__column product-detail__column--text\">\n<div class=\"product-detail__content-sticky\">\n<div class=\"product-detail__content-wrapper\">\n<div class=\"product-detail__body-wrapper\">\n<div class=\"o-container\">\n<div class=\"o-grid\">\n<div class=\"o-col-24 o-col-20--sm u-pre-2--sm o-col-16--lg u-pre-4--lg\">\n<div class=\"product-detail__body\">\n<div class=\"u-margin-top-32 u-margin-top-48--lg u-margin-top-80--xlg u-text--large\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Carpet in bamboo silk, decorated by hand with high definition of details. Colour shades emphasised by the hand-carved decoration in New Zealand wool.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-detail__column product-detail__column--image u-background--light-grey\">\n<div class=\"product-detail__image-item u-visible-up--md\"><br></div>\n</div>"
+    },
+    {
+      "id": 8953245008204,
+      "title": "Carpet Crown - Silver Sand - 300x400cm",
+      "handle": "carpet-crown-silver-sand-300x400cm",
+      "url": "https://arowonen.com/products/carpet-crown-silver-sand-300x400cm",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-04-06T11:03:22+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-04-06T11:10:14+02:00",
+      "available": true,
+      "price_min": 4495,
+      "price_max": 4495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47944913027404,
+          "title": "Default Title",
+          "sku": null,
+          "price": "4495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_3_1_1.webp?v=1712394567",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_0_1_1.webp?v=1712394567",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_1_1_1.webp?v=1712394567",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_2_1_1.webp?v=1712394567",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_10.webp?v=1712394561",
+          "alt": null,
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113919_3_1_1.webp?v=1712394567",
+      "description_html": "<p class=\"text-special-sm\">Why let your floor be plain and bare when you can add warmth and texture to it with the gorgeous silver sand Crown Carpet of 300 x 400 cm?</p>\n<p><span>With its raised waffle pattern, this lovely low-pile rug creates a subtle two-tone textured spot on your floor. Hand woven of 100% viscose pile, this rectangular rug is ideal for your seating area.</span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 400 | W. 300 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specification</span></strong><br></p>\n<p>General info: Silver sand<br>Extra info: Hand woven | 100% viscose pile<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8953241239884,
+      "title": "Carpet Crown - Grey - 200x300cm",
+      "handle": "carpet-crown-grey-200x300cm",
+      "url": "https://arowonen.com/products/carpet-crown-grey-200x300cm",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-04-06T10:57:44+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-04-06T11:01:43+02:00",
+      "available": true,
+      "price_min": 2495,
+      "price_max": 2495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47944898085196,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113915_3_1_1.webp?v=1712394024",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113915_0_1_2.webp?v=1712394024",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113915_1_1_1.webp?v=1712394020",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113915_2_1_1.webp?v=1712394020",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113915_3_1_1.webp?v=1712394024",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">Why let your floor be plain and bare when you can add warmth and texture to it with the gorgeous grey Crown Carpet of 200 x 300 cm?</p>\n<p><span data-mce-fragment=\"1\">With its raised waffle pattern, this lovely low-pile rug creates a subtle two-tone textured spot on your floor. Hand woven of 100% viscose pile, this rectangular rug is ideal for your seating area.</span><br></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 300 | W. 200 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specification</span></strong><br></p>\n<p>General info: Grey<br>Extra info: Hand woven | 100% viscose pile<br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
+    },
+    {
+      "id": 8953237340492,
+      "title": "Carpet - Palazzo - Feather - Ø 280 cm",
+      "handle": "carpet-palazzo-feather-o-280-cm",
+      "url": "https://arowonen.com/products/carpet-palazzo-feather-o-280-cm",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-04-06T10:52:19+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-04-06T10:56:31+02:00",
+      "available": true,
+      "price_min": 3495,
+      "price_max": 3495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47944887730508,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110587_3_1_1.webp?v=1712393747",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110587_0_1_1.webp?v=1712393747",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110587_2_1_1.webp?v=1712393747",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110587_3_1_1.webp?v=1712393747",
+      "description_html": "<p class=\"text-special-sm\">The hand woven Palazzo Carpet Ø 280 cm comprises 100% viscose pile.</p>\n<p><span>Its silky viscose fiber is a perfect natural replacement for real silk. This beautiful round rug is hard wearing and luxurious underfoot.</span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 280 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specification</span></strong><br></p>\n<p>General info: Feather<br>Extra info: Hand woven | 100% viscose pile<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8953233342796,
+      "title": "Carpet - Palazzo - Black & Off-White",
+      "handle": "carpet-palazzo-black-off-white",
+      "url": "https://arowonen.com/products/carpet-palazzo-black-off-white",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-04-06T10:43:53+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-04-06T10:50:01+02:00",
+      "available": true,
+      "price_min": 3495,
+      "price_max": 3495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47944879898956,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110586_3_1_1.webp?v=1712393347",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110586_0_1_1.webp?v=1712393347",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110586_2_1_1.webp?v=1712393347",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/110586_3_1_1.webp?v=1712393347",
+      "description_html": "<p class=\"text-special-sm\">The black and off-white Palazzo Carpet Ø 280 cm is hand tufted of 100% New Zealand wool pile.</p>\n<p><span>Wool is hypoallergenic and natural moisture regulator that creates a healthy living environment.</span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 280 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specification</span></strong><br></p>\n<p>General info: Black &amp; off-white<br>Extra info: Hand tufted | 100% New Zealand wool pile<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8953223512396,
+      "title": "Carpet - La Belle - Silver Sand - 300x400cm",
+      "handle": "carpet-la-belle-silver-sand-300x400cm",
+      "url": "https://arowonen.com/products/carpet-la-belle-silver-sand-300x400cm",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-04-06T10:36:27+02:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-04-06T10:42:32+02:00",
+      "available": true,
+      "price_min": 5495,
+      "price_max": 5495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47944861581644,
+          "title": "Default Title",
+          "sku": null,
+          "price": "5495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114728_3_1_2.webp?v=1712393587",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114728_0_1_3.webp?v=1712393587",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114728_1_1_2.webp?v=1712393587",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114728_2_1_2.webp?v=1712393587",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114728_3_1_2.webp?v=1712393587",
+      "description_html": "<p class=\"text-special-sm\">There’s nothing quite like the soft feel under your feet when you walk on a plush carpet.</p>\n<p><span>Hand woven from 100% viscose pile, the silver sand Carpet La Belle has a velvety texture. It is beautiful, noise dampening and very comfortable.</span></p>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 400 | W. 300 cm | dimensions may vary by up to 3%</span></li>\n</ul>\n</div>\n</div>\n<p><strong><span class=\"dimension-value\">Specification</span></strong></p>\n<p>General info: Silver sand                                                                                                    <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Extra info:</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> Hand woven | 100% viscose pile.                                                  </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Indoor/outdoor: Indoor use/dry locations only</span></p>"
+    },
+    {
+      "id": 8908770214220,
+      "title": "Carpet - Talitha - Black Ivory",
+      "handle": "carpet-talitha-black-ivory",
+      "url": "https://arowonen.com/products/carpet-talitha-black-ivory",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-03-13T16:57:09+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-03-13T17:00:16+01:00",
+      "available": true,
+      "price_min": 3495,
+      "price_max": 6995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 47819264983372,
+          "title": "200 x 300 CM",
+          "sku": "",
+          "price": "3495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200 x 300 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47819265016140,
+          "title": "300 x 400 CM",
+          "sku": "",
+          "price": "6995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "300 x 400 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "200 x 300 CM",
+            "300 x 400 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117589_3_1_1.webp?v=1713524059",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117589_2_1_1.webp?v=1713524059",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117589_0_1_2.webp?v=1710345598",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117589_1_1_1.webp?v=1713524059",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117589_3_1_1.webp?v=1713524059",
+      "description_html": "<p>Black | Ivory<br>Hand knotted | 100% wool</p>\n<div class=\"product-item-info finish\">\n<p><strong>Dimensions<br></strong>dimensions may vary by up to 3%<strong><br></strong><strong></strong></p>\n<p><strong>Specifications<br></strong>Indoor/outdoor: <span data-mce-fragment=\"1\">Indoor use/dry locations only</span><strong><br></strong></p>\n</div>"
+    },
+    {
+      "id": 8908748620108,
+      "title": "Carpet - Noli - Beige",
+      "handle": "carpet-noli-beige",
+      "url": "https://arowonen.com/products/carpet-noli-beige",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-03-13T16:48:53+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-03-13T16:52:36+01:00",
+      "available": true,
+      "price_min": 2295,
+      "price_max": 4495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 47819212259660,
+          "title": "200 x 300 CM",
+          "sku": "",
+          "price": "2295.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200 x 300 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47819212292428,
+          "title": "300 x 400 CM",
+          "sku": "",
+          "price": "4495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "300 x 400 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "200 x 300 CM",
+            "300 x 400 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118148_2_1_1.webp?v=1713523988",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118148_0_1_1.webp?v=1710345138",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118148_0_1_1_7fb0669f-2331-4ef5-b983-d8d5298c802d.webp?v=1710345145",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118148_3_1_1.webp?v=1710345156",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118148_2_1_1.webp?v=1713523988",
+      "description_html": "<p><span>The Eichholtz Noli Carpet seamlessly blends luxury and comfort in a loom-knotted viscose creation, perfect for enhancing your living space. Its understated beige hue serves as the ideal backdrop for Eichholtz's signature sophisticated furnishings, inviting you to browse a lifestyle of elegance and comfort.</span></p>\n<div class=\"product-item-info finish\">\n<p>Beige<br>Loom knotted | 60% viscose pile | 40% wool pile</p>\n<p><strong>Dimensions<br></strong>dimensions may vary by up to 3%<strong><br></strong><strong></strong></p>\n<p><strong>Specifications<br></strong>Indoor/outdoor: <span data-mce-fragment=\"1\">Indoor use/dry locations only</span><strong><br></strong></p>\n</div>"
+    },
+    {
+      "id": 8908725387596,
+      "title": "Carpet - Marsala - Ivory",
+      "handle": "carpet-sestri-marsala",
+      "url": "https://arowonen.com/products/carpet-sestri-marsala",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-03-13T16:41:40+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-03-13T16:46:59+01:00",
+      "available": true,
+      "price_min": 2795,
+      "price_max": 5495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 47819165270348,
+          "title": "300 x 200 CM",
+          "sku": "",
+          "price": "2795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "300 x 200 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47819165303116,
+          "title": "400 x 300 CM",
+          "sku": "",
+          "price": "5495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "400 x 300 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "300 x 200 CM",
+            "400 x 300 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118106_2_1_1.webp?v=1713524119",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118106_0_1_1.webp?v=1710344786",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118106_1_1_1.webp?v=1713524119",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118106_3_1_1.webp?v=1710344800",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118106_2_1_1.webp?v=1713524119",
+      "description_html": "<div>Discover timeless sophistication for your living space with Eichholtz's Carpet Marsala. Excellently hand tufted with the finest New Zeeland wool, this carpet features a harmonious ivory-beige palette, adding a touch of luxury to any room.</div>\n<div id=\"product-downloads-container\">\n<div id=\"product-downloads\"><br></div>\n</div>\n<div class=\"product-item-info finish\">\n<p>Ivory<br>Hand tufted | 100% New Zealand wool pile</p>\n<p><strong>Dimensions</strong><br>dimensions may vary by up to 3%<strong></strong></p>\n<p><strong>Specifications<br></strong>Indoor/outdoor: <span data-mce-fragment=\"1\">Indoor use/dry locations only</span><strong><br></strong></p>\n</div>"
+    },
+    {
+      "id": 8908674957644,
+      "title": "Carpet - Sestri - Beige",
+      "handle": "carpet-sestri",
+      "url": "https://arowonen.com/products/carpet-sestri",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "RUGS & CARPETS"
+      ],
+      "created_at": "2024-03-13T16:27:10+01:00",
+      "updated_at": "2026-05-22T17:57:14+02:00",
+      "published_at": "2024-03-13T16:37:04+01:00",
+      "available": true,
+      "price_min": 2795,
+      "price_max": 5495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 2,
+      "variants": [
+        {
+          "id": 47819136401740,
+          "title": "200 x 300 CM",
+          "sku": "",
+          "price": "2795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "200 x 300 CM",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47819136467276,
+          "title": "300 x 400 CM",
+          "sku": "",
+          "price": "5495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "300 x 400 CM",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "200 x 300 CM",
+            "300 x 400 CM"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_2_1_1.webp?v=1713524177",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_0_1_1.webp?v=1710344159",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_1_1_1.webp?v=1713524177",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_3_1_1.webp?v=1710344212",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_0_1_1_7f59d4f9-f77c-4af3-83f2-050279bf9ec2.webp?v=1710344841",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118110_2_1_1.webp?v=1713524177",
+      "description_html": "<p>Elevate your living space with the hand woven Eichholtz Carpet Sestri, crafted from luxurious wool to create a cozy and inviting atmosphere. This beige carpet exudes sophistication with its creamy texture, harmoniously blending into diverse interior designs.</p>\n<div class=\"product-item-info finish\">\n<p>Beige<br>Hand woven | 70% wool pile | 30% viscose pile</p>\n<p><strong>Dimensions</strong><br>dimensions may vary by up to 3%<strong><br></strong><strong></strong></p>\n<p><strong>Specifications<br></strong>Indoor/outdoor: <span data-mce-fragment=\"1\">Indoor use/dry locations only</span><strong><br></strong></p>\n</div>"
+    }
+  ]
+}

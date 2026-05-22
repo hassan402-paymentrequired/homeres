@@ -1,0 +1,1205 @@
+{
+  "handle": "trolleys-bars",
+  "label": "Trolleys & Bars",
+  "url": "https://arowonen.com/collections/trolleys-bars",
+  "scraped_at": "2026-05-22T15:57:11.539Z",
+  "product_count": 14,
+  "products": [
+    {
+      "id": 15565112770892,
+      "title": "Trolley - Rutherford vintage - brass finish smoke glass",
+      "handle": "trolley-rutherford-vintage-brass-finish-smoke-glass",
+      "url": "https://arowonen.com/products/trolley-rutherford-vintage-brass-finish-smoke-glass",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2026-02-07T16:00:55+01:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2026-02-08T13:55:52+01:00",
+      "available": true,
+      "price_min": 1995,
+      "price_max": 1995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56675899834700,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_1600x_2c18ebf6-e590-41e5-a8ea-2d5d2ab638ac.webp?v=1777552601",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_1_1600x_d0808426-a129-4f8d-9514-3188a311583f.webp?v=1777552601",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_2_1600x_0aaa8774-6507-4d50-9838-03afd247287e.webp?v=1777552601",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_3_1600x_5de9c81c-2c73-4d20-a352-495362239490.webp?v=1777552601",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_4_1600x_b5952157-cee9-414e-9043-73a87784f7e2.webp?v=1777552601",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116700_1600x_2c18ebf6-e590-41e5-a8ea-2d5d2ab638ac.webp?v=1777552601",
+      "description_html": "<p class=\"text-special-sm\"><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span>The Rutherford Trolley is a captivating fusion of vintage charm and contemporary sophistication. Its vintage brass finish adds a touch of antique allure, while the smoked glass creates a hint of mystique. Perfect for serving drinks or displaying treasured items, the Trolley Rutherford becomes a stylish centerpiece that elevates any space with its distinctive blend of old-world charm and modern allure.</span><br></p>\n<header class=\"px-8\"><header class=\"px-8\">\n<h3 class=\"text-2xl text-black normal-case\">Specifications</h3>\n</header>\n<div class=\"m-8\">\n<div>\n<div class=\"table-wrapper max-w-prose overflow-x-auto text-base\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Vintage brass finish | smoke glass</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Shape</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Shape\">Rectangular</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</header>\n<div class=\"m-8\">\n<div></div>\n</div>"
+    },
+    {
+      "id": 15124457521484,
+      "title": "Trolley - Scarlett L",
+      "handle": "trolley-scarlett-l",
+      "url": "https://arowonen.com/products/trolley-scarlett-l",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-10-04T15:08:31+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2026-02-07T17:42:49+01:00",
+      "available": true,
+      "price_min": 3495,
+      "price_max": 3495,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53529762955596,
+          "title": "Default Title",
+          "sku": "119047",
+          "price": "3495.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1200x_d72e7a39-ca2f-4821-aa0c-133a9f9276a2.webp?v=1759583457",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2_1200x_dcfb3b43-b4a8-407b-8aea-142c289da8ad.webp?v=1759583529",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3_1200x_9944c050-3ce1-4055-99e5-b203738da902.webp?v=1759583529",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4_1200x_53bf74b3-42b8-4c65-892d-94acf40015f2.webp?v=1759583457",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5_1200x_8478c801-7cf2-443b-a7ac-72a7ffcabaa3.webp?v=1759583457",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6_1200x_f7f41dba-aa4e-46c6-879f-168205aaccbe.webp?v=1759583458",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1_1200x_d72e7a39-ca2f-4821-aa0c-133a9f9276a2.webp?v=1759583457",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>Elevate your space with the Trolley Scarlett L, a statement of timeless elegance in vintage brass. Its clear glass shelves offer a sleek showcase for your finest essentials, blending opulence with practicality. Designed with a wider and higher profile, this exquisite piece serves as a striking focal point, embodying the art of luxury living.</p>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n<p><strong>Color</strong>: <meta charset=\"utf-8\"><meta charset=\"utf-8\">Vintage brass finish | clear glass<br><strong>Suitable for</strong> <meta charset=\"utf-8\">Indoor use/dry locations only<br><meta charset=\"utf-8\"><strong>Net weight (kg)</strong> <meta charset=\"utf-8\">65.01<br><meta charset=\"utf-8\"><strong>Dimensions (cm)</strong> <meta charset=\"utf-8\">L. 122.5 | W. 61.5 | H. 98 cm<br><meta charset=\"utf-8\"><strong></strong></p>\n<p><strong>Specification:</strong></p>\n<p><meta charset=\"utf-8\"><strong>Assembly required? </strong>No assembly require<br><strong>Shelf qty</strong> 3<br><strong>Shelf type</strong> Removable<br><strong>Wheel type</strong> Decorative<strong><br></strong><br></p>\n</div>\n</div>"
+    },
+    {
+      "id": 15108372300108,
+      "title": "Trolley - Galliano",
+      "handle": "trolley-galliano",
+      "url": "https://arowonen.com/products/trolley-galliano",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-09-27T11:26:17+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-09-29T13:41:27+02:00",
+      "available": true,
+      "price_min": 4995,
+      "price_max": 4995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53466407797068,
+          "title": "Default Title",
+          "sku": "119240",
+          "price": "4995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_0_1.webp?v=1779448483",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_2_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_4_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_5_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_3_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_8_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_7_1.jpg?v=1779448485",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_6_1.jpg?v=1779448484",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119240_0_1.webp?v=1779448483",
+      "description_html": "<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<div class=\"item\">\n<div class=\"body-accordion\">\n<p>The Galliano trolley features an art deco style in a rich brown oak veneer paired with a brushed brass finish.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"item\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>Details:</strong></p>\n</div>\n</div>\n<div class=\"item\">\n<strong>Color:</strong> Brown oak veneer | brushed brass finish<br><meta charset=\"utf-8\"> <strong>Net weight (kg)</strong> <meta charset=\"utf-8\">36<br>\n</div>\n<p><strong>Dimensions:</strong> <meta charset=\"utf-8\">L. 90.5 | W. 48.5 | max D. 92 | H. 73.5 cm<br><meta charset=\"utf-8\"><strong>Tabletop thickness</strong>  6 cm<br></p>\n<p><meta charset=\"utf-8\"><strong>SPECIFICATIONS</strong></p>\n<p><b>Assembly required? </b>No assembly required<b><br>Bottle capacity </b>10<b><br>Wheel type </b>Swivel</p>"
+    },
+    {
+      "id": 15006111138124,
+      "title": "Trolley - Julianne",
+      "handle": "trolley-julianne",
+      "url": "https://arowonen.com/products/trolley-julianne",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-08-02T14:22:59+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-08-02T14:25:52+02:00",
+      "available": true,
+      "price_min": 1795,
+      "price_max": 1795,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53042371002700,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1795.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_0_1_1_6aaeb604-7866-4af8-9315-67f5e16bee6b.webp?v=1754137556",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_7_1_1.webp?v=1754137556",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_4_1_1_0ae75f70-046a-4a9f-8a0a-6a15cc736859.webp?v=1754137542",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_2_1_1_9dc31d6d-82fd-4d54-81b2-a42cb2665f43.webp?v=1754137542",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_3_1_1_83a98eda-2b16-4113-ba26-95c7848e5c1c.webp?v=1754137541",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_5_1_1_b67cd5dd-4916-42a0-a965-2c04839a2cf0.webp?v=1754137542",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_6_1_1_92fadcd0-e49e-43fa-87a5-4ada9b706fcf.webp?v=1754137541",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119388_0_1_1_6aaeb604-7866-4af8-9315-67f5e16bee6b.webp?v=1754137556",
+      "description_html": "<p class=\"text-special-sm\">Elevate your interior with the timeless sophistication of the Eichholtz Julianne Trolley.</p>\n<p><span>Featuring a rich brown finish and a clear glass top, this elegant piece combines classic design with everyday functionality. The trolley offers both style and substance—making it more than just a piece of furniture, but a refined addition to your living space.</span></p>\n<p><span><meta charset=\"utf-8\">\n<strong>Dimensions</strong></span></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 96 | W. 45 | H. 78 cm</span></li>\n</ul>\n<p><span class=\"dimension-value\"><meta charset=\"utf-8\">\n<strong>Specifications</strong></span></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Classic brown finish | clear glass</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>"
+    },
+    {
+      "id": 14981695668556,
+      "title": "Bar Cabinet - Panay",
+      "handle": "bar-cabinet-panay",
+      "url": "https://arowonen.com/products/bar-cabinet-panay",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T13:02:06+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T13:02:20+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960765706572,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/panay_bar_cabinet_01.jpg?v=1753095737",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/panay_bar_cabinet_01.jpg?v=1753095737",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Bar unit in polished lacquered wood with two curved engraved mirror doors (natural - bronzed - smoked) and UV welded angles. Satinized lacquered aluminium handles. Inside shelves in lacquered wood and crystal. Inside back part in mirror (natural - bronzed - smoked), legs in lacquered polished beech wood. Metal components can be ﬁnished with any lacquer of the metal lacquer ﬁnish selection.</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981694226764,
+      "title": "Bar Cabinet - Leonardo",
+      "handle": "bar-cabinet-leonardo",
+      "url": "https://arowonen.com/products/bar-cabinet-leonardo",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T13:00:40+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T13:01:45+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960762724684,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bar-cabinet_gallery_01.jpg?v=1753095682",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0395_0.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bar-cabinet_gallery_02.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bar-cabinet_gallery_03.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bar-cabinet_gallery_04.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0285_0.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VISIONNAIRESALONE2022_0333_1.jpg?v=1753095708",
+          "alt": null,
+          "width": 500,
+          "height": 1028
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LEONARDO_bar-cabinet_gallery_01.jpg?v=1753095682",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">High unit with two doors with shaped sides; structure in wood with plinth, under-top profile and supporting pillar covered in polished curved stainless steel, with convex and concave shapes. Doors and sides decorated with ‘canneté’ stripes carved in low relief, available with shiny lacquer (RAL or NCS colours) finish or in metal colours as per finishes selection or upholstered in Soft leather. Interiors in matt RAL/ NCS lacquer. Decorative profiles in curved stainless steel, available in the metal lacquer finish selection. Top in polished marble with bevelled lower edge. Optional: internal LED lights and bar fridge 35 lt.</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981683937612,
+      "title": "Bar Console - Equinox",
+      "handle": "bar-console-equinox",
+      "url": "https://arowonen.com/products/bar-console-equinox",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TABLES & DESKS",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T12:50:09+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T12:51:38+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960728908108,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mobili_Bar_0001_EQUINOX_98cdae82-fccb-46a3-af9c-5161871695ae.jpg?v=1753095049",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-sdm-2017_2152_3493cb47-e5f2-42c8-928e-74b3d844b642.jpg?v=1753095101",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Equinox_barcabinet_01_2e5c44a2-ed5b-4b34-8515-eae3d6725e03.jpg?v=1753095101",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-sdm-2017_2157_88528fd1-fe28-4e7d-91e9-fd04d77dcfc0.jpg?v=1753095049",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire-sdm-2017_0227_96d054a6-ad4b-404e-b9dc-5f44fbda330c.jpg?v=1753095049",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/850_2818.jpg?v=1753095048",
+          "alt": null,
+          "width": 500,
+          "height": 730
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mobili_Bar_0001_EQUINOX_98cdae82-fccb-46a3-af9c-5161871695ae.jpg?v=1753095049",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Bar console with structure in plywood and MDF lacquered in RAL or pearlized colours or in veneer with shiny ﬁnishing. Front panel in marble with “arch” manufacture, with inserts in natural stainless steel and in leather. Central decoration and external frame in satinized stainless steel available in the satinized metal ﬁnishing selection. Flap top with damped hinges and internal part in mat lacquer with mirror bottom and shelves in extraclear crystal. Predisposed for wall ﬁxing. Option: integrated Bluetooth audio system with 2 tweeter-mid range diffusers and 1 subwoofer unit (max 400W) with USB sockets for recharge of portable devices.</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981682790732,
+      "title": "Bar Cabinet - Duke",
+      "handle": "bar-unit-duke",
+      "url": "https://arowonen.com/products/bar-unit-duke",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T12:48:53+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T12:49:32+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960723140940,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2023-Duke_barcabinet_2.jpg?v=1753094963",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2023-Duke_barcabinet_3.jpg?v=1753094963",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2023-Duke_barcabinet_2.jpg?v=1753094963",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Bar cabinet. Shaped marble top and curved doors, wooden structure consisting of a plinth, a sub-top profile, and a post covered in polished stainless steel curved in concave and convex portions. Front and sides are in carved wood with a surface treatment in low relief 'canneté' and are available in a glossy paint finish (RAL/NCS colors) or metallic colors as per selection available. The service area has a working space with three doors, top and splash backs in satin-finished stainless steel, predisposition for a sink and mixer tap, a built-in under-counter fridge, electric socket and a pantry compartment. The decorative curved stainless steel profiles are available in a selection of metallic finishes. Top in polished marble with a bevelled lower profile and decorative stainless steel inserts.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981682168140,
+      "title": "Bar Cabinet - Aurora",
+      "handle": "bar-unit-aurora",
+      "url": "https://arowonen.com/products/bar-unit-aurora",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T12:48:12+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T12:48:34+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960721699148,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mobili_Bar_0005_AURORA.jpg?v=1753094916",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2021-Aurora_barcabinet_01.jpg?v=1753094916",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0559_0.jpg?v=1753094905",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0505.jpg?v=1753094906",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mobili_Bar_0005_AURORA.jpg?v=1753094916",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Structure in lacquered or veneered, polished in 100 gloss (both internally and externally). Doors with full-opening system (180°) covered in marble with inlays and frame in polished stainless steel. Internally equipped with 4 shelves, 2 drawers and storage shelves inside the doors. Legs in mirror-polished aluminium cast with tips in satinized aluminium. Wooden parts are available with veneer selection ﬁnishings; metal parts can be lacquered in any colour included in the metal ﬁnish selection.</p>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981680496972,
+      "title": "Bar Unit - Siona",
+      "handle": "bar-unit-siona",
+      "url": "https://arowonen.com/products/bar-unit-siona",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-07-21T12:46:09+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-07-21T12:47:37+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960714686796,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_01_0.jpg?v=1753094837",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_02.jpg?v=1753094859",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_02.jpg?v=1753094859",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_03.jpg?v=1753094859",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_04.jpg?v=1753094859",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_01.jpg?v=1753094859",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_03.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_04.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_05.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_06.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_SionaBarUnit_07.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_05.jpg?v=1753094840",
+          "alt": null,
+          "width": 500,
+          "height": 716
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_06.jpg?v=1753094841",
+          "alt": null,
+          "width": 500,
+          "height": 736
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SIONA_barunit_gallery_01_0.jpg?v=1753094837",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Bar cabinet, plywood and MDF structure. Doors in 100gloss painted wood, with curved sides and a base made up of a hemispherical bottom and a wooden plinth covered in satin steel sheet or hand-buffered bronzed brass. Handles in hand-chromed or bronzed solid brass. Internal shelves covered in soft leather with steel or bronzed brass edge. Metallic finishes are available in the stainless steel version. Optional internal LED lighting. The cabinet is available in RAL/NCS colours or in metallic colours (ICA colours) as an option. Available in the version with mini bar.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14831264203084,
+      "title": "Trolley - Eiffel - Brushed Brass Finish",
+      "handle": "trolley-eiffel-brushed-brass-finish",
+      "url": "https://arowonen.com/products/trolley-eiffel-brushed-brass-finish",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-04-11T17:24:11+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-04-11T17:25:39+02:00",
+      "available": true,
+      "price_min": 3995,
+      "price_max": 3995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52350486217036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "3995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_0_1_1.webp?v=1744385130",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_1.webp?v=1744385131",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_2_1_1.webp?v=1744385131",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_3_1_1.webp?v=1744385131",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_4_1_1.webp?v=1744385131",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_5_1_1.webp?v=1744385130",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_6_1_1.webp?v=1744385130",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_7_1_1.webp?v=1744385131",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114009_0_1_1.webp?v=1744385130",
+      "description_html": "<p class=\"text-special-sm\">Make a splash with the brushed brass finish Eiffel Trolley.</p>\n<p class=\"text-special-sm\"><span>Your beautiful glassware and fancy gin bottles deserve to be shown off upon this must-have bar cart. With two detachable mirror glass serving trays and a black veneered cupboard, it offers ample space for display and storage. The cupboard has one shelf and is accessible from the frontside with doors. The top can be opened for access to a separate compartment for bottles.</span><br></p>\n<p><strong>Dimensions<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><span class=\"dimension-value\">L. 94.5 | W. 54 | H. 83.5 cm</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<p><b>Specifications<br><meta charset=\"utf-8\"></b></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Brushed brass finish | black oak veneer | mirror glass</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Extra info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Extra info\">Including two removable trays</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Shape</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Shape\">Rectangular</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">40</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">88.18</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "id": 14830386446668,
+      "title": "Trolley - Townhouse - Brushed Brass Finish",
+      "handle": "trolley-townhouse-brushed-brass-finish",
+      "url": "https://arowonen.com/products/trolley-townhouse-brushed-brass-finish",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "NEW ARRIVALS",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2025-04-11T13:41:48+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-04-11T13:44:03+02:00",
+      "available": true,
+      "price_min": 2195,
+      "price_max": 2195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52348707766604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "2195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_0_1_1.webp?v=1744371794",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_1_1_1.webp?v=1744371794",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_2_1_1.webp?v=1744371795",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_3_1_1.webp?v=1744371794",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_4_1_1.webp?v=1744371794",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_16.webp?v=1744371795",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_0_1_1.webp?v=1744371794",
+      "description_html": "<p class=\"text-special-sm\">Serve cocktails and other drinks in style with the Townhouse Trolley.</p>\n<p class=\"text-special-sm\"><span>This fabulous bar cart has an elegant curved brushed brass finished frame that holds two levels of dark smoked glass. Perfect for pouring and storing.</span><br></p>\n<p><strong>Dimensions<br></strong><meta charset=\"utf-8\"></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><span class=\"dimension-value\">L. 70 | W. 43 | H. 81 cm</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<p><b>Specifications<br><meta charset=\"utf-8\"></b></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Brushed brass finish | smoke glass</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Shape</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Shape\">Oval</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">30</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">66.14</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n<p><b><br></b></p>"
+    },
+    {
+      "id": 8967151354188,
+      "title": "Trolley - VIP Baggage - Matt Black",
+      "handle": "trolley-vip-baggage-matt-black",
+      "url": "https://arowonen.com/products/trolley-vip-baggage-matt-black",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2024-04-13T12:57:30+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-03-29T13:04:38+01:00",
+      "available": true,
+      "price_min": 1259,
+      "price_max": 1259,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47994939310412,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1259.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-1.png?v=1713006378",
+          "alt": null,
+          "width": 1332,
+          "height": 1332
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-7.png?v=1713006377",
+          "alt": null,
+          "width": 1182,
+          "height": 1182
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-4.webp?v=1713006401",
+          "alt": null,
+          "width": 778,
+          "height": 1186
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-5.webp?v=1713006402",
+          "alt": null,
+          "width": 782,
+          "height": 1182
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-6.webp?v=1713006401",
+          "alt": null,
+          "width": 792,
+          "height": 1186
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-7.webp?v=1713006402",
+          "alt": null,
+          "width": 782,
+          "height": 1182
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-10.webp?v=1713006402",
+          "alt": null,
+          "width": 786,
+          "height": 1188
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-11.webp?v=1713006401",
+          "alt": null,
+          "width": 790,
+          "height": 1188
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-12.webp?v=1713006401",
+          "alt": null,
+          "width": 784,
+          "height": 1186
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-16.webp?v=1713006403",
+          "alt": null,
+          "width": 1400,
+          "height": 868
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-17.webp?v=1713006403",
+          "alt": null,
+          "width": 868,
+          "height": 868
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-czarny-1.png?v=1713006378",
+      "description_html": "<p>This stylish luggage trolley combines retro chic with glamorous attitude in a successful way. It looks as glamorous in the home as it does in the lobby of a grand hotel. It s also suitable as a wardrobe and a particularly decorative eye-catcher. Four casters provide flexibility and mobility.</p>\n<p><strong>Material: Corpus:</strong> Stainless steel powder-coated, Roller: Natural rubber (gum Arabic), Shelf: Medium density fibreboard (MDF) Lacquered, Cover: Polyester, 120 kg Max. load-carrying capacity, Delivery Knocked-down, Maintenance and Cleaning: Art. No. 25002 Furniture Cleaner</p>\n<div>\n<p><strong>Measures (H/W/D):</strong> 186 x 105 x 62</p>\n<p><strong>Weight (kg):</strong> 27</p>\n</div>"
+    },
+    {
+      "id": 8967135560012,
+      "title": "Trolley - VIP Baggage - Vegas Gold",
+      "handle": "trolley-vip-baggage-vegas-gold",
+      "url": "https://arowonen.com/products/trolley-vip-baggage-vegas-gold",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FURNITURE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TROLLEYS & BARS"
+      ],
+      "created_at": "2024-04-13T12:48:39+02:00",
+      "updated_at": "2026-05-22T17:57:11+02:00",
+      "published_at": "2025-03-29T13:04:37+01:00",
+      "available": true,
+      "price_min": 1259,
+      "price_max": 1259,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47994897531212,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1259.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-1.png?v=1713006583",
+          "alt": null,
+          "width": 1462,
+          "height": 1461
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-3.png?v=1713006583",
+          "alt": null,
+          "width": 1370,
+          "height": 1370
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-6.webp?v=1713005653",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-7.webp?v=1713005653",
+          "alt": null,
+          "width": 1400,
+          "height": 864
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-9.webp?v=1713005654",
+          "alt": null,
+          "width": 1400,
+          "height": 980
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-10.webp?v=1713005654",
+          "alt": null,
+          "width": 1400,
+          "height": 958
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/wozek-na-bagaze-vegas-105x186-cm-zloty-1.png?v=1713006583",
+      "description_html": "<p>This stylish luggage trolley combines retro chic with glamorous attitude in a successful way. It looks as glamorous in the home as it does in the lobby of a grand hotel. It s also suitable as a wardrobe and a particularly decorative eye-catcher. Four casters provide flexibility and mobility.</p>\n<p><strong>Material:</strong> Polyester, Stainless steel chromed, Medium density fibreboard (MDF) Stained-lacquered, Maintenance and Cleaning: Art. No. 25002 Furniture Cleaner</p>\n<div>\n<p><strong>Measures (H/W/D):</strong> <meta charset=\"utf-8\">186 x 105 x 62</p>\n<p><strong>Weight (kg):</strong> 27</p>\n</div>"
+    }
+  ]
+}
