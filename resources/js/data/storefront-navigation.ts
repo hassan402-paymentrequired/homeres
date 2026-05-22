@@ -20,10 +20,15 @@ export interface StorefrontNavItem {
     handle?: string;
     columns?: NavColumn[];
     links?: NavLink[];
+    brandGroups?: { title: string; links: NavLink[] }[];
 }
 
 export function collectionHref(handle: string): string {
     return `/collections/${handle}`;
+}
+
+export function brandHref(handle: string): string {
+    return `/brands/${handle}`;
 }
 
 function col(title: string, titleHandle: string, links: NavLink[]): NavColumn {
@@ -33,6 +38,72 @@ function col(title: string, titleHandle: string, links: NavLink[]): NavColumn {
 function link(label: string, handle: string): NavLink {
     return { label, handle };
 }
+
+/** Brand directory grouped like AROWONEN (A–B, C–I, J–R, S–Z) */
+const BRAND_GROUPS: { title: string; links: NavLink[] }[] = [
+    {
+        title: 'Brands A–B',
+        links: [
+            link('Anissa Kermiche', 'anissa-kermiche'),
+            link('Armani/Casa', 'armani-casa'),
+            link('AROWONEN Exclusives', 'arowonen'),
+            link('Arte', 'arte'),
+            link('Assouline', 'assouline'),
+            link('Baccarat', 'baccarat'),
+            link('Baobab Collection', 'baobab-collection'),
+            link('Baxter Made in Italy', 'baxter-made-in-italy'),
+            link('Boca do Lobo', 'boca-do-lobo'),
+            link('Bosa Ceramics', 'bosa'),
+        ],
+    },
+    {
+        title: 'Brands C–I',
+        links: [
+            link('Culti Milano', 'culti-milano'),
+            link('Dr. Vranjes Firenze', 'dr-vranjes-firenze'),
+            link('Eichholtz', 'eichholtz'),
+            link('Fendi Casa', 'fendi-casa'),
+            link('Férire', 'ferire'),
+            link('Flos', 'flos'),
+            link('Fornasetti', 'fornasetti'),
+            link('Gaggenau', 'gaggenau'),
+            link('Glas Italia', 'glas-italia'),
+            link('Guaxs', 'guaxs'),
+            link('Helle Mardahl', 'helle-mardahl-studio'),
+        ],
+    },
+    {
+        title: 'Brands J–R',
+        links: [
+            link('Jonathan Adler', 'jonathan-adler'),
+            link('Leblon Delienne', 'disney'),
+            link("L'Objet", 'lobjet'),
+            link('Linari', 'linari'),
+            link('Missoni Home', 'missoni-home'),
+            link('Molteni&C', 'molteni-c'),
+            link('Pinetti', 'pinetti'),
+            link('Reflections Copenhagen', 'reflections-copenhagen'),
+            link('Rizzoli', 'rizzoli'),
+            link('Roberto Cavalli', 'roberte-cavalli'),
+        ],
+    },
+    {
+        title: 'Brands S–Z',
+        links: [
+            link('Seletti', 'seletti'),
+            link('Skogsberg & Smart', 'skogsberg-smart'),
+            link('Studio Zar', 'studio-zar'),
+            link('Taschen', 'taschen'),
+            link('Teckell', 'teckell'),
+            link('TeNeues', 'teneues'),
+            link('Tom Dixon', 'tom-dixon'),
+            link('Transparent', 'transparent'),
+            link('Versace', 'versacehome'),
+            link('Visionnaire Home Philosophy', 'visionnaire-home-philosophy'),
+            link('Wolf 1834', 'wolf-1834'),
+        ],
+    },
+];
 
 export const STOREFRONT_NAV: StorefrontNavItem[] = [
     {
@@ -215,6 +286,11 @@ export const STOREFRONT_NAV: StorefrontNavItem[] = [
         ],
     },
     {
+        label: 'View all Brands',
+        href: '/brands',
+        brandGroups: BRAND_GROUPS,
+    },
+    {
         label: 'Design Studio',
         href: '/services',
     },
@@ -240,10 +316,18 @@ export function navItemHref(item: StorefrontNavItem): string {
     return '#';
 }
 
-export function navLinkHref(link: NavLink): string {
+export function navLinkHref(link: NavLink, item?: StorefrontNavItem): string {
+    if (item?.brandGroups) {
+        return brandHref(link.handle);
+    }
+
     return collectionHref(link.handle);
 }
 
 export function hasDropdown(item: StorefrontNavItem): boolean {
-    return Boolean(item.columns?.length || item.links?.length);
+    return Boolean(
+        item.columns?.length ||
+            item.links?.length ||
+            item.brandGroups?.length,
+    );
 }

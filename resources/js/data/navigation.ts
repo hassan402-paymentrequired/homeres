@@ -1,5 +1,6 @@
 export {
     STOREFRONT_NAV as MAIN_NAV,
+    brandHref,
     collectionHref,
     hasDropdown,
     navItemHref,

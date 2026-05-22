@@ -95,29 +95,41 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
 
                 <div className="pdp-layout">
                     <div className="pdp-gallery">
-                        <div className="pdp-thumbs">
+                        <div className="pdp-thumbs" role="tablist" aria-label="Product images">
                             {product.images.map((img, i) => (
                                 <button
                                     key={i}
                                     type="button"
+                                    role="tab"
+                                    aria-selected={activeImage === i}
+                                    aria-label={`View image ${i + 1}`}
                                     onClick={() => setActiveImage(i)}
                                     className={`pdp-thumb${activeImage === i ? ' pdp-thumb--active' : ''}`}
                                 >
-                                    <img src={img.src} alt={img.alt} />
+                                    <img src={img.src} alt={img.alt} draggable={false} />
                                 </button>
                             ))}
                         </div>
+
                         <button
                             type="button"
-                            className="pdp-main-image"
+                            className="pdp-stage"
                             onClick={() => setLightboxOpen(true)}
                             aria-label="Open image zoom"
                         >
-                            <img
-                                src={product.images[activeImage]?.src}
-                                alt={product.images[activeImage]?.alt}
-                            />
+                            {product.images.map((img, i) => (
+                                <img
+                                    key={`${img.src}-${i}`}
+                                    src={img.src}
+                                    alt={img.alt}
+                                    draggable={false}
+                                    className={`pdp-stage-image${activeImage === i ? ' is-active' : ''}`}
+                                />
+                            ))}
                             {product.isNew && <span className="pdp-new-badge">New</span>}
+                            <span className="pdp-zoom-hint" aria-hidden>
+                                Click to zoom
+                            </span>
                         </button>
                     </div>
 
@@ -184,16 +196,10 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
 
             <style>{`
                 .pdp-viewport {
-                    --pdp-top-offset: 148px;
                     max-width: 1500px;
                     margin: 0 auto;
-                    padding: 12px 30px 20px;
-                    height: calc(100dvh - var(--pdp-top-offset));
-                    min-height: 520px;
+                    padding: 20px 30px 48px;
                     box-sizing: border-box;
-                    display: flex;
-                    flex-direction: column;
-                    overflow: hidden;
                     border-bottom: 1px solid #f0f0ec;
                 }
 
@@ -202,10 +208,7 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                     align-items: center;
                     flex-wrap: wrap;
                     gap: 8px;
-                    flex-shrink: 0;
-                    margin-bottom: 16px;
-                    padding-bottom: 12px;
-                    border-bottom: 1px solid #f0f0ec;
+                    margin-bottom: 28px;
                 }
 
                 .pdp-crumb {
@@ -219,96 +222,155 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                     font-family: Poppins, sans-serif;
                     font-size: 11px;
                     text-decoration: none;
+                    transition: color 0.2s ease;
                 }
 
                 .pdp-crumb-link { color: #999; }
+                .pdp-crumb-link:hover { color: #060606; }
                 .pdp-crumb-current { color: #060606; }
                 .pdp-crumb-sep { color: #ccc; }
 
                 .pdp-layout {
-                    flex: 1;
-                    min-height: 0;
                     display: grid;
-                    grid-template-columns: minmax(0, 1fr) minmax(300px, 420px);
-                    gap: 40px;
-                    align-items: stretch;
+                    grid-template-columns: minmax(0, 1.1fr) minmax(320px, 440px);
+                    gap: 48px;
+                    align-items: start;
                 }
 
                 .pdp-gallery {
                     display: flex;
-                    gap: 14px;
-                    min-height: 0;
-                    height: 100%;
+                    gap: 16px;
+                    min-width: 0;
                 }
 
                 .pdp-thumbs {
                     display: flex;
                     flex-direction: column;
-                    gap: 8px;
-                    width: 64px;
+                    gap: 10px;
+                    width: 72px;
                     flex-shrink: 0;
+                    max-height: min(72vh, 640px);
                     overflow-y: auto;
+                    scrollbar-width: thin;
                 }
 
                 .pdp-thumb {
-                    width: 64px;
-                    height: 76px;
+                    width: 72px;
+                    height: 88px;
                     flex-shrink: 0;
-                    border: 2px solid transparent;
+                    border: 1px solid transparent;
                     padding: 0;
                     cursor: pointer;
                     overflow: hidden;
-                    background: none;
+                    background: #fafaf8;
+                    transition: border-color 0.25s ease, opacity 0.25s ease, transform 0.25s ease;
+                    opacity: 0.72;
                 }
 
-                .pdp-thumb--active { border-color: #060606; }
+                .pdp-thumb:hover {
+                    opacity: 1;
+                    border-color: #d8d8d2;
+                }
+
+                .pdp-thumb--active {
+                    opacity: 1;
+                    border-color: #060606;
+                    transform: translateX(2px);
+                }
 
                 .pdp-thumb img {
                     width: 100%;
                     height: 100%;
                     object-fit: cover;
                     display: block;
+                    pointer-events: none;
                 }
 
-                .pdp-main-image {
+                .pdp-stage {
                     flex: 1;
                     min-width: 0;
-                    min-height: 0;
                     position: relative;
-                    background: #f5f5f3;
+                    aspect-ratio: 4 / 5;
+                    max-height: min(78vh, 760px);
+                    background: #fafaf8;
                     border: none;
                     padding: 0;
                     cursor: zoom-in;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
+                    overflow: hidden;
                 }
 
-                .pdp-main-image img {
-                    max-width: 100%;
-                    max-height: 100%;
-                    width: auto;
-                    height: auto;
-                    object-fit: contain;
+                .pdp-stage-image {
+                    position: absolute;
+                    inset: 0;
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    object-position: center;
                     display: block;
+                    opacity: 0;
+                    transform: scale(1.03);
+                    transition: opacity 0.55s cubic-bezier(0.4, 0, 0.2, 1),
+                        transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+                    will-change: opacity, transform;
+                    pointer-events: none;
+                }
+
+                .pdp-stage-image.is-active {
+                    opacity: 1;
+                    transform: scale(1);
+                    z-index: 1;
+                }
+
+                .pdp-stage:hover .pdp-stage-image.is-active {
+                    transform: scale(1.015);
                 }
 
                 .pdp-new-badge {
                     position: absolute;
-                    top: 12px;
-                    left: 12px;
+                    top: 16px;
+                    left: 16px;
+                    z-index: 2;
                     background: #060606;
                     color: #fff;
+                    font-family: Poppins, sans-serif;
                     font-size: 10px;
-                    padding: 4px 10px;
+                    font-weight: 500;
+                    padding: 5px 10px;
                     text-transform: uppercase;
-                    letter-spacing: 1px;
+                    letter-spacing: 1.5px;
+                }
+
+                .pdp-zoom-hint {
+                    position: absolute;
+                    bottom: 16px;
+                    right: 16px;
+                    z-index: 2;
+                    font-family: Poppins, sans-serif;
+                    font-size: 10px;
+                    font-weight: 400;
+                    letter-spacing: 1.5px;
+                    text-transform: uppercase;
+                    color: #060606;
+                    background: rgba(255, 255, 255, 0.88);
+                    backdrop-filter: blur(8px);
+                    padding: 6px 10px;
+                    opacity: 0;
+                    transform: translateY(4px);
+                    transition: opacity 0.3s ease, transform 0.3s ease;
+                }
+
+                .pdp-stage:hover .pdp-zoom-hint {
+                    opacity: 1;
+                    transform: translateY(0);
                 }
 
                 .pdp-info {
-                    min-height: 0;
+                    position: sticky;
+                    top: 120px;
+                    max-height: calc(100vh - 140px);
                     overflow-y: auto;
                     padding-right: 4px;
+                    scrollbar-width: thin;
                 }
 
                 .pdp-category {
@@ -384,6 +446,11 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                     letter-spacing: 2px;
                     text-transform: uppercase;
                     margin-bottom: 20px;
+                    transition: background 0.3s ease, transform 0.2s ease;
+                }
+
+                .pdp-add-btn:hover {
+                    transform: translateY(-1px);
                 }
 
                 .pdp-details {
@@ -450,36 +517,46 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
 
                 @media (max-width: 900px) {
                     .pdp-viewport {
-                        height: auto;
-                        min-height: 0;
-                        overflow: visible;
+                        padding: 16px 20px 40px;
                     }
 
                     .pdp-layout {
                         grid-template-columns: 1fr;
-                        height: auto;
+                        gap: 32px;
                     }
 
                     .pdp-gallery {
                         flex-direction: column-reverse;
-                        height: auto;
+                        gap: 12px;
                     }
 
                     .pdp-thumbs {
                         flex-direction: row;
                         width: 100%;
+                        max-height: none;
                         overflow-x: auto;
                         overflow-y: hidden;
+                        padding-bottom: 4px;
                     }
 
-                    .pdp-main-image {
-                        min-height: 0;
-                        max-height: 55vh;
-                        aspect-ratio: 4 / 5;
+                    .pdp-thumb--active {
+                        transform: translateY(0);
+                    }
+
+                    .pdp-stage {
+                        max-height: none;
+                        width: 100%;
                     }
 
                     .pdp-info {
+                        position: static;
+                        max-height: none;
                         overflow: visible;
+                    }
+
+                    .pdp-zoom-hint {
+                        opacity: 1;
+                        transform: translateY(0);
                     }
 
                     .pdp-related-grid {

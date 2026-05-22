@@ -1,5 +1,15 @@
+export type Admin = {
+    id: string;
+    name: string;
+    email: string;
+    email_verified_at: string | null;
+    created_at: string;
+    updated_at: string;
+    [key: string]: unknown;
+};
+
 export type User = {
-    id: number;
+    id: number | string;
     name: string;
     email: string;
     avatar?: string;
@@ -11,7 +21,8 @@ export type User = {
 };
 
 export type Auth = {
-    user: User;
+    user: User | null;
+    admin: Admin | null;
 };
 
 export type TwoFactorSetupData = {

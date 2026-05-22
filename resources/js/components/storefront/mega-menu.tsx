@@ -1,5 +1,6 @@
 import { Link } from '@inertiajs/react';
 import {
+    brandHref,
     collectionHref,
     navLinkHref,
     type StorefrontNavItem,
@@ -38,10 +39,12 @@ const linkStyle: React.CSSProperties = {
 };
 
 function NavColumnLinks({
+    item,
     links,
     title,
     titleHandle,
 }: {
+    item: StorefrontNavItem;
     links: { label: string; handle: string }[];
     title?: string;
     titleHandle?: string;
@@ -66,7 +69,7 @@ function NavColumnLinks({
             {links.map((entry) => (
                 <Link
                     key={`${entry.handle}-${entry.label}`}
-                    href={navLinkHref(entry)}
+                    href={navLinkHref(entry, item)}
                     style={linkStyle}
                     className="mega-menu-link"
                 >
@@ -111,6 +114,34 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                         padding: '32px 20px 36px',
                     }}
                 >
+                    {item.brandGroups && (
+                        <div
+                            style={{
+                                display: 'grid',
+                                gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
+                                gap: '32px 40px',
+                            }}
+                        >
+                            {item.brandGroups.map((group) => (
+                                <div key={group.title}>
+                                    <p style={{ ...columnHeadingStyle, borderBottom: 'none' }}>
+                                        {group.title}
+                                    </p>
+                                    {group.links.map((entry) => (
+                                        <Link
+                                            key={entry.handle}
+                                            href={brandHref(entry.handle)}
+                                            style={linkStyle}
+                                            className="mega-menu-link"
+                                        >
+                                            {entry.label}
+                                        </Link>
+                                    ))}
+                                </div>
+                            ))}
+                        </div>
+                    )}
+
                     {item.columns && (
                         <div
                             style={{
@@ -122,6 +153,7 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                             {item.columns.map((column, index) => (
                                 <NavColumnLinks
                                     key={column.title ?? `col-${index}`}
+                                    item={item}
                                     title={column.title}
                                     titleHandle={column.titleHandle}
                                     links={column.links}
@@ -130,7 +162,7 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                         </div>
                     )}
 
-                    {item.links && !item.columns && (
+                    {item.links && !item.columns && !item.brandGroups && (
                         <div
                             style={{
                                 display: 'grid',
@@ -142,7 +174,7 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                             {item.links.map((entry) => (
                                 <Link
                                     key={entry.handle}
-                                    href={navLinkHref(entry)}
+                                    href={navLinkHref(entry, item)}
                                     style={linkStyle}
                                     className="mega-menu-link"
                                 >
@@ -152,7 +184,7 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                         </div>
                     )}
 
-                    {viewAllHref && (
+                    {viewAllHref && !item.brandGroups && (
                         <div style={{ marginTop: '24px', paddingTop: '20px', borderTop: '1px solid #f0f0ec' }}>
                             <Link
                                 href={viewAllHref}
@@ -168,6 +200,26 @@ export default function MegaMenu({ item, isOpen }: MegaMenuProps) {
                                 }}
                             >
                                 Browse all {item.label.toLowerCase()}
+                            </Link>
+                        </div>
+                    )}
+
+                    {item.brandGroups && (
+                        <div style={{ marginTop: '24px', paddingTop: '20px', borderTop: '1px solid #f0f0ec' }}>
+                            <Link
+                                href="/brands"
+                                style={{
+                                    ...linkStyle,
+                                    display: 'inline-block',
+                                    color: '#060606',
+                                    fontWeight: 500,
+                                    letterSpacing: '1.5px',
+                                    textTransform: 'uppercase',
+                                    borderBottom: '1px solid #060606',
+                                    paddingBottom: '2px',
+                                }}
+                            >
+                                View all Brands
                             </Link>
                         </div>
                     )}

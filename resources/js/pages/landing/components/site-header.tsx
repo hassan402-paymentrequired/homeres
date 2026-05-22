@@ -60,7 +60,7 @@ function MobileNavSection({
                             {column.links.map((entry) => (
                                 <Link
                                     key={`${entry.handle}-${entry.label}`}
-                                    href={navLinkHref(entry)}
+                                    href={navLinkHref(entry, item)}
                                     onClick={onNavigate}
                                     style={mobileChildStyle}
                                 >
@@ -70,11 +70,27 @@ function MobileNavSection({
                         </div>
                     ))}
 
-                    {item.links && !item.columns &&
+                    {item.brandGroups?.map((group) => (
+                        <div key={group.title}>
+                            <p style={mobileGroupHeadingStyle}>{group.title}</p>
+                            {group.links.map((entry) => (
+                                <Link
+                                    key={entry.handle}
+                                    href={navLinkHref(entry, item)}
+                                    onClick={onNavigate}
+                                    style={mobileChildStyle}
+                                >
+                                    {entry.label}
+                                </Link>
+                            ))}
+                        </div>
+                    ))}
+
+                    {item.links && !item.columns && !item.brandGroups &&
                         item.links.map((entry) => (
                             <Link
                                 key={entry.handle}
-                                href={navLinkHref(entry)}
+                                href={navLinkHref(entry, item)}
                                 onClick={onNavigate}
                                 style={mobileChildStyle}
                             >
@@ -82,13 +98,23 @@ function MobileNavSection({
                             </Link>
                         ))}
 
-                    {item.handle && (
+                    {item.handle && !item.brandGroups && (
                         <Link
                             href={navItemHref(item)}
                             onClick={onNavigate}
                             style={{ ...mobileChildStyle, fontWeight: 500, color: '#060606' }}
                         >
                             Browse all {item.label.toLowerCase()}
+                        </Link>
+                    )}
+
+                    {item.brandGroups && (
+                        <Link
+                            href="/brands"
+                            onClick={onNavigate}
+                            style={{ ...mobileChildStyle, fontWeight: 500, color: '#060606' }}
+                        >
+                            View all Brands
                         </Link>
                     )}
                 </div>
