@@ -54,8 +54,7 @@ const ICONS: Record<string, ReactNode> = {
 
 const HIGHLIGHT_INDEX = 2;
 const SLIDE_INTERVAL_MS = 6000;
-const WHY_SECTION_BG =
-    'https://images.unsplash.com/photo-1719368420509-059a3b22579e?auto=format&fit=crop&w=2000&q=80';
+const WHY_SECTION_BG = '/assets/images/banners/why.jpg';
 
 function TestimonialSlider({ enabled }: { enabled: boolean }) {
     const [activeIndex, setActiveIndex] = useState(0);
@@ -167,10 +166,11 @@ export default function WhyHomere() {
             className="why-section"
             style={{
                 position: 'relative',
-                padding: '10px 20px',
+                padding: '64px 20px',
                 borderTop: '1px solid #e8e8e1',
                 borderBottom: '1px solid #e8e8e1',
                 overflow: 'hidden',
+                minHeight: '640px',
             }}
         >
             <div className="why-section-media" aria-hidden="true">
@@ -280,7 +280,7 @@ export default function WhyHomere() {
 
             <style>{`
                 .why-section {
-                    background: #f5f5f3;
+                    background: #ebebe6;
                 }
                 .why-section-media {
                     position: absolute;
@@ -292,8 +292,10 @@ export default function WhyHomere() {
                     width: 100%;
                     height: 100%;
                     object-fit: cover;
-                    object-position: center;
+                    object-position: center 40%;
                     display: block;
+                    transform: scale(1.02);
+                    filter: brightness(1.04) saturate(1.08) contrast(1.05);
                 }
                 .why-section-media::after {
                     content: '';
@@ -301,11 +303,11 @@ export default function WhyHomere() {
                     inset: 0;
                     background: linear-gradient(
                         to right,
-                        rgba(245, 245, 243, 0.9) 0%,
-                        rgba(245, 245, 243, 0.78) 30%,
-                        rgba(245, 245, 243, 0.55) 50%,
-                        rgba(245, 245, 243, 0.35) 70%,
-                        rgba(245, 245, 243, 0.2) 100%
+                        rgba(245, 245, 243, 0.62) 0%,
+                        rgba(245, 245, 243, 0.38) 28%,
+                        rgba(245, 245, 243, 0.18) 52%,
+                        rgba(245, 245, 243, 0.08) 72%,
+                        rgba(245, 245, 243, 0.04) 100%
                     );
                 }
                 .why-inner {
@@ -327,6 +329,11 @@ export default function WhyHomere() {
                     flex-direction: column;
                     height: 100%;
                     min-height: 0;
+                    padding: 24px 28px;
+                    background: rgba(255, 255, 255, 0.55);
+                    backdrop-filter: blur(10px);
+                    -webkit-backdrop-filter: blur(10px);
+                    border: 1px solid rgba(255, 255, 255, 0.65);
                 }
                 .why-layout {
                     display: grid;
@@ -394,9 +401,9 @@ export default function WhyHomere() {
                     inset: 0;
                     margin: 0;
                     padding: 28px 24px;
-                    background: rgba(255, 255, 255, 0.9);
-                    backdrop-filter: blur(12px);
-                    -webkit-backdrop-filter: blur(12px);
+                    background: rgba(255, 255, 255, 0.72);
+                    backdrop-filter: blur(8px);
+                    -webkit-backdrop-filter: blur(8px);
                     border: 1px solid rgba(232, 232, 225, 0.95);
                     border-left: 3px solid #060606;
                     opacity: 0;
@@ -485,9 +492,9 @@ export default function WhyHomere() {
                     align-items: stretch;
                 }
                 .why-card {
-                    background: rgba(255, 255, 255, 0.88);
-                    backdrop-filter: blur(14px);
-                    -webkit-backdrop-filter: blur(14px);
+                    background: rgba(255, 255, 255, 0.72);
+                    backdrop-filter: blur(8px);
+                    -webkit-backdrop-filter: blur(8px);
                     border: 1px solid rgba(232, 232, 225, 0.9);
                     padding: 20px 18px;
                     display: flex;
@@ -501,9 +508,9 @@ export default function WhyHomere() {
                     box-shadow: 0 12px 32px rgba(6, 6, 6, 0.06);
                 }
                 .why-card--highlight {
-                    background: rgba(6, 6, 6, 0.9);
-                    backdrop-filter: blur(16px);
-                    -webkit-backdrop-filter: blur(16px);
+                    background: rgba(6, 6, 6, 0.82);
+                    backdrop-filter: blur(10px);
+                    -webkit-backdrop-filter: blur(10px);
                     border-color: rgba(6, 6, 6, 0.95);
                     color: #ffffff;
                 }
@@ -588,12 +595,13 @@ export default function WhyHomere() {
                     .why-section-media::after {
                         background: linear-gradient(
                             to bottom,
-                            rgba(245, 245, 243, 0.88) 0%,
-                            rgba(245, 245, 243, 0.72) 100%
+                            rgba(245, 245, 243, 0.55) 0%,
+                            rgba(245, 245, 243, 0.28) 45%,
+                            rgba(245, 245, 243, 0.12) 100%
                         );
                     }
                     .why-intro-panel {
-                        padding: 0;
+                        padding: 20px 18px;
                     }
                 }
                 @media (max-width: 640px) {
