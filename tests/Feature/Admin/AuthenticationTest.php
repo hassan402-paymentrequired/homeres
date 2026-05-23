@@ -64,7 +64,7 @@ test('authenticated admins can visit module placeholder pages', function () {
     $admin = Admin::factory()->create();
 
     $this->actingAs($admin, 'admin')
-        ->get(route('admin.products.index'))
+        ->get(route('admin.categories.index'))
         ->assertOk();
 
     $this->actingAs($admin, 'admin')

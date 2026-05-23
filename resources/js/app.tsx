@@ -58,5 +58,5 @@ createInertiaApp({
     },
 });
 
-// This will set light / dark mode on load...
+// Homère always uses light mode — strip any stale dark class on load.
 initializeTheme();

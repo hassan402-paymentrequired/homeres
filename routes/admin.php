@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\Admin\Auth\AuthenticatedSessionController;
+use App\Http\Controllers\Admin\BrandController;
+use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\DashboardController;
 use Illuminate\Support\Facades\Route;
 
@@ -14,10 +16,8 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::post('logout', [AuthenticatedSessionController::class, 'destroy'])->name('logout');
         Route::get('/', DashboardController::class)->name('dashboard');
 
-        Route::inertia('categories', 'admin/modules/placeholder', ['title' => 'Categories'])
-            ->name('categories.index');
-        Route::inertia('brands', 'admin/modules/placeholder', ['title' => 'Brands'])
-            ->name('brands.index');
+        Route::resource('categories', CategoryController::class);
+        Route::resource('brands', BrandController::class);
         Route::inertia('products', 'admin/modules/placeholder', ['title' => 'Products'])
             ->name('products.index');
         Route::inertia('orders', 'admin/modules/placeholder', ['title' => 'Orders'])

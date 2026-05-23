@@ -1,5 +1,6 @@
 import { Head } from '@inertiajs/react';
 import { Construction } from 'lucide-react';
+import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminLayout from '@/layouts/admin-layout';
 import { ADMIN_NAV_ITEMS } from '@/data/admin-navigation';
 
@@ -19,18 +20,12 @@ export default function AdminModulePlaceholder({ title }: Props) {
             ]}
         >
             <Head title={title} />
-            <div className="flex h-full flex-1 flex-col items-center justify-center gap-4 p-8 text-center">
-                <div className="flex size-14 items-center justify-center rounded-full border border-sidebar-border/70 bg-muted/40">
-                    <Construction className="size-6 text-muted-foreground" />
-                </div>
-                <div>
-                    <h1 className="font-serif text-2xl font-medium tracking-wide">{title}</h1>
-                    <p className="mt-2 max-w-md text-sm text-muted-foreground">
-                        This module is queued for implementation. You can inspect the admin
-                        layout and navigation while we build it out.
-                    </p>
-                </div>
-            </div>
+            <AdminEmptyState
+                className="h-full flex-1"
+                icon={Construction}
+                title={title}
+                description="This module is queued for implementation. You can inspect the admin layout and navigation while we build it out."
+            />
         </AdminLayout>
     );
 }
