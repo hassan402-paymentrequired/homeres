@@ -41,7 +41,7 @@ export default function CategoryFormModal({
 
     return (
         <Dialog open={open} onOpenChange={onOpenChange}>
-            <DialogContent className="max-h-[min(90vh,720px)] overflow-y-auto sm:max-w-lg">
+            <DialogContent className="max-h-[min(90vh,720px)]  overflow-y-auto sm:max-w-lg">
                 <DialogHeader>
                     <DialogTitle>
                         {isEditing

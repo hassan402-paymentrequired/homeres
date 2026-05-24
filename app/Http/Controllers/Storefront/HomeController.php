@@ -20,7 +20,8 @@ class HomeController extends Controller
             ->published()
             ->with(['brand', 'category', 'images', 'variants'])
             ->where('created_at', '>=', now()->subDays(60))
-            ->ordered()
+            ->inRandomOrder()
+            // ->ordered()
             ->limit(10)
             ->get();
 
@@ -28,7 +29,8 @@ class HomeController extends Controller
             $newArrivals = Product::query()
                 ->published()
                 ->with(['brand', 'category', 'images', 'variants'])
-                ->ordered()
+                ->inRandomOrder()
+                // ->ordered()
                 ->limit(10)
                 ->get();
         }

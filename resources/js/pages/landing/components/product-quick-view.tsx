@@ -1,23 +1,19 @@
 /* eslint-disable curly */
 import { Link } from '@inertiajs/react';
-import React, { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import ProductVariantPicker from '@/components/storefront/product-variant-picker';
+import { useCart } from '@/context/CartContext';
+import { storefrontProductToCartItem } from '@/lib/cart';
+import {
+    resolveDisplayImages,
+    resolveSelectedVariant,
+    variantOptionLabels,
+} from '@/lib/storefront-product-display';
 import { truncateText } from '@/lib/truncate-text';
-
-export interface QuickViewProduct {
-    id: number | string;
-    name: string;
-    brand: string;
-    price: string;
-    image: string;
-    alt: string;
-    href?: string;
-    isNew?: boolean;
-    category?: string;
-    description?: string;
-}
+import type { StorefrontProduct } from '@/types/storefront-product';
 
 interface ProductQuickViewProps {
-    product: QuickViewProduct | null;
+    product: StorefrontProduct | null;
     onClose: () => void;
 }
 
@@ -27,11 +23,18 @@ export default function ProductQuickView({
 }: ProductQuickViewProps) {
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
+    const [selectedVariantId, setSelectedVariantId] = useState<string | null>(
+        null,
+    );
+    const { addItem, openCart } = useCart();
 
     useEffect(() => {
         if (product) {
             setQuantity(1);
             setAdded(false);
+            setSelectedVariantId(
+                product.defaultVariantId ?? product.variants?.[0]?.id ?? null,
+            );
             document.body.style.overflow = 'hidden';
         } else {
             document.body.style.overflow = '';
@@ -44,18 +47,47 @@ export default function ProductQuickView({
 
     useEffect(() => {
         const handleKey = (e: KeyboardEvent) => {
-            if (e.key === 'Escape') onClose();
+            if (e.key === 'Escape') {
+                onClose();
+            }
         };
         window.addEventListener('keydown', handleKey);
 
         return () => window.removeEventListener('keydown', handleKey);
     }, [onClose]);
 
-    if (!product) return null;
+    if (!product) {
+        return null;
+    }
+
+    const selectedVariant = resolveSelectedVariant(product, selectedVariantId);
+    const displayImages = resolveDisplayImages(product, selectedVariant);
+    const primaryImage = displayImages[0];
+    const displayPrice =
+        selectedVariant?.priceFormatted ?? product.priceFormatted;
+    const priceOnRequest =
+        selectedVariant?.priceOnRequest ?? product.priceOnRequest;
 
     const handleAddToCart = () => {
+        if (priceOnRequest) {
+            return;
+        }
+
+        for (let i = 0; i < quantity; i++) {
+            addItem(
+                storefrontProductToCartItem(
+                    product,
+                    selectedVariant?.id,
+                    displayImages,
+                ),
+            );
+        }
+
         setAdded(true);
-        setTimeout(() => setAdded(false), 2000);
+        setTimeout(() => {
+            setAdded(false);
+            openCart();
+        }, 600);
     };
 
     return (
@@ -72,7 +104,6 @@ export default function ProductQuickView({
             }}
             onClick={onClose}
         >
-            {/* Backdrop */}
             <div
                 style={{
                     position: 'absolute',
@@ -82,7 +113,6 @@ export default function ProductQuickView({
                 }}
             />
 
-            {/* Modal */}
             <div
                 className="quick-view-modal"
                 style={{
@@ -98,8 +128,8 @@ export default function ProductQuickView({
                 }}
                 onClick={(e) => e.stopPropagation()}
             >
-                {/* Close */}
                 <button
+                    type="button"
                     onClick={onClose}
                     style={{
                         position: 'absolute',
@@ -131,7 +161,6 @@ export default function ProductQuickView({
                     </svg>
                 </button>
 
-                {/* Image */}
                 <div
                     className="quick-view-image"
                     style={{
@@ -142,15 +171,17 @@ export default function ProductQuickView({
                         position: 'relative',
                     }}
                 >
-                    <img
-                        src={product.image}
-                        alt={product.alt}
-                        style={{
-                            width: '100%',
-                            height: '100%',
-                            objectFit: 'cover',
-                        }}
-                    />
+                    {primaryImage ? (
+                        <img
+                            src={primaryImage.src}
+                            alt={primaryImage.alt}
+                            style={{
+                                width: '100%',
+                                height: '100%',
+                                objectFit: 'cover',
+                            }}
+                        />
+                    ) : null}
                     {product.isNew && (
                         <span
                             style={{
@@ -172,7 +203,6 @@ export default function ProductQuickView({
                     )}
                 </div>
 
-                {/* Details */}
                 <div
                     className="quick-view-details"
                     style={{
@@ -225,7 +255,7 @@ export default function ProductQuickView({
                             letterSpacing: '0.02em',
                         }}
                     >
-                        {product.price}
+                        {displayPrice}
                     </p>
 
                     {product.description && (
@@ -249,7 +279,17 @@ export default function ProductQuickView({
                         </p>
                     )}
 
-                    {/* Quantity */}
+                    {product.variants && product.variants.length > 1 && (
+                        <div style={{ marginBottom: '20px' }}>
+                            <ProductVariantPicker
+                                variants={product.variants}
+                                selectedId={selectedVariant?.id ?? null}
+                                onSelect={setSelectedVariantId}
+                                optionLabels={variantOptionLabels(product)}
+                            />
+                        </div>
+                    )}
+
                     <div style={{ marginBottom: '20px' }}>
                         <p
                             style={{
@@ -273,6 +313,7 @@ export default function ProductQuickView({
                             }}
                         >
                             <button
+                                type="button"
                                 onClick={() =>
                                     setQuantity((q) => Math.max(1, q - 1))
                                 }
@@ -306,6 +347,7 @@ export default function ProductQuickView({
                                 {quantity}
                             </span>
                             <button
+                                type="button"
                                 onClick={() => setQuantity((q) => q + 1)}
                                 style={{
                                     width: '40px',
@@ -326,7 +368,6 @@ export default function ProductQuickView({
                         </div>
                     </div>
 
-                    {/* Actions */}
                     <div
                         style={{
                             display: 'flex',
@@ -334,60 +375,63 @@ export default function ProductQuickView({
                             gap: '10px',
                         }}
                     >
-                        <button
-                            onClick={handleAddToCart}
-                            style={{
-                                background: added ? '#1a7a3c' : '#060606',
-                                color: '#ffffff',
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '11px',
-                                fontWeight: 500,
-                                letterSpacing: '2px',
-                                textTransform: 'uppercase',
-                                padding: '14px 24px',
-                                border: 'none',
-                                cursor: 'pointer',
-                                display: 'flex',
-                                alignItems: 'center',
-                                justifyContent: 'center',
-                                gap: '8px',
-                                transition: 'background 0.2s ease',
-                            }}
-                        >
-                            {added ? (
-                                <>
-                                    <svg
-                                        width="14"
-                                        height="14"
-                                        viewBox="0 0 24 24"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        strokeWidth="2"
-                                    >
-                                        <polyline points="20 6 9 17 4 12" />
-                                    </svg>
-                                    Added to Bag
-                                </>
-                            ) : (
-                                <>
-                                    <svg
-                                        width="14"
-                                        height="14"
-                                        viewBox="0 0 24 24"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        strokeWidth="2"
-                                    >
-                                        <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
-                                        <line x1="3" y1="6" x2="21" y2="6" />
-                                        <path d="M16 10a4 4 0 0 1-8 0" />
-                                    </svg>
-                                    Add to Bag
-                                </>
-                            )}
-                        </button>
+                        {!priceOnRequest ? (
+                            <button
+                                type="button"
+                                onClick={handleAddToCart}
+                                style={{
+                                    background: added ? '#1a7a3c' : '#060606',
+                                    color: '#ffffff',
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '11px',
+                                    fontWeight: 500,
+                                    letterSpacing: '2px',
+                                    textTransform: 'uppercase',
+                                    padding: '14px 24px',
+                                    border: 'none',
+                                    cursor: 'pointer',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    gap: '8px',
+                                    transition: 'background 0.2s ease',
+                                }}
+                            >
+                                {added ? (
+                                    <>
+                                        <svg
+                                            width="14"
+                                            height="14"
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            strokeWidth="2"
+                                        >
+                                            <polyline points="20 6 9 17 4 12" />
+                                        </svg>
+                                        Added to Bag
+                                    </>
+                                ) : (
+                                    <>
+                                        <svg
+                                            width="14"
+                                            height="14"
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            strokeWidth="2"
+                                        >
+                                            <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
+                                            <line x1="3" y1="6" x2="21" y2="6" />
+                                            <path d="M16 10a4 4 0 0 1-8 0" />
+                                        </svg>
+                                        Add to Bag
+                                    </>
+                                )}
+                            </button>
+                        ) : null}
                         <Link
-                            href={`/products/${product.id}`}
+                            href={product.href}
                             onClick={onClose}
                             style={{
                                 background: '#ffffff',
@@ -422,7 +466,6 @@ export default function ProductQuickView({
                         </Link>
                     </div>
 
-                    {/* Meta */}
                     <div
                         style={{
                             marginTop: '24px',
@@ -430,7 +473,14 @@ export default function ProductQuickView({
                             borderTop: '1px solid #f0f0ec',
                         }}
                     >
-                        <div className="quick-view-meta" style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
+                        <div
+                            className="quick-view-meta"
+                            style={{
+                                display: 'flex',
+                                gap: '20px',
+                                flexWrap: 'wrap',
+                            }}
+                        >
                             {[
                                 {
                                     icon: (

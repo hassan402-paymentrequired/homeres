@@ -39,12 +39,12 @@ export default function ProductsIndex({ products }: Props) {
                         </p>
                     </div>
                     <div className="flex flex-wrap gap-2">
-                        <Button asChild variant="outline">
+                        {/* <Button asChild variant="outline">
                             <Link href="/admin/products/import">
                                 <FileUp className="size-4" />
                                 Bulk import
                             </Link>
-                        </Button>
+                        </Button> */}
                         <Button asChild>
                             <Link href="/admin/products/create">
                                 <Plus className="size-4" />

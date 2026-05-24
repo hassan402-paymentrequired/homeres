@@ -13,7 +13,7 @@ export default function CatalogCategoryBanner({
 }: Props) {
     return (
         <section
-            className="catalog-category-banner"
+            className="catalog-category-banner rounded-2xl"
             style={{
                 position: 'relative',
                 marginBottom: '32px',

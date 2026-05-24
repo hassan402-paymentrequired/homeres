@@ -3,30 +3,13 @@ import { useState } from 'react';
 import QuickShopPanel from '@/components/storefront/quick-shop-panel';
 import { useWishlist } from '@/context/WishlistContext';
 import type { StorefrontProduct } from '@/types/storefront-product';
-import ProductQuickView, {
-    type QuickViewProduct,
-} from '@/pages/landing/components/product-quick-view';
+import ProductQuickView from '@/pages/landing/components/product-quick-view';
 
 interface ProductCardProps {
     product: StorefrontProduct;
     index?: number;
     animate?: boolean;
     visible?: boolean;
-}
-
-export function toQuickViewProduct(product: StorefrontProduct): QuickViewProduct {
-    return {
-        id: product.id,
-        name: product.name,
-        brand: product.brand,
-        price: product.priceFormatted,
-        image: product.images[0]?.src ?? '',
-        alt: product.images[0]?.alt ?? product.name,
-        href: product.href,
-        isNew: product.isNew,
-        category: product.category,
-        description: product.description,
-    };
 }
 
 export default function ProductCard({
@@ -36,13 +19,13 @@ export default function ProductCard({
     visible = true,
 }: ProductCardProps) {
     const [hovered, setHovered] = useState(false);
-    const [quickView, setQuickView] = useState<QuickViewProduct | null>(null);
+    const [quickViewProduct, setQuickViewProduct] =
+        useState<StorefrontProduct | null>(null);
     const [quickShopOpen, setQuickShopOpen] = useState(false);
     const { isWishlisted, toggle } = useWishlist();
-    const image = product.images[1];
+    const image =
+        product.images.length > 1 ? product.images[1] : product.images[0];
     const wishlisted = isWishlisted(product.id);
-
-    // console.log(product);
 
     return (
         <>
@@ -57,50 +40,164 @@ export default function ProductCard({
                     transition: animate
                         ? `opacity 0.5s ease ${index * 0.08}s, transform 0.5s ease ${index * 0.08}s`
                         : undefined,
-                    position: 'relative',
                 }}
             >
                 <div
                     style={{
-                        aspectRatio: '3/4',
-                        background: '#f5f5f3',
-                        borderRadius: '10px',
-                        marginBottom: '12px',
                         position: 'relative',
-                        overflow: 'hidden',
-                    }}
-                    onMouseEnter={() => setHovered(true)}
-                    onMouseLeave={() => {
-                        setHovered(false);
-                        setQuickShopOpen(false);
+                        marginBottom: '12px',
                     }}
                 >
-                    {image && (
-                        <img
-                            src={image.src}
-                            alt={image.alt}
+                    <Link
+                        href={product.href}
+                        style={{
+                            display: 'block',
+                            textDecoration: 'none',
+                            color: 'inherit',
+                        }}
+                        onMouseEnter={() => setHovered(true)}
+                        onMouseLeave={() => {
+                            setHovered(false);
+                            setQuickShopOpen(false);
+                        }}
+                    >
+                        <div
                             style={{
-                                width: '100%',
-                                height: '100%',
-                                objectFit: 'cover',
-                                transition: 'transform 0.6s ease',
-                                transform: hovered ? 'scale(1.05)' : 'scale(1)',
+                                aspectRatio: '3/4',
+                                background: '#f5f5f3',
+                                borderRadius: '10px',
+                                position: 'relative',
+                                overflow: 'hidden',
                             }}
-                        />
-                    )}
+                        >
+                            {image && (
+                                <img
+                                    src={image.src}
+                                    alt={image.alt}
+                                    style={{
+                                        width: '100%',
+                                        height: '100%',
+                                        objectFit: 'cover',
+                                        transition: 'transform 0.6s ease',
+                                        transform: hovered
+                                            ? 'scale(1.05)'
+                                            : 'scale(1)',
+                                    }}
+                                />
+                            )}
+                            {product.isNew && (
+                                <span
+                                    style={{
+                                        position: 'absolute',
+                                        top: '10px',
+                                        left: '10px',
+                                        background: '#060606',
+                                        color: '#ffffff',
+                                        fontFamily: 'Poppins, sans-serif',
+                                        fontSize: '10px',
+                                        fontWeight: 500,
+                                        letterSpacing: '1.5px',
+                                        textTransform: 'uppercase',
+                                        padding: '4px 8px',
+                                    }}
+                                >
+                                    New
+                                </span>
+                            )}
+                            {hovered && (
+                                <div
+                                    style={{
+                                        position: 'absolute',
+                                        bottom: 0,
+                                        left: 0,
+                                        right: 0,
+                                        display: 'flex',
+                                        flexDirection: 'column',
+                                        gap: '6px',
+                                        padding: quickShopOpen ? 0 : '12px',
+                                    }}
+                                >
+                                    {!quickShopOpen ? (
+                                        <>
+                                            <button
+                                                type="button"
+                                                onClick={(e) => {
+                                                    e.preventDefault();
+                                                    e.stopPropagation();
+                                                    setQuickShopOpen(true);
+                                                }}
+                                                style={{
+                                                    background: '#060606',
+                                                    color: '#fff',
+                                                    fontFamily:
+                                                        'Poppins, sans-serif',
+                                                    fontSize: '10px',
+                                                    fontWeight: 500,
+                                                    letterSpacing: '1.5px',
+                                                    textTransform: 'uppercase',
+                                                    padding: '9px',
+                                                    border: 'none',
+                                                    cursor: 'pointer',
+                                                    width: '100%',
+                                                }}
+                                            >
+                                                Quick shop
+                                            </button>
+                                            <button
+                                                type="button"
+                                                onClick={(e) => {
+                                                    e.preventDefault();
+                                                    e.stopPropagation();
+                                                    setQuickViewProduct(product);
+                                                }}
+                                                style={{
+                                                    background:
+                                                        'rgba(255,255,255,0.92)',
+                                                    color: '#060606',
+                                                    fontFamily:
+                                                        'Poppins, sans-serif',
+                                                    fontSize: '10px',
+                                                    fontWeight: 500,
+                                                    letterSpacing: '1.5px',
+                                                    textTransform: 'uppercase',
+                                                    padding: '9px',
+                                                    border: 'none',
+                                                    cursor: 'pointer',
+                                                    width: '100%',
+                                                }}
+                                            >
+                                                Quick view
+                                            </button>
+                                        </>
+                                    ) : (
+                                        <QuickShopPanel
+                                            product={product}
+                                            onClose={() =>
+                                                setQuickShopOpen(false)
+                                            }
+                                        />
+                                    )}
+                                </div>
+                            )}
+                        </div>
+                    </Link>
                     <button
                         type="button"
                         onClick={(e) => {
                             e.preventDefault();
+                            e.stopPropagation();
                             toggle(product.id);
                         }}
                         aria-label={
-                            wishlisted ? 'Remove from wishlist' : 'Add to wishlist'
+                            wishlisted
+                                ? 'Remove from wishlist'
+                                : 'Add to wishlist'
                         }
                         style={{
                             position: 'absolute',
                             top: '10px',
                             right: '10px',
+                            zIndex: 2,
                             background: 'rgba(255,255,255,0.9)',
                             border: 'none',
                             borderRadius: '50%',
@@ -115,89 +212,6 @@ export default function ProductCard({
                     >
                         {wishlisted ? '♥' : '♡'}
                     </button>
-                    {product.isNew && (
-                        <span
-                            style={{
-                                position: 'absolute',
-                                top: '10px',
-                                left: '10px',
-                                background: '#060606',
-                                color: '#ffffff',
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '10px',
-                                fontWeight: 500,
-                                letterSpacing: '1.5px',
-                                textTransform: 'uppercase',
-                                padding: '4px 8px',
-                            }}
-                        >
-                            New
-                        </span>
-                    )}
-                    {hovered && (
-                        <div
-                            style={{
-                                position: 'absolute',
-                                bottom: 0,
-                                left: 0,
-                                right: 0,
-                                display: 'flex',
-                                flexDirection: 'column',
-                                gap: '6px',
-                                padding: quickShopOpen ? 0 : '12px',
-                            }}
-                        >
-                            {!quickShopOpen ? (
-                                <>
-                                    <button
-                                        type="button"
-                                        onClick={() => setQuickShopOpen(true)}
-                                        style={{
-                                            background: '#060606',
-                                            color: '#fff',
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '10px',
-                                            fontWeight: 500,
-                                            letterSpacing: '1.5px',
-                                            textTransform: 'uppercase',
-                                            padding: '9px',
-                                            border: 'none',
-                                            cursor: 'pointer',
-                                            width: '100%',
-                                        }}
-                                    >
-                                        Quick shop
-                                    </button>
-                                    <button
-                                        type="button"
-                                        onClick={() =>
-                                            setQuickView(toQuickViewProduct(product))
-                                        }
-                                        style={{
-                                            background: 'rgba(255,255,255,0.92)',
-                                            color: '#060606',
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '10px',
-                                            fontWeight: 500,
-                                            letterSpacing: '1.5px',
-                                            textTransform: 'uppercase',
-                                            padding: '9px',
-                                            border: 'none',
-                                            cursor: 'pointer',
-                                            width: '100%',
-                                        }}
-                                    >
-                                        Quick view
-                                    </button>
-                                </>
-                            ) : (
-                                <QuickShopPanel
-                                    product={product}
-                                    onClose={() => setQuickShopOpen(false)}
-                                />
-                            )}
-                        </div>
-                    )}
                 </div>
                 <Link
                     href={product.href}
@@ -230,10 +244,14 @@ export default function ProductCard({
                                 product.brand
                             )}
                             {product.brand && product.category && (
-                                <span style={{ color: '#ccc', margin: '0 4px' }}>·</span>
+                                <span style={{ color: '#ccc', margin: '0 4px' }}>
+                                    ·
+                                </span>
                             )}
                             {product.category && (
-                                <span style={{ fontWeight: 400 }}>{product.category}</span>
+                                <span style={{ fontWeight: 400 }}>
+                                    {product.category}
+                                </span>
                             )}
                         </p>
                     )}
@@ -262,8 +280,8 @@ export default function ProductCard({
                 </Link>
             </div>
             <ProductQuickView
-                product={quickView}
-                onClose={() => setQuickView(null)}
+                product={quickViewProduct}
+                onClose={() => setQuickViewProduct(null)}
             />
         </>
     );
