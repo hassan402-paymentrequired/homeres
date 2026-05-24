@@ -3,6 +3,7 @@ import {
     FileText,
     FolderTree,
     LayoutGrid,
+    LayoutTemplate,
     Package,
     Settings,
     ShoppingBag,
@@ -34,6 +35,12 @@ export const ADMIN_NAV_ITEMS: AdminNavItem[] = [
         href: '/admin/products',
         icon: Package,
         description: 'Catalog, pricing, and inventory',
+    },
+    {
+        title: 'Product templates',
+        href: '/admin/product-templates',
+        icon: LayoutTemplate,
+        description: 'Spec fields and variant options per product type',
     },
     {
         title: 'Orders',

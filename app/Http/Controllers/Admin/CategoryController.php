@@ -6,9 +6,13 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\StoreCategoryRequest;
 use App\Http\Requests\Admin\UpdateCategoryRequest;
 use App\Models\Category;
+use App\Models\Product;
 use App\Models\ProductTemplate;
 use App\Services\CategoryHandleGenerator;
 use App\Services\CategoryTree;
+use App\Services\ProductPresenter;
+use App\Support\AdminPagination;
+use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Collection;
@@ -20,6 +24,7 @@ class CategoryController extends Controller
     public function __construct(
         private CategoryTree $categoryTree,
         private CategoryHandleGenerator $handleGenerator,
+        private ProductPresenter $productPresenter,
     ) {}
 
     public function index(): Response
@@ -37,6 +42,7 @@ class CategoryController extends Controller
             'category' => $this->categoryTree->serializeCard($category),
             'stats' => $this->categoryTree->stats($category),
             'subcategories' => $this->categoryTree->paginatedCardsForParent($category->id),
+            'products' => $this->paginatedProductsForCategory($category),
             'breadcrumbs' => $this->categoryTree->breadcrumbs($category)->values()->all(),
         ]);
     }
@@ -131,6 +137,20 @@ class CategoryController extends Controller
         return redirect()
             ->route('admin.categories.index')
             ->with('success', 'Category deleted.');
+    }
+
+    /**
+     * @return LengthAwarePaginator<int, array<string, mixed>>
+     */
+    private function paginatedProductsForCategory(Category $category): LengthAwarePaginator
+    {
+        return Product::query()
+            ->with(['category:id,name', 'brand:id,name', 'images'])
+            ->withCount('variants')
+            ->where('category_id', $category->id)
+            ->ordered()
+            ->paginate(AdminPagination::PER_PAGE)
+            ->through(fn (Product $product): array => $this->productPresenter->card($product));
     }
 
     /**

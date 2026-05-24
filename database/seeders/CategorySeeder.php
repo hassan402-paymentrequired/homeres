@@ -234,6 +234,10 @@ class CategorySeeder extends Seeder
             return 'book';
         }
 
+        if ($handle === 'wallpaper') {
+            return 'wallpaper';
+        }
+
         return 'simple';
     }
 
@@ -393,7 +397,7 @@ class CategorySeeder extends Seeder
                             $leaf('plaids-bedspreads', 'textile'),
                         ],
                     ],
-                    ['links' => [$leaf('wallpaper')]],
+                    ['links' => [$leaf('wallpaper', 'wallpaper')]],
                     [
                         'handle' => 'dining-serveware',
                         'aggregate' => true,

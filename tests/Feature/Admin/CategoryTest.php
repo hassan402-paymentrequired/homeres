@@ -177,7 +177,7 @@ test('category seeder imports templates and categories from output index', funct
     $this->seed(ProductTemplateSeeder::class);
     $this->artisan('db:seed', ['--class' => 'CategorySeeder'])->assertSuccessful();
 
-    expect(ProductTemplate::query()->count())->toBe(6)
+    expect(ProductTemplate::query()->count())->toBe(7)
         ->and(Category::query()->count())->toBeGreaterThan(50)
         ->and(Category::query()->where('handle', 'furniture')->exists())->toBeTrue()
         ->and(Category::query()->where('handle', 'scented-candles')->exists())->toBeTrue();

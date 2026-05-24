@@ -57,6 +57,14 @@ class Category extends Model
     }
 
     /**
+     * @return HasMany<Product, $this>
+     */
+    public function products(): HasMany
+    {
+        return $this->hasMany(Product::class);
+    }
+
+    /**
      * @param  Builder<Category>  $query
      * @return Builder<Category>
      */

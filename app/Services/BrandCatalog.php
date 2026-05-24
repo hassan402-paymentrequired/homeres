@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use App\Models\Product;
 use Illuminate\Support\Facades\File;
 
 class BrandCatalog
@@ -11,6 +12,12 @@ class BrandCatalog
 
     public function productCountFor(string $handle): int
     {
+        if (Product::query()->exists()) {
+            return Product::query()
+                ->whereHas('brand', fn ($query) => $query->where('handle', $handle))
+                ->count();
+        }
+
         return $this->productCounts()[$handle] ?? 0;
     }
 

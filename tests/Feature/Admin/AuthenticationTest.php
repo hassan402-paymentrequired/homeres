@@ -60,7 +60,7 @@ test('authenticated admins can visit the dashboard', function () {
     $response->assertOk();
 });
 
-test('authenticated admins can visit module placeholder pages', function () {
+test('authenticated admins can visit catalog admin pages', function () {
     $admin = Admin::factory()->create();
 
     $this->actingAs($admin, 'admin')
@@ -69,6 +69,10 @@ test('authenticated admins can visit module placeholder pages', function () {
 
     $this->actingAs($admin, 'admin')
         ->get(route('admin.brands.index'))
+        ->assertOk();
+
+    $this->actingAs($admin, 'admin')
+        ->get(route('admin.products.index'))
         ->assertOk();
 });
 

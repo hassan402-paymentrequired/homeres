@@ -6,9 +6,12 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\StoreBrandRequest;
 use App\Http\Requests\Admin\UpdateBrandRequest;
 use App\Models\Brand;
+use App\Models\Product;
 use App\Services\BrandCatalog;
 use App\Services\BrandHandleGenerator;
+use App\Services\ProductPresenter;
 use App\Support\AdminPagination;
+use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
@@ -19,6 +22,7 @@ class BrandController extends Controller
     public function __construct(
         private BrandCatalog $catalog,
         private BrandHandleGenerator $handleGenerator,
+        private ProductPresenter $productPresenter,
     ) {}
 
     public function index(): Response
@@ -38,6 +42,7 @@ class BrandController extends Controller
         return Inertia::render('admin/brands/show', [
             'brand' => $this->serializeCard($brand),
             'stats' => $this->stats($brand),
+            'products' => $this->paginatedProductsForBrand($brand),
             'breadcrumbs' => $this->breadcrumbs($brand),
         ]);
     }
@@ -95,6 +100,20 @@ class BrandController extends Controller
         return redirect()
             ->route('admin.brands.index')
             ->with('success', 'Brand deleted.');
+    }
+
+    /**
+     * @return LengthAwarePaginator<int, array<string, mixed>>
+     */
+    private function paginatedProductsForBrand(Brand $brand): LengthAwarePaginator
+    {
+        return Product::query()
+            ->with(['category:id,name', 'brand:id,name', 'images'])
+            ->withCount('variants')
+            ->where('brand_id', $brand->id)
+            ->ordered()
+            ->paginate(AdminPagination::PER_PAGE)
+            ->through(fn (Product $product): array => $this->productPresenter->card($product));
     }
 
     /**

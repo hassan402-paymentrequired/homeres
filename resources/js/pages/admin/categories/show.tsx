@@ -4,6 +4,7 @@ import { FolderTree, Package, Pencil, Plus, Trash2 } from 'lucide-react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminPagination from '@/components/admin/admin-pagination';
 import CategoryCardItem from '@/components/admin/category-card';
+import ProductCardItem from '@/components/admin/product-card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import AdminLayout from '@/layouts/admin-layout';
@@ -13,11 +14,13 @@ import type {
     CategoryStats,
 } from '@/types/category';
 import type { Paginated } from '@/types/pagination';
+import type { ProductCard } from '@/types/product';
 
 type Props = {
     category: CategoryCard;
     stats: CategoryStats;
     subcategories: Paginated<CategoryCard>;
+    products: Paginated<ProductCard>;
     breadcrumbs: CategoryBreadcrumb[];
 };
 
@@ -45,9 +48,11 @@ export default function CategoryShow({
     category,
     stats,
     subcategories,
+    products,
     breadcrumbs,
 }: Props) {
     const subcategoryItems = subcategories.data;
+    const productItems = products.data;
 
     return (
         <AdminLayout
@@ -195,6 +200,58 @@ export default function CategoryShow({
                                 ))}
                             </div>
                             <AdminPagination paginator={subcategories} />
+                        </>
+                    )}
+                </div>
+
+                <div>
+                    <div className="mb-4 flex items-center justify-between gap-3">
+                        <div>
+                            <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
+                                Products
+                            </h2>
+                            <p className="mt-1 text-sm text-muted-foreground">
+                                Products assigned to this category.
+                            </p>
+                        </div>
+                        <Button size="sm" asChild>
+                            <Link
+                                href={`/admin/products/create?category=${category.id}`}
+                            >
+                                <Plus className="size-4" />
+                                Add product
+                            </Link>
+                        </Button>
+                    </div>
+
+                    {productItems.length === 0 ? (
+                        <AdminEmptyState
+                            className="py-12"
+                            icon={Package}
+                            title="No products yet"
+                            description="Create a product in this category to start building the catalog."
+                            action={
+                                <Button asChild>
+                                    <Link
+                                        href={`/admin/products/create?category=${category.id}`}
+                                    >
+                                        <Plus className="size-4" />
+                                        Add product
+                                    </Link>
+                                </Button>
+                            }
+                        />
+                    ) : (
+                        <>
+                            <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                                {productItems.map((product) => (
+                                    <ProductCardItem
+                                        key={product.id}
+                                        product={product}
+                                    />
+                                ))}
+                            </div>
+                            <AdminPagination paginator={products} />
                         </>
                     )}
                 </div>

@@ -1,15 +1,20 @@
 import { Head, Link, router } from '@inertiajs/react';
 import type { LucideIcon } from 'lucide-react';
-import { Package, Pencil, Trash2 } from 'lucide-react';
+import { Package, Pencil, Plus, Trash2 } from 'lucide-react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
+import AdminPagination from '@/components/admin/admin-pagination';
+import ProductCardItem from '@/components/admin/product-card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import AdminLayout from '@/layouts/admin-layout';
 import type { BrandBreadcrumb, BrandCard, BrandStats } from '@/types/brand';
+import type { Paginated } from '@/types/pagination';
+import type { ProductCard } from '@/types/product';
 
 type Props = {
     brand: BrandCard;
     stats: BrandStats;
+    products: Paginated<ProductCard>;
     breadcrumbs: BrandBreadcrumb[];
 };
 
@@ -33,7 +38,14 @@ function StatCard({
     );
 }
 
-export default function BrandShow({ brand, stats, breadcrumbs }: Props) {
+export default function BrandShow({
+    brand,
+    stats,
+    products,
+    breadcrumbs,
+}: Props) {
+    const productItems = products.data;
+
     return (
         <AdminLayout
             breadcrumbs={breadcrumbs.map((crumb) => ({
@@ -86,6 +98,12 @@ export default function BrandShow({ brand, stats, breadcrumbs }: Props) {
                             <Trash2 className="size-4" />
                             Delete
                         </Button>
+                        <Button asChild>
+                            <Link href={`/admin/products/create?brand=${brand.id}`}>
+                                <Plus className="size-4" />
+                                Add product
+                            </Link>
+                        </Button>
                     </div>
                 </div>
 
@@ -97,12 +115,55 @@ export default function BrandShow({ brand, stats, breadcrumbs }: Props) {
                     />
                 </div>
 
-                <AdminEmptyState
-                    className="py-12"
-                    icon={Package}
-                    title="No products yet"
-                    description="Product management for this brand will be available in the Products module."
-                />
+                <div>
+                    <div className="mb-4 flex items-center justify-between gap-3">
+                        <div>
+                            <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
+                                Products
+                            </h2>
+                            <p className="mt-1 text-sm text-muted-foreground">
+                                Products linked to this brand.
+                            </p>
+                        </div>
+                        <Button size="sm" asChild>
+                            <Link href={`/admin/products/create?brand=${brand.id}`}>
+                                <Plus className="size-4" />
+                                Add product
+                            </Link>
+                        </Button>
+                    </div>
+
+                    {productItems.length === 0 ? (
+                        <AdminEmptyState
+                            className="py-12"
+                            icon={Package}
+                            title="No products for this brand"
+                            description="Create a product and link it to this brand to start building the catalog."
+                            action={
+                                <Button asChild>
+                                    <Link
+                                        href={`/admin/products/create?brand=${brand.id}`}
+                                    >
+                                        <Plus className="size-4" />
+                                        Add product
+                                    </Link>
+                                </Button>
+                            }
+                        />
+                    ) : (
+                        <>
+                            <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                                {productItems.map((product) => (
+                                    <ProductCardItem
+                                        key={product.id}
+                                        product={product}
+                                    />
+                                ))}
+                            </div>
+                            <AdminPagination paginator={products} />
+                        </>
+                    )}
+                </div>
             </div>
         </AdminLayout>
     );

@@ -100,12 +100,39 @@ class ProductTemplateSeeder extends Seeder
         ],
         'book' => [
             'name' => 'Coffee table book',
-            'description' => 'Books and limited editions with minimal variant complexity.',
+            'description' => 'Books and limited editions with structured bibliographic specs on the storefront.',
             'variant_options' => [],
             'spec_fields' => [
-                ['key' => 'author', 'label' => 'Author / publisher', 'type' => 'text', 'required' => false, 'position' => 1],
-                ['key' => 'dimensions', 'label' => 'Dimensions', 'type' => 'text', 'required' => false, 'position' => 2],
-                ['key' => 'pages', 'label' => 'Pages', 'type' => 'text', 'required' => false, 'position' => 3],
+                ['key' => 'page_count', 'label' => 'Page count', 'type' => 'text', 'required' => false, 'position' => 1],
+                ['key' => 'illustration_count', 'label' => 'Number of illustrations', 'type' => 'text', 'required' => false, 'position' => 2],
+                ['key' => 'language', 'label' => 'Language', 'type' => 'text', 'required' => false, 'position' => 3],
+                ['key' => 'released_on', 'label' => 'Released on', 'type' => 'text', 'required' => false, 'position' => 4],
+                ['key' => 'dimensions', 'label' => 'Dimensions', 'type' => 'text', 'required' => false, 'position' => 5],
+                ['key' => 'cover_materials', 'label' => 'Cover materials', 'type' => 'text', 'required' => false, 'position' => 6],
+                ['key' => 'isbn', 'label' => 'ISBN', 'type' => 'text', 'required' => false, 'position' => 7],
+                ['key' => 'weight', 'label' => 'Weight', 'type' => 'text', 'required' => false, 'position' => 8],
+                ['key' => 'author', 'label' => 'Author / contributors', 'type' => 'textarea', 'required' => false, 'position' => 9],
+            ],
+            'rules' => [
+                'pricing_mode' => 'fixed',
+                'requires_brand' => true,
+                'min_images' => 1,
+            ],
+        ],
+        'wallpaper' => [
+            'name' => 'Wallpaper',
+            'description' => 'Wallcoverings with colour variants and roll specifications.',
+            'variant_options' => [
+                ['key' => 'color', 'label' => 'Colour', 'type' => 'select', 'required' => true, 'position' => 1],
+            ],
+            'spec_fields' => [
+                ['key' => 'width', 'label' => 'Width', 'type' => 'text', 'required' => false, 'position' => 1],
+                ['key' => 'length', 'label' => 'Length', 'type' => 'text', 'required' => false, 'position' => 2],
+                ['key' => 'quality', 'label' => 'Quality', 'type' => 'text', 'required' => false, 'position' => 3],
+                ['key' => 'composition', 'label' => 'Composition', 'type' => 'text', 'required' => false, 'position' => 4],
+                ['key' => 'unit', 'label' => 'Unit', 'type' => 'text', 'required' => false, 'position' => 5],
+                ['key' => 'repeat', 'label' => 'Repeat', 'type' => 'text', 'required' => false, 'position' => 6],
+                ['key' => 'match', 'label' => 'Match', 'type' => 'text', 'required' => false, 'position' => 7],
             ],
             'rules' => [
                 'pricing_mode' => 'fixed',
