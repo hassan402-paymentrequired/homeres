@@ -1,8 +1,10 @@
-import { Head, Link } from '@inertiajs/react';
+import { Head } from '@inertiajs/react';
 import { Plus, Tag } from 'lucide-react';
+import { useState } from 'react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminPagination from '@/components/admin/admin-pagination';
 import BrandCardItem from '@/components/admin/brand-card';
+import BrandFormModal from '@/components/admin/brand-form-modal';
 import { Button } from '@/components/ui/button';
 import AdminLayout from '@/layouts/admin-layout';
 import type { BrandCard } from '@/types/brand';
@@ -14,6 +16,7 @@ type Props = {
 
 export default function BrandsIndex({ brands }: Props) {
     const items = brands.data;
+    const [createOpen, setCreateOpen] = useState(false);
 
     return (
         <AdminLayout
@@ -38,11 +41,9 @@ export default function BrandsIndex({ brands }: Props) {
                             and linked to products.
                         </p>
                     </div>
-                    <Button asChild>
-                        <Link href="/admin/brands/create">
-                            <Plus className="size-4" />
-                            Add brand
-                        </Link>
+                    <Button type="button" onClick={() => setCreateOpen(true)}>
+                        <Plus className="size-4" />
+                        Add brand
                     </Button>
                 </div>
 
@@ -53,11 +54,12 @@ export default function BrandsIndex({ brands }: Props) {
                         title="No brands yet"
                         description="Run the seeder or create your first brand to populate the storefront directory."
                         action={
-                            <Button asChild>
-                                <Link href="/admin/brands/create">
-                                    <Plus className="size-4" />
-                                    Add brand
-                                </Link>
+                            <Button
+                                type="button"
+                                onClick={() => setCreateOpen(true)}
+                            >
+                                <Plus className="size-4" />
+                                Add brand
                             </Button>
                         }
                     />
@@ -72,6 +74,12 @@ export default function BrandsIndex({ brands }: Props) {
                     </>
                 )}
             </div>
+
+            <BrandFormModal
+                open={createOpen}
+                onOpenChange={setCreateOpen}
+                brand={null}
+            />
         </AdminLayout>
     );
 }

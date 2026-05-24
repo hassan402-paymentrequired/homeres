@@ -1,7 +1,9 @@
 import { Head, Link, router } from '@inertiajs/react';
 import type { LucideIcon } from 'lucide-react';
 import { Package, Pencil, Plus, Trash2 } from 'lucide-react';
+import { useState } from 'react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
+import BrandFormModal from '@/components/admin/brand-form-modal';
 import AdminPagination from '@/components/admin/admin-pagination';
 import ProductCardItem from '@/components/admin/product-card';
 import { Badge } from '@/components/ui/badge';
@@ -45,6 +47,7 @@ export default function BrandShow({
     breadcrumbs,
 }: Props) {
     const productItems = products.data;
+    const [editOpen, setEditOpen] = useState(false);
 
     return (
         <AdminLayout
@@ -77,11 +80,13 @@ export default function BrandShow({
                     </div>
 
                     <div className="flex flex-wrap gap-2">
-                        <Button variant="outline" asChild>
-                            <Link href={`/admin/brands/${brand.id}/edit`}>
-                                <Pencil className="size-4" />
-                                Edit
-                            </Link>
+                        <Button
+                            type="button"
+                            variant="outline"
+                            onClick={() => setEditOpen(true)}
+                        >
+                            <Pencil className="size-4" />
+                            Edit
                         </Button>
                         <Button
                             variant="outline"
@@ -165,6 +170,12 @@ export default function BrandShow({
                     )}
                 </div>
             </div>
+
+            <BrandFormModal
+                open={editOpen}
+                onOpenChange={setEditOpen}
+                brand={brand}
+            />
         </AdminLayout>
     );
 }

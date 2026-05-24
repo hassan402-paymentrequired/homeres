@@ -31,6 +31,7 @@ class CategoryController extends Controller
     {
         return Inertia::render('admin/categories/index', [
             'categories' => $this->categoryTree->paginatedCardsForParent(),
+            'productTemplates' => $this->productTemplateOptions()->values()->all(),
         ]);
     }
 
@@ -44,6 +45,7 @@ class CategoryController extends Controller
             'subcategories' => $this->categoryTree->paginatedCardsForParent($category->id),
             'products' => $this->paginatedProductsForCategory($category),
             'breadcrumbs' => $this->categoryTree->breadcrumbs($category)->values()->all(),
+            'productTemplates' => $this->productTemplateOptions()->values()->all(),
         ]);
     }
 

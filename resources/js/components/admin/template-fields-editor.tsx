@@ -174,7 +174,7 @@ export default function TemplateFieldsEditor({
                                     <FormField
                                         label="Key"
                                         htmlFor={`${namePrefix}_${index}_key`}
-                                        hint="Optional — auto-generated from label if empty."
+                                        // hint="Optional — auto-generated from label if empty."
                                         error={
                                             errors[`${namePrefix}.${index}.key`]
                                         }

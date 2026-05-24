@@ -23,7 +23,12 @@ final class StorefrontCatalogQuery
     {
         $query = Product::query()
             ->published()
-            ->with(['brand', 'category', 'images', 'variants'])
+            ->with([
+                'brand',
+                'category.productTemplate',
+                'images',
+                'variants.images',
+            ])
             ->ordered();
 
         if (filled($filters['q'] ?? null)) {

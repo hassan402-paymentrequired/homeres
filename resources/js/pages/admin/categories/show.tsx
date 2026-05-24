@@ -1,9 +1,11 @@
 import { Head, Link, router } from '@inertiajs/react';
 import type { LucideIcon } from 'lucide-react';
 import { FolderTree, Package, Pencil, Plus, Trash2 } from 'lucide-react';
+import { useState } from 'react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminPagination from '@/components/admin/admin-pagination';
 import CategoryCardItem from '@/components/admin/category-card';
+import CategoryFormModal from '@/components/admin/category-form-modal';
 import ProductCardItem from '@/components/admin/product-card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -12,6 +14,7 @@ import type {
     CategoryBreadcrumb,
     CategoryCard,
     CategoryStats,
+    ProductTemplateOption,
 } from '@/types/category';
 import type { Paginated } from '@/types/pagination';
 import type { ProductCard } from '@/types/product';
@@ -22,6 +25,7 @@ type Props = {
     subcategories: Paginated<CategoryCard>;
     products: Paginated<ProductCard>;
     breadcrumbs: CategoryBreadcrumb[];
+    productTemplates: ProductTemplateOption[];
 };
 
 function StatCard({
@@ -50,9 +54,12 @@ export default function CategoryShow({
     subcategories,
     products,
     breadcrumbs,
+    productTemplates,
 }: Props) {
     const subcategoryItems = subcategories.data;
     const productItems = products.data;
+    const [editOpen, setEditOpen] = useState(false);
+    const [subcategoryOpen, setSubcategoryOpen] = useState(false);
 
     return (
         <AdminLayout
@@ -95,11 +102,13 @@ export default function CategoryShow({
                     </div>
 
                     <div className="flex flex-wrap gap-2">
-                        <Button variant="outline" asChild>
-                            <Link href={`/admin/categories/${category.id}/edit`}>
-                                <Pencil className="size-4" />
-                                Edit
-                            </Link>
+                        <Button
+                            type="button"
+                            variant="outline"
+                            onClick={() => setEditOpen(true)}
+                        >
+                            <Pencil className="size-4" />
+                            Edit
                         </Button>
                         <Button
                             variant="outline"
@@ -118,13 +127,12 @@ export default function CategoryShow({
                             <Trash2 className="size-4" />
                             Delete
                         </Button>
-                        <Button asChild>
-                            <Link
-                                href={`/admin/categories/create?parent=${category.id}`}
-                            >
-                                <Plus className="size-4" />
-                                Add subcategory
-                            </Link>
+                        <Button
+                            type="button"
+                            onClick={() => setSubcategoryOpen(true)}
+                        >
+                            <Plus className="size-4" />
+                            Add subcategory
                         </Button>
                     </div>
                 </div>
@@ -162,13 +170,13 @@ export default function CategoryShow({
                                 Direct children of this category.
                             </p>
                         </div>
-                        <Button size="sm" asChild>
-                            <Link
-                                href={`/admin/categories/create?parent=${category.id}`}
-                            >
-                                <Plus className="size-4" />
-                                Add subcategory
-                            </Link>
+                        <Button
+                            type="button"
+                            size="sm"
+                            onClick={() => setSubcategoryOpen(true)}
+                        >
+                            <Plus className="size-4" />
+                            Add subcategory
                         </Button>
                     </div>
 
@@ -179,13 +187,12 @@ export default function CategoryShow({
                             title="No subcategories yet"
                             description="Add one to build out this branch of the catalog."
                             action={
-                                <Button asChild>
-                                    <Link
-                                        href={`/admin/categories/create?parent=${category.id}`}
-                                    >
-                                        <Plus className="size-4" />
-                                        Add subcategory
-                                    </Link>
+                                <Button
+                                    type="button"
+                                    onClick={() => setSubcategoryOpen(true)}
+                                >
+                                    <Plus className="size-4" />
+                                    Add subcategory
                                 </Button>
                             }
                         />
@@ -256,6 +263,22 @@ export default function CategoryShow({
                     )}
                 </div>
             </div>
+
+            <CategoryFormModal
+                open={editOpen}
+                onOpenChange={setEditOpen}
+                category={category}
+                parentCategory={null}
+                productTemplates={productTemplates}
+            />
+
+            <CategoryFormModal
+                open={subcategoryOpen}
+                onOpenChange={setSubcategoryOpen}
+                category={null}
+                parentCategory={{ id: category.id, name: category.name }}
+                productTemplates={productTemplates}
+            />
         </AdminLayout>
     );
 }

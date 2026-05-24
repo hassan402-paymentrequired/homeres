@@ -19,10 +19,16 @@ export type ProductTemplateField = {
     options?: string[];
 };
 
+export type ProductTemplateSpecsLayout = 'single' | 'two_column';
+
 export type ProductTemplateRules = {
     pricing_mode?: 'fixed' | 'on_request';
     requires_brand?: boolean;
     min_images?: number;
+    /** Optional PDP specs heading; falls back to template name. */
+    storefront_specs_title?: string | null;
+    /** How spec rows are laid out on the product page. */
+    specs_layout?: ProductTemplateSpecsLayout;
 };
 
 export type ProductTemplateSummary = {
@@ -86,6 +92,7 @@ export type ProductVariantRecord = {
     weight_kg: string | null;
     quantity: number | null;
     is_active: boolean;
+    images?: ProductImage[];
 };
 
 export type ProductVariantCard = {

@@ -1,10 +1,17 @@
 import { Head, Link } from '@inertiajs/react';
-import { useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import ImageLightbox from '@/components/storefront/image-lightbox';
 import ProductCard from '@/components/storefront/product-card';
+import ProductTemplateSpecs from '@/components/storefront/product-template-specs';
+import ProductVariantPicker from '@/components/storefront/product-variant-picker';
 import StorefrontShell from '@/components/storefront/storefront-shell';
 import { useCart } from '@/context/CartContext';
 import { storefrontProductToCartItem } from '@/lib/cart';
+import {
+    resolveDisplayImages,
+    resolveSelectedVariant,
+    variantOptionLabels,
+} from '@/lib/storefront-product-display';
 import type { StorefrontProduct } from '@/types/storefront-product';
 
 interface ProductShowProps {
@@ -16,11 +23,33 @@ export default function ProductDetailsPage({
     product,
     relatedProducts,
 }: ProductShowProps) {
+    const [selectedVariantId, setSelectedVariantId] = useState<string | null>(
+        product?.defaultVariantId ?? product?.variants?.[0]?.id ?? null,
+    );
     const [activeImage, setActiveImage] = useState(0);
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
     const [lightboxOpen, setLightboxOpen] = useState(false);
     const { addItem, openCart } = useCart();
+
+    const selectedVariant = useMemo(
+        () => (product ? resolveSelectedVariant(product, selectedVariantId) : null),
+        [product, selectedVariantId],
+    );
+
+    const displayImages = useMemo(
+        () => (product ? resolveDisplayImages(product, selectedVariant) : []),
+        [product, selectedVariant],
+    );
+
+    const optionLabels = useMemo(
+        () => (product ? variantOptionLabels(product) : {}),
+        [product],
+    );
+
+    useEffect(() => {
+        setActiveImage(0);
+    }, [selectedVariantId]);
 
     if (!product) {
         return (
@@ -54,11 +83,19 @@ export default function ProductDetailsPage({
     }
 
     const related = relatedProducts;
-    const details = product.details ?? [];
+    const displayPrice =
+        selectedVariant?.priceFormatted ?? product.priceFormatted;
+    const displaySku = selectedVariant?.sku ?? product.sku;
 
     const handleAddToCart = () => {
         for (let i = 0; i < quantity; i++) {
-            addItem(storefrontProductToCartItem(product));
+            addItem(
+                storefrontProductToCartItem(
+                    product,
+                    selectedVariant?.id,
+                    displayImages,
+                ),
+            );
         }
 
         setAdded(true);
@@ -97,7 +134,7 @@ export default function ProductDetailsPage({
                 <div className="pdp-layout">
                     <div className="pdp-gallery">
                         <div className="pdp-thumbs" role="tablist" aria-label="Product images">
-                            {product.images.map((img, i) => (
+                            {displayImages.map((img, i) => (
                                 <button
                                     key={i}
                                     type="button"
@@ -118,7 +155,7 @@ export default function ProductDetailsPage({
                             onClick={() => setLightboxOpen(true)}
                             aria-label="Open image zoom"
                         >
-                            {product.images.map((img, i) => (
+                            {displayImages.map((img, i) => (
                                 <img
                                     key={`${img.src}-${i}`}
                                     src={img.src}
@@ -155,8 +192,23 @@ export default function ProductDetailsPage({
                             )}
                         </p>
                         <h1 className="pdp-title">{product.name}</h1>
-                        <p className="pdp-price">{product.priceFormatted}</p>
+                        <p className="pdp-price">{displayPrice}</p>
+                        {displaySku && (
+                            <p className="pdp-sku">SKU: {displaySku}</p>
+                        )}
+                        {selectedVariant && (
+                            <p className="pdp-stock">{selectedVariant.stockStatusLabel}</p>
+                        )}
                         <p className="pdp-description">{product.description}</p>
+
+                        {product.variants && product.variants.length > 0 && (
+                            <ProductVariantPicker
+                                variants={product.variants}
+                                selectedId={selectedVariant?.id ?? null}
+                                onSelect={setSelectedVariantId}
+                                optionLabels={optionLabels}
+                            />
+                        )}
 
                         <div className="pdp-quantity">
                             <p className="pdp-label">Quantity</p>
@@ -176,14 +228,10 @@ export default function ProductDetailsPage({
                             {added ? 'Added to bag' : 'Add to bag'}
                         </button>
 
-                        <div className="pdp-details">
-                            <p className="pdp-label">Product Details</p>
-                            <ul>
-                                {details.map((d) => (
-                                    <li key={d}>{d}</li>
-                                ))}
-                            </ul>
-                        </div>
+                        <ProductTemplateSpecs
+                            template={product.template}
+                            specs={product.specs ?? []}
+                        />
                     </div>
                 </div>
             </section>
@@ -199,10 +247,10 @@ export default function ProductDetailsPage({
                 </div>
             )}
 
-            {lightboxOpen && product.images[activeImage] && (
+            {lightboxOpen && displayImages[activeImage] && (
                 <ImageLightbox
-                    src={product.images[activeImage].src}
-                    alt={product.images[activeImage].alt}
+                    src={displayImages[activeImage].src}
+                    alt={displayImages[activeImage].alt}
                     onClose={() => setLightboxOpen(false)}
                 />
             )}
@@ -426,7 +474,83 @@ export default function ProductDetailsPage({
                 .pdp-price {
                     font-family: "Proza Libre", sans-serif;
                     font-size: clamp(20px, 2vw, 24px);
-                    margin: 0 0 16px;
+                    margin: 0 0 8px;
+                }
+
+                .pdp-sku,
+                .pdp-stock {
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    color: #888;
+                    margin: 0 0 12px;
+                }
+
+                .pdp-variant-picker {
+                    margin-bottom: 24px;
+                }
+
+                .pdp-variant-option-group + .pdp-variant-option-group {
+                    margin-top: 16px;
+                }
+
+                .pdp-variant-options {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 8px;
+                    margin-top: 8px;
+                }
+
+                .pdp-variant-chip {
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    padding: 8px 14px;
+                    border: 1px solid #e0e0da;
+                    background: #fff;
+                    cursor: pointer;
+                    transition: border-color 0.2s ease, background 0.2s ease;
+                }
+
+                .pdp-variant-chip:hover {
+                    border-color: #060606;
+                }
+
+                .pdp-variant-chip--active {
+                    border-color: #060606;
+                    background: #060606;
+                    color: #fff;
+                }
+
+                .pdp-template-specs {
+                    margin-top: 28px;
+                    padding-top: 24px;
+                    border-top: 1px solid #f0f0ec;
+                }
+
+                .pdp-spec-grid {
+                    display: grid;
+                    gap: 12px 24px;
+                    margin: 12px 0 0;
+                }
+
+                .pdp-spec-grid--two-column {
+                    grid-template-columns: repeat(2, minmax(0, 1fr));
+                }
+
+                .pdp-spec-row dt {
+                    font-family: Poppins, sans-serif;
+                    font-size: 10px;
+                    text-transform: uppercase;
+                    letter-spacing: 0.08em;
+                    color: #999;
+                    margin-bottom: 4px;
+                }
+
+                .pdp-spec-row dd {
+                    font-family: Poppins, sans-serif;
+                    font-size: 13px;
+                    color: #060606;
+                    margin: 0;
+                    line-height: 1.5;
                 }
 
                 .pdp-description {

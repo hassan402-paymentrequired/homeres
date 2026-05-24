@@ -47,6 +47,22 @@ function RulesSummary({ template }: { template: ProductTemplateRecord }) {
                     <dt className="text-muted-foreground">Minimum images</dt>
                     <dd className="font-medium">{rules.min_images ?? 0}</dd>
                 </div>
+                <div className="flex justify-between gap-4">
+                    <dt className="text-muted-foreground">PDP specs title</dt>
+                    <dd className="text-right font-medium">
+                        {rules.storefront_specs_title?.trim()
+                            ? rules.storefront_specs_title
+                            : `Template name (${template.name})`}
+                    </dd>
+                </div>
+                <div className="flex justify-between gap-4">
+                    <dt className="text-muted-foreground">PDP specs layout</dt>
+                    <dd className="font-medium">
+                        {rules.specs_layout === 'two_column'
+                            ? 'Two columns'
+                            : 'Single column'}
+                    </dd>
+                </div>
             </dl>
         </div>
     );

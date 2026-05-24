@@ -1,19 +1,26 @@
-import { Head, Link } from '@inertiajs/react';
+import { Head } from '@inertiajs/react';
 import { FolderTree, Plus } from 'lucide-react';
+import { useState } from 'react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminPagination from '@/components/admin/admin-pagination';
 import CategoryCardItem from '@/components/admin/category-card';
+import CategoryFormModal from '@/components/admin/category-form-modal';
 import { Button } from '@/components/ui/button';
 import AdminLayout from '@/layouts/admin-layout';
-import type { CategoryCard } from '@/types/category';
+import type { CategoryCard, ProductTemplateOption } from '@/types/category';
 import type { Paginated } from '@/types/pagination';
 
 type Props = {
     categories: Paginated<CategoryCard>;
+    productTemplates: ProductTemplateOption[];
 };
 
-export default function CategoriesIndex({ categories }: Props) {
+export default function CategoriesIndex({
+    categories,
+    productTemplates,
+}: Props) {
     const items = categories.data;
+    const [createOpen, setCreateOpen] = useState(false);
 
     return (
         <AdminLayout
@@ -38,11 +45,9 @@ export default function CategoriesIndex({ categories }: Props) {
                             to manage subcategories and view catalog stats.
                         </p>
                     </div>
-                    <Button asChild>
-                        <Link href="/admin/categories/create">
-                            <Plus className="size-4" />
-                            Add category
-                        </Link>
+                    <Button type="button" onClick={() => setCreateOpen(true)}>
+                        <Plus className="size-4" />
+                        Add category
                     </Button>
                 </div>
 
@@ -53,11 +58,12 @@ export default function CategoriesIndex({ categories }: Props) {
                         title="No categories yet"
                         description="Run the seeder or create your first category to start building the catalog."
                         action={
-                            <Button asChild>
-                                <Link href="/admin/categories/create">
-                                    <Plus className="size-4" />
-                                    Add category
-                                </Link>
+                            <Button
+                                type="button"
+                                onClick={() => setCreateOpen(true)}
+                            >
+                                <Plus className="size-4" />
+                                Add category
                             </Button>
                         }
                     />
@@ -75,6 +81,14 @@ export default function CategoriesIndex({ categories }: Props) {
                     </>
                 )}
             </div>
+
+            <CategoryFormModal
+                open={createOpen}
+                onOpenChange={setCreateOpen}
+                category={null}
+                parentCategory={null}
+                productTemplates={productTemplates}
+            />
         </AdminLayout>
     );
 }

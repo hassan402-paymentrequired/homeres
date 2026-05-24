@@ -8,6 +8,7 @@ use App\Http\Requests\Admin\StoreProductVariantRequest;
 use App\Http\Requests\Admin\UpdateProductVariantRequest;
 use App\Models\Product;
 use App\Models\ProductVariant;
+use App\Services\ProductImageSync;
 use App\Services\ProductVariantNaming;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -16,7 +17,10 @@ use Inertia\Response;
 
 class ProductVariantController extends Controller
 {
-    public function __construct(private ProductVariantNaming $variantNaming) {}
+    public function __construct(
+        private ProductVariantNaming $variantNaming,
+        private ProductImageSync $imageSync,
+    ) {}
 
     public function create(Product $product): Response
     {
@@ -39,10 +43,12 @@ class ProductVariantController extends Controller
     {
         $validated = $request->validated();
 
-        $product->variants()->create([
+        $variant = $product->variants()->create([
             ...$this->normalizePayload($request, $product, $validated),
             'sort_order' => $this->nextSortOrder($product),
         ]);
+
+        $this->imageSync->syncForVariant($variant, $request);
 
         return redirect()
             ->route('admin.products.show', $product)
@@ -53,6 +59,7 @@ class ProductVariantController extends Controller
     {
         abort_unless($variant->product_id === $product->id, 404);
 
+        $variant->load('images');
         $product->load([
             'category.productTemplate:id,name,slug,variant_options,rules',
         ]);
@@ -73,6 +80,7 @@ class ProductVariantController extends Controller
         abort_unless($variant->product_id === $product->id, 404);
 
         $variant->update($this->normalizePayload($request, $product, $request->validated()));
+        $this->imageSync->syncForVariant($variant, $request);
 
         return redirect()
             ->route('admin.products.show', $product)
@@ -113,6 +121,8 @@ class ProductVariantController extends Controller
      */
     private function serializeVariant(ProductVariant $variant): array
     {
+        $variant->loadMissing('images');
+
         return [
             'id' => $variant->id,
             'name' => $variant->name,
@@ -126,6 +136,7 @@ class ProductVariantController extends Controller
             'weight_kg' => $variant->weight_kg,
             'quantity' => $variant->quantity,
             'is_active' => $variant->is_active,
+            'images' => $this->imageSync->serialize($variant->images),
         ];
     }
 

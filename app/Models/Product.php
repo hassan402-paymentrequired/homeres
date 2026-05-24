@@ -63,6 +63,18 @@ class Product extends Model
     }
 
     /**
+     * Images shared across all variants (not tied to a specific SKU).
+     *
+     * @return HasMany<ProductImage, $this>
+     */
+    public function sharedImages(): HasMany
+    {
+        return $this->hasMany(ProductImage::class)
+            ->whereNull('product_variant_id')
+            ->orderBy('sort_order');
+    }
+
+    /**
      * @param  Builder<Product>  $query
      * @return Builder<Product>
      */

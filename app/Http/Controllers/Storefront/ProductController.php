@@ -15,6 +15,12 @@ class ProductController extends Controller
     {
         $model = Product::query()
             ->published()
+            ->with([
+                'brand',
+                'category.productTemplate',
+                'images',
+                'variants.images',
+            ])
             ->where(function ($query) use ($product): void {
                 $query->where('id', $product)->orWhere('handle', $product);
             })
@@ -22,7 +28,12 @@ class ProductController extends Controller
 
         $related = Product::query()
             ->published()
-            ->with(['brand', 'category', 'images', 'variants'])
+            ->with([
+                'brand',
+                'category.productTemplate',
+                'images',
+                'variants.images',
+            ])
             ->where('category_id', $model->category_id)
             ->where('id', '!=', $model->id)
             ->ordered()

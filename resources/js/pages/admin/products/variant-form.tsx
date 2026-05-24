@@ -1,5 +1,6 @@
-import { Form, Head, Link } from '@inertiajs/react';
-import { useMemo, useState } from 'react';
+import { Head, Link, router } from '@inertiajs/react';
+import { useCallback, useMemo, useState } from 'react';
+import ProductImagesField from '@/components/admin/product-images-field';
 import FormField, {
     FormSection,
     formSpanTwo,
@@ -16,6 +17,7 @@ import { Separator } from '@/components/ui/separator';
 import AdminLayout from '@/layouts/admin-layout';
 import type {
     ProductBreadcrumb,
+    ProductImage,
     ProductTemplateField,
     ProductVariantRecord,
     StockStatus,
@@ -89,8 +91,41 @@ export default function ProductVariantForm({
             product.product_template?.rules?.pricing_mode === 'on_request',
     );
     const [isActive, setIsActive] = useState(variant?.is_active ?? true);
+    const [processing, setProcessing] = useState(false);
+    const [errors, setErrors] = useState<Record<string, string>>({});
+    const [pendingFiles, setPendingFiles] = useState<File[]>([]);
+
+    const handlePendingFilesChange = useCallback((files: File[]) => {
+        setPendingFiles(files);
+    }, []);
 
     const isRemote = stockStatus === 'in_stock_remote';
+
+    const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        setProcessing(true);
+        setErrors({});
+
+        const formData = new FormData(event.currentTarget);
+        formData.delete('images[]');
+        pendingFiles.forEach((file) => formData.append('images[]', file));
+
+        const url = isEditing
+            ? `/admin/products/${product.id}/variants/${variant.id}`
+            : `/admin/products/${product.id}/variants`;
+
+        if (isEditing) {
+            formData.append('_method', 'PUT');
+        }
+
+        router.post(url, formData, {
+            forceFormData: true,
+            onError: (formErrors) => {
+                setErrors(formErrors as Record<string, string>);
+            },
+            onFinish: () => setProcessing(false),
+        });
+    };
 
     const handleOptionChange = (key: string, value: string) => {
         setOptionValues((current) => ({ ...current, [key]: value }));
@@ -120,21 +155,17 @@ export default function ProductVariantForm({
                         {isEditing ? 'Edit variant' : 'Add variant'}
                     </h1>
                     <p className="mt-2 max-w-3xl text-sm text-muted-foreground">
-                        Each variant has its own stock status, pricing, and lead
-                        times. Remote stock requires separate air and sea lead times.
+                        Each variant has its own stock status, pricing, lead times,
+                        and optional images. Product-level photos still apply when a
+                        variant has no images of its own.
                     </p>
                 </div>
 
-                <Form
-                    action={
-                        isEditing
-                            ? `/admin/products/${product.id}/variants/${variant.id}`
-                            : `/admin/products/${product.id}/variants`
-                    }
-                    method={isEditing ? 'put' : 'post'}
+                <form
+                    onSubmit={handleSubmit}
+                    encType="multipart/form-data"
                     className="w-full"
                 >
-                    {({ processing, errors }) => (
                         <Card className="border-sidebar-border/70 py-0 shadow-none">
                             <CardHeader className="border-b border-sidebar-border/70 py-6">
                                 <p className="text-sm font-medium">
@@ -146,6 +177,24 @@ export default function ProductVariantForm({
                             </CardHeader>
 
                             <CardContent className="space-y-8 py-6">
+                                <FormSection
+                                    title="Variant images"
+                                    description="Optional. Shown on the storefront when this SKU is selected; otherwise shared product photos are used."
+                                >
+                                    <ProductImagesField
+                                        existingImages={
+                                            (variant?.images as ProductImage[] | undefined) ??
+                                            []
+                                        }
+                                        onPendingFilesChange={
+                                            handlePendingFilesChange
+                                        }
+                                        error={errors.images}
+                                    />
+                                </FormSection>
+
+                                <Separator />
+
                                 <FormSection title="Identity">
                                     {hasTemplateOptions ? (
                                         <>
@@ -440,8 +489,7 @@ export default function ProductVariantForm({
                                 </Button>
                             </CardFooter>
                         </Card>
-                    )}
-                </Form>
+                </form>
             </div>
         </AdminLayout>
     );

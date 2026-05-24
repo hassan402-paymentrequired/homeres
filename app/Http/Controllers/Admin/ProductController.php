@@ -8,6 +8,7 @@ use App\Http\Requests\Admin\UpdateProductRequest;
 use App\Models\Brand;
 use App\Models\Category;
 use App\Models\Product;
+use App\Models\ProductImage;
 use App\Models\ProductVariant;
 use App\Services\ProductHandleGenerator;
 use App\Services\ProductImageSync;
@@ -110,9 +111,10 @@ class ProductController extends Controller
             'brand:id,name',
             'images',
         ]);
+        $sharedImages = $product->images->whereNull('product_variant_id');
 
         return Inertia::render('admin/products/form', [
-            'product' => $this->serialize($product),
+            'product' => $this->serialize($product, $sharedImages),
             'prefillCategoryId' => null,
             'prefillBrandId' => null,
             'categories' => $this->categoryOptions(),
@@ -146,12 +148,18 @@ class ProductController extends Controller
     }
 
     /**
+     * @param  Collection<int, ProductImage>|null  $sharedImages
      * @return array<string, mixed>
      */
-    public function serialize(Product $product): array
+    public function serialize(Product $product, $sharedImages = null): array
     {
         $category = $product->relationLoaded('category') ? $product->category : null;
         $template = $category?->relationLoaded('productTemplate') ? $category->productTemplate : null;
+        $images = $sharedImages ?? (
+            $product->relationLoaded('images')
+                ? $product->images->whereNull('product_variant_id')
+                : $product->sharedImages()->get()
+        );
 
         return [
             'id' => $product->id,
@@ -162,7 +170,7 @@ class ProductController extends Controller
             'specs' => $product->specs ?? [],
             'status' => $product->is_active ? 'published' : 'draft',
             'is_active' => $product->is_active,
-            'images' => $this->imageSync->serialize($product->images),
+            'images' => $this->imageSync->serialize($images),
             'category' => $category ? [
                 'id' => $category->id,
                 'name' => $category->name,

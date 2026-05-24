@@ -4,6 +4,7 @@ namespace App\Services;
 
 use App\Models\Product;
 use App\Models\ProductImage;
+use App\Models\ProductVariant;
 use Illuminate\Http\Request;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Collection;
@@ -15,40 +16,34 @@ class ProductImageSync
     {
         $product->load('images');
 
-        $keepIds = collect($request->input('keep_images', []))->filter()->values();
-        $altUpdates = collect($request->input('image_alts', []));
-
-        $product->images
-            ->filter(fn (ProductImage $image): bool => ! $keepIds->contains($image->id))
-            ->each(fn (ProductImage $image): bool => $this->delete($image));
-
-        $keepIds->each(function (string $id, int $position) use ($product, $altUpdates): void {
-            /** @var ProductImage|null $image */
-            $image = $product->images->firstWhere('id', $id);
-
-            if ($image === null) {
-                return;
-            }
-
-            $image->update([
-                'alt' => (string) ($altUpdates->get($id) ?? $image->alt),
-                'sort_order' => $position,
-            ]);
-        });
-
-        $uploads = collect($request->file('images', []))
-            ->filter(fn ($file): bool => $file instanceof UploadedFile);
-
-        $uploads->each(function (UploadedFile $file, int $index) use ($product, $keepIds): void {
-            $path = $file->store("products/{$product->id}", 'public');
-
-            $product->images()->create([
-                'path' => $path,
+        $this->syncCollection(
+            $product->images->whereNull('product_variant_id'),
+            $request,
+            fn (UploadedFile $file, int $index) => $product->images()->create([
+                'path' => $file->store("products/{$product->id}", 'public'),
                 'url' => null,
                 'alt' => '',
-                'sort_order' => $keepIds->count() + $index,
-            ]);
-        });
+                'sort_order' => $this->nextSortOrder($request, $index),
+                'product_variant_id' => null,
+            ]),
+        );
+    }
+
+    public function syncForVariant(ProductVariant $variant, Request $request): void
+    {
+        $variant->load('images');
+
+        $this->syncCollection(
+            $variant->images,
+            $request,
+            fn (UploadedFile $file, int $index) => $variant->images()->create([
+                'product_id' => $variant->product_id,
+                'path' => $file->store("products/{$variant->product_id}/variants/{$variant->id}", 'public'),
+                'url' => null,
+                'alt' => '',
+                'sort_order' => $this->nextSortOrder($request, $index),
+            ]),
+        );
     }
 
     public function deleteAll(Product $product): void
@@ -78,6 +73,41 @@ class ProductImageSync
                 'position' => (int) $image->sort_order,
             ])
             ->all();
+    }
+
+    /**
+     * @param  Collection<int, ProductImage>  $images
+     */
+    private function syncCollection(Collection $images, Request $request, callable $createUpload): void
+    {
+        $keepIds = collect($request->input('keep_images', []))->filter()->values();
+        $altUpdates = collect($request->input('image_alts', []));
+
+        $images
+            ->filter(fn (ProductImage $image): bool => ! $keepIds->contains($image->id))
+            ->each(fn (ProductImage $image): bool => $this->delete($image));
+
+        $keepIds->each(function (string $id, int $position) use ($images, $altUpdates): void {
+            $image = $images->firstWhere('id', $id);
+
+            if ($image === null) {
+                return;
+            }
+
+            $image->update([
+                'alt' => (string) ($altUpdates->get($id) ?? $image->alt),
+                'sort_order' => $position,
+            ]);
+        });
+
+        collect($request->file('images', []))
+            ->filter(fn ($file): bool => $file instanceof UploadedFile)
+            ->each($createUpload);
+    }
+
+    private function nextSortOrder(Request $request, int $uploadIndex): int
+    {
+        return collect($request->input('keep_images', []))->filter()->count() + $uploadIndex;
     }
 
     private function delete(ProductImage $image): bool

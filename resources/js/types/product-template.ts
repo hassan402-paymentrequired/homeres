@@ -47,6 +47,11 @@ export const PRICING_MODE_OPTIONS = [
     { value: 'on_request', label: 'Price on request' },
 ] as const;
 
+export const SPECS_LAYOUT_OPTIONS = [
+    { value: 'single', label: 'Single column' },
+    { value: 'two_column', label: 'Two columns' },
+] as const;
+
 export type EditableTemplateField = {
     id: string;
     key: string;

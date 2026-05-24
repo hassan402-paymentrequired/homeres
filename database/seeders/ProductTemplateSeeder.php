@@ -117,6 +117,7 @@ class ProductTemplateSeeder extends Seeder
                 'pricing_mode' => 'fixed',
                 'requires_brand' => true,
                 'min_images' => 1,
+                'specs_layout' => 'two_column',
             ],
         ],
         'wallpaper' => [

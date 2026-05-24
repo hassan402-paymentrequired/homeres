@@ -13,8 +13,10 @@ import { Input } from '@/components/ui/input';
 import { Separator } from '@/components/ui/separator';
 import { Textarea } from '@/components/ui/textarea';
 import AdminLayout from '@/layouts/admin-layout';
+import type { ProductTemplateSpecsLayout } from '@/types/product';
 import {
     PRICING_MODE_OPTIONS,
+    SPECS_LAYOUT_OPTIONS,
     type ProductTemplateBreadcrumb,
     type ProductTemplateRecord,
     toEditableFields,
@@ -45,6 +47,9 @@ export default function ProductTemplateForm({
     );
     const [requiresBrand, setRequiresBrand] = useState(
         template?.rules.requires_brand ?? true,
+    );
+    const [specsLayout, setSpecsLayout] = useState<ProductTemplateSpecsLayout>(
+        template?.rules.specs_layout ?? 'single',
     );
     const [processing, setProcessing] = useState(false);
 
@@ -240,6 +245,59 @@ export default function ProductTemplateForm({
                                         </p>
                                     </div>
                                 </div>
+                            </FormSection>
+
+                            <Separator />
+
+                            <FormSection
+                                title="Storefront (product page)"
+                                description="Controls how spec fields appear on the public product page. Field labels and order come from spec fields above."
+                            >
+                                <FormField
+                                    label="Specs section title"
+                                    htmlFor="rules_storefront_specs_title"
+                                    error={errors['rules.storefront_specs_title']}
+                                    hint="Optional. Leave blank to use the template name."
+                                    className={formSpanTwo}
+                                >
+                                    <Input
+                                        id="rules_storefront_specs_title"
+                                        name="rules[storefront_specs_title]"
+                                        defaultValue={
+                                            template?.rules
+                                                .storefront_specs_title ?? ''
+                                        }
+                                        placeholder={
+                                            template?.name ??
+                                            'e.g. Publication details'
+                                        }
+                                    />
+                                </FormField>
+
+                                <FormField
+                                    label="Specs layout"
+                                    htmlFor="rules_specs_layout"
+                                    error={errors['rules.specs_layout']}
+                                    hint="Two columns works well for many short spec rows (e.g. books)."
+                                >
+                                    <input
+                                        type="hidden"
+                                        name="rules[specs_layout]"
+                                        value={specsLayout}
+                                    />
+                                    <SearchableSelect
+                                        id="rules_specs_layout"
+                                        value={specsLayout}
+                                        onValueChange={(value) =>
+                                            setSpecsLayout(
+                                                value as ProductTemplateSpecsLayout,
+                                            )
+                                        }
+                                        placeholder="Select layout…"
+                                        searchPlaceholder="Search…"
+                                        options={[...SPECS_LAYOUT_OPTIONS]}
+                                    />
+                                </FormField>
                             </FormSection>
                         </CardContent>
 

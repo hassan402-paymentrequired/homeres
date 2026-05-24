@@ -43,6 +43,8 @@ class StoreProductTemplateRequest extends FormRequest
             'rules.pricing_mode' => ['required', Rule::in(['fixed', 'on_request'])],
             'rules.requires_brand' => ['boolean'],
             'rules.min_images' => ['nullable', 'integer', 'min:0', 'max:20'],
+            'rules.storefront_specs_title' => ['nullable', 'string', 'max:255'],
+            'rules.specs_layout' => ['nullable', Rule::in(['single', 'two_column'])],
         ];
     }
 }

@@ -167,11 +167,7 @@ class ProductTemplateController extends Controller
             'variant_options' => $this->fieldNormalizer->normalize(
                 is_array($validated['variant_options'] ?? null) ? $validated['variant_options'] : [],
             ),
-            'rules' => [
-                'pricing_mode' => $validated['rules']['pricing_mode'] ?? 'fixed',
-                'requires_brand' => $request->boolean('rules.requires_brand'),
-                'min_images' => (int) ($validated['rules']['min_images'] ?? 0),
-            ],
+            'rules' => $this->buildRules($request, $validated),
         ];
     }
 
@@ -181,11 +177,36 @@ class ProductTemplateController extends Controller
      */
     private function normalizeRules(array $rules): array
     {
+        $specsTitle = isset($rules['storefront_specs_title'])
+            ? trim((string) $rules['storefront_specs_title'])
+            : '';
+
+        $specsLayout = $rules['specs_layout'] ?? 'single';
+
         return [
             'pricing_mode' => $rules['pricing_mode'] ?? 'fixed',
             'requires_brand' => (bool) ($rules['requires_brand'] ?? false),
             'min_images' => (int) ($rules['min_images'] ?? 0),
+            'storefront_specs_title' => $specsTitle !== '' ? $specsTitle : null,
+            'specs_layout' => $specsLayout === 'two_column' ? 'two_column' : 'single',
         ];
+    }
+
+    /**
+     * @param  array<string, mixed>  $validated
+     * @return array<string, mixed>
+     */
+    private function buildRules(Request $request, array $validated): array
+    {
+        $rules = $validated['rules'] ?? [];
+
+        return $this->normalizeRules([
+            'pricing_mode' => $rules['pricing_mode'] ?? 'fixed',
+            'requires_brand' => $request->boolean('rules.requires_brand'),
+            'min_images' => (int) ($rules['min_images'] ?? 0),
+            'storefront_specs_title' => $rules['storefront_specs_title'] ?? null,
+            'specs_layout' => $rules['specs_layout'] ?? 'single',
+        ]);
     }
 
     /**

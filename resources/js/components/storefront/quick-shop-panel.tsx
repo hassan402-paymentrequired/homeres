@@ -1,8 +1,14 @@
 import { Link } from '@inertiajs/react';
 import { useState } from 'react';
+import ProductVariantPicker from '@/components/storefront/product-variant-picker';
 import { useCart } from '@/context/CartContext';
-import type { StorefrontProduct } from '@/types/storefront-product';
 import { storefrontProductToCartItem } from '@/lib/cart';
+import {
+    resolveDisplayImages,
+    resolveSelectedVariant,
+    variantOptionLabels,
+} from '@/lib/storefront-product-display';
+import type { StorefrontProduct } from '@/types/storefront-product';
 
 interface QuickShopPanelProps {
     product: StorefrontProduct;
@@ -12,11 +18,23 @@ interface QuickShopPanelProps {
 export default function QuickShopPanel({ product, onClose }: QuickShopPanelProps) {
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
+    const [selectedVariantId, setSelectedVariantId] = useState<string | null>(
+        product.defaultVariantId ?? product.variants?.[0]?.id ?? null,
+    );
     const { addItem, openCart } = useCart();
+
+    const selectedVariant = resolveSelectedVariant(product, selectedVariantId);
+    const displayImages = resolveDisplayImages(product, selectedVariant);
 
     const handleAdd = () => {
         for (let i = 0; i < quantity; i++) {
-            addItem(storefrontProductToCartItem(product));
+            addItem(
+                storefrontProductToCartItem(
+                    product,
+                    selectedVariant?.id,
+                    displayImages,
+                ),
+            );
         }
 
         setAdded(true);
@@ -43,6 +61,16 @@ export default function QuickShopPanel({ product, onClose }: QuickShopPanelProps
             }}
             onClick={(e) => e.stopPropagation()}
         >
+            {product.variants && product.variants.length > 1 && (
+                <div style={{ marginBottom: '4px' }}>
+                    <ProductVariantPicker
+                        variants={product.variants}
+                        selectedId={selectedVariant?.id ?? null}
+                        onSelect={setSelectedVariantId}
+                        optionLabels={variantOptionLabels(product)}
+                    />
+                </div>
+            )}
             <div
                 style={{
                     display: 'flex',

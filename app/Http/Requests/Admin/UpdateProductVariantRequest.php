@@ -50,6 +50,12 @@ class UpdateProductVariantRequest extends FormRequest
             'weight_kg' => ['nullable', 'numeric', 'min:0'],
             'quantity' => ['nullable', 'integer', 'min:0'],
             'is_active' => ['boolean'],
+            'images' => ['nullable', 'array'],
+            'images.*' => ['image', 'max:5120'],
+            'keep_images' => ['nullable', 'array'],
+            'keep_images.*' => ['string', 'max:26'],
+            'image_alts' => ['nullable', 'array'],
+            'image_alts.*' => ['nullable', 'string', 'max:255'],
         ];
     }
 

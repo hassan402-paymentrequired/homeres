@@ -20,7 +20,7 @@ class ProductImageFactory extends Factory
             'product_id' => Product::factory(),
             'path' => 'products/'.fake()->uuid().'.jpg',
             'url' => null,
-            'alt' => fake()->optional()->sentence(3),
+            'alt' => '',
             'sort_order' => 0,
         ];
     }
