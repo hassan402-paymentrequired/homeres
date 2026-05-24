@@ -26,6 +26,7 @@ test('product card image uses storage url when url is empty', function () {
         'product_id' => $product->id,
         'url' => null,
         'path' => 'catalog/sofa.jpg',
+        'alt' => 'Sofa',
     ]);
 
     $this->get(route('shop'))

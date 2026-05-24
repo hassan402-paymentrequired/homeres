@@ -102,14 +102,14 @@ final class StorefrontCatalogQuery
     public function applySort(Builder $query, string $sort): void
     {
         match ($sort) {
-            'name' => $query->orderBy('name'),
-            'price-asc' => $query->orderByRaw(
+            'name' => $query->reorder()->orderBy('name'),
+            'price-asc' => $query->reorder()->orderByRaw(
                 '(select min(price) from product_variants where product_variants.product_id = products.id and product_variants.is_active = 1 and product_variants.price is not null and product_variants.price > 0) asc'
-            ),
-            'price-desc' => $query->orderByRaw(
+            )->orderBy('name'),
+            'price-desc' => $query->reorder()->orderByRaw(
                 '(select min(price) from product_variants where product_variants.product_id = products.id and product_variants.is_active = 1 and product_variants.price is not null and product_variants.price > 0) desc'
-            ),
-            default => $query->ordered(),
+            )->orderBy('name'),
+            default => null,
         };
     }
 

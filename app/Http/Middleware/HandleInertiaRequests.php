@@ -2,6 +2,7 @@
 
 namespace App\Http\Middleware;
 
+use App\Support\Storefront\StorefrontCurrencyResolver;
 use App\Support\Storefront\StorefrontNavigationBuilder;
 use Illuminate\Http\Request;
 use Inertia\Middleware;
@@ -42,6 +43,9 @@ class HandleInertiaRequests extends Middleware
             'storefrontNav' => $request->is('admin', 'admin/*')
                 ? []
                 : app(StorefrontNavigationBuilder::class)->build(),
+            'storefrontCurrency' => $request->is('admin', 'admin/*')
+                ? null
+                : app(StorefrontCurrencyResolver::class)->resolve($request)->toArray(),
             'auth' => [
                 'user' => $request->user(),
                 'admin' => $request->user('admin'),

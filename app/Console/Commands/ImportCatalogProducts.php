@@ -10,7 +10,9 @@ class ImportCatalogProducts extends Command
     protected $signature = 'catalog:import-products
                             {--collection= : Import a single collection handle}
                             {--limit=0 : Maximum products per collection (0 = unlimited)}
-                            {--dry-run : Preview without writing to the database}';
+                            {--dry-run : Preview without writing to the database}
+                            {--publish : Mark imported products as active on the storefront}
+                            {--refresh : Update prices and variants for products already in the database}';
 
     protected $description = 'Import scraped products from public/output/collections into the admin catalog';
 
@@ -20,9 +22,12 @@ class ImportCatalogProducts extends Command
             collection: $this->option('collection'),
             limit: (int) $this->option('limit'),
             dryRun: (bool) $this->option('dry-run'),
+            publish: (bool) $this->option('publish'),
+            refresh: (bool) $this->option('refresh'),
         );
 
         $this->info("Imported: {$result['imported']}");
+        $this->line("Updated: {$result['updated']}");
         $this->line("Skipped: {$result['skipped']}");
         $this->line("Missing category: {$result['missing_category']}");
         $this->line("Missing brand: {$result['missing_brand']}");

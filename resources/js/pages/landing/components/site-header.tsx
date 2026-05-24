@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import MegaMenu from '@/components/storefront/mega-menu';
 import PreviewBanner from '@/components/storefront/preview-banner';
 import SearchOverlay from '@/components/storefront/search-overlay';
+import StorefrontCurrencySelect from '@/components/storefront/storefront-currency-select';
 import { useCart } from '@/context/CartContext';
 import {
     hasDropdown,
@@ -431,6 +432,7 @@ export default function SiteHeader() {
                             </Link>
                         </div>
                         <div className="header-right">
+                            <StorefrontCurrencySelect />
                             <button type="button" className="header-icon-btn" onClick={openSearch} aria-label="Open search">
                                 {searchIcon}
                             </button>

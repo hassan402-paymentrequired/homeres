@@ -201,6 +201,23 @@ export default function ProductCard({
                     href={product.href}
                     style={{ textDecoration: 'none', display: 'block' }}
                 >
+                    {(product.brand || product.category) && (
+                        <p
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '10px',
+                                fontWeight: 400,
+                                letterSpacing: '0.5px',
+                                textTransform: 'uppercase',
+                                color: '#999',
+                                margin: '0 0 6px',
+                            }}
+                        >
+                            {[product.brand, product.category]
+                                .filter(Boolean)
+                                .join(' · ')}
+                        </p>
+                    )}
                     <p
                         style={{
                             fontFamily: 'Poppins, sans-serif',

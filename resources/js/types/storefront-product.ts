@@ -26,6 +26,7 @@ export type StorefrontProduct = {
     price: number | null;
     priceFormatted: string;
     priceOnRequest: boolean;
+    currency?: string;
     category: string;
     categorySlug: string;
     description: string;

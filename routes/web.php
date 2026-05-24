@@ -7,6 +7,7 @@ use App\Http\Controllers\Storefront\ProductController;
 use App\Http\Controllers\Storefront\ProductLookupController;
 use App\Http\Controllers\Storefront\SearchController;
 use App\Http\Controllers\Storefront\ShopController;
+use App\Http\Controllers\Storefront\StorefrontCurrencyController;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
@@ -38,6 +39,7 @@ Route::get('/brands', ShopController::class)->name('brands');
 Route::get('/products/{product}', [ProductController::class, 'show'])->name('products.show');
 Route::post('/storefront/products/lookup', ProductLookupController::class)->name('storefront.products.lookup');
 Route::get('/storefront/search', SearchController::class)->name('storefront.search');
+Route::post('/storefront/currency', [StorefrontCurrencyController::class, 'update'])->name('storefront.currency');
 
 Route::get('/checkout', [CheckoutController::class, 'create'])->name('checkout');
 Route::post('/checkout', [CheckoutController::class, 'store'])->name('checkout.store');

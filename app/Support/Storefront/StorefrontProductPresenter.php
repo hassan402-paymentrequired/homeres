@@ -10,6 +10,8 @@ final class StorefrontProductPresenter
 {
     public function __construct(
         private ProductImageUrl $imageUrl,
+        private StorefrontCurrencyResolver $currencyResolver,
+        private StorefrontPriceConverter $priceConverter,
     ) {}
 
     /**
@@ -19,7 +21,8 @@ final class StorefrontProductPresenter
     {
         $product->loadMissing(['brand', 'category', 'images', 'variants']);
 
-        $variant = $this->defaultVariant($product);
+        $variant = $this->displayVariant($product);
+        $pricing = $this->presentPricing($product, $variant);
 
         return [
             'id' => $product->id,
@@ -27,13 +30,11 @@ final class StorefrontProductPresenter
             'name' => $product->name,
             'brand' => $product->brand?->name ?? '',
             'brandHandle' => $product->brand?->handle ?? '',
-            'price' => $variant?->price !== null ? (float) $variant->price : null,
-            'priceFormatted' => StorefrontMoney::format(
-                $variant?->price !== null ? (float) $variant->price : null,
-                (bool) ($variant?->price_on_request ?? true),
-            ),
-            'priceOnRequest' => (bool) ($variant?->price_on_request ?? true),
-            'category' => $product->category?->name ?? '',
+            'price' => $pricing['price'],
+            'priceFormatted' => $pricing['priceFormatted'],
+            'priceOnRequest' => $pricing['priceOnRequest'],
+            'currency' => $pricing['currency'],
+            'category' => $this->categoryLabel($product),
             'categorySlug' => $product->category?->handle ?? '',
             'description' => (string) ($product->description ?? ''),
             'images' => $this->images($product),
@@ -59,7 +60,7 @@ final class StorefrontProductPresenter
     {
         $product->loadMissing(['brand', 'category', 'images', 'variants']);
 
-        $variant = $this->defaultVariant($product);
+        $variant = $this->displayVariant($product);
         $card = $this->card($product);
 
         return [
@@ -81,16 +82,17 @@ final class StorefrontProductPresenter
      */
     public function variant(ProductVariant $variant): array
     {
+        $variant->loadMissing('product');
+        $pricing = $this->presentPricing($variant->product, $variant);
+
         return [
             'id' => $variant->id,
             'name' => $variant->name,
             'sku' => $variant->sku,
-            'price' => $variant->price !== null ? (float) $variant->price : null,
-            'priceFormatted' => StorefrontMoney::format(
-                $variant->price !== null ? (float) $variant->price : null,
-                (bool) $variant->price_on_request,
-            ),
-            'priceOnRequest' => (bool) $variant->price_on_request,
+            'price' => $pricing['price'],
+            'priceFormatted' => $pricing['priceFormatted'],
+            'priceOnRequest' => $pricing['priceOnRequest'],
+            'currency' => $pricing['currency'],
             'stockStatus' => $variant->stock_status->value,
             'stockStatusLabel' => $variant->stock_status->label(),
             'leadTimeDaysAir' => $variant->lead_time_days_air,
@@ -99,10 +101,75 @@ final class StorefrontProductPresenter
         ];
     }
 
-    private function defaultVariant(Product $product): ?ProductVariant
+    private function displayVariant(Product $product): ?ProductVariant
     {
-        return $product->variants->firstWhere('is_active', true)
-            ?? $product->variants->first();
+        $active = $product->variants->where('is_active', true);
+
+        if ($active->isEmpty()) {
+            return $product->variants->first();
+        }
+
+        $priced = $active->filter(
+            fn (ProductVariant $variant): bool => ! $variant->price_on_request
+                && $variant->price !== null
+                && (float) $variant->price > 0,
+        );
+
+        if ($priced->isNotEmpty()) {
+            return $priced->sortBy(fn (ProductVariant $variant): float => (float) $variant->price)->first();
+        }
+
+        return $active->first() ?? $product->variants->first();
+    }
+
+    private function categoryLabel(Product $product): string
+    {
+        $name = $product->category?->name ?? '';
+
+        if ($name === '') {
+            return '';
+        }
+
+        $cleaned = preg_replace('/\s*\(All\)\s*$/i', '', $name);
+
+        return is_string($cleaned) && $cleaned !== '' ? $cleaned : $name;
+    }
+
+    private function sourceCurrency(Product $product): string
+    {
+        if (! is_array($product->specs)) {
+            return 'EUR';
+        }
+
+        $currency = $product->specs['currency'] ?? null;
+
+        return is_string($currency) && $currency !== '' ? strtoupper($currency) : 'EUR';
+    }
+
+    /**
+     * @return array{
+     *     price: float|null,
+     *     priceFormatted: string,
+     *     priceOnRequest: bool,
+     *     currency: string,
+     * }
+     */
+    private function presentPricing(Product $product, ?ProductVariant $variant): array
+    {
+        $priceOnRequest = (bool) ($variant?->price_on_request ?? true);
+        $context = $this->currencyResolver->resolve();
+        $sourceCurrency = $this->sourceCurrency($product);
+        $sourceAmount = $variant?->price !== null ? (float) $variant->price : null;
+        $displayAmount = $sourceAmount !== null
+            ? $this->priceConverter->convert($sourceAmount, $sourceCurrency, $context->currency)
+            : null;
+
+        return [
+            'price' => $displayAmount,
+            'priceFormatted' => StorefrontMoney::format($displayAmount, $priceOnRequest, $context->currency),
+            'priceOnRequest' => $priceOnRequest,
+            'currency' => $context->currency,
+        ];
     }
 
     /**
@@ -130,7 +197,7 @@ final class StorefrontProductPresenter
         }
 
         return collect($product->specs)
-            ->except(['dimensions', 'material'])
+            ->except(['dimensions', 'material', 'currency'])
             ->filter(fn ($value): bool => filled($value))
             ->map(fn ($value, string $key): string => str($key)->replace('_', ' ')->title()->toString().': '.$value)
             ->values()

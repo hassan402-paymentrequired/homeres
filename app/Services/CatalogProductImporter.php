@@ -8,6 +8,7 @@ use App\Models\Category;
 use App\Models\Product;
 use App\Models\ProductVariant;
 use App\Models\StoreSetting;
+use App\Support\Catalog\ScrapedProductPricing;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
 
@@ -15,15 +16,22 @@ class CatalogProductImporter
 {
     public function __construct(
         private ProductHandleGenerator $handleGenerator,
+        private ScrapedProductPricing $pricing,
     ) {}
 
     /**
-     * @return array{imported: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}
+     * @return array{imported: int, updated: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}
      */
-    public function import(?string $collection = null, int $limit = 50, bool $dryRun = false, bool $publish = false): array
-    {
+    public function import(
+        ?string $collection = null,
+        int $limit = 50,
+        bool $dryRun = false,
+        bool $publish = false,
+        bool $refresh = false,
+    ): array {
         $result = [
             'imported' => 0,
+            'updated' => 0,
             'skipped' => 0,
             'missing_category' => 0,
             'missing_brand' => 0,
@@ -33,16 +41,16 @@ class CatalogProductImporter
         $files = $this->collectionFiles($collection);
 
         foreach ($files as $file) {
-            $this->importCollectionFile($file, $limit, $dryRun, $publish, $result);
+            $this->importCollectionFile($file, $limit, $dryRun, $publish, $refresh, $result);
         }
 
         return $result;
     }
 
     /**
-     * @param  array{imported: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
+     * @param  array{imported: int, updated: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
      */
-    private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, array &$result): void
+    private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, bool $refresh, array &$result): void
     {
         /** @var array{handle?: string, products?: array<int, array<string, mixed>>} $payload */
         $payload = json_decode(File::get($file), true, flags: JSON_THROW_ON_ERROR);
@@ -76,7 +84,9 @@ class CatalogProductImporter
                 continue;
             }
 
-            if (Product::query()->where('handle', $productHandle)->exists()) {
+            $existing = Product::query()->where('handle', $productHandle)->first();
+
+            if ($existing !== null && ! $refresh) {
                 $result['skipped']++;
 
                 continue;
@@ -91,7 +101,15 @@ class CatalogProductImporter
             }
 
             if ($dryRun) {
-                $result['imported']++;
+                $result[$existing !== null ? 'updated' : 'imported']++;
+                $importedInFile++;
+
+                continue;
+            }
+
+            if ($existing !== null) {
+                $this->syncProduct($existing, $entry, $category, $brand);
+                $result['updated']++;
                 $importedInFile++;
 
                 continue;
@@ -103,7 +121,7 @@ class CatalogProductImporter
                 'name' => (string) ($entry['title'] ?? $productHandle),
                 'handle' => $productHandle,
                 'description' => $this->plainDescription($entry),
-                'specs' => null,
+                'specs' => $this->productSpecs($entry),
                 'is_active' => $defaultPublished,
                 'sort_order' => $this->nextProductSortOrder(),
             ]);
@@ -154,9 +172,46 @@ class CatalogProductImporter
     /**
      * @param  array<string, mixed>  $entry
      */
+    /**
+     * @param  array<string, mixed>  $entry
+     */
+    private function syncProduct(Product $product, array $entry, Category $category, Brand $brand): void
+    {
+        $product->update([
+            'category_id' => $category->id,
+            'brand_id' => $brand->id,
+            'name' => (string) ($entry['title'] ?? $product->handle),
+            'description' => $this->plainDescription($entry),
+            'specs' => $this->productSpecs($entry),
+        ]);
+
+        $product->variants()->delete();
+        $this->importVariants($product, $entry);
+    }
+
+    /**
+     * @param  array<string, mixed>  $entry
+     * @return array<string, mixed>|null
+     */
+    private function productSpecs(array $entry): ?array
+    {
+        $currency = filled($entry['currency'] ?? null)
+            ? strtoupper((string) $entry['currency'])
+            : null;
+
+        if ($currency === null) {
+            return null;
+        }
+
+        return ['currency' => $currency];
+    }
+
+    /**
+     * @param  array<string, mixed>  $entry
+     */
     private function plainDescription(array $entry): ?string
     {
-        $html = (string) ($entry['body_html'] ?? '');
+        $html = (string) ($entry['description_html'] ?? $entry['body_html'] ?? '');
 
         if ($html === '') {
             return null;
@@ -194,6 +249,8 @@ class CatalogProductImporter
     private function importVariants(Product $product, array $entry): void
     {
         $variants = $entry['variants'] ?? [];
+        $variantCount = is_countable($variants) ? count($variants) : 0;
+        $productAvailable = (bool) ($entry['available'] ?? true);
         $sort = 0;
 
         foreach ($variants as $variant) {
@@ -202,9 +259,9 @@ class CatalogProductImporter
                 ? 'Default'
                 : $title;
 
-            $price = (float) ($variant['price'] ?? 0);
-            $priceOnRequest = $price <= 0;
-            $available = (bool) ($variant['available'] ?? true);
+            $price = $this->pricing->resolveVariantPrice($entry, $variant, $variantCount);
+            $priceOnRequest = $price === null;
+            $available = (bool) ($variant['available'] ?? $productAvailable);
 
             $sku = filled($variant['sku'] ?? null) ? (string) $variant['sku'] : null;
 
@@ -217,7 +274,7 @@ class CatalogProductImporter
                 'name' => $name,
                 'sku' => $sku,
                 'option_values' => $this->mapOptionValues($variant),
-                'price' => $priceOnRequest ? null : $price,
+                'price' => $price,
                 'price_on_request' => $priceOnRequest,
                 'stock_status' => $available
                     ? StockStatus::InStockRemote->value
@@ -232,16 +289,22 @@ class CatalogProductImporter
         }
 
         if ($variants === []) {
+            $price = $this->pricing->parse($entry['price_min'] ?? null)
+                ?? $this->pricing->parse($entry['price_max'] ?? null);
+            $priceOnRequest = $price === null;
+
             ProductVariant::query()->create([
                 'product_id' => $product->id,
                 'name' => 'Default',
                 'sku' => null,
                 'option_values' => null,
-                'price' => null,
-                'price_on_request' => true,
-                'stock_status' => StockStatus::OutOfStock->value,
-                'lead_time_days_air' => null,
-                'lead_time_days_sea' => null,
+                'price' => $price,
+                'price_on_request' => $priceOnRequest,
+                'stock_status' => $productAvailable
+                    ? StockStatus::InStockRemote->value
+                    : StockStatus::OutOfStock->value,
+                'lead_time_days_air' => $productAvailable ? 14 : null,
+                'lead_time_days_sea' => $productAvailable ? 45 : null,
                 'weight_kg' => null,
                 'quantity' => null,
                 'is_active' => true,

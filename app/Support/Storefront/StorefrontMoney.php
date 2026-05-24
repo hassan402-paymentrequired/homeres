@@ -4,12 +4,25 @@ namespace App\Support\Storefront;
 
 final class StorefrontMoney
 {
-    public static function format(?float $amount, bool $priceOnRequest = false): string
+    /**
+     * @var array<string, string>
+     */
+    private const SYMBOLS = [
+        'EUR' => '€',
+        'NGN' => '₦',
+        'USD' => '$',
+        'GBP' => '£',
+    ];
+
+    public static function format(?float $amount, bool $priceOnRequest = false, string $currency = 'NGN'): string
     {
         if ($priceOnRequest || $amount === null || $amount <= 0) {
             return 'Price on request';
         }
 
-        return '₦'.number_format($amount, 2, '.', ',');
+        $code = strtoupper($currency);
+        $symbol = self::SYMBOLS[$code] ?? $code.' ';
+
+        return $symbol.number_format($amount, 2, '.', ',');
     }
 }
