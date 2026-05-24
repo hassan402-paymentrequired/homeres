@@ -23,13 +23,13 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'decor-accessories',
             'label' => 'Home Decor',
-            'image' => '/assets/images/Sitting-white-Mickey.jpg',
+            'image' => '/assets/images/home-decor.jpg',
             'alt' => 'Curated home decor including vases, mirrors, and wall art',
         ],
         [
             'handle' => 'home-fragrance',
             'label' => 'Home Fragrances',
-            'image' => 'https://img.rocket.new/generatedImages/rocket_gen_img_13d13c4a5-1772135351858.png',
+            'image' => '/assets/images/Baobab Rainforest Amazonia max 10.jpg',
             'alt' => 'Luxury candles and home fragrance collection',
         ],
         [
