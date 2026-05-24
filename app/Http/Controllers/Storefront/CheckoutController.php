@@ -10,6 +10,7 @@ use App\Services\CheckoutService;
 use App\Services\PaystackService;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response as HttpResponse;
 use Inertia\Inertia;
 use Inertia\Response;
 
@@ -27,7 +28,7 @@ class CheckoutController extends Controller
         StoreCheckoutRequest $request,
         CheckoutService $checkout,
         PaystackService $paystack,
-    ): RedirectResponse {
+    ): RedirectResponse|HttpResponse {
         $order = $checkout->place($request->validated());
 
         if ($order->payment_status === PaymentStatus::NotRequired) {
@@ -48,7 +49,7 @@ class CheckoutController extends Controller
         return Inertia::location($payment['authorization_url']);
     }
 
-    public function callback(Request $request, CheckoutService $checkout, PaystackService $paystack): RedirectResponse
+    public function callback(Request $request, CheckoutService $checkout, PaystackService $paystack)
     {
         $reference = (string) $request->query('reference', '');
 

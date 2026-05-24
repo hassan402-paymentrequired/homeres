@@ -1,5 +1,6 @@
 import { Link, router } from '@inertiajs/react';
 import type { CSSProperties } from 'react';
+import StorefrontSelect from '@/components/storefront/storefront-select';
 import {
     buildCatalogUrl,
     type CatalogFilters,
@@ -20,16 +21,10 @@ type CategoryContext = {
 
 type CatalogView = 'shop' | 'category' | 'collection' | 'brand' | 'brands' | 'new';
 
-const selectStyle: CSSProperties = {
-    fontFamily: 'Poppins, sans-serif',
-    fontSize: '12px',
-    padding: '10px 12px',
-    border: '1px solid #e8e8e1',
-    background: '#fff',
-    color: '#060606',
-    minWidth: 0,
+const selectLayoutStyle: CSSProperties = {
     flex: '1 1 140px',
     maxWidth: '100%',
+    minWidth: 0,
 };
 
 const iconButtonStyle = (active: boolean): CSSProperties => ({
@@ -121,6 +116,34 @@ export default function CatalogFilterBar({
         router.get(`/shop/${value}`, {}, { preserveState: true, preserveScroll: true });
     };
 
+    const departmentOptions = [
+        {
+            value: '',
+            label: isBrandPage ? 'All categories' : 'All departments',
+        },
+        ...sidebarCategories.map((cat) => ({
+            value: cat.handle,
+            label: cat.label,
+        })),
+    ];
+
+    const subcategoryOptions = categoryContext
+        ? [
+              { value: '', label: `All ${categoryContext.label}` },
+              ...categoryContext.children.map((child) => ({
+                  value: child.handle,
+                  label: child.label,
+              })),
+          ]
+        : [];
+
+    const sortOptions = [
+        { value: 'featured', label: 'Featured' },
+        { value: 'price-asc', label: 'Price: Low to High' },
+        { value: 'price-desc', label: 'Price: High to Low' },
+        { value: 'name', label: 'Name: A–Z' },
+    ];
+
     return (
         <div
             className="catalog-filter-bar"
@@ -134,54 +157,37 @@ export default function CatalogFilterBar({
             }}
         >
             {!isNewPage && (
-                <select
-                    aria-label="Department"
+                <StorefrontSelect
+                    ariaLabel="Department"
                     value={departmentValue}
-                    onChange={(e) => handleDepartmentChange(e.target.value)}
-                    style={selectStyle}
-                >
-                    <option value="">
-                        {isBrandPage ? 'All categories' : 'All departments'}
-                    </option>
-                    {sidebarCategories.map((cat) => (
-                        <option key={cat.handle} value={cat.handle}>
-                            {cat.label}
-                        </option>
-                    ))}
-                </select>
+                    onValueChange={handleDepartmentChange}
+                    options={departmentOptions}
+                    placeholder={isBrandPage ? 'All categories' : 'All departments'}
+                    searchable
+                    style={selectLayoutStyle}
+                />
             )}
 
             {categoryContext && categoryContext.children.length > 0 && (
-                <select
-                    aria-label="Product type"
+                <StorefrontSelect
+                    ariaLabel="Product type"
                     value={filters.sub ?? ''}
-                    onChange={(e) =>
-                        visit({ sub: e.target.value || null })
-                    }
-                    style={selectStyle}
-                >
-                    <option value="">All {categoryContext.label}</option>
-                    {categoryContext.children.map((child) => (
-                        <option key={child.handle} value={child.handle}>
-                            {child.label}
-                        </option>
-                    ))}
-                </select>
+                    onValueChange={(value) => visit({ sub: value || null })}
+                    options={subcategoryOptions}
+                    placeholder={`All ${categoryContext.label}`}
+                    style={selectLayoutStyle}
+                />
             )}
 
-            <select
-                aria-label="Sort products"
+            <StorefrontSelect
+                ariaLabel="Sort products"
                 value={filters.sort}
-                onChange={(e) =>
-                    visit({ sort: e.target.value as SortOption })
-                }
-                style={{ ...selectStyle, flex: '0 1 160px' }}
-            >
-                <option value="featured">Featured</option>
-                <option value="price-asc">Price: Low to High</option>
-                <option value="price-desc">Price: High to Low</option>
-                <option value="name">Name: A–Z</option>
-            </select>
+                onValueChange={(value) => visit({ sort: value as SortOption })}
+                options={sortOptions}
+                placeholder="Sort"
+                searchable={false}
+                style={{ ...selectLayoutStyle, flex: '0 1 160px' }}
+            />
 
             <div style={{ display: 'flex', gap: '4px', flexShrink: 0 }}>
                 <button

@@ -520,7 +520,7 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                     .catalog-page {
                         overflow-x: hidden;
                     }
-                    .catalog-filter-bar select {
+                    .catalog-filter-bar .storefront-select {
                         flex: 1 1 100% !important;
                         max-width: 100% !important;
                     }

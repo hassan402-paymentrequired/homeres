@@ -60,10 +60,10 @@ export const ADMIN_NAV_ITEMS: AdminNavItem[] = [
         icon: BarChart3,
         description: 'Sales and traffic insights',
     },
-    {
-        title: 'Settings',
-        href: '/admin/settings',
-        icon: Settings,
-        description: 'Store and admin configuration',
-    },
+    // {
+    //     title: 'Settings',
+    //     href: '/admin/settings',
+    //     icon: Settings,
+    //     description: 'Store and admin configuration',
+    // },
 ];

@@ -1,6 +1,9 @@
 import { Form, Head, Link, usePage } from '@inertiajs/react';
 import { Copy, Pencil } from 'lucide-react';
 import { useState } from 'react';
+import AdminDetailSummaryCard, {
+    AdminDetailSection,
+} from '@/components/admin/admin-detail-summary-card';
 import FormField, { FormSection } from '@/components/admin/form-field';
 import InvoiceDocumentPreview, {
     type InvoicePreviewPayload,
@@ -63,6 +66,14 @@ function formatMoney(amount: number | null): string {
     return `₦${Number(amount).toLocaleString('en-NG')}`;
 }
 
+function formatInvoiceTotal(invoice: InvoiceRecord): string {
+    if (invoice.has_price_on_request_items && invoice.total === null) {
+        return 'Price on request';
+    }
+
+    return formatMoney(invoice.total);
+}
+
 export default function InvoiceShow({
     invoice,
     preview,
@@ -91,8 +102,8 @@ export default function InvoiceShow({
         >
             <Head title={invoice.invoice_number} />
 
-            <div className="flex h-full flex-1 flex-col gap-6 overflow-x-auto p-4 md:p-6">
-                <div className="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
+            <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col gap-6 p-4 md:p-6">
+                <header className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
                     <div>
                         <div className="flex flex-wrap items-center gap-2">
                             <h1 className="font-serif text-2xl font-medium tracking-wide">
@@ -113,14 +124,6 @@ export default function InvoiceShow({
                                     >
                                         {invoice.order_number}
                                     </Link>
-                                </span>
-                            ) : null}
-                            <span>
-                                Issued {formatDateTime(invoice.issued_at)}
-                            </span>
-                            {invoice.paid_at ? (
-                                <span>
-                                    Paid {formatDateTime(invoice.paid_at)}
                                 </span>
                             ) : null}
                         </div>
@@ -145,26 +148,88 @@ export default function InvoiceShow({
                             </Button>
                         ) : null}
                     </div>
+                </header>
+
+                <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+                    <AdminDetailSummaryCard title="Bill to">
+                        <p className="font-medium">{invoice.customer_name}</p>
+                        <p className="mt-2">
+                            <a
+                                href={`mailto:${invoice.customer_email}`}
+                                className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+                            >
+                                {invoice.customer_email}
+                            </a>
+                        </p>
+                        {invoice.customer_phone ? (
+                            <p className="mt-1 text-muted-foreground">
+                                {invoice.customer_phone}
+                            </p>
+                        ) : null}
+                    </AdminDetailSummaryCard>
+
+                    <AdminDetailSummaryCard title="Billing address">
+                        {billingLines.length > 0 ? (
+                            <p className="whitespace-pre-line leading-relaxed text-muted-foreground">
+                                {billingLines.join('\n')}
+                            </p>
+                        ) : (
+                            <p className="text-muted-foreground">—</p>
+                        )}
+                    </AdminDetailSummaryCard>
+
+                    <AdminDetailSummaryCard title="Invoice total">
+                        <p className="font-serif text-2xl font-medium">
+                            {formatInvoiceTotal(invoice)}
+                        </p>
+                        <p className="mt-1 text-xs text-muted-foreground">
+                            {invoice.items.length}{' '}
+                            {invoice.items.length === 1 ? 'line' : 'lines'}
+                        </p>
+                    </AdminDetailSummaryCard>
+
+                    <AdminDetailSummaryCard title="Dates">
+                        <dl className="space-y-2">
+                            <div>
+                                <dt className="text-xs text-muted-foreground">
+                                    Issued
+                                </dt>
+                                <dd className="font-medium">
+                                    {formatDateTime(invoice.issued_at)}
+                                </dd>
+                            </div>
+                            <div>
+                                <dt className="text-xs text-muted-foreground">
+                                    Due
+                                </dt>
+                                <dd className="font-medium">
+                                    {formatDateTime(invoice.due_at)}
+                                </dd>
+                            </div>
+                            {invoice.paid_at ? (
+                                <div>
+                                    <dt className="text-xs text-muted-foreground">
+                                        Paid
+                                    </dt>
+                                    <dd className="font-medium">
+                                        {formatDateTime(invoice.paid_at)}
+                                    </dd>
+                                </div>
+                            ) : null}
+                        </dl>
+                    </AdminDetailSummaryCard>
                 </div>
 
-                <div className="grid gap-6 xl:grid-cols-[minmax(0,1fr)_22rem]">
-                    <div className="space-y-6">
-                        <Card className="border-sidebar-border/70 py-0 shadow-none">
-                            <CardHeader className="border-b border-sidebar-border/70 py-4">
-                                <p className="text-sm font-medium text-muted-foreground">
-                                    Invoice document
-                                </p>
-                            </CardHeader>
-                            <CardContent className="py-6">
-                                <InvoiceDocumentPreview invoice={preview} />
-                            </CardContent>
-                        </Card>
+                <AdminDetailSection title="Invoice document">
+                    <div className="p-4 md:p-6">
+                        <InvoiceDocumentPreview invoice={preview} />
+                    </div>
+                </AdminDetailSection>
 
-                        <div className="rounded-xl border border-sidebar-border/70 bg-card p-4">
-                            <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
-                                Invoice totals
-                            </h2>
-                            <dl className="mt-4 space-y-3 text-sm">
+                <div className="grid gap-6 lg:grid-cols-2">
+                    <div className="space-y-6">
+                        <AdminDetailSummaryCard title="Invoice totals">
+                            <dl className="space-y-3">
                                 <div className="flex justify-between gap-4">
                                     <dt className="text-muted-foreground">
                                         Subtotal
@@ -185,7 +250,9 @@ export default function InvoiceShow({
                                     </dd>
                                 </div>
                                 <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">Tax</dt>
+                                    <dt className="text-muted-foreground">
+                                        Tax
+                                    </dt>
                                     <dd className="font-medium">
                                         {formatMoney(invoice.tax)}
                                     </dd>
@@ -201,78 +268,22 @@ export default function InvoiceShow({
                                 <div className="flex justify-between gap-4 border-t border-sidebar-border/70 pt-3">
                                     <dt className="font-medium">Total</dt>
                                     <dd className="font-serif text-lg font-medium">
-                                        {invoice.has_price_on_request_items &&
-                                        invoice.total === null
-                                            ? 'Price on request'
-                                            : formatMoney(invoice.total)}
+                                        {formatInvoiceTotal(invoice)}
                                     </dd>
                                 </div>
                             </dl>
-                        </div>
+                        </AdminDetailSummaryCard>
+
+                        {invoice.customer_note ? (
+                            <AdminDetailSummaryCard title="Customer note">
+                                <p className="leading-relaxed text-muted-foreground">
+                                    {invoice.customer_note}
+                                </p>
+                            </AdminDetailSummaryCard>
+                        ) : null}
                     </div>
 
                     <div className="space-y-6">
-                        <div className="rounded-xl border border-sidebar-border/70 bg-card p-4">
-                            <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
-                                Bill to
-                            </h2>
-                            <dl className="mt-4 space-y-3 text-sm">
-                                <div>
-                                    <dt className="text-muted-foreground">
-                                        Name
-                                    </dt>
-                                    <dd className="mt-1 font-medium">
-                                        {invoice.customer_name}
-                                    </dd>
-                                </div>
-                                <div>
-                                    <dt className="text-muted-foreground">
-                                        Email
-                                    </dt>
-                                    <dd className="mt-1">
-                                        <a
-                                            href={`mailto:${invoice.customer_email}`}
-                                            className="font-medium underline-offset-4 hover:underline"
-                                        >
-                                            {invoice.customer_email}
-                                        </a>
-                                    </dd>
-                                </div>
-                                {invoice.customer_phone ? (
-                                    <div>
-                                        <dt className="text-muted-foreground">
-                                            Phone
-                                        </dt>
-                                        <dd className="mt-1 font-medium">
-                                            {invoice.customer_phone}
-                                        </dd>
-                                    </div>
-                                ) : null}
-                            </dl>
-                        </div>
-
-                        {billingLines.length > 0 ? (
-                            <div className="rounded-xl border border-sidebar-border/70 bg-card p-4">
-                                <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
-                                    Billing address
-                                </h2>
-                                <p className="mt-4 whitespace-pre-line text-sm leading-relaxed text-muted-foreground">
-                                    {billingLines.join('\n')}
-                                </p>
-                            </div>
-                        ) : null}
-
-                        {invoice.customer_note ? (
-                            <div className="rounded-xl border border-sidebar-border/70 bg-card p-4">
-                                <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
-                                    Customer note
-                                </h2>
-                                <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-                                    {invoice.customer_note}
-                                </p>
-                            </div>
-                        ) : null}
-
                         {canSend ? (
                             <InvoiceSendForm
                                 action={`/admin/invoices/${invoice.id}/send`}
@@ -292,7 +303,7 @@ export default function InvoiceShow({
                             method="put"
                             className="w-full"
                         >
-                            {({ processing, errors }) => (
+                            {({ processing, errors: formErrors }) => (
                                 <Card className="border-sidebar-border/70 py-0 shadow-none">
                                     <CardHeader className="border-b border-sidebar-border/70 py-6">
                                         <p className="text-sm font-medium">
@@ -305,7 +316,7 @@ export default function InvoiceShow({
                                             <FormField
                                                 label="Status"
                                                 htmlFor="status"
-                                                error={errors.status}
+                                                error={formErrors.status}
                                             >
                                                 <Select
                                                     value={status}
@@ -348,7 +359,7 @@ export default function InvoiceShow({
                                                 label="Due date"
                                                 htmlFor="due_at"
                                                 hint="Payment expected by this date."
-                                                error={errors.due_at}
+                                                error={formErrors.due_at}
                                             >
                                                 <Input
                                                     id="due_at"
@@ -364,7 +375,7 @@ export default function InvoiceShow({
                                                 label="Internal note"
                                                 htmlFor="admin_note"
                                                 hint="Visible to admins only — not shown on customer-facing invoices."
-                                                error={errors.admin_note}
+                                                error={formErrors.admin_note}
                                             >
                                                 <Textarea
                                                     id="admin_note"
