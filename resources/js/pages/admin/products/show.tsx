@@ -109,30 +109,17 @@ export default function ProductShow({
                             </div>
                         )}
 
+                        <div className='flex items-center mt-2 gap-3'>
+
                         {product.category && (
-                            <p className="mt-2 text-sm text-muted-foreground">
-                                Category:{' '}
-                                <span className="font-medium text-foreground">
-                                    {product.category.name}
-                                </span>
-                            </p>
+                            <Badge> {product.category.name}</Badge>
                         )}
+                        
                         {product.brand && (
-                            <p className="mt-1 text-sm text-muted-foreground">
-                                Brand:{' '}
-                                <span className="font-medium text-foreground">
-                                    {product.brand.name}
-                                </span>
-                            </p>
+                             <Badge variant={"secondary"}> {product.brand.name}</Badge>
                         )}
-                        {product.product_template && (
-                            <p className="mt-1 text-sm text-muted-foreground">
-                                Template:{' '}
-                                <span className="font-medium text-foreground">
-                                    {product.product_template.name}
-                                </span>
-                            </p>
-                        )}
+                        </div>
+
                         {product.description && (
                             <p className="mt-3 max-w-2xl text-sm leading-relaxed text-muted-foreground">
                                 {product.description}

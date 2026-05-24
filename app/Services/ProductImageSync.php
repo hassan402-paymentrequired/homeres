@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Str;
 
 class ProductImageSync
 {
@@ -19,13 +20,17 @@ class ProductImageSync
         $this->syncCollection(
             $product->images->whereNull('product_variant_id'),
             $request,
-            fn (UploadedFile $file, int $index) => $product->images()->create([
-                'path' => $file->store("products/{$product->id}", 'public'),
-                'url' => null,
-                'alt' => '',
-                'sort_order' => $this->nextSortOrder($request, $index),
-                'product_variant_id' => null,
-            ]),
+            function (UploadedFile $file, int $index) use ($product, $request) {
+                $path = $file->store("products/{$product->id}", 'public');
+
+                return $product->images()->create([
+                    'path' => $path,
+                    'url' => $this->absolutePublicUrl($path),
+                    'alt' => '',
+                    'sort_order' => $this->nextSortOrder($request, $index),
+                    'product_variant_id' => null,
+                ]);
+            },
         );
     }
 
@@ -36,13 +41,17 @@ class ProductImageSync
         $this->syncCollection(
             $variant->images,
             $request,
-            fn (UploadedFile $file, int $index) => $variant->images()->create([
-                'product_id' => $variant->product_id,
-                'path' => $file->store("products/{$variant->product_id}/variants/{$variant->id}", 'public'),
-                'url' => null,
-                'alt' => '',
-                'sort_order' => $this->nextSortOrder($request, $index),
-            ]),
+            function (UploadedFile $file, int $index) use ($variant, $request) {
+                $path = $file->store("products/{$variant->product_id}/variants/{$variant->id}", 'public');
+
+                return $variant->images()->create([
+                    'product_id' => $variant->product_id,
+                    'path' => $path,
+                    'url' => $this->absolutePublicUrl($path),
+                    'alt' => '',
+                    'sort_order' => $this->nextSortOrder($request, $index),
+                ]);
+            },
         );
     }
 
@@ -94,10 +103,16 @@ class ProductImageSync
                 return;
             }
 
-            $image->update([
+            $updates = [
                 'alt' => (string) ($altUpdates->get($id) ?? $image->alt),
                 'sort_order' => $position,
-            ]);
+            ];
+
+            if (filled($image->path) && ! filled($image->url)) {
+                $updates['url'] = $this->absolutePublicUrl((string) $image->path);
+            }
+
+            $image->update($updates);
         });
 
         collect($request->file('images', []))
@@ -108,6 +123,21 @@ class ProductImageSync
     private function nextSortOrder(Request $request, int $uploadIndex): int
     {
         return collect($request->input('keep_images', []))->filter()->count() + $uploadIndex;
+    }
+
+    private function absolutePublicUrl(string $path): string
+    {
+        if (Str::startsWith($path, ['http://', 'https://', '//'])) {
+            return $path;
+        }
+
+        $relative = Storage::disk('public')->url($path);
+
+        if (Str::startsWith($relative, ['http://', 'https://', '//'])) {
+            return $relative;
+        }
+
+        return rtrim((string) config('app.url'), '/').'/'.ltrim($relative, '/');
     }
 
     private function delete(ProductImage $image): bool

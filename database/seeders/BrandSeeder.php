@@ -3,6 +3,7 @@
 namespace Database\Seeders;
 
 use App\Models\Brand;
+use App\Services\BrandNavGroupService;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\File;
 
@@ -33,5 +34,7 @@ class BrandSeeder extends Seeder
                 ],
             );
         }
+
+        app(BrandNavGroupService::class)->seedGroups();
     }
 }

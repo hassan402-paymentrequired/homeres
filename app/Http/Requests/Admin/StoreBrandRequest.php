@@ -21,6 +21,8 @@ class StoreBrandRequest extends FormRequest
             'description' => ['nullable', 'string', 'max:5000'],
             'is_active' => ['boolean'],
             'show_in_nav' => ['boolean'],
+            'is_parent' => ['boolean'],
+            'parent_id' => ['nullable', 'string', 'exists:brands,id'],
         ];
     }
 }

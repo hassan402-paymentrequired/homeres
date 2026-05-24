@@ -74,14 +74,24 @@ final class StorefrontNavigationBuilder
 
         $handles = [...self::PRIMARY_ROOT_HANDLES, ...self::PROMOTED_TOP_LEVEL_HANDLES];
 
-        return Category::query()
+        $curated = Category::query()
             ->inNav()
+            ->whereNull('parent_id')
             ->whereIn('handle', $handles)
             ->with($withTree)
-            ->ordered()
             ->get()
             ->sortBy(fn (Category $category): int => array_search($category->handle, $handles, true) ?: 999)
             ->values();
+
+        $additional = Category::query()
+            ->inNav()
+            ->whereNull('parent_id')
+            ->whereNotIn('handle', $handles)
+            ->with($withTree)
+            ->ordered()
+            ->get();
+
+        return $curated->concat($additional)->values();
     }
 
     /**
@@ -169,46 +179,27 @@ final class StorefrontNavigationBuilder
      */
     private function brandGroups(): array
     {
-        $brands = Brand::query()
-            ->where('is_active', true)
-            ->where('show_in_nav', true)
+        return Brand::query()
+            ->inNav()
+            ->where('is_parent', true)
             ->ordered()
-            ->get(['name', 'handle']);
-
-        return [
-            $this->brandGroup('Brands A–B', $brands, 'A', 'B'),
-            $this->brandGroup('Brands C–I', $brands, 'C', 'I'),
-            $this->brandGroup('Brands J–R', $brands, 'J', 'R'),
-            $this->brandGroup('Brands S–Z', $brands, 'S', 'Z'),
-        ];
-    }
-
-    /**
-     * @return array{title: string, links: list<array{label: string, handle: string}>}
-     */
-    private function brandGroup(string $title, Collection $brands, string $from, string $to): array
-    {
-        $links = $brands
-            ->filter(function (Brand $brand) use ($from, $to): bool {
-                $letter = strtoupper(substr($brand->name, 0, 1));
-
-                if (! ctype_alpha($letter)) {
-                    return $from === 'A';
-                }
-
-                return $letter >= $from && $letter <= $to;
-            })
-            ->map(fn (Brand $brand): array => [
-                'label' => $brand->name,
-                'handle' => $brand->handle,
+            ->with([
+                'children' => fn ($query) => $query->inNav()->catalogBrands()->ordered(),
             ])
+            ->get()
+            ->map(fn (Brand $group): array => [
+                'title' => $group->name,
+                'links' => $group->children
+                    ->map(fn (Brand $brand): array => [
+                        'label' => $brand->name,
+                        'handle' => $brand->handle,
+                    ])
+                    ->values()
+                    ->all(),
+            ])
+            ->filter(fn (array $group): bool => $group['links'] !== [])
             ->values()
             ->all();
-
-        return [
-            'title' => $title,
-            'links' => $links,
-        ];
     }
 
     /**

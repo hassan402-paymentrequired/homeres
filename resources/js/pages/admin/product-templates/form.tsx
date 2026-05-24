@@ -64,9 +64,12 @@ export default function ProductTemplateForm({
             ? `/admin/product-templates/${template.id}`
             : '/admin/product-templates';
 
+        if (isEditing) {
+            formData.append('_method', 'PUT');
+        }
+
         router.post(url, formData, {
             forceFormData: true,
-            ...(isEditing ? { method: 'put' as const } : {}),
             onFinish: () => setProcessing(false),
         });
     };
@@ -111,8 +114,8 @@ export default function ProductTemplateForm({
                             </p>
                         </CardHeader>
 
-                        <CardContent className="space-y-8 py-6">
-                            <FormSection title="Basics">
+                        <CardContent className="space-y-8 ">
+                            <FormSection>
                                 <FormField
                                     label="Name"
                                     htmlFor="name"

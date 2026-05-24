@@ -389,3 +389,7 @@ For hosts without geo headers (e.g. plain VPS / some shared hosts), set `STOREFR
 ## License
 
 This project is proprietary software for Homère. All rights reserved unless otherwise agreed with the client.
+
+
+
+php artisan brands:sync-nav-groups

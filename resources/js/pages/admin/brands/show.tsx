@@ -9,14 +9,21 @@ import ProductCardItem from '@/components/admin/product-card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import AdminLayout from '@/layouts/admin-layout';
-import type { BrandBreadcrumb, BrandCard, BrandStats } from '@/types/brand';
+import type {
+    BrandBreadcrumb,
+    BrandCard,
+    BrandNavGroupOption,
+    BrandStats,
+} from '@/types/brand';
 import type { Paginated } from '@/types/pagination';
 import type { ProductCard } from '@/types/product';
 
 type Props = {
     brand: BrandCard;
     stats: BrandStats;
-    products: Paginated<ProductCard>;
+    products: Paginated<ProductCard> | null;
+    childBrands: BrandCard[];
+    brandNavGroupOptions: BrandNavGroupOption[];
     breadcrumbs: BrandBreadcrumb[];
 };
 
@@ -44,9 +51,11 @@ export default function BrandShow({
     brand,
     stats,
     products,
+    childBrands,
+    brandNavGroupOptions,
     breadcrumbs,
 }: Props) {
-    const productItems = products.data;
+    const productItems = products?.data ?? [];
     const [editOpen, setEditOpen] = useState(false);
 
     return (
@@ -103,23 +112,61 @@ export default function BrandShow({
                             <Trash2 className="size-4" />
                             Delete
                         </Button>
-                        <Button asChild>
-                            <Link href={`/admin/products/create?brand=${brand.id}`}>
-                                <Plus className="size-4" />
-                                Add product
-                            </Link>
-                        </Button>
+                        {!brand.is_parent && (
+                            <Button asChild>
+                                <Link
+                                    href={`/admin/products/create?brand=${brand.id}`}
+                                >
+                                    <Plus className="size-4" />
+                                    Add product
+                                </Link>
+                            </Button>
+                        )}
                     </div>
                 </div>
 
                 <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
                     <StatCard
-                        label="Products"
-                        value={stats.product_count}
+                        label={
+                            brand.is_parent ? 'Brands in group' : 'Products'
+                        }
+                        value={
+                            brand.is_parent
+                                ? childBrands.length
+                                : stats.product_count
+                        }
                         icon={Package}
                     />
                 </div>
 
+                {brand.is_parent && (
+                    <div>
+                        <h2 className="text-sm font-medium uppercase tracking-[0.15em]">
+                            Brands in this group
+                        </h2>
+                        {childBrands.length === 0 ? (
+                            <p className="mt-2 text-sm text-muted-foreground">
+                                Assign brands by editing each brand and choosing
+                                this nav group.
+                            </p>
+                        ) : (
+                            <ul className="mt-3 space-y-2 text-sm">
+                                {childBrands.map((child) => (
+                                    <li key={child.id}>
+                                        <Link
+                                            href={`/admin/brands/${child.id}`}
+                                            className="font-medium hover:underline"
+                                        >
+                                            {child.name}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                        )}
+                    </div>
+                )}
+
+                {!brand.is_parent && (
                 <div>
                     <div className="mb-4 flex items-center justify-between gap-3">
                         <div>
@@ -165,16 +212,21 @@ export default function BrandShow({
                                     />
                                 ))}
                             </div>
-                            <AdminPagination paginator={products} />
+                            {products && (
+                                <AdminPagination paginator={products} />
+                            )}
                         </>
                     )}
                 </div>
+                )}
             </div>
 
             <BrandFormModal
                 open={editOpen}
                 onOpenChange={setEditOpen}
                 brand={brand}
+                navGroupOptions={brandNavGroupOptions}
+                asNavGroup={brand.is_parent}
             />
         </AdminLayout>
     );
