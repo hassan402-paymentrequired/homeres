@@ -83,6 +83,15 @@ class Category extends Model
     }
 
     /**
+     * @param  Builder<Category>  $query
+     * @return Builder<Category>
+     */
+    public function scopeInNav(Builder $query): Builder
+    {
+        return $query->where('is_active', true)->where('show_in_nav', true);
+    }
+
+    /**
      * @return array<string, string>
      */
     protected function casts(): array

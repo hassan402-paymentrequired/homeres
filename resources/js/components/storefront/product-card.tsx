@@ -2,19 +2,19 @@ import { Link } from '@inertiajs/react';
 import { useState } from 'react';
 import QuickShopPanel from '@/components/storefront/quick-shop-panel';
 import { useWishlist } from '@/context/WishlistContext';
-import type { MockProduct } from '@/data/mock-products';
+import type { StorefrontProduct } from '@/types/storefront-product';
 import ProductQuickView, {
     type QuickViewProduct,
 } from '@/pages/landing/components/product-quick-view';
 
 interface ProductCardProps {
-    product: MockProduct;
+    product: StorefrontProduct;
     index?: number;
     animate?: boolean;
     visible?: boolean;
 }
 
-export function toQuickViewProduct(product: MockProduct): QuickViewProduct {
+export function toQuickViewProduct(product: StorefrontProduct): QuickViewProduct {
     return {
         id: product.id,
         name: product.name,
@@ -22,7 +22,7 @@ export function toQuickViewProduct(product: MockProduct): QuickViewProduct {
         price: product.priceFormatted,
         image: product.images[0]?.src ?? '',
         alt: product.images[0]?.alt ?? product.name,
-        href: `/products/${product.id}`,
+        href: product.href,
         isNew: product.isNew,
         category: product.category,
         description: product.description,
@@ -198,7 +198,7 @@ export default function ProductCard({
                     )}
                 </div>
                 <Link
-                    href={`/products/${product.id}`}
+                    href={product.href}
                     style={{ textDecoration: 'none', display: 'block' }}
                 >
                     <p

@@ -14,6 +14,7 @@ export default function CartModal() {
         subtotal,
         orderNote,
         setOrderNote,
+        hasPriceOnRequest,
     } = useCart();
 
     // Lock body scroll when open
@@ -165,7 +166,7 @@ export default function CartModal() {
                     ) : (
                         items.map((item) => (
                             <div
-                                key={item.id}
+                                key={item.variantId}
                                 style={{
                                     display: 'flex',
                                     alignItems: 'flex-start',
@@ -235,7 +236,7 @@ export default function CartModal() {
                                         <button
                                             onClick={() =>
                                                 updateQuantity(
-                                                    item.id,
+                                                    item.variantId,
                                                     item.quantity - 1,
                                                 )
                                             }
@@ -276,7 +277,7 @@ export default function CartModal() {
                                         <button
                                             onClick={() =>
                                                 updateQuantity(
-                                                    item.id,
+                                                    item.variantId,
                                                     item.quantity + 1,
                                                 )
                                             }
@@ -317,7 +318,9 @@ export default function CartModal() {
                                             letterSpacing: '0.5px',
                                         }}
                                     >
-                                        {formatNaira(item.price * item.quantity)}
+                                        {item.priceOnRequest || item.price === null
+                                            ? 'Price on request'
+                                            : formatNaira(item.price * item.quantity)}
                                     </p>
                                 </div>
                             </div>
@@ -363,7 +366,9 @@ export default function CartModal() {
                                     letterSpacing: '0.5px',
                                 }}
                             >
-                                {formatNaira(subtotal)}
+                                {hasPriceOnRequest && subtotal === 0
+                                    ? 'Price on request'
+                                    : formatNaira(subtotal)}
                             </span>
                         </div>
 

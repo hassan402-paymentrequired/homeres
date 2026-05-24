@@ -1,14 +1,22 @@
 import type { CartItem } from '@/context/CartContext';
-import type { MockProduct } from '@/data/mock-products';
+import type { StorefrontProduct } from '@/types/storefront-product';
 
-export function mockProductToCartItem(
-    product: MockProduct,
+export function storefrontProductToCartItem(
+    product: StorefrontProduct,
+    variantId?: string,
 ): Omit<CartItem, 'quantity'> {
+    const variant =
+        product.variants?.find((item) => item.id === variantId) ??
+        product.variants?.[0];
+
     return {
-        id: product.id,
-        category: product.category,
+        variantId: variant?.id ?? product.defaultVariantId ?? product.id,
+        productId: product.id,
         name: product.name,
-        price: product.price,
+        variantName: variant?.name ?? 'Default',
+        category: product.category,
+        price: variant?.price ?? product.price,
+        priceOnRequest: variant?.priceOnRequest ?? product.priceOnRequest,
         image: product.images[0]?.src ?? '',
         alt: product.images[0]?.alt ?? product.name,
     };

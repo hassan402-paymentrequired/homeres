@@ -4,18 +4,18 @@ import ImageLightbox from '@/components/storefront/image-lightbox';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontShell from '@/components/storefront/storefront-shell';
 import { useCart } from '@/context/CartContext';
-import {
-    getProductById,
-    getRelatedProducts,
-} from '@/data/mock-products';
-import { mockProductToCartItem } from '@/lib/cart';
+import { storefrontProductToCartItem } from '@/lib/cart';
+import type { StorefrontProduct } from '@/types/storefront-product';
 
 interface ProductShowProps {
-    id: string;
+    product: StorefrontProduct | null;
+    relatedProducts: StorefrontProduct[];
 }
 
-export default function ProductDetailsPage({ id }: ProductShowProps) {
-    const product = getProductById(id);
+export default function ProductDetailsPage({
+    product,
+    relatedProducts,
+}: ProductShowProps) {
     const [activeImage, setActiveImage] = useState(0);
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
@@ -53,11 +53,12 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
         );
     }
 
-    const related = getRelatedProducts(product);
+    const related = relatedProducts;
+    const details = product.details ?? [];
 
     const handleAddToCart = () => {
         for (let i = 0; i < quantity; i++) {
-            addItem(mockProductToCartItem(product));
+            addItem(storefrontProductToCartItem(product));
         }
 
         setAdded(true);
@@ -154,13 +155,13 @@ export default function ProductDetailsPage({ id }: ProductShowProps) {
                             className="pdp-add-btn"
                             style={{ background: added ? '#1a7a3c' : '#060606' }}
                         >
-                            {added ? 'Added to Bag (preview)' : 'Add to Bag'}
+                            {added ? 'Added to bag' : 'Add to bag'}
                         </button>
 
                         <div className="pdp-details">
                             <p className="pdp-label">Product Details</p>
                             <ul>
-                                {product.details.map((d) => (
+                                {details.map((d) => (
                                     <li key={d}>{d}</li>
                                 ))}
                             </ul>

@@ -6,15 +6,13 @@ import PreviewBanner from '@/components/storefront/preview-banner';
 import SearchOverlay from '@/components/storefront/search-overlay';
 import { useCart } from '@/context/CartContext';
 import {
-    MAIN_NAV,
     hasDropdown,
     navItemHref,
     navLinkHref,
+    useStorefrontNav,
     type StorefrontNavItem,
 } from '@/data/navigation';
 import { home, login } from '@/routes';
-
-const navItems = MAIN_NAV;
 
 const MOBILE_BREAKPOINT = 768;
 
@@ -200,6 +198,7 @@ const mobileGroupHeadingStyle: React.CSSProperties = {
 };
 
 export default function SiteHeader() {
+    const navItems = useStorefrontNav();
     const [openDropdown, setOpenDropdown] = useState<string | null>(null);
     const [mobileOpen, setMobileOpen] = useState(false);
     const [desktopNavOpen, setDesktopNavOpen] = useState(false);

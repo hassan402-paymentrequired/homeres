@@ -1,13 +1,16 @@
 <?php
 
-use Illuminate\Http\Request;
+use App\Http\Controllers\Storefront\CheckoutController;
+use App\Http\Controllers\Storefront\HomeController;
+use App\Http\Controllers\Storefront\PaystackWebhookController;
+use App\Http\Controllers\Storefront\ProductController;
+use App\Http\Controllers\Storefront\ProductLookupController;
+use App\Http\Controllers\Storefront\SearchController;
+use App\Http\Controllers\Storefront\ShopController;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
-use Laravel\Fortify\Features;
 
-Route::inertia('/', 'welcome', [
-    'canRegister' => Features::enabled(Features::registration()),
-])->name('home');
+Route::get('/', HomeController::class)->name('home');
 
 Route::inertia('/about', 'about/index')->name('about');
 Route::inertia('/services', 'services/index')->name('services');
@@ -20,47 +23,28 @@ Route::get('/help/{slug}', function (string $slug) {
 
 Route::inertia('/wishlist', 'wishlist/index')->name('wishlist');
 
-Route::get('/shop/new-arrivals', fn () => Inertia::render('catalog/index', [
-    'filter' => 'new',
-]))->name('shop.new');
+Route::get('/shop/new-arrivals', ShopController::class)->name('shop.new');
 
-Route::get('/shop/{category}', function (string $category, Request $request) {
-    return Inertia::render('catalog/index', [
-        'category' => $category,
-        'sub' => $request->query('sub'),
-        'q' => $request->query('q'),
-    ]);
-})->name('shop.category');
+Route::get('/shop/{category}', ShopController::class)->name('shop.category');
 
-Route::get('/shop', function (Request $request) {
-    return Inertia::render('catalog/index', [
-        'q' => $request->query('q'),
-    ]);
-})->name('shop');
+Route::get('/shop', ShopController::class)->name('shop');
 
-Route::get('/collections/{handle}', function (string $handle, Request $request) {
-    return Inertia::render('catalog/index', [
-        'collection' => $handle,
-        'q' => $request->query('q'),
-    ]);
-})->name('collections.show');
+Route::get('/collections/{handle}', ShopController::class)->name('collections.show');
 
-Route::get('/brands/{handle}', function (string $handle, Request $request) {
-    return Inertia::render('catalog/index', [
-        'brand' => $handle,
-        'q' => $request->query('q'),
-    ]);
-})->name('brands.show');
+Route::get('/brands/{handle}', ShopController::class)->name('brands.show');
 
-Route::get('/brands', fn () => Inertia::render('catalog/index', [
-    'brandIndex' => true,
-]))->name('brands');
+Route::get('/brands', ShopController::class)->name('brands');
 
-Route::get('/products/{id}', fn (string $id) => Inertia::render('product/show', [
-    'id' => $id,
-]))->name('products.show');
+Route::get('/products/{product}', [ProductController::class, 'show'])->name('products.show');
+Route::post('/storefront/products/lookup', ProductLookupController::class)->name('storefront.products.lookup');
+Route::get('/storefront/search', SearchController::class)->name('storefront.search');
 
-Route::inertia('/checkout', 'checkout/index')->name('checkout');
+Route::get('/checkout', [CheckoutController::class, 'create'])->name('checkout');
+Route::post('/checkout', [CheckoutController::class, 'store'])->name('checkout.store');
+Route::get('/checkout/callback', [CheckoutController::class, 'callback'])->name('checkout.callback');
+Route::get('/checkout/complete/{order}', [CheckoutController::class, 'complete'])->name('checkout.complete');
+
+Route::post('/paystack/webhook', PaystackWebhookController::class)->name('paystack.webhook');
 
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::inertia('dashboard', 'dashboard')->name('dashboard');

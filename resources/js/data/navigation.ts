@@ -1,5 +1,4 @@
 export {
-    STOREFRONT_NAV as MAIN_NAV,
     brandHref,
     collectionHref,
     hasDropdown,
@@ -9,3 +8,5 @@ export {
     type NavLink,
     type StorefrontNavItem,
 } from './storefront-navigation';
+
+export { useStorefrontNav } from '@/hooks/use-storefront-nav';

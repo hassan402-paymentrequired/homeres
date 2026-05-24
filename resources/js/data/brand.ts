@@ -16,7 +16,7 @@ export const BRAND = {
 } as const;
 
 export const PREVIEW_NOTICE =
-    'Preview build — sample products, prices, and checkout for design approval only. No orders are processed.';
+    'Luxury pieces sourced on request — lead times and final pricing confirmed after order review. Prices shown in NGN where available.';
 
 export const WHY_CHOOSE = [
     {

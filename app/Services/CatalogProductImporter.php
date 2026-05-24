@@ -20,7 +20,7 @@ class CatalogProductImporter
     /**
      * @return array{imported: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}
      */
-    public function import(?string $collection = null, int $limit = 50, bool $dryRun = false): array
+    public function import(?string $collection = null, int $limit = 50, bool $dryRun = false, bool $publish = false): array
     {
         $result = [
             'imported' => 0,
@@ -33,7 +33,7 @@ class CatalogProductImporter
         $files = $this->collectionFiles($collection);
 
         foreach ($files as $file) {
-            $this->importCollectionFile($file, $limit, $dryRun, $result);
+            $this->importCollectionFile($file, $limit, $dryRun, $publish, $result);
         }
 
         return $result;
@@ -42,7 +42,7 @@ class CatalogProductImporter
     /**
      * @param  array{imported: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
      */
-    private function importCollectionFile(string $file, int $limit, bool $dryRun, array &$result): void
+    private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, array &$result): void
     {
         /** @var array{handle?: string, products?: array<int, array<string, mixed>>} $payload */
         $payload = json_decode(File::get($file), true, flags: JSON_THROW_ON_ERROR);
@@ -62,11 +62,11 @@ class CatalogProductImporter
             return;
         }
 
-        $defaultPublished = StoreSetting::current()->default_product_status === 'published';
+        $defaultPublished = $publish || StoreSetting::current()->default_product_status === 'published';
         $importedInFile = 0;
 
         foreach ($payload['products'] ?? [] as $entry) {
-            if ($importedInFile >= $limit) {
+            if ($limit > 0 && $importedInFile >= $limit) {
                 break;
             }
 
@@ -140,12 +140,13 @@ class CatalogProductImporter
             return null;
         }
 
+        $handle = Str::slug(trim($vendor));
         $normalized = strtolower(trim($vendor));
 
         return Brand::query()
-            ->where(function ($query) use ($normalized): void {
-                $query->whereRaw('LOWER(name) = ?', [$normalized])
-                    ->orWhere('handle', Str::slug($normalized));
+            ->where(function ($query) use ($handle, $normalized): void {
+                $query->where('handle', $handle)
+                    ->orWhereRaw('LOWER(name) = ?', [$normalized]);
             })
             ->first();
     }
@@ -205,10 +206,16 @@ class CatalogProductImporter
             $priceOnRequest = $price <= 0;
             $available = (bool) ($variant['available'] ?? true);
 
+            $sku = filled($variant['sku'] ?? null) ? (string) $variant['sku'] : null;
+
+            if ($sku !== null && $product->variants()->where('sku', $sku)->exists()) {
+                $sku = null;
+            }
+
             ProductVariant::query()->create([
                 'product_id' => $product->id,
                 'name' => $name,
-                'sku' => filled($variant['sku'] ?? null) ? (string) $variant['sku'] : null,
+                'sku' => $sku,
                 'option_values' => $this->mapOptionValues($variant),
                 'price' => $priceOnRequest ? null : $price,
                 'price_on_request' => $priceOnRequest,

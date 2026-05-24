@@ -1,12 +1,47 @@
 import { Head, Link } from '@inertiajs/react';
+import { useEffect, useState } from 'react';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontShell from '@/components/storefront/storefront-shell';
-import { MOCK_PRODUCTS } from '@/data/mock-products';
 import { useWishlist } from '@/context/WishlistContext';
+import type { StorefrontProduct } from '@/types/storefront-product';
+
+function getCsrfToken(): string {
+    return (
+        document
+            .querySelector('meta[name="csrf-token"]')
+            ?.getAttribute('content') ?? ''
+    );
+}
 
 export default function WishlistPage() {
     const { ids } = useWishlist();
-    const products = MOCK_PRODUCTS.filter((p) => ids.includes(p.id));
+    const [products, setProducts] = useState<StorefrontProduct[]>([]);
+    const [loading, setLoading] = useState(false);
+
+    useEffect(() => {
+        if (ids.length === 0) {
+            setProducts([]);
+
+            return;
+        }
+
+        setLoading(true);
+
+        fetch('/storefront/products/lookup', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                Accept: 'application/json',
+                'X-CSRF-TOKEN': getCsrfToken(),
+            },
+            body: JSON.stringify({ ids }),
+        })
+            .then((response) => response.json())
+            .then((data: { products: StorefrontProduct[] }) => {
+                setProducts(data.products ?? []);
+            })
+            .finally(() => setLoading(false));
+    }, [ids]);
 
     return (
         <StorefrontShell>
@@ -32,7 +67,9 @@ export default function WishlistPage() {
                 >
                     Saved on this device.
                 </p>
-                {products.length === 0 ? (
+                {loading ? (
+                    <p style={{ color: '#6b6b6b' }}>Loading saved items…</p>
+                ) : products.length === 0 ? (
                     <div style={{ textAlign: 'center', padding: '48px 0' }}>
                         <p style={{ color: '#6b6b6b', marginBottom: '16px' }}>
                             Your wishlist is empty.
@@ -58,17 +95,16 @@ export default function WishlistPage() {
                         }}
                         className="wishlist-grid"
                     >
-                        {products.map((p, idx) => (
-                            <ProductCard key={p.id} product={p} index={idx} />
+                        {products.map((product, index) => (
+                            <ProductCard
+                                key={product.id}
+                                product={product}
+                                index={index}
+                            />
                         ))}
                     </div>
                 )}
             </div>
-            <style>{`
-                @media (max-width: 900px) {
-                    .wishlist-grid { grid-template-columns: repeat(2, 1fr) !important; }
-                }
-            `}</style>
         </StorefrontShell>
     );
 }

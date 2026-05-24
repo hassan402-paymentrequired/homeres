@@ -1,40 +1,55 @@
-import { Head, Link } from '@inertiajs/react';
-import { useEffect, useMemo, useState, type CSSProperties, type ReactNode } from 'react';
+import { Head, Link, router } from '@inertiajs/react';
+import { useEffect, useState, type CSSProperties, type ReactNode } from 'react';
 import ProductCard from '@/components/storefront/product-card';
+import StorefrontPagination from '@/components/storefront/storefront-pagination';
 import StorefrontShell from '@/components/storefront/storefront-shell';
-import { CATEGORIES, findCategory } from '@/data/categories';
 import {
-    MOCK_PRODUCTS,
-    getNewArrivals,
-    getProductsByCategory,
-    type MockProduct,
-} from '@/data/mock-products';
+    buildCatalogUrl,
+    type CatalogFilters,
+    type SortOption,
+} from '@/pages/catalog/catalog-query';
+import type { Paginated } from '@/types/pagination';
+import type { StorefrontProduct } from '@/types/storefront-product';
+
+type CatalogView = 'shop' | 'category' | 'collection' | 'brand' | 'brands' | 'new';
+
+type SidebarCategory = {
+    label: string;
+    handle: string;
+    href: string;
+};
+
+type CategoryContext = {
+    handle: string;
+    label: string;
+    children: { label: string; handle: string }[];
+};
+
+type BrandDirectoryEntry = {
+    name: string;
+    handle: string;
+    href: string;
+};
+
+type CatalogMeta = {
+    view: CatalogView;
+    title: string;
+    description: string | null;
+    basePath: string;
+    filters: CatalogFilters;
+    sidebarCategories: SidebarCategory[];
+    categoryContext: CategoryContext | null;
+    brands?: BrandDirectoryEntry[];
+};
 
 interface CatalogPageProps {
-    category?: string | null;
-    filter?: 'new' | null;
-    sub?: string | null;
-    q?: string | null;
+    products: Paginated<StorefrontProduct>;
+    catalog: CatalogMeta;
 }
 
 type ViewMode = 'grid' | 'list';
 
-type SortOption = 'featured' | 'price-asc' | 'price-desc' | 'name';
-
-function sortProducts(products: MockProduct[], sort: SortOption): MockProduct[] {
-    const copy = [...products];
-
-    switch (sort) {
-        case 'price-asc':
-            return copy.sort((a, b) => a.price - b.price);
-        case 'price-desc':
-            return copy.sort((a, b) => b.price - a.price);
-        case 'name':
-            return copy.sort((a, b) => a.name.localeCompare(b.name));
-        default:
-            return copy;
-    }
-}
+const PRICE_CEILING = 5_000_000;
 
 const chipStyle = (active: boolean): CSSProperties => ({
     flexShrink: 0,
@@ -54,50 +69,29 @@ const chipStyle = (active: boolean): CSSProperties => ({
 function FilterChip({
     active,
     href,
-    onClick,
     children,
 }: {
     active: boolean;
-    href?: string;
-    onClick?: () => void;
+    href: string;
     children: ReactNode;
 }) {
-    const style = chipStyle(active);
-
-    if (href) {
-        return (
-            <Link href={href} style={style}>
-                {children}
-            </Link>
-        );
-    }
-
     return (
-        <button
-            type="button"
-            onClick={onClick}
-            style={{
-                ...style,
-                border: `1px solid ${active ? '#060606' : '#e8e8e1'}`,
-            }}
-        >
+        <Link href={href} style={chipStyle(active)}>
             {children}
-        </button>
+        </Link>
     );
 }
 
 function CatalogRefineFilters({
     newOnly,
-    setNewOnly,
     maxPrice,
-    setMaxPrice,
-    priceCeiling,
+    onNewOnlyChange,
+    onMaxPriceChange,
 }: {
     newOnly: boolean;
-    setNewOnly: (value: boolean) => void;
     maxPrice: number | null;
-    setMaxPrice: (value: number | null) => void;
-    priceCeiling: number;
+    onNewOnlyChange: (value: boolean) => void;
+    onMaxPriceChange: (value: number | null) => void;
 }) {
     return (
         <>
@@ -114,7 +108,7 @@ function CatalogRefineFilters({
                 <input
                     type="checkbox"
                     checked={newOnly}
-                    onChange={(e) => setNewOnly(e.target.checked)}
+                    onChange={(e) => onNewOnlyChange(e.target.checked)}
                 />
                 New only
             </label>
@@ -132,12 +126,12 @@ function CatalogRefineFilters({
             <input
                 type="range"
                 min={50000}
-                max={priceCeiling}
+                max={PRICE_CEILING}
                 step={50000}
-                value={maxPrice ?? priceCeiling}
+                value={maxPrice ?? PRICE_CEILING}
                 onChange={(e) =>
-                    setMaxPrice(
-                        Number(e.target.value) >= priceCeiling
+                    onMaxPriceChange(
+                        Number(e.target.value) >= PRICE_CEILING
                             ? null
                             : Number(e.target.value),
                     )
@@ -148,22 +142,49 @@ function CatalogRefineFilters({
     );
 }
 
-export default function CatalogPage({
-    category = null,
-    filter = null,
-    sub = null,
-    q = null,
-}: CatalogPageProps) {
-    const [sort, setSort] = useState<SortOption>('featured');
-    const [subcategory, setSubcategory] = useState<string | null>(sub);
-    const [newOnly, setNewOnly] = useState(false);
-    const [maxPrice, setMaxPrice] = useState<number | null>(null);
+function BrandsDirectory({ brands }: { brands: BrandDirectoryEntry[] }) {
+    return (
+        <div
+            style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))',
+                gap: '12px',
+            }}
+        >
+            {brands.map((brand) => (
+                <Link
+                    key={brand.handle}
+                    href={brand.href}
+                    style={{
+                        fontFamily: 'Poppins, sans-serif',
+                        fontSize: '13px',
+                        padding: '14px 16px',
+                        border: '1px solid #e8e8e1',
+                        color: '#060606',
+                        textDecoration: 'none',
+                    }}
+                >
+                    {brand.name}
+                </Link>
+            ))}
+        </div>
+    );
+}
+
+export default function CatalogPage({ products, catalog }: CatalogPageProps) {
+    const { filters, basePath, view, categoryContext, sidebarCategories } = catalog;
+    const isBrandDirectory = view === 'brands';
+    const isNewPage = filters.filter === 'new';
+    const activeCategory = filters.category;
     const [viewMode, setViewMode] = useState<ViewMode>('grid');
     const [filtersOpen, setFiltersOpen] = useState(false);
+    const [draftNewOnly, setDraftNewOnly] = useState(filters.new_only);
+    const [draftMaxPrice, setDraftMaxPrice] = useState<number | null>(filters.max_price);
 
     useEffect(() => {
-        setSubcategory(sub);
-    }, [sub]);
+        setDraftNewOnly(filters.new_only);
+        setDraftMaxPrice(filters.max_price);
+    }, [filters.new_only, filters.max_price]);
 
     useEffect(() => {
         if (!filtersOpen) {
@@ -190,66 +211,73 @@ export default function CatalogPage({
         return () => window.removeEventListener('keydown', onKey);
     }, []);
 
-    const categoryMeta = findCategory(category ?? undefined);
-    const priceCeiling = useMemo(
-        () => Math.max(...MOCK_PRODUCTS.map((p) => p.price)),
-        [],
-    );
+    const visitCatalog = (overrides: Partial<CatalogFilters> = {}) => {
+        router.get(buildCatalogUrl(basePath, filters, overrides), {}, {
+            preserveState: true,
+            preserveScroll: true,
+        });
+    };
 
-    const products = useMemo(() => {
-        let list: MockProduct[];
-
-        if (filter === 'new') {
-            list = getNewArrivals();
-        } else if (category) {
-            list = getProductsByCategory(category);
-        } else {
-            list = MOCK_PRODUCTS;
-        }
-
-        if (q?.trim()) {
-            const term = q.trim().toLowerCase();
-            list = list.filter(
-                (p) =>
-                    p.name.toLowerCase().includes(term) ||
-                    p.category.toLowerCase().includes(term),
-            );
-        }
-
-        if (subcategory) {
-            list = list.filter((p) => p.subcategorySlug === subcategory);
-        }
-
-        if (newOnly) {
-            list = list.filter((p) => p.isNew);
-        }
-
-        if (maxPrice !== null) {
-            list = list.filter((p) => p.price <= maxPrice);
-        }
-
-        return sortProducts(list, sort);
-    }, [category, filter, sort, subcategory, q, newOnly, maxPrice]);
-
-    const pageTitle = q?.trim()
-        ? `Search: ${q}`
-        : filter === 'new'
-          ? 'New Arrivals'
-          : categoryMeta?.label ?? 'All Products';
+    const pageTitle = filters.q?.trim()
+        ? `Search: ${filters.q}`
+        : catalog.title;
 
     const pageDescription =
-        filter === 'new'
+        isNewPage
             ? 'The latest additions to our curated collection.'
-            : categoryMeta?.description ??
-              'Browse our full preview catalogue of luxury home decor.';
+            : catalog.description ?? 'Browse our full catalogue of luxury home decor.';
 
     const activeFilterCount =
-        (newOnly ? 1 : 0) + (maxPrice !== null ? 1 : 0) + (subcategory ? 1 : 0);
+        (filters.new_only ? 1 : 0) +
+        (filters.max_price !== null ? 1 : 0) +
+        (filters.sub ? 1 : 0);
 
     const clearRefineFilters = () => {
-        setNewOnly(false);
-        setMaxPrice(null);
+        visitCatalog({ new_only: false, max_price: null, sub: null });
     };
+
+    const subcategoryUrl = (handle: string | null) =>
+        buildCatalogUrl(basePath, filters, { sub: handle });
+
+    const categoryChips = (
+        <>
+            <FilterChip
+                active={view === 'shop' && !filters.q}
+                href="/shop"
+            >
+                All
+            </FilterChip>
+            <FilterChip active={isNewPage} href="/shop/new-arrivals">
+                New
+            </FilterChip>
+            {sidebarCategories.map((cat) => (
+                <FilterChip
+                    key={cat.handle}
+                    active={activeCategory === cat.handle}
+                    href={cat.href}
+                >
+                    {cat.label}
+                </FilterChip>
+            ))}
+        </>
+    );
+
+    const subcategoryChips = categoryContext ? (
+        <div className="catalog-chip-row catalog-type-row" aria-label="Product type">
+            <FilterChip active={!filters.sub} href={subcategoryUrl(null)}>
+                All {categoryContext.label}
+            </FilterChip>
+            {categoryContext.children.map((child) => (
+                <FilterChip
+                    key={child.handle}
+                    active={filters.sub === child.handle}
+                    href={subcategoryUrl(child.handle)}
+                >
+                    {child.label}
+                </FilterChip>
+            ))}
+        </div>
+    ) : null;
 
     return (
         <StorefrontShell>
@@ -281,13 +309,13 @@ export default function CatalogPage({
                         style={{
                             fontFamily: 'Poppins, sans-serif',
                             fontSize: '11px',
-                            color: category || filter ? '#999' : '#060606',
+                            color: view !== 'shop' || isNewPage ? '#999' : '#060606',
                             textDecoration: 'none',
                         }}
                     >
                         Shop
                     </Link>
-                    {(category || filter === 'new') && (
+                    {view !== 'shop' && (
                         <>
                             <span style={{ color: '#ccc' }}>/</span>
                             <span
@@ -338,309 +366,274 @@ export default function CatalogPage({
                             }}
                         >
                             {pageDescription}{' '}
-                            <span style={{ color: '#999' }}>
-                                ({products.length} products)
-                            </span>
+                            {!isBrandDirectory && (
+                                <span style={{ color: '#999' }}>
+                                    ({products.total} products)
+                                </span>
+                            )}
                         </p>
                     </div>
-                    <div className="catalog-toolbar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                        <select
-                            value={sort}
-                            onChange={(e) => setSort(e.target.value as SortOption)}
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '12px',
-                                padding: '10px 14px',
-                                border: '1px solid #e8e8e1',
-                                background: '#fff',
-                            }}
-                        >
-                            <option value="featured">Sort: Featured</option>
-                            <option value="price-asc">Price: Low to High</option>
-                            <option value="price-desc">Price: High to Low</option>
-                            <option value="name">Name: A–Z</option>
-                        </select>
-                        <button
-                            type="button"
-                            onClick={() => setViewMode('grid')}
-                            style={{
-                                padding: '10px 12px',
-                                border: '1px solid #e8e8e1',
-                                background: viewMode === 'grid' ? '#060606' : '#fff',
-                                color: viewMode === 'grid' ? '#fff' : '#060606',
-                                cursor: 'pointer',
-                                fontSize: '11px',
-                            }}
-                        >
-                            Grid
-                        </button>
-                        <button
-                            type="button"
-                            onClick={() => setViewMode('list')}
-                            style={{
-                                padding: '10px 12px',
-                                border: '1px solid #e8e8e1',
-                                background: viewMode === 'list' ? '#060606' : '#fff',
-                                color: viewMode === 'list' ? '#fff' : '#060606',
-                                cursor: 'pointer',
-                                fontSize: '11px',
-                            }}
-                        >
-                            List
-                        </button>
-                    </div>
-                </div>
-
-                <div
-                    style={{
-                        display: 'grid',
-                        gridTemplateColumns: 'minmax(0, 220px) minmax(0, 1fr)',
-                        gap: '40px',
-                    }}
-                    className="catalog-layout catalog-main"
-                >
-                    <div className="catalog-mobile-filters">
-                        <div className="catalog-chip-row" aria-label="Categories">
-                            <FilterChip active={!category && !filter} href="/shop">
-                                All
-                            </FilterChip>
-                            <FilterChip active={filter === 'new'} href="/shop/new-arrivals">
-                                New
-                            </FilterChip>
-                            {CATEGORIES.map((cat) => (
-                                <FilterChip
-                                    key={cat.slug}
-                                    active={category === cat.slug}
-                                    href={`/shop/${cat.slug}`}
-                                >
-                                    {cat.label}
-                                </FilterChip>
-                            ))}
-                        </div>
-
-                        {categoryMeta?.children && (
-                            <div
-                                className="catalog-chip-row catalog-type-row"
-                                aria-label="Product type"
+                    {!isBrandDirectory && (
+                        <div className="catalog-toolbar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                            <select
+                                value={filters.sort}
+                                onChange={(e) =>
+                                    visitCatalog({ sort: e.target.value as SortOption })
+                                }
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '12px',
+                                    padding: '10px 14px',
+                                    border: '1px solid #e8e8e1',
+                                    background: '#fff',
+                                }}
                             >
-                                <FilterChip
-                                    active={!subcategory}
-                                    onClick={() => setSubcategory(null)}
-                                >
-                                    All {categoryMeta.label}
-                                </FilterChip>
-                                {categoryMeta.children.map((child) => (
-                                    <FilterChip
-                                        key={child.slug}
-                                        active={subcategory === child.slug}
-                                        onClick={() => setSubcategory(child.slug)}
-                                    >
-                                        {child.label}
-                                    </FilterChip>
-                                ))}
-                            </div>
-                        )}
-
-                        <div className="catalog-mobile-actions">
+                                <option value="featured">Sort: Featured</option>
+                                <option value="price-asc">Price: Low to High</option>
+                                <option value="price-desc">Price: High to Low</option>
+                                <option value="name">Name: A–Z</option>
+                            </select>
                             <button
                                 type="button"
-                                className="catalog-filters-trigger"
-                                onClick={() => setFiltersOpen(true)}
-                                aria-expanded={filtersOpen}
+                                onClick={() => setViewMode('grid')}
+                                style={{
+                                    padding: '10px 12px',
+                                    border: '1px solid #e8e8e1',
+                                    background: viewMode === 'grid' ? '#060606' : '#fff',
+                                    color: viewMode === 'grid' ? '#fff' : '#060606',
+                                    cursor: 'pointer',
+                                    fontSize: '11px',
+                                }}
                             >
-                                Filters
-                                {activeFilterCount > 0 ? ` (${activeFilterCount})` : ''}
+                                Grid
                             </button>
-                            {activeFilterCount > 0 && (
-                                <button
-                                    type="button"
-                                    className="catalog-filters-clear"
-                                    onClick={() => {
-                                        clearRefineFilters();
-                                        setSubcategory(null);
-                                    }}
-                                >
-                                    Clear
-                                </button>
-                            )}
-                        </div>
-                    </div>
-
-                    <aside className="catalog-sidebar">
-                        <p
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '10px',
-                                fontWeight: 500,
-                                letterSpacing: '2px',
-                                textTransform: 'uppercase',
-                                margin: '0 0 12px',
-                            }}
-                        >
-                            Categories
-                        </p>
-                        <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 24px' }}>
-                            <li style={{ marginBottom: '8px' }}>
-                                <Link
-                                    href="/shop"
-                                    style={{
-                                        fontFamily: 'Poppins, sans-serif',
-                                        fontSize: '12px',
-                                        color: !category && !filter ? '#060606' : '#6b6b6b',
-                                        fontWeight: !category && !filter ? 500 : 300,
-                                    }}
-                                >
-                                    All products
-                                </Link>
-                            </li>
-                            <li style={{ marginBottom: '8px' }}>
-                                <Link
-                                    href="/shop/new-arrivals"
-                                    style={{
-                                        fontFamily: 'Poppins, sans-serif',
-                                        fontSize: '12px',
-                                        color: filter === 'new' ? '#060606' : '#6b6b6b',
-                                        fontWeight: filter === 'new' ? 500 : 300,
-                                    }}
-                                >
-                                    New arrivals
-                                </Link>
-                            </li>
-                            {CATEGORIES.map((cat) => (
-                                <li key={cat.slug} style={{ marginBottom: '8px' }}>
-                                    <Link
-                                        href={`/shop/${cat.slug}`}
-                                        style={{
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '12px',
-                                            color:
-                                                category === cat.slug
-                                                    ? '#060606'
-                                                    : '#6b6b6b',
-                                            fontWeight:
-                                                category === cat.slug ? 500 : 300,
-                                        }}
-                                    >
-                                        {cat.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ul>
-                        <p
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '10px',
-                                fontWeight: 500,
-                                letterSpacing: '2px',
-                                textTransform: 'uppercase',
-                                margin: '24px 0 12px',
-                            }}
-                        >
-                            Refine
-                        </p>
-                        <div style={{ marginBottom: '24px' }}>
-                            <CatalogRefineFilters
-                                newOnly={newOnly}
-                                setNewOnly={setNewOnly}
-                                maxPrice={maxPrice}
-                                setMaxPrice={setMaxPrice}
-                                priceCeiling={priceCeiling}
-                            />
-                        </div>
-                        {categoryMeta?.children && (
-                            <>
-                                <p
-                                    style={{
-                                        fontFamily: 'Poppins, sans-serif',
-                                        fontSize: '10px',
-                                        fontWeight: 500,
-                                        letterSpacing: '2px',
-                                        textTransform: 'uppercase',
-                                        margin: '0 0 12px',
-                                    }}
-                                >
-                                    Type
-                                </p>
-                                <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-                                    <li style={{ marginBottom: '6px' }}>
-                                        <button
-                                            type="button"
-                                            onClick={() => setSubcategory(null)}
-                                            style={{
-                                                background: 'none',
-                                                border: 'none',
-                                                cursor: 'pointer',
-                                                fontFamily: 'Poppins, sans-serif',
-                                                fontSize: '11px',
-                                                color: !subcategory ? '#060606' : '#999',
-                                                padding: 0,
-                                            }}
-                                        >
-                                            All {categoryMeta.label}
-                                        </button>
-                                    </li>
-                                    {categoryMeta.children.map((child) => (
-                                        <li key={child.slug} style={{ marginBottom: '6px' }}>
-                                            <button
-                                                type="button"
-                                                onClick={() => setSubcategory(child.slug)}
-                                                style={{
-                                                    background: 'none',
-                                                    border: 'none',
-                                                    cursor: 'pointer',
-                                                    fontFamily: 'Poppins, sans-serif',
-                                                    fontSize: '11px',
-                                                    color:
-                                                        subcategory === child.slug
-                                                            ? '#060606'
-                                                            : '#999',
-                                                    padding: 0,
-                                                }}
-                                            >
-                                                {child.label}
-                                            </button>
-                                        </li>
-                                    ))}
-                                </ul>
-                            </>
-                        )}
-                    </aside>
-
-                    {products.length === 0 ? (
-                        <p
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '14px',
-                                color: '#6b6b6b',
-                            }}
-                        >
-                            No products in this category yet.
-                        </p>
-                    ) : (
-                        <div
-                            style={
-                                viewMode === 'list'
-                                    ? {
-                                          display: 'flex',
-                                          flexDirection: 'column',
-                                          gap: '16px',
-                                      }
-                                    : {
-                                          display: 'grid',
-                                          gridTemplateColumns: 'repeat(4, 1fr)',
-                                          gap: '22px',
-                                      }
-                            }
-                            className={
-                                viewMode === 'grid' ? 'catalog-grid' : 'catalog-list'
-                            }
-                        >
-                            {products.map((product, idx) => (
-                                <ProductCard key={product.id} product={product} index={idx} />
-                            ))}
+                            <button
+                                type="button"
+                                onClick={() => setViewMode('list')}
+                                style={{
+                                    padding: '10px 12px',
+                                    border: '1px solid #e8e8e1',
+                                    background: viewMode === 'list' ? '#060606' : '#fff',
+                                    color: viewMode === 'list' ? '#fff' : '#060606',
+                                    cursor: 'pointer',
+                                    fontSize: '11px',
+                                }}
+                            >
+                                List
+                            </button>
                         </div>
                     )}
                 </div>
+
+                {isBrandDirectory && catalog.brands ? (
+                    <BrandsDirectory brands={catalog.brands} />
+                ) : (
+                    <div
+                        style={{
+                            display: 'grid',
+                            gridTemplateColumns: 'minmax(0, 220px) minmax(0, 1fr)',
+                            gap: '40px',
+                        }}
+                        className="catalog-layout catalog-main"
+                    >
+                        <div className="catalog-mobile-filters">
+                            <div className="catalog-chip-row" aria-label="Categories">
+                                {categoryChips}
+                            </div>
+                            {subcategoryChips}
+                            <div className="catalog-mobile-actions">
+                                <button
+                                    type="button"
+                                    className="catalog-filters-trigger"
+                                    onClick={() => setFiltersOpen(true)}
+                                    aria-expanded={filtersOpen}
+                                >
+                                    Filters
+                                    {activeFilterCount > 0 ? ` (${activeFilterCount})` : ''}
+                                </button>
+                                {activeFilterCount > 0 && (
+                                    <button
+                                        type="button"
+                                        className="catalog-filters-clear"
+                                        onClick={clearRefineFilters}
+                                    >
+                                        Clear
+                                    </button>
+                                )}
+                            </div>
+                        </div>
+
+                        <aside className="catalog-sidebar">
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '10px',
+                                    fontWeight: 500,
+                                    letterSpacing: '2px',
+                                    textTransform: 'uppercase',
+                                    margin: '0 0 12px',
+                                }}
+                            >
+                                Categories
+                            </p>
+                            <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 24px' }}>
+                                <li style={{ marginBottom: '8px' }}>
+                                    <Link
+                                        href="/shop"
+                                        style={{
+                                            fontFamily: 'Poppins, sans-serif',
+                                            fontSize: '12px',
+                                            color: view === 'shop' && !filters.q ? '#060606' : '#6b6b6b',
+                                            fontWeight: view === 'shop' && !filters.q ? 500 : 300,
+                                        }}
+                                    >
+                                        All products
+                                    </Link>
+                                </li>
+                                <li style={{ marginBottom: '8px' }}>
+                                    <Link
+                                        href="/shop/new-arrivals"
+                                        style={{
+                                            fontFamily: 'Poppins, sans-serif',
+                                            fontSize: '12px',
+                                            color: isNewPage ? '#060606' : '#6b6b6b',
+                                            fontWeight: isNewPage ? 500 : 300,
+                                        }}
+                                    >
+                                        New arrivals
+                                    </Link>
+                                </li>
+                                {sidebarCategories.map((cat) => (
+                                    <li key={cat.handle} style={{ marginBottom: '8px' }}>
+                                        <Link
+                                            href={cat.href}
+                                            style={{
+                                                fontFamily: 'Poppins, sans-serif',
+                                                fontSize: '12px',
+                                                color:
+                                                    activeCategory === cat.handle
+                                                        ? '#060606'
+                                                        : '#6b6b6b',
+                                                fontWeight:
+                                                    activeCategory === cat.handle ? 500 : 300,
+                                            }}
+                                        >
+                                            {cat.label}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '10px',
+                                    fontWeight: 500,
+                                    letterSpacing: '2px',
+                                    textTransform: 'uppercase',
+                                    margin: '24px 0 12px',
+                                }}
+                            >
+                                Refine
+                            </p>
+                            <div style={{ marginBottom: '24px' }}>
+                                <CatalogRefineFilters
+                                    newOnly={filters.new_only}
+                                    maxPrice={filters.max_price}
+                                    onNewOnlyChange={(value) => visitCatalog({ new_only: value })}
+                                    onMaxPriceChange={(value) => visitCatalog({ max_price: value })}
+                                />
+                            </div>
+                            {categoryContext && (
+                                <>
+                                    <p
+                                        style={{
+                                            fontFamily: 'Poppins, sans-serif',
+                                            fontSize: '10px',
+                                            fontWeight: 500,
+                                            letterSpacing: '2px',
+                                            textTransform: 'uppercase',
+                                            margin: '0 0 12px',
+                                        }}
+                                    >
+                                        Type
+                                    </p>
+                                    <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+                                        <li style={{ marginBottom: '6px' }}>
+                                            <Link
+                                                href={subcategoryUrl(null)}
+                                                style={{
+                                                    fontFamily: 'Poppins, sans-serif',
+                                                    fontSize: '11px',
+                                                    color: !filters.sub ? '#060606' : '#999',
+                                                    textDecoration: 'none',
+                                                }}
+                                            >
+                                                All {categoryContext.label}
+                                            </Link>
+                                        </li>
+                                        {categoryContext.children.map((child) => (
+                                            <li key={child.handle} style={{ marginBottom: '6px' }}>
+                                                <Link
+                                                    href={subcategoryUrl(child.handle)}
+                                                    style={{
+                                                        fontFamily: 'Poppins, sans-serif',
+                                                        fontSize: '11px',
+                                                        color:
+                                                            filters.sub === child.handle
+                                                                ? '#060606'
+                                                                : '#999',
+                                                        textDecoration: 'none',
+                                                    }}
+                                                >
+                                                    {child.label}
+                                                </Link>
+                                            </li>
+                                        ))}
+                                    </ul>
+                                </>
+                            )}
+                        </aside>
+
+                        <div>
+                            {products.data.length === 0 ? (
+                                <p
+                                    style={{
+                                        fontFamily: 'Poppins, sans-serif',
+                                        fontSize: '14px',
+                                        color: '#6b6b6b',
+                                    }}
+                                >
+                                    No products match your filters.
+                                </p>
+                            ) : (
+                                <div
+                                    style={
+                                        viewMode === 'list'
+                                            ? {
+                                                  display: 'flex',
+                                                  flexDirection: 'column',
+                                                  gap: '16px',
+                                              }
+                                            : {
+                                                  display: 'grid',
+                                                  gridTemplateColumns: 'repeat(4, 1fr)',
+                                                  gap: '22px',
+                                              }
+                                    }
+                                    className={
+                                        viewMode === 'grid' ? 'catalog-grid' : 'catalog-list'
+                                    }
+                                >
+                                    {products.data.map((product, idx) => (
+                                        <ProductCard key={product.id} product={product} index={idx} />
+                                    ))}
+                                </div>
+                            )}
+
+                            <StorefrontPagination paginator={products} />
+                        </div>
+                    </div>
+                )}
             </div>
 
             {filtersOpen && (
@@ -695,11 +688,10 @@ export default function CatalogPage({
                         </div>
 
                         <CatalogRefineFilters
-                            newOnly={newOnly}
-                            setNewOnly={setNewOnly}
-                            maxPrice={maxPrice}
-                            setMaxPrice={setMaxPrice}
-                            priceCeiling={priceCeiling}
+                            newOnly={draftNewOnly}
+                            maxPrice={draftMaxPrice}
+                            onNewOnlyChange={setDraftNewOnly}
+                            onMaxPriceChange={setDraftMaxPrice}
                         />
 
                         {activeFilterCount > 0 && (
@@ -716,9 +708,15 @@ export default function CatalogPage({
                         <button
                             type="button"
                             className="catalog-filters-apply"
-                            onClick={() => setFiltersOpen(false)}
+                            onClick={() => {
+                                visitCatalog({
+                                    new_only: draftNewOnly,
+                                    max_price: draftMaxPrice,
+                                });
+                                setFiltersOpen(false);
+                            }}
                         >
-                            Show {products.length} results
+                            Show results
                         </button>
                     </div>
                 </div>

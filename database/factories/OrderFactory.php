@@ -3,6 +3,7 @@
 namespace Database\Factories;
 
 use App\Enums\OrderStatus;
+use App\Enums\PaymentStatus;
 use App\Models\Order;
 use App\Services\OrderNumberGenerator;
 use Illuminate\Database\Eloquent\Factories\Factory;
@@ -27,6 +28,7 @@ class OrderFactory extends Factory
                 Carbon::instance($placedAt),
             ),
             'status' => fake()->randomElement(OrderStatus::cases()),
+            'payment_status' => PaymentStatus::Paid,
             'customer_name' => fake()->name(),
             'customer_email' => fake()->safeEmail(),
             'customer_phone' => fake()->optional()->numerify('+23480########'),

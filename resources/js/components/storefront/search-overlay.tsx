@@ -1,6 +1,6 @@
 import { Link } from '@inertiajs/react';
-import { useEffect, useMemo, useRef, useState } from 'react';
-import { MOCK_PRODUCTS } from '@/data/mock-products';
+import { useEffect, useRef, useState } from 'react';
+import type { StorefrontProduct } from '@/types/storefront-product';
 
 const RECENT_KEY = 'homere-recent-searches';
 const SUGGESTED = ['lamp', 'candle', 'vase', 'cushion', 'chandelier'];
@@ -34,6 +34,8 @@ function saveRecent(term: string) {
 export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
     const [query, setQuery] = useState('');
     const [recent, setRecent] = useState<string[]>([]);
+    const [results, setResults] = useState<StorefrontProduct[]>([]);
+    const [searching, setSearching] = useState(false);
     const inputRef = useRef<HTMLInputElement>(null);
 
     const handleClose = () => {
@@ -73,19 +75,43 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
         return () => window.removeEventListener('keydown', onKey);
     }, [isOpen, onClose]);
 
-    const results = useMemo(() => {
-        const q = query.trim().toLowerCase();
+    useEffect(() => {
+        const q = query.trim();
 
         if (!q) {
-            return [];
+            setResults([]);
+
+            return;
         }
 
-        return MOCK_PRODUCTS.filter(
-            (p) =>
-                p.name.toLowerCase().includes(q) ||
-                p.category.toLowerCase().includes(q) ||
-                p.description.toLowerCase().includes(q),
-        ).slice(0, 12);
+        const controller = new AbortController();
+        const timer = window.setTimeout(async () => {
+            setSearching(true);
+
+            try {
+                const response = await fetch(
+                    `/storefront/search?q=${encodeURIComponent(q)}`,
+                    { signal: controller.signal },
+                );
+                const data = (await response.json()) as {
+                    products: StorefrontProduct[];
+                };
+                setResults(data.products ?? []);
+            } catch {
+                if (!controller.signal.aborted) {
+                    setResults([]);
+                }
+            } finally {
+                if (!controller.signal.aborted) {
+                    setSearching(false);
+                }
+            }
+        }, 300);
+
+        return () => {
+            controller.abort();
+            window.clearTimeout(timer);
+        };
     }, [query]);
 
     const applySearch = (term: string) => {
@@ -269,9 +295,11 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                                 margin: '0 0 16px',
                             }}
                         >
-                            {results.length > 0
-                                ? `${results.length} result${results.length === 1 ? '' : 's'}`
-                                : 'No results'}
+                            {searching
+                                ? 'Searching…'
+                                : results.length > 0
+                                  ? `${results.length} result${results.length === 1 ? '' : 's'}`
+                                  : 'No results'}
                         </p>
 
                         {results.length > 0 ? (
@@ -288,7 +316,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                                         style={{ borderBottom: '1px solid #f0f0ec' }}
                                     >
                                         <Link
-                                            href={`/products/${p.id}`}
+                                            href={p.href}
                                             onClick={handleClose}
                                             style={{
                                                 display: 'flex',

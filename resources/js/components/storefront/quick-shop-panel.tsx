@@ -1,11 +1,11 @@
 import { Link } from '@inertiajs/react';
 import { useState } from 'react';
 import { useCart } from '@/context/CartContext';
-import type { MockProduct } from '@/data/mock-products';
-import { mockProductToCartItem } from '@/lib/cart';
+import type { StorefrontProduct } from '@/types/storefront-product';
+import { storefrontProductToCartItem } from '@/lib/cart';
 
 interface QuickShopPanelProps {
-    product: MockProduct;
+    product: StorefrontProduct;
     onClose: () => void;
 }
 
@@ -16,7 +16,7 @@ export default function QuickShopPanel({ product, onClose }: QuickShopPanelProps
 
     const handleAdd = () => {
         for (let i = 0; i < quantity; i++) {
-            addItem(mockProductToCartItem(product));
+            addItem(storefrontProductToCartItem(product));
         }
 
         setAdded(true);

@@ -1,11 +1,14 @@
 import { Link } from '@inertiajs/react';
 import { useRef, useEffect, useState } from 'react';
 import ProductCard from '@/components/storefront/product-card';
-import { getNewArrivals } from '@/data/mock-products';
+import type { StorefrontProduct } from '@/types/storefront-product';
 
-const newArrivals = getNewArrivals();
-
-export default function NewArrivals() {
+export default function NewArrivals({
+    products,
+}: {
+    products: StorefrontProduct[];
+}) {
+    const newArrivals = products;
     const [visible, setVisible] = useState(false);
     const ref = useRef<HTMLDivElement>(null);
 

@@ -1,14 +1,19 @@
 /* eslint-disable import/order */
 'use client';
 import React, { useState } from 'react';
-import { Link } from '@inertiajs/react';
+import { Link, router } from '@inertiajs/react';
 import { useCart } from '@/context/CartContext';
 import { home } from '@/routes';
 
-export default function CheckoutPage() {
-    const { items, subtotal } = useCart();
-    const shipping = subtotal > 0 ? 0 : 0;
+type Props = {
+    paystackConfigured: boolean;
+};
+
+export default function CheckoutPage({ paystackConfigured }: Props) {
+    const { items, subtotal, orderNote, hasPriceOnRequest } = useCart();
+    const shipping = 0;
     const total = subtotal + shipping;
+    const [processing, setProcessing] = useState(false);
 
     const [form, setForm] = useState({
         email: '',
@@ -16,13 +21,8 @@ export default function CheckoutPage() {
         lastName: '',
         address: '',
         city: '',
-        postalCode: '',
-        country: '',
+        state: '',
         phone: '',
-        cardNumber: '',
-        cardExpiry: '',
-        cardCvc: '',
-        cardName: '',
     });
 
     const handleChange = (
@@ -33,8 +33,31 @@ export default function CheckoutPage() {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        alert(
-            'Preview only — no order was placed. Thank you for reviewing the Homère checkout experience.',
+
+        if (items.length === 0) {
+            return;
+        }
+
+        setProcessing(true);
+
+        router.post(
+            '/checkout',
+            {
+                customer_name: `${form.firstName.trim()} ${form.lastName.trim()}`.trim(),
+                customer_email: form.email.trim(),
+                customer_phone: form.phone.trim() || null,
+                shipping_address: form.address.trim(),
+                shipping_city: form.city.trim(),
+                shipping_state: form.state.trim() || null,
+                customer_note: orderNote.trim() || null,
+                items: items.map((item) => ({
+                    variant_id: item.variantId,
+                    quantity: item.quantity,
+                })),
+            },
+            {
+                onFinish: () => setProcessing(false),
+            },
         );
     };
 
@@ -271,42 +294,16 @@ export default function CheckoutPage() {
                                     />
                                 </div>
                                 <div>
-                                    <label style={labelStyle}>
-                                        Postal Code
-                                    </label>
+                                    <label style={labelStyle}>State</label>
                                     <input
-                                        name="postalCode"
+                                        name="state"
                                         type="text"
-                                        value={form.postalCode}
+                                        value={form.state}
                                         onChange={handleChange}
-                                        placeholder="Postal code"
-                                        required
+                                        placeholder="State"
                                         style={inputStyle}
                                     />
                                 </div>
-                            </div>
-                            <div>
-                                <label style={labelStyle}>Country</label>
-                                <select
-                                    title="country"
-                                    name="country"
-                                    value={form.country}
-                                    onChange={handleChange}
-                                    required
-                                    style={{
-                                        ...inputStyle,
-                                        appearance: 'none',
-                                        cursor: 'pointer',
-                                    }}
-                                >
-                                    <option value="">Select country</option>
-                                    <option value="NL">Netherlands</option>
-                                    <option value="DE">Germany</option>
-                                    <option value="BE">Belgium</option>
-                                    <option value="FR">France</option>
-                                    <option value="GB">United Kingdom</option>
-                                    <option value="US">United States</option>
-                                </select>
                             </div>
                         </div>
                     </section>
@@ -366,78 +363,27 @@ export default function CheckoutPage() {
                                 </svg>
                                 All transactions are secure and encrypted
                             </p>
-                            <div style={{ display: 'grid', gap: '16px' }}>
-                                <div>
-                                    <label style={labelStyle}>
-                                        Card Number
-                                    </label>
-                                    <input
-                                        name="cardNumber"
-                                        type="text"
-                                        value={form.cardNumber}
-                                        onChange={handleChange}
-                                        placeholder="1234 5678 9012 3456"
-                                        maxLength={19}
-                                        required
-                                        style={inputStyle}
-                                    />
-                                </div>
-                                <div>
-                                    <label style={labelStyle}>
-                                        Name on Card
-                                    </label>
-                                    <input
-                                        name="cardName"
-                                        type="text"
-                                        value={form.cardName}
-                                        onChange={handleChange}
-                                        placeholder="Full name as on card"
-                                        required
-                                        style={inputStyle}
-                                    />
-                                </div>
-                                <div
-                                    style={{
-                                        display: 'grid',
-                                        gridTemplateColumns: '1fr 1fr',
-                                        gap: '16px',
-                                    }}
-                                >
-                                    <div>
-                                        <label style={labelStyle}>
-                                            Expiry Date
-                                        </label>
-                                        <input
-                                            name="cardExpiry"
-                                            type="text"
-                                            value={form.cardExpiry}
-                                            onChange={handleChange}
-                                            placeholder="MM / YY"
-                                            maxLength={7}
-                                            required
-                                            style={inputStyle}
-                                        />
-                                    </div>
-                                    <div>
-                                        <label style={labelStyle}>CVC</label>
-                                        <input
-                                            name="cardCvc"
-                                            type="text"
-                                            value={form.cardCvc}
-                                            onChange={handleChange}
-                                            placeholder="CVC"
-                                            maxLength={4}
-                                            required
-                                            style={inputStyle}
-                                        />
-                                    </div>
-                                </div>
-                            </div>
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '13px',
+                                    color: '#060606',
+                                    lineHeight: 1.6,
+                                    margin: 0,
+                                }}
+                            >
+                                {hasPriceOnRequest
+                                    ? 'Items marked price on request will be confirmed by our team before payment.'
+                                    : paystackConfigured
+                                      ? 'You will complete payment securely on Paystack after placing your order.'
+                                      : 'Online payment will be enabled soon. Your order will be saved and our team will follow up.'}
+                            </p>
                         </div>
                     </section>
 
                     <button
                         type="submit"
+                        disabled={processing || items.length === 0}
                         style={{
                             width: '100%',
                             background: '#060606',
@@ -449,7 +395,11 @@ export default function CheckoutPage() {
                             fontWeight: 500,
                             letterSpacing: '2.5px',
                             textTransform: 'uppercase',
-                            cursor: 'pointer',
+                            cursor:
+                                processing || items.length === 0
+                                    ? 'not-allowed'
+                                    : 'pointer',
+                            opacity: processing || items.length === 0 ? 0.6 : 1,
                             transition: 'background 0.2s ease',
                         }}
                         onMouseEnter={(e) =>
@@ -463,10 +413,11 @@ export default function CheckoutPage() {
                             ).style.background = '#060606')
                         }
                     >
-                        Place Order — ₦
-                        {total.toLocaleString('en-EU', {
-                            minimumFractionDigits: 2,
-                        })}
+                        {processing
+                            ? 'Processing…'
+                            : hasPriceOnRequest && total === 0
+                              ? 'Submit order'
+                              : `Place order — ₦${total.toLocaleString('en-NG')}`}
                     </button>
                 </form>
 
@@ -502,7 +453,7 @@ export default function CheckoutPage() {
                         ) : (
                             items.map((item) => (
                                 <div
-                                    key={item.id}
+                                    key={item.variantId}
                                     style={{
                                         display: 'flex',
                                         alignItems: 'center',
@@ -595,10 +546,9 @@ export default function CheckoutPage() {
                                             flexShrink: 0,
                                         }}
                                     >
-                                        ₦
-                                        {(
-                                            item.price * item.quantity
-                                        ).toLocaleString('en-EU')}
+                                        {item.priceOnRequest || item.price === null
+                                            ? 'Price on request'
+                                            : `₦${(item.price * item.quantity).toLocaleString('en-NG')}`}
                                     </p>
                                 </div>
                             ))

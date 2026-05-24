@@ -9,7 +9,7 @@ class ImportCatalogProducts extends Command
 {
     protected $signature = 'catalog:import-products
                             {--collection= : Import a single collection handle}
-                            {--limit=50 : Maximum products per collection}
+                            {--limit=0 : Maximum products per collection (0 = unlimited)}
                             {--dry-run : Preview without writing to the database}';
 
     protected $description = 'Import scraped products from public/output/collections into the admin catalog';
