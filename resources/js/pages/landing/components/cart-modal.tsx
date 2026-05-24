@@ -2,6 +2,7 @@
 import React, { useEffect } from 'react';
 import { useCart } from '@/context/CartContext';
 import { Link } from '@inertiajs/react';
+import CartLineImage from '@/components/storefront/cart-line-image';
 import { formatNaira } from '@/lib/cart';
 import { checkout } from '@/routes';
 
@@ -175,26 +176,12 @@ export default function CartModal() {
                                     borderBottom: '1px solid #f0f0ec',
                                 }}
                             >
-                                {/* Product image */}
-                                <div
-                                    style={{
-                                        width: '80px',
-                                        height: '90px',
-                                        flexShrink: 0,
-                                        background: '#f5f5f3',
-                                        overflow: 'hidden',
-                                    }}
-                                >
-                                    <img
-                                        src={item.image}
-                                        alt={item.alt}
-                                        style={{
-                                            width: '100%',
-                                            height: '100%',
-                                            objectFit: 'cover',
-                                        }}
-                                    />
-                                </div>
+                                <CartLineImage
+                                    src={item.image}
+                                    alt={item.alt}
+                                    width="80px"
+                                    height="90px"
+                                />
 
                                 {/* Details */}
                                 <div style={{ flex: 1, minWidth: 0 }}>

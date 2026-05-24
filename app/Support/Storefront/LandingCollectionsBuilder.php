@@ -23,7 +23,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'decor-accessories',
             'label' => 'Home Decor',
-            'image' => '/assets/images/banners/RNI-Films-IMG-17222E29-7C9D-4AA4-B607-37D6B87427D0.JPG',
+            'image' => '/assets/images/Sitting-white-Mickey.jpg',
             'alt' => 'Curated home decor including vases, mirrors, and wall art',
         ],
         [
@@ -41,7 +41,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'furniture',
             'label' => 'Furniture',
-            'image' => '/assets/images/banners/RNI-Films-IMG-E3283BD3-CE56-4F93-80B2-B28B430E385C.jpg',
+            'image' => '/assets/images/Trolley Bellini.jpg',
             'alt' => 'Designer furniture including sofas, tables, and storage',
         ],
         [

@@ -2,6 +2,7 @@
 'use client';
 import React, { useState } from 'react';
 import { Link, router } from '@inertiajs/react';
+import CartLineImage from '@/components/storefront/cart-line-image';
 import { useCart } from '@/context/CartContext';
 import { home } from '@/routes';
 
@@ -462,30 +463,18 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                                         borderBottom: '1px solid #f0f0ec',
                                     }}
                                 >
-                                    <div
-                                        style={{
-                                            position: 'relative',
-                                            flexShrink: 0,
-                                        }}
-                                    >
                                         <div
                                             style={{
-                                                width: '60px',
-                                                height: '68px',
-                                                background: '#f5f5f3',
-                                                overflow: 'hidden',
+                                                position: 'relative',
+                                                flexShrink: 0,
                                             }}
                                         >
-                                            <img
-                                                src={item.image}
-                                                alt={item.alt}
-                                                style={{
-                                                    width: '100%',
-                                                    height: '100%',
-                                                    objectFit: 'cover',
-                                                }}
-                                            />
-                                        </div>
+                                        <CartLineImage
+                                            src={item.image}
+                                            alt={item.alt}
+                                            width="60px"
+                                            height="68px"
+                                        />
                                         <span
                                             style={{
                                                 position: 'absolute',

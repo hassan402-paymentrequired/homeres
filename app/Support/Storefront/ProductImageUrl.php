@@ -3,7 +3,6 @@
 namespace App\Support\Storefront;
 
 use App\Models\ProductImage;
-use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
 
 final class ProductImageUrl
@@ -11,19 +10,42 @@ final class ProductImageUrl
     public function resolve(ProductImage $image): string
     {
         if (filled($image->url)) {
-            return (string) $image->url;
+            return $this->normalize((string) $image->url);
         }
 
         if (! filled($image->path)) {
             return '';
         }
 
-        $path = (string) $image->path;
+        return $this->normalize((string) $image->path);
+    }
 
-        if (Str::startsWith($path, ['http://', 'https://', '//'])) {
-            return $path;
+    private function normalize(string $value): string
+    {
+        $value = trim($value);
+
+        if ($value === '') {
+            return '';
         }
 
-        return Storage::disk('public')->url($path);
+        if (Str::startsWith($value, ['http://', 'https://', '//'])) {
+            $path = parse_url($value, PHP_URL_PATH);
+
+            if (is_string($path) && str_starts_with($path, '/storage/')) {
+                return $path;
+            }
+
+            return $value;
+        }
+
+        if (Str::startsWith($value, ['/'])) {
+            return $value;
+        }
+
+        if (Str::startsWith($value, 'storage/')) {
+            return '/'.$value;
+        }
+
+        return '/storage/'.ltrim($value, '/');
     }
 }

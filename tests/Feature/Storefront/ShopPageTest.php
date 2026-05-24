@@ -32,7 +32,7 @@ test('product card image uses storage url when url is empty', function () {
     $this->get(route('shop'))
         ->assertOk()
         ->assertInertia(fn ($page) => $page
-            ->where('products.data.0.images.0.src', Storage::disk('public')->url('catalog/sofa.jpg')));
+            ->where('products.data.0.images.0.src', '/storage/catalog/sofa.jpg'));
 });
 
 test('shop sort query is applied server side', function () {

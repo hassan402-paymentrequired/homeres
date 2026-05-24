@@ -1,3 +1,7 @@
+import {
+    primaryStorefrontImage,
+    resolveStorefrontImageSrc,
+} from '@/lib/storefront-image';
 import type {
     StorefrontProduct,
     StorefrontProductImage,
@@ -21,15 +25,37 @@ export function resolveSelectedVariant(
     );
 }
 
+function galleryWithValidSrc(
+    images: StorefrontProductImage[] | undefined,
+): StorefrontProductImage[] {
+    return (images ?? [])
+        .map((image) => ({
+            ...image,
+            src: resolveStorefrontImageSrc(image.src),
+        }))
+        .filter((image) => image.src !== '');
+}
+
 export function resolveDisplayImages(
     product: StorefrontProduct,
     variant: StorefrontVariant | null,
 ): StorefrontProductImage[] {
-    if (variant?.images?.length) {
-        return variant.images;
+    const variantImages = galleryWithValidSrc(variant?.images);
+
+    if (variantImages.length > 0) {
+        return variantImages;
     }
 
-    return product.images;
+    return galleryWithValidSrc(product.images);
+}
+
+export function resolvePrimaryImageSrc(
+    product: StorefrontProduct,
+    variant: StorefrontVariant | null,
+): string {
+    const primary = primaryStorefrontImage(resolveDisplayImages(product, variant));
+
+    return primary?.src ?? '';
 }
 
 export function variantOptionLabels(
