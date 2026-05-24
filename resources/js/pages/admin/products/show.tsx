@@ -10,6 +10,7 @@ import {
     Warehouse,
 } from 'lucide-react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
+import { resolveAdminProductImageSrc } from '@/lib/admin-product-image';
 import AdminPagination from '@/components/admin/admin-pagination';
 import ProductSpecsPreview from '@/components/admin/product-specs-preview';
 import StockStatusBadge from '@/components/admin/stock-status-badge';
@@ -100,7 +101,7 @@ export default function ProductShow({
                                         className="overflow-hidden rounded-lg border border-sidebar-border/70 bg-muted/20"
                                     >
                                         <img
-                                            src={'/storage/' + image.path}
+                                            src={resolveAdminProductImageSrc(image)}
                                             alt={image.alt || product.name}
                                             className="aspect-[4/3] w-full object-cover"
                                         />

@@ -5,6 +5,7 @@ namespace App\Services\Storefront;
 use App\Http\Requests\Storefront\ShopIndexRequest;
 use App\Models\Brand;
 use App\Models\Category;
+use App\Services\CategoryBannerSync;
 use App\Support\Storefront\StorefrontCatalogQuery;
 use App\Support\Storefront\StorefrontPagination;
 use App\Support\Storefront\StorefrontProductPresenter;
@@ -32,6 +33,7 @@ class ShopPageService
     public function __construct(
         private StorefrontCatalogQuery $catalogQuery,
         private StorefrontProductPresenter $presenter,
+        private CategoryBannerSync $categoryBanner,
     ) {}
 
     /**
@@ -69,6 +71,7 @@ class ShopPageService
                 'basePath' => '/'.ltrim($request->path(), '/'),
                 'sidebarCategories' => $this->sidebarCategories(),
                 'categoryContext' => $category ? $this->categoryContext($category) : null,
+                'banner' => $this->catalogBanner($view, $category),
                 'brandContext' => $brand ? [
                     'handle' => $brand->handle,
                     'name' => $brand->name,
@@ -277,6 +280,28 @@ class ShopPageService
         $cleaned = preg_replace('/\s*\(All\)\s*$/i', '', $name);
 
         return is_string($cleaned) && $cleaned !== '' ? $cleaned : $name;
+    }
+
+    /**
+     * @return array{title: string, description: string|null, imageUrl: string}|null
+     */
+    private function catalogBanner(string $view, ?Category $category): ?array
+    {
+        if (! in_array($view, ['category', 'collection'], true) || $category === null) {
+            return null;
+        }
+
+        $imageUrl = $this->categoryBanner->publicUrl($category);
+
+        if (! filled($imageUrl)) {
+            return null;
+        }
+
+        return [
+            'title' => $this->cleanLabel($category->name),
+            'description' => filled($category->description) ? $category->description : null,
+            'imageUrl' => $imageUrl,
+        ];
     }
 
     /**

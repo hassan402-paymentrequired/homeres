@@ -39,8 +39,10 @@ export default function ProductCard({
     const [quickView, setQuickView] = useState<QuickViewProduct | null>(null);
     const [quickShopOpen, setQuickShopOpen] = useState(false);
     const { isWishlisted, toggle } = useWishlist();
-    const image = product.images[0];
+    const image = product.images[1];
     const wishlisted = isWishlisted(product.id);
+
+    // console.log(product);
 
     return (
         <>

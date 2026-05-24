@@ -17,6 +17,8 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
     'name',
     'handle',
     'description',
+    'banner_path',
+    'banner_url',
     'nav_group_label',
     'sort_order',
     'is_active',

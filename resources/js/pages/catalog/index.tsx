@@ -1,5 +1,6 @@
 import { Head, Link, router } from '@inertiajs/react';
 import { useEffect, useState } from 'react';
+import CatalogCategoryBanner from '@/components/storefront/catalog-category-banner';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontPagination from '@/components/storefront/storefront-pagination';
 import StorefrontShell from '@/components/storefront/storefront-shell';
@@ -36,10 +37,17 @@ type BrandContext = {
     name: string;
 };
 
+type CatalogBanner = {
+    title: string;
+    description: string | null;
+    imageUrl: string;
+};
+
 type CatalogMeta = {
     view: CatalogView;
     title: string;
     description: string | null;
+    banner?: CatalogBanner | null;
     basePath: string;
     filters: CatalogFilters;
     sidebarCategories: SidebarCategory[];
@@ -201,6 +209,11 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
             ? 'The latest additions to our curated collection.'
             : catalog.description ?? 'Browse our full catalogue of luxury home decor.';
 
+    const showCategoryBanner =
+        !isBrandDirectory &&
+        catalog.banner !== null &&
+        catalog.banner !== undefined;
+
     const activeFilterCount =
         (filters.new_only ? 1 : 0) +
         (filters.max_price !== null ? 1 : 0) +
@@ -268,49 +281,58 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                     )}
                 </nav>
 
-                <div
-                    className="catalog-header"
-                    style={{
-                        display: 'flex',
-                        alignItems: 'flex-end',
-                        justifyContent: 'space-between',
-                        marginBottom: '32px',
-                        flexWrap: 'wrap',
-                        gap: '16px',
-                    }}
-                >
-                    <div>
-                        <h1
-                            style={{
-                                fontFamily: '"Proza Libre", sans-serif',
-                                fontSize: 'calc(29px * 0.85)',
-                                fontWeight: 500,
-                                textTransform: 'uppercase',
-                                color: '#060606',
-                                margin: '0 0 8px',
-                            }}
-                        >
-                            {pageTitle}
-                        </h1>
-                        <p
-                            style={{
-                                fontFamily: 'Poppins, sans-serif',
-                                fontSize: '13px',
-                                fontWeight: 300,
-                                color: '#6b6b6b',
-                                margin: 0,
-                                maxWidth: '520px',
-                            }}
-                        >
-                            {pageDescription}{' '}
-                            {!isBrandDirectory && (
-                                <span style={{ color: '#999' }}>
-                                    ({products.total} products)
-                                </span>
-                            )}
-                        </p>
+                {showCategoryBanner && catalog.banner ? (
+                    <CatalogCategoryBanner
+                        title={catalog.banner.title}
+                        description={catalog.banner.description}
+                        imageUrl={catalog.banner.imageUrl}
+                        productCount={products.total}
+                    />
+                ) : (
+                    <div
+                        className="catalog-header"
+                        style={{
+                            display: 'flex',
+                            alignItems: 'flex-end',
+                            justifyContent: 'space-between',
+                            marginBottom: '32px',
+                            flexWrap: 'wrap',
+                            gap: '16px',
+                        }}
+                    >
+                        <div>
+                            <h1
+                                style={{
+                                    fontFamily: '"Proza Libre", sans-serif',
+                                    fontSize: 'calc(29px * 0.85)',
+                                    fontWeight: 500,
+                                    textTransform: 'uppercase',
+                                    color: '#060606',
+                                    margin: '0 0 8px',
+                                }}
+                            >
+                                {pageTitle}
+                            </h1>
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '13px',
+                                    fontWeight: 300,
+                                    color: '#6b6b6b',
+                                    margin: 0,
+                                    maxWidth: '520px',
+                                }}
+                            >
+                                {pageDescription}{' '}
+                                {!isBrandDirectory && (
+                                    <span style={{ color: '#999' }}>
+                                        ({products.total} products)
+                                    </span>
+                                )}
+                            </p>
+                        </div>
                     </div>
-                </div>
+                )}
 
                 {isBrandDirectory && catalog.brands ? (
                     <BrandsDirectory brands={catalog.brands} />

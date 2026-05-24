@@ -1,5 +1,5 @@
 import { Head, Link } from '@inertiajs/react';
-import { ImageIcon, Package, Plus } from 'lucide-react';
+import { FileUp, ImageIcon, Package, Plus } from 'lucide-react';
 import AdminEmptyState from '@/components/admin/admin-empty-state';
 import AdminPagination from '@/components/admin/admin-pagination';
 import { Badge } from '@/components/ui/badge';
@@ -38,12 +38,20 @@ export default function ProductsIndex({ products }: Props) {
                             variant counts at a glance.
                         </p>
                     </div>
-                    <Button asChild>
-                        <Link href="/admin/products/create">
-                            <Plus className="size-4" />
-                            Add product
-                        </Link>
-                    </Button>
+                    <div className="flex flex-wrap gap-2">
+                        <Button asChild variant="outline">
+                            <Link href="/admin/products/import">
+                                <FileUp className="size-4" />
+                                Bulk import
+                            </Link>
+                        </Button>
+                        <Button asChild>
+                            <Link href="/admin/products/create">
+                                <Plus className="size-4" />
+                                Add product
+                            </Link>
+                        </Button>
+                    </div>
                 </div>
 
                 {items.length === 0 ? (

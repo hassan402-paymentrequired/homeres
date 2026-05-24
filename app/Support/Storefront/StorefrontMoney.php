@@ -16,7 +16,11 @@ final class StorefrontMoney
 
     public static function format(?float $amount, bool $priceOnRequest = false, string $currency = 'NGN'): string
     {
-        if ($priceOnRequest || $amount === null || $amount <= 0) {
+        if ($priceOnRequest) {
+            return 'Price on request';
+        }
+
+        if ($amount === null || $amount <= 0) {
             return 'Price on request';
         }
 

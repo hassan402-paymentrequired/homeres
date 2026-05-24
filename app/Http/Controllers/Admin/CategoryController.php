@@ -8,6 +8,7 @@ use App\Http\Requests\Admin\UpdateCategoryRequest;
 use App\Models\Category;
 use App\Models\Product;
 use App\Models\ProductTemplate;
+use App\Services\CategoryBannerSync;
 use App\Services\CategoryHandleGenerator;
 use App\Services\CategoryTree;
 use App\Services\ProductPresenter;
@@ -24,6 +25,7 @@ class CategoryController extends Controller
     public function __construct(
         private CategoryTree $categoryTree,
         private CategoryHandleGenerator $handleGenerator,
+        private CategoryBannerSync $bannerSync,
         private ProductPresenter $productPresenter,
     ) {}
 
@@ -85,6 +87,8 @@ class CategoryController extends Controller
             'is_aggregate' => false,
         ]);
 
+        $this->bannerSync->sync($category, $request);
+
         $redirect = $parentId
             ? route('admin.categories.show', $parentId)
             : route('admin.categories.show', $category);
@@ -115,6 +119,7 @@ class CategoryController extends Controller
         $validated = $request->validated();
 
         $category->update($this->normalizePayload($request, $validated));
+        $this->bannerSync->sync($category, $request);
 
         return redirect()
             ->route('admin.categories.show', $category)
@@ -128,6 +133,7 @@ class CategoryController extends Controller
         }
 
         $parentId = $category->parent_id;
+        $this->bannerSync->delete($category);
         $category->delete();
 
         if ($parentId !== null) {

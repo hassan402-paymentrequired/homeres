@@ -15,6 +15,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { Input } from '@/components/ui/input';
 import { Separator } from '@/components/ui/separator';
 import AdminLayout from '@/layouts/admin-layout';
+import { resolveAdminProductImageSrc } from '@/lib/admin-product-image';
 import type {
     ProductBreadcrumb,
     ProductImage,
@@ -36,6 +37,7 @@ type ProductSummary = {
 
 type Props = {
     product: ProductSummary;
+    productImages?: ProductImage[];
     variant: ProductVariantRecord | null;
     stockStatuses: StockStatusOption[];
     breadcrumbs: ProductBreadcrumb[];
@@ -52,6 +54,7 @@ const STOCK_HINTS: Record<StockStatus, string> = {
 
 export default function ProductVariantForm({
     product,
+    productImages = [],
     variant,
     stockStatuses,
     breadcrumbs,
@@ -100,6 +103,7 @@ export default function ProductVariantForm({
     }, []);
 
     const isRemote = stockStatus === 'in_stock_remote';
+    const isInStore = stockStatus === 'in_store';
 
     const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault();
@@ -177,6 +181,33 @@ export default function ProductVariantForm({
                             </CardHeader>
 
                             <CardContent className="space-y-8 py-6">
+                                {productImages.length > 0 ? (
+                                    <FormSection
+                                        title="Product gallery"
+                                        description="Shared photos for this product. Variant-specific uploads below override these on the storefront when selected."
+                                    >
+                                        <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+                                            {productImages.map((image) => (
+                                                <div
+                                                    key={image.id}
+                                                    className="overflow-hidden rounded-lg border border-sidebar-border/70 bg-muted/20"
+                                                >
+                                                    <img
+                                                        src={resolveAdminProductImageSrc(
+                                                            image,
+                                                        )}
+                                                        alt={
+                                                            image.alt ||
+                                                            product.name
+                                                        }
+                                                        className="aspect-[4/3] w-full object-cover"
+                                                    />
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </FormSection>
+                                ) : null}
+
                                 <FormSection
                                     title="Variant images"
                                     description="Optional. Shown on the storefront when this SKU is selected; otherwise shared product photos are used."
@@ -426,12 +457,21 @@ export default function ProductVariantForm({
                                         </div>
                                     </div>
 
-                                    {!priceOnRequest && (
-                                        <FormField
-                                            label="Price (NGN)"
+                                    <FormField
+                                            label={
+                                                priceOnRequest
+                                                    ? 'Reference price (NGN, optional)'
+                                                    : 'Price (NGN)'
+                                            }
                                             htmlFor="price"
                                             error={errors.price}
-                                            hint="Storefront price before delivery or import fees."
+                                            hint={
+                                                priceOnRequest
+                                                    ? 'Saved for admin reference only — storefront still shows price on request.'
+                                                    : !isInStore
+                                                      ? 'Optional list price for remote or sold-out items. Shown on the storefront when price on request is off.'
+                                                      : 'Storefront price before delivery or import fees.'
+                                            }
                                         >
                                             <Input
                                                 id="price"
@@ -444,8 +484,7 @@ export default function ProductVariantForm({
                                                 }
                                                 placeholder="e.g. 2500000"
                                             />
-                                        </FormField>
-                                    )}
+                                    </FormField>
                                 </FormSection>
 
                                 <Separator />

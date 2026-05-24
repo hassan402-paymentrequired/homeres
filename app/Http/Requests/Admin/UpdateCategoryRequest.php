@@ -31,6 +31,8 @@ class UpdateCategoryRequest extends FormRequest
             'nav_group_label' => ['nullable', 'string', 'max:255'],
             'is_active' => ['boolean'],
             'show_in_nav' => ['boolean'],
+            'banner' => ['nullable', 'image', 'max:5120'],
+            'remove_banner' => ['boolean'],
         ];
     }
 }

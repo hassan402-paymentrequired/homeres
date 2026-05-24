@@ -1,4 +1,5 @@
 import { Form, Head, Link } from '@inertiajs/react';
+import CategoryBannerField from '@/components/admin/category-banner-field';
 import InputError from '@/components/input-error';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -62,6 +63,7 @@ export default function CategoryForm({
                             : '/admin/categories'
                     }
                     method={isEditing ? 'put' : 'post'}
+                    encType="multipart/form-data"
                     className="space-y-6 rounded-xl border border-sidebar-border/70 bg-card p-6"
                 >
                     {({ processing, errors }) => (
@@ -143,6 +145,12 @@ export default function CategoryForm({
                                 />
                                 <InputError message={errors.description} />
                             </div>
+
+                            <CategoryBannerField
+                                bannerUrl={category?.banner_url}
+                                bannerPath={category?.banner_path}
+                                error={errors.banner}
+                            />
 
                             <div className="grid gap-3">
                                 <label className="flex items-center gap-2 text-sm">

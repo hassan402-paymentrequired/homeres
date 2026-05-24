@@ -205,7 +205,7 @@ clearInterval(intervalRef.current);
       </div>
 
       {/* Pause button */}
-      <button
+      {/* <button
         onClick={() => setPaused((p) => !p)}
         className="absolute top-4 left-4 flex items-center gap-2 text-white"
         style={{
@@ -233,7 +233,7 @@ clearInterval(intervalRef.current);
           </svg>
         }
         <span>{paused ? 'Play slideshow' : 'Pause slideshow'}</span>
-      </button>
+      </button> */}
     </section>);
 
 }

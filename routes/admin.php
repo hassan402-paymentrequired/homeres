@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\InvoiceController;
 use App\Http\Controllers\Admin\OrderController;
 use App\Http\Controllers\Admin\OrderInvoiceController;
 use App\Http\Controllers\Admin\ProductController;
+use App\Http\Controllers\Admin\ProductImportController;
 use App\Http\Controllers\Admin\ProductTemplateController;
 use App\Http\Controllers\Admin\ProductVariantController;
 use App\Http\Controllers\Admin\SettingsController;
@@ -26,6 +27,8 @@ Route::prefix('admin')->name('admin.')->group(function () {
 
         Route::resource('categories', CategoryController::class);
         Route::resource('brands', BrandController::class);
+        Route::get('products/import', [ProductImportController::class, 'index'])->name('products.import.index');
+        Route::post('products/import', [ProductImportController::class, 'store'])->name('products.import.store');
         Route::resource('products', ProductController::class);
         Route::resource('product-templates', ProductTemplateController::class);
         Route::resource('products.variants', ProductVariantController::class)->except(['index', 'show']);

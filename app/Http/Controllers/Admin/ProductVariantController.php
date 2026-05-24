@@ -26,10 +26,14 @@ class ProductVariantController extends Controller
     {
         $product->load([
             'category.productTemplate:id,name,slug,variant_options,rules',
+            'images' => fn ($query) => $query
+                ->whereNull('product_variant_id')
+                ->orderBy('sort_order'),
         ]);
 
         return Inertia::render('admin/products/variant-form', [
             'product' => $this->serializeProduct($product),
+            'productImages' => $this->imageSync->serialize($product->images),
             'variant' => null,
             'stockStatuses' => $this->stockStatusOptions(),
             'breadcrumbs' => [
@@ -62,10 +66,14 @@ class ProductVariantController extends Controller
         $variant->load('images');
         $product->load([
             'category.productTemplate:id,name,slug,variant_options,rules',
+            'images' => fn ($query) => $query
+                ->whereNull('product_variant_id')
+                ->orderBy('sort_order'),
         ]);
 
         return Inertia::render('admin/products/variant-form', [
             'product' => $this->serializeProduct($product),
+            'productImages' => $this->imageSync->serialize($product->images),
             'variant' => $this->serializeVariant($variant),
             'stockStatuses' => $this->stockStatusOptions(),
             'breadcrumbs' => [
@@ -185,7 +193,7 @@ class ProductVariantController extends Controller
             'name' => $name,
             'sku' => $validated['sku'] ?? null,
             'option_values' => $optionValues !== [] ? $optionValues : null,
-            'price' => $priceOnRequest ? null : ($validated['price'] ?? null),
+            'price' => filled($validated['price'] ?? null) ? $validated['price'] : null,
             'price_on_request' => $priceOnRequest,
             'stock_status' => $validated['stock_status'],
             'lead_time_days_air' => $validated['stock_status'] === StockStatus::InStockRemote->value

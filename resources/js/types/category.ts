@@ -9,6 +9,8 @@ export type CategoryRecord = {
     product_template_id: string | null;
     name: string;
     description: string | null;
+    banner_path?: string | null;
+    banner_url?: string | null;
     nav_group_label: string | null;
     is_active: boolean;
     show_in_nav: boolean;

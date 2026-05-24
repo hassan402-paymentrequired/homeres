@@ -3,6 +3,7 @@ import { useEffect, useId, useRef, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
+import { resolveAdminProductImageSrc } from '@/lib/admin-product-image';
 import type { ProductImage } from '@/types/product';
 
 type Props = {
@@ -150,7 +151,7 @@ export default function ProductImagesField({
                         >
                             <div className="relative aspect-[4/3] bg-muted/30">
                                 <img
-                                    src={image.url}
+                                    src={resolveAdminProductImageSrc(image)}
                                     alt={image.alt || 'Product image'}
                                     className="size-full object-cover"
                                 />

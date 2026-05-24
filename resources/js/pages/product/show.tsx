@@ -1,4 +1,5 @@
 import { Head, Link } from '@inertiajs/react';
+import { Lock } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
 import ImageLightbox from '@/components/storefront/image-lightbox';
 import ProductCard from '@/components/storefront/product-card';
@@ -85,6 +86,8 @@ export default function ProductDetailsPage({
     const related = relatedProducts;
     const displayPrice =
         selectedVariant?.priceFormatted ?? product.priceFormatted;
+    const priceOnRequest =
+        selectedVariant?.priceOnRequest ?? product.priceOnRequest;
     const displaySku = selectedVariant?.sku ?? product.sku;
 
     const handleAddToCart = () => {
@@ -192,7 +195,14 @@ export default function ProductDetailsPage({
                             )}
                         </p>
                         <h1 className="pdp-title">{product.name}</h1>
-                        <p className="pdp-price">{displayPrice}</p>
+                        {priceOnRequest ? (
+                            <span className="pdp-price-badge">
+                                <Lock size={14} strokeWidth={1.75} aria-hidden />
+                                Price on request
+                            </span>
+                        ) : (
+                            <p className="pdp-price">{displayPrice}</p>
+                        )}
                         {displaySku && (
                             <p className="pdp-sku">SKU: {displaySku}</p>
                         )}
@@ -475,6 +485,22 @@ export default function ProductDetailsPage({
                     font-family: "Proza Libre", sans-serif;
                     font-size: clamp(20px, 2vw, 24px);
                     margin: 0 0 8px;
+                }
+
+                .pdp-price-badge {
+                    display: inline-flex;
+                    align-items: center;
+                    gap: 8px;
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    font-weight: 500;
+                    letter-spacing: 0.12em;
+                    text-transform: uppercase;
+                    color: #060606;
+                    border: 1px solid #e8e8e1;
+                    background: #f7f7f5;
+                    padding: 8px 12px;
+                    margin: 0 0 12px;
                 }
 
                 .pdp-sku,

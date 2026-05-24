@@ -148,6 +148,8 @@ class CategoryTree
             'product_template_id' => $category->product_template_id,
             'name' => $category->name,
             'description' => $category->description,
+            'banner_path' => $category->banner_path,
+            'banner_url' => $category->banner_url,
             'nav_group_label' => $category->nav_group_label,
             'is_active' => $category->is_active,
             'show_in_nav' => $category->show_in_nav,
