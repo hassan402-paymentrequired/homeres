@@ -20,6 +20,7 @@ class ShopIndexRequest extends FormRequest
         return [
             'q' => ['nullable', 'string', 'max:200'],
             'sub' => ['nullable', 'string', 'max:255'],
+            'category' => ['nullable', 'string', 'max:255'],
             'sort' => ['nullable', Rule::in(['featured', 'price-asc', 'price-desc', 'name'])],
             'page' => ['nullable', 'integer', 'min:1'],
             'new_only' => ['nullable', 'boolean'],
@@ -51,6 +52,13 @@ class ShopIndexRequest extends FormRequest
     public function subcategoryHandle(): ?string
     {
         $value = trim((string) $this->input('sub', ''));
+
+        return $value === '' ? null : $value;
+    }
+
+    public function categoryHandle(): ?string
+    {
+        $value = trim((string) $this->input('category', ''));
 
         return $value === '' ? null : $value;
     }

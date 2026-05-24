@@ -1,6 +1,7 @@
 /* eslint-disable curly */
 import { Link } from '@inertiajs/react';
 import React, { useState, useEffect } from 'react';
+import { truncateText } from '@/lib/truncate-text';
 
 export interface QuickViewProduct {
     id: number | string;
@@ -184,19 +185,21 @@ export default function ProductQuickView({
                         gap: '0',
                     }}
                 >
-                    {product.category && (
+                    {(product.brand || product.category) && (
                         <p
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
                                 fontSize: '10px',
-                                fontWeight: 400,
+                                fontWeight: 500,
                                 letterSpacing: '2px',
                                 textTransform: 'uppercase',
                                 color: '#999',
                                 margin: '0 0 10px',
                             }}
                         >
-                            {product.category}
+                            {[product.brand, product.category]
+                                .filter(Boolean)
+                                .join(' · ')}
                         </p>
                     )}
                     <h2
@@ -227,6 +230,7 @@ export default function ProductQuickView({
 
                     {product.description && (
                         <p
+                            title={product.description}
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
                                 fontSize: '13px',
@@ -235,9 +239,13 @@ export default function ProductQuickView({
                                 margin: '0 0 24px',
                                 lineHeight: '1.7',
                                 letterSpacing: '0.3px',
+                                display: '-webkit-box',
+                                WebkitLineClamp: 4,
+                                WebkitBoxOrient: 'vertical',
+                                overflow: 'hidden',
                             }}
                         >
-                            {product.description}
+                            {truncateText(product.description, 220)}
                         </p>
                     )}
 

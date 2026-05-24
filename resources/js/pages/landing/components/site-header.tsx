@@ -162,7 +162,7 @@ const mobileToggleStyle: React.CSSProperties = {
     width: '100%',
     fontFamily: 'Poppins, sans-serif',
     fontSize: '12px',
-    fontWeight: 300,
+    fontWeight: 600,
     letterSpacing: '2px',
     textTransform: 'uppercase',
     color: '#060606',
@@ -190,10 +190,10 @@ const mobileChildStyle: React.CSSProperties = {
 const mobileGroupHeadingStyle: React.CSSProperties = {
     fontFamily: 'Poppins, sans-serif',
     fontSize: '10px',
-    fontWeight: 500,
+    fontWeight: 700,
     letterSpacing: '2px',
     textTransform: 'uppercase',
-    color: '#999',
+    color: '#060606',
     margin: 0,
     padding: '12px 32px 6px',
 };
@@ -304,6 +304,7 @@ export default function SiteHeader() {
                     justify-content: center;
                 }
                 @media (max-width: 767px) {
+                    .header-currency-select { display: none !important; }
                     .header-account-label { display: none !important; }
                     .header-cart-label { display: none !important; }
                     .header-wishlist-label { display: none !important; }
@@ -432,7 +433,9 @@ export default function SiteHeader() {
                             </Link>
                         </div>
                         <div className="header-right">
-                            <StorefrontCurrencySelect />
+                            <span className="header-currency-select">
+                                <StorefrontCurrencySelect />
+                            </span>
                             <button type="button" className="header-icon-btn" onClick={openSearch} aria-label="Open search">
                                 {searchIcon}
                             </button>

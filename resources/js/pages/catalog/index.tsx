@@ -1,12 +1,12 @@
 import { Head, Link, router } from '@inertiajs/react';
-import { useEffect, useState, type CSSProperties, type ReactNode } from 'react';
+import { useEffect, useState } from 'react';
 import ProductCard from '@/components/storefront/product-card';
 import StorefrontPagination from '@/components/storefront/storefront-pagination';
 import StorefrontShell from '@/components/storefront/storefront-shell';
+import CatalogFilterBar from '@/pages/catalog/catalog-filter-bar';
 import {
     buildCatalogUrl,
     type CatalogFilters,
-    type SortOption,
 } from '@/pages/catalog/catalog-query';
 import type { Paginated } from '@/types/pagination';
 import type { StorefrontProduct } from '@/types/storefront-product';
@@ -31,6 +31,11 @@ type BrandDirectoryEntry = {
     href: string;
 };
 
+type BrandContext = {
+    handle: string;
+    name: string;
+};
+
 type CatalogMeta = {
     view: CatalogView;
     title: string;
@@ -39,6 +44,7 @@ type CatalogMeta = {
     filters: CatalogFilters;
     sidebarCategories: SidebarCategory[];
     categoryContext: CategoryContext | null;
+    brandContext?: BrandContext | null;
     brands?: BrandDirectoryEntry[];
 };
 
@@ -50,37 +56,6 @@ interface CatalogPageProps {
 type ViewMode = 'grid' | 'list';
 
 const PRICE_CEILING = 5_000_000;
-
-const chipStyle = (active: boolean): CSSProperties => ({
-    flexShrink: 0,
-    fontFamily: 'Poppins, sans-serif',
-    fontSize: '11px',
-    fontWeight: active ? 500 : 300,
-    letterSpacing: '0.3px',
-    padding: '8px 14px',
-    border: `1px solid ${active ? '#060606' : '#e8e8e1'}`,
-    background: active ? '#060606' : '#ffffff',
-    color: active ? '#ffffff' : '#6b6b6b',
-    textDecoration: 'none',
-    cursor: 'pointer',
-    whiteSpace: 'nowrap',
-});
-
-function FilterChip({
-    active,
-    href,
-    children,
-}: {
-    active: boolean;
-    href: string;
-    children: ReactNode;
-}) {
-    return (
-        <Link href={href} style={chipStyle(active)}>
-            {children}
-        </Link>
-    );
-}
 
 function CatalogRefineFilters({
     newOnly,
@@ -175,7 +150,6 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
     const { filters, basePath, view, categoryContext, sidebarCategories } = catalog;
     const isBrandDirectory = view === 'brands';
     const isNewPage = filters.filter === 'new';
-    const activeCategory = filters.category;
     const [viewMode, setViewMode] = useState<ViewMode>('grid');
     const [filtersOpen, setFiltersOpen] = useState(false);
     const [draftNewOnly, setDraftNewOnly] = useState(filters.new_only);
@@ -230,54 +204,17 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
     const activeFilterCount =
         (filters.new_only ? 1 : 0) +
         (filters.max_price !== null ? 1 : 0) +
-        (filters.sub ? 1 : 0);
+        (filters.sub ? 1 : 0) +
+        (view === 'brand' && filters.category ? 1 : 0);
 
     const clearRefineFilters = () => {
-        visitCatalog({ new_only: false, max_price: null, sub: null });
+        visitCatalog({
+            new_only: false,
+            max_price: null,
+            sub: null,
+            category: view === 'brand' ? null : filters.category,
+        });
     };
-
-    const subcategoryUrl = (handle: string | null) =>
-        buildCatalogUrl(basePath, filters, { sub: handle });
-
-    const categoryChips = (
-        <>
-            <FilterChip
-                active={view === 'shop' && !filters.q}
-                href="/shop"
-            >
-                All
-            </FilterChip>
-            <FilterChip active={isNewPage} href="/shop/new-arrivals">
-                New
-            </FilterChip>
-            {sidebarCategories.map((cat) => (
-                <FilterChip
-                    key={cat.handle}
-                    active={activeCategory === cat.handle}
-                    href={cat.href}
-                >
-                    {cat.label}
-                </FilterChip>
-            ))}
-        </>
-    );
-
-    const subcategoryChips = categoryContext ? (
-        <div className="catalog-chip-row catalog-type-row" aria-label="Product type">
-            <FilterChip active={!filters.sub} href={subcategoryUrl(null)}>
-                All {categoryContext.label}
-            </FilterChip>
-            {categoryContext.children.map((child) => (
-                <FilterChip
-                    key={child.handle}
-                    active={filters.sub === child.handle}
-                    href={subcategoryUrl(child.handle)}
-                >
-                    {child.label}
-                </FilterChip>
-            ))}
-        </div>
-    ) : null;
 
     return (
         <StorefrontShell>
@@ -373,228 +310,25 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                             )}
                         </p>
                     </div>
-                    {!isBrandDirectory && (
-                        <div className="catalog-toolbar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                            <select
-                                value={filters.sort}
-                                onChange={(e) =>
-                                    visitCatalog({ sort: e.target.value as SortOption })
-                                }
-                                style={{
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '12px',
-                                    padding: '10px 14px',
-                                    border: '1px solid #e8e8e1',
-                                    background: '#fff',
-                                }}
-                            >
-                                <option value="featured">Sort: Featured</option>
-                                <option value="price-asc">Price: Low to High</option>
-                                <option value="price-desc">Price: High to Low</option>
-                                <option value="name">Name: A–Z</option>
-                            </select>
-                            <button
-                                type="button"
-                                onClick={() => setViewMode('grid')}
-                                style={{
-                                    padding: '10px 12px',
-                                    border: '1px solid #e8e8e1',
-                                    background: viewMode === 'grid' ? '#060606' : '#fff',
-                                    color: viewMode === 'grid' ? '#fff' : '#060606',
-                                    cursor: 'pointer',
-                                    fontSize: '11px',
-                                }}
-                            >
-                                Grid
-                            </button>
-                            <button
-                                type="button"
-                                onClick={() => setViewMode('list')}
-                                style={{
-                                    padding: '10px 12px',
-                                    border: '1px solid #e8e8e1',
-                                    background: viewMode === 'list' ? '#060606' : '#fff',
-                                    color: viewMode === 'list' ? '#fff' : '#060606',
-                                    cursor: 'pointer',
-                                    fontSize: '11px',
-                                }}
-                            >
-                                List
-                            </button>
-                        </div>
-                    )}
                 </div>
 
                 {isBrandDirectory && catalog.brands ? (
                     <BrandsDirectory brands={catalog.brands} />
                 ) : (
-                    <div
-                        style={{
-                            display: 'grid',
-                            gridTemplateColumns: 'minmax(0, 220px) minmax(0, 1fr)',
-                            gap: '40px',
-                        }}
-                        className="catalog-layout catalog-main"
-                    >
-                        <div className="catalog-mobile-filters">
-                            <div className="catalog-chip-row" aria-label="Categories">
-                                {categoryChips}
-                            </div>
-                            {subcategoryChips}
-                            <div className="catalog-mobile-actions">
-                                <button
-                                    type="button"
-                                    className="catalog-filters-trigger"
-                                    onClick={() => setFiltersOpen(true)}
-                                    aria-expanded={filtersOpen}
-                                >
-                                    Filters
-                                    {activeFilterCount > 0 ? ` (${activeFilterCount})` : ''}
-                                </button>
-                                {activeFilterCount > 0 && (
-                                    <button
-                                        type="button"
-                                        className="catalog-filters-clear"
-                                        onClick={clearRefineFilters}
-                                    >
-                                        Clear
-                                    </button>
-                                )}
-                            </div>
-                        </div>
+                    <>
+                        <CatalogFilterBar
+                            view={view}
+                            basePath={basePath}
+                            filters={filters}
+                            sidebarCategories={sidebarCategories}
+                            categoryContext={categoryContext}
+                            viewMode={viewMode}
+                            onViewModeChange={setViewMode}
+                            activeFilterCount={activeFilterCount}
+                            onOpenRefine={() => setFiltersOpen(true)}
+                        />
 
-                        <aside className="catalog-sidebar">
-                            <p
-                                style={{
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '10px',
-                                    fontWeight: 500,
-                                    letterSpacing: '2px',
-                                    textTransform: 'uppercase',
-                                    margin: '0 0 12px',
-                                }}
-                            >
-                                Categories
-                            </p>
-                            <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 24px' }}>
-                                <li style={{ marginBottom: '8px' }}>
-                                    <Link
-                                        href="/shop"
-                                        style={{
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '12px',
-                                            color: view === 'shop' && !filters.q ? '#060606' : '#6b6b6b',
-                                            fontWeight: view === 'shop' && !filters.q ? 500 : 300,
-                                        }}
-                                    >
-                                        All products
-                                    </Link>
-                                </li>
-                                <li style={{ marginBottom: '8px' }}>
-                                    <Link
-                                        href="/shop/new-arrivals"
-                                        style={{
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '12px',
-                                            color: isNewPage ? '#060606' : '#6b6b6b',
-                                            fontWeight: isNewPage ? 500 : 300,
-                                        }}
-                                    >
-                                        New arrivals
-                                    </Link>
-                                </li>
-                                {sidebarCategories.map((cat) => (
-                                    <li key={cat.handle} style={{ marginBottom: '8px' }}>
-                                        <Link
-                                            href={cat.href}
-                                            style={{
-                                                fontFamily: 'Poppins, sans-serif',
-                                                fontSize: '12px',
-                                                color:
-                                                    activeCategory === cat.handle
-                                                        ? '#060606'
-                                                        : '#6b6b6b',
-                                                fontWeight:
-                                                    activeCategory === cat.handle ? 500 : 300,
-                                            }}
-                                        >
-                                            {cat.label}
-                                        </Link>
-                                    </li>
-                                ))}
-                            </ul>
-                            <p
-                                style={{
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '10px',
-                                    fontWeight: 500,
-                                    letterSpacing: '2px',
-                                    textTransform: 'uppercase',
-                                    margin: '24px 0 12px',
-                                }}
-                            >
-                                Refine
-                            </p>
-                            <div style={{ marginBottom: '24px' }}>
-                                <CatalogRefineFilters
-                                    newOnly={filters.new_only}
-                                    maxPrice={filters.max_price}
-                                    onNewOnlyChange={(value) => visitCatalog({ new_only: value })}
-                                    onMaxPriceChange={(value) => visitCatalog({ max_price: value })}
-                                />
-                            </div>
-                            {categoryContext && (
-                                <>
-                                    <p
-                                        style={{
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '10px',
-                                            fontWeight: 500,
-                                            letterSpacing: '2px',
-                                            textTransform: 'uppercase',
-                                            margin: '0 0 12px',
-                                        }}
-                                    >
-                                        Type
-                                    </p>
-                                    <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-                                        <li style={{ marginBottom: '6px' }}>
-                                            <Link
-                                                href={subcategoryUrl(null)}
-                                                style={{
-                                                    fontFamily: 'Poppins, sans-serif',
-                                                    fontSize: '11px',
-                                                    color: !filters.sub ? '#060606' : '#999',
-                                                    textDecoration: 'none',
-                                                }}
-                                            >
-                                                All {categoryContext.label}
-                                            </Link>
-                                        </li>
-                                        {categoryContext.children.map((child) => (
-                                            <li key={child.handle} style={{ marginBottom: '6px' }}>
-                                                <Link
-                                                    href={subcategoryUrl(child.handle)}
-                                                    style={{
-                                                        fontFamily: 'Poppins, sans-serif',
-                                                        fontSize: '11px',
-                                                        color:
-                                                            filters.sub === child.handle
-                                                                ? '#060606'
-                                                                : '#999',
-                                                        textDecoration: 'none',
-                                                    }}
-                                                >
-                                                    {child.label}
-                                                </Link>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </>
-                            )}
-                        </aside>
-
-                        <div>
+                        <div className="catalog-products">
                             {products.data.length === 0 ? (
                                 <p
                                     style={{
@@ -632,7 +366,7 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
 
                             <StorefrontPagination paginator={products} />
                         </div>
-                    </div>
+                    </>
                 )}
             </div>
 
@@ -712,6 +446,8 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                                 visitCatalog({
                                     new_only: draftNewOnly,
                                     max_price: draftMaxPrice,
+                                    category:
+                                        view === 'brand' ? filters.category : undefined,
                                 });
                                 setFiltersOpen(false);
                             }}
@@ -728,10 +464,10 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                     max-width: 100%;
                     box-sizing: border-box;
                 }
-                .catalog-layout {
+                .catalog-products {
                     min-width: 0;
+                    width: 100%;
                 }
-                .catalog-mobile-filters { display: none; }
                 .catalog-filter-overlay {
                     position: fixed;
                     inset: 0;
@@ -784,42 +520,10 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                     .catalog-page {
                         overflow-x: hidden;
                     }
-                    .catalog-layout {
-                        grid-template-columns: minmax(0, 1fr) !important;
-                        gap: 20px !important;
+                    .catalog-filter-bar select {
+                        flex: 1 1 100% !important;
+                        max-width: 100% !important;
                     }
-                    .catalog-layout > * {
-                        min-width: 0;
-                    }
-                    .catalog-sidebar { display: none !important; }
-                    .catalog-mobile-filters {
-                        display: block !important;
-                        width: 100%;
-                        max-width: 100%;
-                        min-width: 0;
-                        overflow: hidden;
-                    }
-                    .catalog-chip-row {
-                        display: flex;
-                        gap: 8px;
-                        width: 100%;
-                        max-width: 100%;
-                        min-width: 0;
-                        overflow-x: auto;
-                        overflow-y: hidden;
-                        -webkit-overflow-scrolling: touch;
-                        scrollbar-width: none;
-                        padding-bottom: 4px;
-                    }
-                    .catalog-chip-row::-webkit-scrollbar { display: none; }
-                    .catalog-type-row { margin-top: 10px; }
-                    .catalog-mobile-actions {
-                        display: flex;
-                        gap: 8px;
-                        margin-top: 12px;
-                        min-width: 0;
-                    }
-                    .catalog-filters-trigger { flex: 1; min-width: 0; }
                     .catalog-grid,
                     .catalog-list {
                         min-width: 0;
@@ -828,16 +532,10 @@ export default function CatalogPage({ products, catalog }: CatalogPageProps) {
                     .catalog-page { padding: 32px 20px !important; }
                     .catalog-header { flex-direction: column !important; align-items: stretch !important; }
                     .catalog-header h1 { font-size: calc(29px * 0.7) !important; }
-                    .catalog-toolbar { width: 100%; }
-                    .catalog-toolbar select,
-                    .catalog-toolbar button { flex: 1; min-width: 0; }
                 }
                 @media (max-width: 640px) {
                     .catalog-page { padding: 24px 16px !important; }
                     .catalog-grid { grid-template-columns: repeat(2, 1fr) !important; gap: 16px !important; }
-                    .catalog-toolbar { flex-direction: column !important; }
-                    .catalog-toolbar select,
-                    .catalog-toolbar button { width: 100% !important; }
                     .catalog-list > * { flex-direction: column !important; }
                     .catalog-list img { width: 100% !important; max-width: none !important; }
                 }

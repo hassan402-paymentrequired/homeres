@@ -135,7 +135,25 @@ export default function ProductDetailsPage({
                     </div>
 
                     <div className="pdp-info">
-                        <p className="pdp-category">{product.category}</p>
+                        <p className="pdp-meta">
+                            {product.brand && product.brandHandle ? (
+                                <Link href={`/brands/${product.brandHandle}`} className="pdp-brand">
+                                    {product.brand}
+                                </Link>
+                            ) : (
+                                product.brand
+                            )}
+                            {product.brand && product.category && (
+                                <span className="pdp-meta-sep"> · </span>
+                            )}
+                            {product.categorySlug ? (
+                                <Link href={`/shop/${product.categorySlug}`} className="pdp-category">
+                                    {product.category}
+                                </Link>
+                            ) : (
+                                <span className="pdp-category">{product.category}</span>
+                            )}
+                        </p>
                         <h1 className="pdp-title">{product.name}</h1>
                         <p className="pdp-price">{product.priceFormatted}</p>
                         <p className="pdp-description">{product.description}</p>
@@ -374,12 +392,28 @@ export default function ProductDetailsPage({
                     scrollbar-width: thin;
                 }
 
-                .pdp-category {
+                .pdp-meta {
+                    font-family: Poppins, sans-serif;
                     font-size: 10px;
                     letter-spacing: 2px;
                     text-transform: uppercase;
                     color: #999;
                     margin: 0 0 8px;
+                }
+
+                .pdp-brand,
+                .pdp-category {
+                    color: inherit;
+                    text-decoration: none;
+                }
+
+                .pdp-brand:hover,
+                .pdp-category:hover {
+                    color: #060606;
+                }
+
+                .pdp-meta-sep {
+                    color: #ccc;
                 }
 
                 .pdp-title {

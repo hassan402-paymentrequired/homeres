@@ -50,7 +50,6 @@ class ShopPageService
         $category = $this->resolveCategory($filters['category']);
         $brand = $this->resolveBrand($filters['brand']);
 
-
         return [
             'products' => $products,
             'catalog' => [
@@ -70,6 +69,10 @@ class ShopPageService
                 'basePath' => '/'.ltrim($request->path(), '/'),
                 'sidebarCategories' => $this->sidebarCategories(),
                 'categoryContext' => $category ? $this->categoryContext($category) : null,
+                'brandContext' => $brand ? [
+                    'handle' => $brand->handle,
+                    'name' => $brand->name,
+                ] : null,
             ],
         ];
     }
@@ -122,6 +125,7 @@ class ShopPageService
             'category' => match (true) {
                 $request->routeIs('collections.show') => $request->route('handle'),
                 $request->routeIs('shop.category') => $request->route('category'),
+                $request->routeIs('brands.show') => $request->categoryHandle(),
                 default => null,
             },
             'brand' => $request->routeIs('brands.show') ? $request->route('handle') : null,

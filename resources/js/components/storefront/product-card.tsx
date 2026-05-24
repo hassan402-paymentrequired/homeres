@@ -206,16 +206,33 @@ export default function ProductCard({
                             style={{
                                 fontFamily: 'Poppins, sans-serif',
                                 fontSize: '10px',
-                                fontWeight: 400,
                                 letterSpacing: '0.5px',
                                 textTransform: 'uppercase',
                                 color: '#999',
                                 margin: '0 0 6px',
                             }}
                         >
-                            {[product.brand, product.category]
-                                .filter(Boolean)
-                                .join(' · ')}
+                            {product.brand && product.brandHandle ? (
+                                <Link
+                                    href={`/brands/${product.brandHandle}`}
+                                    onClick={(e) => e.stopPropagation()}
+                                    style={{
+                                        fontWeight: 600,
+                                        color: '#060606',
+                                        textDecoration: 'none',
+                                    }}
+                                >
+                                    {product.brand}
+                                </Link>
+                            ) : (
+                                product.brand
+                            )}
+                            {product.brand && product.category && (
+                                <span style={{ color: '#ccc', margin: '0 4px' }}>·</span>
+                            )}
+                            {product.category && (
+                                <span style={{ fontWeight: 400 }}>{product.category}</span>
+                            )}
                         </p>
                     )}
                     <p

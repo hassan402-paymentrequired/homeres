@@ -27,6 +27,10 @@ export function buildCatalogUrl(
         params.set('sub', merged.sub);
     }
 
+    if (merged.category && merged.brand) {
+        params.set('category', merged.category);
+    }
+
     if (merged.sort && merged.sort !== 'featured') {
         params.set('sort', merged.sort);
     }
