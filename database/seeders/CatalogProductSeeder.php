@@ -22,6 +22,7 @@ class CatalogProductSeeder extends Seeder
 
         $this->command?->info("Imported: {$result['imported']}");
         $this->command?->line("Skipped (already in DB): {$result['skipped']}");
+        $this->command?->line("Categories created: {$result['categories_created']}");
         $this->command?->line("Missing category: {$result['missing_category']}");
         $this->command?->line("Missing brand: {$result['missing_brand']}");
 

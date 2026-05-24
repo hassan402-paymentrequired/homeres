@@ -29,6 +29,7 @@ class ImportCatalogProducts extends Command
         $this->info("Imported: {$result['imported']}");
         $this->line("Updated: {$result['updated']}");
         $this->line("Skipped: {$result['skipped']}");
+        $this->line("Categories created: {$result['categories_created']}");
         $this->line("Missing category: {$result['missing_category']}");
         $this->line("Missing brand: {$result['missing_brand']}");
 

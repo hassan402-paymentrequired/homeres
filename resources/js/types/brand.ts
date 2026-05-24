@@ -22,6 +22,7 @@ export type BrandRecord = {
 
 export type BrandCard = BrandRecord & {
     product_count: number;
+    children_count: number;
 };
 
 export type BrandStats = {

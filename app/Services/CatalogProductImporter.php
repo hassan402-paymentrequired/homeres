@@ -6,6 +6,7 @@ use App\Enums\StockStatus;
 use App\Models\Brand;
 use App\Models\Category;
 use App\Models\Product;
+use App\Models\ProductTemplate;
 use App\Models\ProductVariant;
 use App\Models\StoreSetting;
 use App\Support\Catalog\ScrapedProductPricing;
@@ -20,7 +21,7 @@ class CatalogProductImporter
     ) {}
 
     /**
-     * @return array{imported: int, updated: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}
+     * @return array{imported: int, updated: int, skipped: int, categories_created: int, missing_category: int, missing_brand: int, errors: list<string>}
      */
     public function import(
         ?string $collection = null,
@@ -33,6 +34,7 @@ class CatalogProductImporter
             'imported' => 0,
             'updated' => 0,
             'skipped' => 0,
+            'categories_created' => 0,
             'missing_category' => 0,
             'missing_brand' => 0,
             'errors' => [],
@@ -48,11 +50,11 @@ class CatalogProductImporter
     }
 
     /**
-     * @param  array{imported: int, updated: int, skipped: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
+     * @param  array{imported: int, updated: int, skipped: int, categories_created: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
      */
     private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, bool $refresh, array &$result): void
     {
-        /** @var array{handle?: string, products?: array<int, array<string, mixed>>} $payload */
+        /** @var array{handle?: string, label?: string, products?: array<int, array<string, mixed>>} $payload */
         $payload = json_decode(File::get($file), true, flags: JSON_THROW_ON_ERROR);
         $handle = (string) ($payload['handle'] ?? '');
 
@@ -62,7 +64,7 @@ class CatalogProductImporter
             return;
         }
 
-        $category = Category::query()->where('handle', $handle)->first();
+        $category = $this->resolveCategory($handle, $payload, $dryRun, $result);
 
         if ($category === null) {
             $result['missing_category'] += count($payload['products'] ?? []);
@@ -150,6 +152,67 @@ class CatalogProductImporter
             ->sort()
             ->values()
             ->all();
+    }
+
+    /**
+     * @param  array{handle?: string, label?: string, products?: array<int, array<string, mixed>>}  $payload
+     * @param  array{imported: int, updated: int, skipped: int, categories_created: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
+     */
+    private function resolveCategory(string $handle, array $payload, bool $dryRun, array &$result): ?Category
+    {
+        $existing = Category::query()->where('handle', $handle)->first();
+
+        if ($existing !== null) {
+            return $existing;
+        }
+
+        if ($dryRun) {
+            $result['categories_created']++;
+
+            return new Category([
+                'handle' => $handle,
+                'name' => $this->categoryLabel($handle, $payload),
+            ]);
+        }
+
+        $templateId = ProductTemplate::query()->where('slug', 'simple')->value('id');
+
+        if ($templateId === null) {
+            $result['errors'][] = "Cannot create category \"{$handle}\": run ProductTemplateSeeder first.";
+
+            return null;
+        }
+
+        $category = Category::query()->create([
+            'parent_id' => null,
+            'product_template_id' => $templateId,
+            'name' => $this->categoryLabel($handle, $payload),
+            'handle' => $handle,
+            'description' => null,
+            'nav_group_label' => null,
+            'sort_order' => ((int) Category::query()->max('sort_order')) + 1,
+            'is_active' => true,
+            'show_in_nav' => false,
+            'is_aggregate' => false,
+        ]);
+
+        $result['categories_created']++;
+
+        return $category;
+    }
+
+    /**
+     * @param  array{label?: string}  $payload
+     */
+    private function categoryLabel(string $handle, array $payload): string
+    {
+        $label = trim((string) ($payload['label'] ?? ''));
+
+        if ($label !== '') {
+            return $label;
+        }
+
+        return str($handle)->replace('-', ' ')->title()->toString();
     }
 
     private function resolveBrand(string $vendor): ?Brand

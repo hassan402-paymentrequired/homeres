@@ -30,15 +30,15 @@ class BrandController extends Controller
     public function index(): Response
     {
         $brands = Brand::query()
-            ->catalogBrands()
             ->with('parent:id,name')
+            ->withCount(['children' => fn ($query) => $query->catalogBrands()])
+            ->orderByDesc('is_parent')
             ->ordered()
             ->paginate(AdminPagination::PER_PAGE)
             ->through(fn (Brand $brand): array => $this->serializeCard($brand));
 
         return Inertia::render('admin/brands/index', [
             'brands' => $brands,
-            'navGroups' => $this->navGroupSummaries(),
             'brandNavGroupOptions' => $this->brandNavGroupOptions(),
         ]);
     }
@@ -161,6 +161,9 @@ class BrandController extends Controller
             'product_count' => $brand->is_parent
                 ? 0
                 : $this->catalog->productCountFor($brand->handle),
+            'children_count' => $brand->is_parent
+                ? (int) ($brand->children_count ?? 0)
+                : 0,
         ];
     }
 
@@ -214,23 +217,6 @@ class BrandController extends Controller
             ->map(fn (Brand $brand): array => [
                 'id' => $brand->id,
                 'name' => $brand->name,
-            ])
-            ->all();
-    }
-
-    /**
-     * @return list<array<string, mixed>>
-     */
-    private function navGroupSummaries(): array
-    {
-        return Brand::query()
-            ->where('is_parent', true)
-            ->withCount(['children' => fn ($query) => $query->catalogBrands()])
-            ->ordered()
-            ->get()
-            ->map(fn (Brand $brand): array => [
-                ...$this->serialize($brand),
-                'children_count' => (int) $brand->children_count,
             ])
             ->all();
     }
