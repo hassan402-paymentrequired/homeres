@@ -1,8 +1,9 @@
 {
   "handle": "coffee-tables",
-  "label": "Coffee Tables",
+  "label": "COFFEE TABLES",
   "url": "https://arowonen.com/collections/coffee-tables",
-  "scraped_at": "2026-05-22T15:57:00.705Z",
+  "scraped_at": "2026-05-25T19:06:12.440Z",
+  "shopify_product_count": 95,
   "product_count": 92,
   "products": [
     {
@@ -19,7 +20,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-22T10:04:15+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-09-27T11:06:25+02:00",
       "available": true,
       "price_min": 1495,
@@ -108,7 +109,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-21T16:13:58+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-09-27T10:51:38+02:00",
       "available": true,
       "price_min": 1495,
@@ -177,7 +178,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-10T09:23:25+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-12T13:33:08+02:00",
       "available": true,
       "price_min": 1760,
@@ -240,7 +241,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-10T09:18:07+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-12T13:32:16+02:00",
       "available": true,
       "price_min": 4220,
@@ -304,7 +305,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-08T12:33:42+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:52+01:00",
       "available": true,
       "price_min": 0,
@@ -356,7 +357,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-08T12:30:04+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:47+01:00",
       "available": true,
       "price_min": 0,
@@ -414,7 +415,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-08T12:27:40+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:45+01:00",
       "available": true,
       "price_min": 0,
@@ -472,7 +473,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T18:27:12+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:33+01:00",
       "available": true,
       "price_min": 0,
@@ -530,7 +531,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T18:23:00+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:30+01:00",
       "available": true,
       "price_min": 0,
@@ -600,7 +601,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T18:18:52+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:28+01:00",
       "available": true,
       "price_min": 0,
@@ -664,7 +665,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T18:02:40+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:25+01:00",
       "available": true,
       "price_min": 0,
@@ -722,7 +723,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T17:59:30+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:22+01:00",
       "available": true,
       "price_min": 0,
@@ -810,7 +811,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T17:56:47+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:20+01:00",
       "available": true,
       "price_min": 0,
@@ -886,7 +887,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T17:51:36+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:18+01:00",
       "available": true,
       "price_min": 0,
@@ -956,7 +957,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T17:33:19+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:15+01:00",
       "available": true,
       "price_min": 0,
@@ -1032,7 +1033,7 @@
         "Draga & Aurel"
       ],
       "created_at": "2025-08-07T14:10:16+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:06+01:00",
       "available": true,
       "price_min": 0,
@@ -1138,7 +1139,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T13:45:14+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:39:02+01:00",
       "available": true,
       "price_min": 0,
@@ -1196,7 +1197,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T13:20:16+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:38:54+01:00",
       "available": true,
       "price_min": 0,
@@ -1254,7 +1255,7 @@
         "Coffee table"
       ],
       "created_at": "2025-08-07T13:14:39+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-17T10:38:52+01:00",
       "available": true,
       "price_min": 0,
@@ -1343,7 +1344,7 @@
         "Table"
       ],
       "created_at": "2025-08-03T11:51:45+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-05T11:04:43+02:00",
       "available": true,
       "price_min": 3800,
@@ -1408,7 +1409,7 @@
         "Table"
       ],
       "created_at": "2025-08-03T11:46:21+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-05T11:04:30+02:00",
       "available": true,
       "price_min": 0,
@@ -1467,7 +1468,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-03T11:19:50+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-05T11:03:34+02:00",
       "available": true,
       "price_min": 0,
@@ -1550,7 +1551,7 @@
         "Table"
       ],
       "created_at": "2025-08-03T11:16:27+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T17:08:52+02:00",
       "available": true,
       "price_min": 0,
@@ -1639,7 +1640,7 @@
         "Table"
       ],
       "created_at": "2025-08-03T10:58:18+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:25+02:00",
       "available": true,
       "price_min": 2710,
@@ -1710,7 +1711,7 @@
         "Table"
       ],
       "created_at": "2025-08-03T10:35:55+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:10+02:00",
       "available": true,
       "price_min": 2200,
@@ -1787,7 +1788,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-03T09:51:16+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:07+02:00",
       "available": true,
       "price_min": 0,
@@ -1876,7 +1877,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-03T09:45:16+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:05+02:00",
       "available": true,
       "price_min": 0,
@@ -2019,7 +2020,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-03T08:52:15+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:03+02:00",
       "available": true,
       "price_min": 0,
@@ -2156,7 +2157,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T16:50:25+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T17:07:54+02:00",
       "available": true,
       "price_min": 0,
@@ -2245,7 +2246,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T16:40:32+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:29:31+02:00",
       "available": true,
       "price_min": 0,
@@ -2316,7 +2317,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-02T16:35:30+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:27:01+02:00",
       "available": true,
       "price_min": 0,
@@ -2381,7 +2382,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T16:31:30+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:26:59+02:00",
       "available": true,
       "price_min": 0,
@@ -2458,7 +2459,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-02T16:25:48+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:26:57+02:00",
       "available": true,
       "price_min": 0,
@@ -2559,7 +2560,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T16:15:45+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:26:56+02:00",
       "available": true,
       "price_min": 0,
@@ -2690,7 +2691,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T16:09:51+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:26:55+02:00",
       "available": true,
       "price_min": 0,
@@ -2809,7 +2810,7 @@
         "Table"
       ],
       "created_at": "2025-08-02T15:46:11+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-08-03T15:26:50+02:00",
       "available": true,
       "price_min": 1680,
@@ -2882,7 +2883,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-31T16:54:50+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-31T16:57:01+02:00",
       "available": true,
       "price_min": 2995,
@@ -2991,7 +2992,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-31T16:49:34+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-31T16:52:33+02:00",
       "available": true,
       "price_min": 5495,
@@ -3100,7 +3101,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-31T16:46:55+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-31T16:49:10+02:00",
       "available": true,
       "price_min": 3495,
@@ -3188,7 +3189,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:54:34+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T19:07:18+02:00",
       "available": true,
       "price_min": 0,
@@ -3314,7 +3315,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T15:40:35+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T15:42:01+01:00",
       "available": true,
       "price_min": 2495,
@@ -3390,7 +3391,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:51:47+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:53:43+02:00",
       "available": true,
       "price_min": 0,
@@ -3466,7 +3467,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:48:13+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:49:02+02:00",
       "available": true,
       "price_min": 0,
@@ -3547,7 +3548,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-01-28T12:21:15+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-01-28T12:22:37+01:00",
       "available": true,
       "price_min": 0,
@@ -3631,7 +3632,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-07-06T11:57:05+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-07-06T12:02:10+02:00",
       "available": true,
       "price_min": 2795,
@@ -3707,7 +3708,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:45:17+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:47:39+02:00",
       "available": true,
       "price_min": 0,
@@ -3783,7 +3784,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:13:06+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:14:41+02:00",
       "available": true,
       "price_min": 0,
@@ -3907,7 +3908,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:12:13+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:12:35+02:00",
       "available": true,
       "price_min": 0,
@@ -3989,7 +3990,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:44:19+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:44:50+02:00",
       "available": true,
       "price_min": 0,
@@ -4053,7 +4054,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:42:48+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:43:34+02:00",
       "available": true,
       "price_min": 0,
@@ -4129,7 +4130,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:10:46+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:11:28+02:00",
       "available": true,
       "price_min": 0,
@@ -4204,7 +4205,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-01-28T17:07:27+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-01-28T17:08:32+01:00",
       "available": true,
       "price_min": 0,
@@ -4280,7 +4281,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:41:14+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:42:04+02:00",
       "available": true,
       "price_min": 0,
@@ -4351,7 +4352,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-04-11T16:51:49+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-04-11T16:53:17+02:00",
       "available": true,
       "price_min": 2995,
@@ -4427,7 +4428,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:40:19+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:40:44+02:00",
       "available": true,
       "price_min": 0,
@@ -4494,7 +4495,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-03-19T16:20:27+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-03-19T16:21:38+01:00",
       "available": true,
       "price_min": 3950,
@@ -4546,7 +4547,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:08:48+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:10:17+02:00",
       "available": true,
       "price_min": 0,
@@ -4640,7 +4641,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:38:09+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:38:30+02:00",
       "available": true,
       "price_min": 0,
@@ -4709,7 +4710,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-01-28T17:27:33+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-01-28T17:29:13+01:00",
       "available": true,
       "price_min": 0,
@@ -4803,7 +4804,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:30:30+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:30:51+02:00",
       "available": true,
       "price_min": 0,
@@ -4861,7 +4862,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:31:21+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:32:02+02:00",
       "available": true,
       "price_min": 0,
@@ -4937,7 +4938,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:29:23+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:29:53+02:00",
       "available": true,
       "price_min": 0,
@@ -5007,7 +5008,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:26:23+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:29:01+02:00",
       "available": true,
       "price_min": 0,
@@ -5113,7 +5114,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:23:07+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:24:02+02:00",
       "available": true,
       "price_min": 0,
@@ -5177,7 +5178,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-18T18:21:42+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-07-18T18:21:59+02:00",
       "available": true,
       "price_min": 0,
@@ -5243,7 +5244,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-05-08T17:17:18+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-05-08T17:20:07+02:00",
       "available": true,
       "price_min": 2195,
@@ -5280,7 +5281,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118531_4_1_1.webp?v=1715181598",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118652_1_1_1.webp?v=1779548877",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5293,6 +5294,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118531_3_1_1.webp?v=1715181598",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118531_4_1_1.webp?v=1715181598",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5321,7 +5328,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T16:20:34+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T16:21:51+01:00",
       "available": true,
       "price_min": 4995,
@@ -5405,7 +5412,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T16:16:03+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T16:19:24+01:00",
       "available": true,
       "price_min": 3795,
@@ -5477,7 +5484,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T15:59:46+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T16:14:27+01:00",
       "available": true,
       "price_min": 1495,
@@ -5549,7 +5556,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T15:57:34+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T15:59:22+01:00",
       "available": true,
       "price_min": 2195,
@@ -5628,7 +5635,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-04-09T12:26:23+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-04-09T12:42:35+02:00",
       "available": true,
       "price_min": 2195,
@@ -5659,43 +5666,49 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_0_1_1.webp?v=1744195316",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_0_1_1_9d00a474-cbd0-491b-bdfc-4260bfd30b21.webp?v=1779470969",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_2_1_1.webp?v=1744195316",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_1_1_1.jpg?v=1779470970",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_3_1_1.webp?v=1744195316",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_3_1_1.jpg?v=1779470971",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_4_1_1.webp?v=1744195316",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_2_1_1.jpg?v=1779470970",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_5_1_1.webp?v=1744195316",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_4_1_1.jpg?v=1779470970",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_6_1_1.webp?v=1744195317",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_6_1_1.jpg?v=1779470971",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_5_1_1.jpg?v=1779470971",
           "alt": null,
           "width": 1200,
           "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_0_1_1.webp?v=1744195316",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/119215_0_1_1_9d00a474-cbd0-491b-bdfc-4260bfd30b21.webp?v=1779470969",
       "description_html": "<div class=\"additional-info folded-info product-information\">\n<div class=\"additional-info folded-info product-information\">\n<div class=\"additional-info folded-info product-information\">\n<div class=\"additional-info folded-info product-information\">\n<meta charset=\"utf-8\">\n<p class=\"text-special-sm\">Elevate your living space with the Sartoria Coffee Table in Silver Travertine.</p>\n<span>Its darker, refined hue exudes timeless elegance, while unique variations in color and texture ensure each piece is unparalleled. Crafted from premium stone, this table blends natural beauty with modern sophistication, catering to the discerning taste of luxury furniture enthusiasts.</span>\n</div>\n</div>\n</div>\n<div class=\"additional-info folded-info product-information\">\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span></span></strong><br>\n</div>\n<div class=\"additional-info folded-info product-information\">\n<strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Dimensions</strong><br>\n</div>\n</div>\n<div class=\"product-downloads\" id=\"product-downloads-container\">\n<div class=\"product-downloads\">\n<div class=\"dimensions portal\">\n<div class=\"dimensions-container\">\n<div class=\"dimensions portal\">\n<div class=\"dimensions-container\">\n<div class=\"portal-dimensions measurement-cm\">\n<div class=\"dimension-line\">\n<div class=\"dimension-line\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 83 | W. 83 | H. 32 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">General info</th>\n<td data-th=\"General info\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Silver travertine</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Extra info</th>\n<td data-th=\"Extra info\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Travertine is a natural material, each piece differs in color and texture</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Shape</th>\n<td data-th=\"Shape\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Square</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Max Weight Load KG</th>\n<td data-th=\"Max Weight Load KG\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">20</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Max Weight Load LBS</th>\n<td data-th=\"Max Weight Load LBS\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">44.09</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Indoor/outdoor</th>\n<td data-th=\"Indoor/outdoor\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
     },
     {
@@ -5712,7 +5725,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T15:54:09+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T15:56:25+01:00",
       "available": true,
       "price_min": 4495,
@@ -5797,7 +5810,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-04-13T11:31:17+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-04-13T11:33:12+02:00",
       "available": true,
       "price_min": 4495,
@@ -5887,7 +5900,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T15:49:43+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T15:52:14+01:00",
       "available": true,
       "price_min": 4495,
@@ -5965,7 +5978,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T14:51:50+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2026-02-07T13:52:49+01:00",
       "available": true,
       "price_min": 2495,
@@ -6049,7 +6062,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T14:50:07+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T14:50:38+01:00",
       "available": true,
       "price_min": 2195,
@@ -6127,7 +6140,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T14:47:44+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T14:48:44+01:00",
       "available": true,
       "price_min": 2195,
@@ -6199,7 +6212,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T14:44:06+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T14:47:18+01:00",
       "available": true,
       "price_min": 1795,
@@ -6265,7 +6278,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T14:41:19+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T14:42:51+01:00",
       "available": true,
       "price_min": 2995,
@@ -6349,7 +6362,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T12:40:09+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T12:42:41+01:00",
       "available": true,
       "price_min": 1995,
@@ -6421,7 +6434,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T12:34:51+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T16:16:44+01:00",
       "available": true,
       "price_min": 2195,
@@ -6493,7 +6506,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-05-13T17:47:40+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-05-13T17:49:32+02:00",
       "available": true,
       "price_min": 2995,
@@ -6524,43 +6537,49 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_0_1_1.webp?v=1715615362",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_0_1_1_1cba44d1-b79c-4270-8eaa-8de0d54605f3.webp?v=1779545421",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_6_1_1.webp?v=1715615368",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_1_1_1.jpg?v=1779545422",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_2_1_1.webp?v=1715615368",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_3_1_1.jpg?v=1779545422",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_3_1_1.webp?v=1715615368",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_2_1_1.jpg?v=1779545423",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_4_1_1.webp?v=1715615368",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_5_1_1.jpg?v=1779545422",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_5_1_1.webp?v=1715615368",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_4_1_1.jpg?v=1779545422",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_6_1_1.jpg?v=1779545423",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_0_1_1.webp?v=1715615362",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118416_0_1_1_1cba44d1-b79c-4270-8eaa-8de0d54605f3.webp?v=1779545421",
       "description_html": "<div class=\"additional-info folded-info product-information\">\n<meta charset=\"utf-8\">\n<p class=\"text-special-sm\">The Cesareo Coffee Table by Eichholtz is a paragon of modern design, with its organic shaped charcoal grey oak veneer imparting a unique, sophisticated charm.</p>\n<span>This Eichholtz furniture piece seamlessly blends artisan craftsmanship with luxury to enhance any contemporary living room.</span>\n</div>\n<div class=\"additional-info folded-info product-information\">\n<span></span><br>\n</div>\n<div class=\"additional-info folded-info product-information\"><span><meta charset=\"utf-8\">Charcoal grey oak veneer</span></div>\n<div class=\"additional-info folded-info product-information\">\n<span></span><br>\n</div>\n<div id=\"product-downloads-container\" class=\"product-downloads\">\n<div class=\"product-downloads\">\n<div class=\"dimensions portal\">\n<div class=\"dimensions-container\">\n<strong>Dimensions</strong>\n<div class=\"dimensions portal\">\n<div class=\"dimensions-container\">\n<div class=\"portal-dimensions measurement-cm\">\n<div class=\"dimension-line\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 117 | W. 70 | H. 40 cm</span></li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"dimension-line\">\n<span class=\"dimension-value\"></span><br>\n</div>\n<div class=\"dimension-line\"><strong><span class=\"dimension-value\">Specifications</span></strong></div>\n<div class=\"dimension-line\">\n<span class=\"dimension-value\"></span><br>\n</div>\n<div class=\"dimension-line\"><span class=\"dimension-value\">General info: <meta charset=\"utf-8\"> <span>Charcoal grey oak veneer</span><br>Shape: Free form<br>Indoor/outdoor: Indoor use/dry locations only<br></span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
     },
     {
@@ -6577,7 +6596,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-02-09T17:00:29+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2025-02-09T17:02:07+01:00",
       "available": true,
       "price_min": 595,
@@ -6661,7 +6680,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-05-16T17:31:54+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-05-16T17:37:26+02:00",
       "available": true,
       "price_min": 2195,
@@ -6698,13 +6717,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118216_4_1_1.webp?v=1715873839",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118216_1_1_1.webp?v=1715873839",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118216_1_1_1.webp?v=1715873839",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118216_4_1_1.webp?v=1715873839",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -6745,7 +6764,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-05-10T14:31:46+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-05-10T14:39:08+02:00",
       "available": true,
       "price_min": 3795,
@@ -6782,7 +6801,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118321_5_1_1.webp?v=1715344739",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118321_1_1_1.webp?v=1779550137",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -6810,6 +6829,12 @@
           "alt": null,
           "width": 1200,
           "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118321_5_1_1.webp?v=1715344739",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118321_0_1_1.webp?v=1715344737",
@@ -6829,7 +6854,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T12:07:41+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T12:09:30+01:00",
       "available": true,
       "price_min": 2995,
@@ -6901,7 +6926,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T11:57:32+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T12:00:21+01:00",
       "available": true,
       "price_min": 2995,
@@ -6967,7 +6992,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T12:01:08+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T12:07:29+01:00",
       "available": true,
       "price_min": 3195,
@@ -7039,7 +7064,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-08T12:11:41+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-08T18:58:50+01:00",
       "available": true,
       "price_min": 3195,
@@ -7111,7 +7136,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T11:48:34+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T11:51:57+01:00",
       "available": true,
       "price_min": 1495,
@@ -7189,7 +7214,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-03-09T11:43:51+01:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-03-09T11:48:04+01:00",
       "available": true,
       "price_min": 1495,
@@ -7267,7 +7292,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-05-03T14:17:51+02:00",
-      "updated_at": "2026-05-22T17:57:00+02:00",
+      "updated_at": "2026-05-25T21:06:12+02:00",
       "published_at": "2024-05-03T14:26:10+02:00",
       "available": true,
       "price_min": 2195,
@@ -7299,6 +7324,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118217_0_1_1.webp?v=1714739137",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118217_1_1_1_1.webp?v=1779615502",
           "alt": null,
           "width": 1200,
           "height": 1200

@@ -1,8 +1,9 @@
 {
   "handle": "sofas",
-  "label": "Sofas | Ottomans",
+  "label": "SOFAS | OTTOMANS",
   "url": "https://arowonen.com/collections/sofas",
-  "scraped_at": "2026-05-22T15:56:38.933Z",
+  "scraped_at": "2026-05-25T19:09:58.171Z",
+  "shopify_product_count": 81,
   "product_count": 73,
   "products": [
     {
@@ -17,7 +18,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-07T17:05:21+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2026-02-17T10:39:13+01:00",
       "available": true,
       "price_min": 0,
@@ -107,7 +108,7 @@
         "Studiopepe"
       ],
       "created_at": "2025-08-05T18:55:43+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T14:09:54+02:00",
       "available": true,
       "price_min": 0,
@@ -179,7 +180,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-06T13:51:16+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T16:50:11+02:00",
       "available": true,
       "price_min": 0,
@@ -275,7 +276,7 @@
         "Roberto Lazzeroni"
       ],
       "created_at": "2025-08-04T15:43:30+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T13:28:18+02:00",
       "available": true,
       "price_min": 0,
@@ -353,7 +354,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-04T12:17:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T12:46:34+02:00",
       "available": true,
       "price_min": 0,
@@ -419,7 +420,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T15:09:46+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:34:56+02:00",
       "available": true,
       "price_min": 0,
@@ -496,7 +497,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-04T12:11:08+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T12:46:07+02:00",
       "available": true,
       "price_min": 0,
@@ -562,7 +563,7 @@
         "Vincenzo De Cotiis"
       ],
       "created_at": "2025-08-04T11:58:34+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-06T12:45:42+02:00",
       "available": true,
       "price_min": 0,
@@ -664,7 +665,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T15:43:30+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T15:37:40+02:00",
       "available": true,
       "price_min": 0,
@@ -736,7 +737,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T15:28:40+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:37:03+02:00",
       "available": true,
       "price_min": 0,
@@ -832,7 +833,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T15:21:22+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:36:40+02:00",
       "available": true,
       "price_min": 0,
@@ -910,7 +911,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T15:00:25+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:33:22+02:00",
       "available": true,
       "price_min": 0,
@@ -988,7 +989,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T14:57:31+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:31:36+02:00",
       "available": true,
       "price_min": 0,
@@ -1072,7 +1073,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T14:52:11+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:30:57+02:00",
       "available": true,
       "price_min": 0,
@@ -1150,7 +1151,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T14:42:30+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:30:12+02:00",
       "available": true,
       "price_min": 0,
@@ -1228,7 +1229,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T14:28:53+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T14:26:10+02:00",
       "available": true,
       "price_min": 0,
@@ -1300,7 +1301,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T13:45:02+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T13:54:18+02:00",
       "available": true,
       "price_min": 0,
@@ -1385,7 +1386,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T13:28:23+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-05T13:45:12+02:00",
       "available": true,
       "price_min": 0,
@@ -1487,7 +1488,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T13:15:41+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-03T16:46:04+02:00",
       "available": true,
       "price_min": 0,
@@ -1553,7 +1554,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-03T13:00:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-03T16:39:41+02:00",
       "available": true,
       "price_min": 0,
@@ -1643,7 +1644,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T17:03:16+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:23:04+02:00",
       "available": true,
       "price_min": 0,
@@ -1709,7 +1710,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T16:59:57+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-02T10:32:48+02:00",
       "available": true,
       "price_min": 0,
@@ -1799,7 +1800,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T16:56:49+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:23:02+02:00",
       "available": true,
       "price_min": 0,
@@ -1871,7 +1872,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T16:53:22+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:23:00+02:00",
       "available": true,
       "price_min": 0,
@@ -1943,7 +1944,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T16:45:11+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:22:59+02:00",
       "available": true,
       "price_min": 0,
@@ -2033,7 +2034,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T16:41:14+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:22:58+02:00",
       "available": true,
       "price_min": 0,
@@ -2129,7 +2130,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T16:37:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:22:56+02:00",
       "available": true,
       "price_min": 0,
@@ -2213,7 +2214,7 @@
         "Studio Hannes Wettstein"
       ],
       "created_at": "2025-08-01T16:31:23+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:22:54+02:00",
       "available": true,
       "price_min": 0,
@@ -2297,7 +2298,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T15:58:53+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:21:30+02:00",
       "available": true,
       "price_min": 0,
@@ -2399,7 +2400,7 @@
         "Yabu Pushelberg"
       ],
       "created_at": "2025-08-01T15:53:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:21:04+02:00",
       "available": true,
       "price_min": 0,
@@ -2477,7 +2478,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T15:43:29+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:20:44+02:00",
       "available": true,
       "price_min": 0,
@@ -2585,7 +2586,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T15:34:08+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:20:27+02:00",
       "available": true,
       "price_min": 0,
@@ -2699,7 +2700,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T13:58:18+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:20:16+02:00",
       "available": true,
       "price_min": 0,
@@ -2801,7 +2802,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T13:47:37+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:20:05+02:00",
       "available": true,
       "price_min": 0,
@@ -2897,7 +2898,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T12:11:28+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:19:10+02:00",
       "available": true,
       "price_min": 0,
@@ -3029,7 +3030,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-01T11:54:49+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:18:58+02:00",
       "available": true,
       "price_min": 0,
@@ -3125,7 +3126,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-01T11:32:56+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-08-01T18:18:17+02:00",
       "available": true,
       "price_min": 0,
@@ -3221,7 +3222,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T12:41:50+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T12:51:49+01:00",
       "available": true,
       "price_min": 4995,
@@ -3311,7 +3312,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:03:53+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:08:17+01:00",
       "available": true,
       "price_min": 7995,
@@ -3407,7 +3408,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:09:34+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:18:25+01:00",
       "available": true,
       "price_min": 3495,
@@ -3497,7 +3498,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T12:52:58+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T12:57:32+01:00",
       "available": true,
       "price_min": 5995,
@@ -3584,7 +3585,7 @@
         "SOFAS"
       ],
       "created_at": "2025-01-28T12:42:31+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-01-28T12:42:55+01:00",
       "available": true,
       "price_min": 0,
@@ -3662,7 +3663,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T12:58:45+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:02:01+01:00",
       "available": true,
       "price_min": 5995,
@@ -3746,7 +3747,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:30:09+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:34:48+01:00",
       "available": true,
       "price_min": 6995,
@@ -3830,7 +3831,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:35:50+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:39:21+01:00",
       "available": true,
       "price_min": 3995,
@@ -3920,7 +3921,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T13:07:56+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:14:53+01:00",
       "available": true,
       "price_min": 2495,
@@ -4040,7 +4041,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T13:15:50+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:19:56+01:00",
       "available": true,
       "price_min": 1995,
@@ -4159,7 +4160,7 @@
         "SOFAS"
       ],
       "created_at": "2025-04-11T14:26:52+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-04-11T14:29:12+02:00",
       "available": true,
       "price_min": 3995,
@@ -4255,7 +4256,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:40:31+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:45:47+01:00",
       "available": true,
       "price_min": 5995,
@@ -4348,7 +4349,7 @@
         "SOFAS"
       ],
       "created_at": "2025-01-28T17:13:40+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-01-28T17:15:42+01:00",
       "available": true,
       "price_min": 0,
@@ -4480,7 +4481,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T13:20:43+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:25:20+01:00",
       "available": true,
       "price_min": 7995,
@@ -4565,7 +4566,7 @@
         "SOFAS"
       ],
       "created_at": "2025-04-13T10:49:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-04-13T10:51:36+02:00",
       "available": true,
       "price_min": 7995,
@@ -4672,7 +4673,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:49:11+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T13:50:41+02:00",
       "available": true,
       "price_min": 0,
@@ -4753,7 +4754,7 @@
         "SOFAS"
       ],
       "created_at": "2025-01-28T12:48:29+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-01-28T12:49:22+01:00",
       "available": true,
       "price_min": 0,
@@ -4842,7 +4843,7 @@
         "SOFAS"
       ],
       "created_at": "2025-01-28T12:17:05+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-01-28T12:18:07+01:00",
       "available": true,
       "price_min": 0,
@@ -4919,7 +4920,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T14:01:08+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T14:01:51+02:00",
       "available": true,
       "price_min": 0,
@@ -4984,7 +4985,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T14:02:21+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T14:03:01+02:00",
       "available": true,
       "price_min": 0,
@@ -5050,7 +5051,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:46:37+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T15:51:11+01:00",
       "available": true,
       "price_min": 1495,
@@ -5081,12 +5082,6 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_5_1_1.webp?v=1711032598",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_0_1_1.webp?v=1711032598",
           "alt": null,
           "width": 1200,
@@ -5094,6 +5089,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_1_1_1.webp?v=1711032598",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_5_1_1.webp?v=1711032598",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5129,7 +5130,7 @@
           "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_5_1_1.webp?v=1711032598",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113417_0_1_1.webp?v=1711032598",
       "description_html": "<div>\n<div class=\"additional-info folded-info product-information\">\n<div class=\"title\">\n<p class=\"text-special-sm\">Create a seating ensemble that’s made for you by combining several Lando chairs to your preferred configuration: whether a left or right corner sofa, a semi-circular couch or a snug C-shaped seater.</p>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span>The tapered design of the seating, together with the velvet upholstery in Avalon white, make this distinctive chair the perfect base element for a well-rounded sofa</span>.</span><br>\n</div>\n</div>\n<div id=\"product-downloads-container\" class=\"product-downloads\">\n<div id=\"product-downloads\" class=\"product-downloads\"><br></div>\n</div>\n</div>\n<p><strong><span data-mce-fragment=\"1\">Dimensions</span></strong></p>\n<div class=\"dimension-line\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 109 | D. 95 | H. 83 | SD. 65 | SH. 46 cm</span></li>\n</ul>\n</div>\n<div class=\"dimension-line\"><span></span></div>\n<div class=\"dimension-line\"><span></span></div>\n<div class=\"dimension-line\"><span></span></div>\n<div class=\"dimension-line\"><span></span></div>\n<div class=\"dimension-line\"><span class=\"dimension-value\"></span></div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Specifications</strong></p>\n<p>General info: Avalon white | black feet<br>Fabric composition: 87% polyester | 13% viscose<br>Indoor/outdoor: Indoor use/dry locations only<br></p>\n<div class=\"additional-attributes-wrapper table-wrapper\"><br></div>"
     },
     {
@@ -5146,7 +5147,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T13:26:15+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:33:05+01:00",
       "available": true,
       "price_min": 5995,
@@ -5242,7 +5243,7 @@
         "SOFAS"
       ],
       "created_at": "2024-09-22T16:21:07+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-09-22T16:22:20+02:00",
       "available": true,
       "price_min": 11995,
@@ -5356,7 +5357,7 @@
         "SOFAS"
       ],
       "created_at": "2024-09-22T16:17:31+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-09-22T16:20:00+02:00",
       "available": true,
       "price_min": 11995,
@@ -5458,7 +5459,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T15:55:06+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T16:02:54+01:00",
       "available": true,
       "price_min": 5995,
@@ -5554,7 +5555,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T16:03:38+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T16:07:20+01:00",
       "available": true,
       "price_min": 4495,
@@ -5644,7 +5645,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T13:34:36+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T13:40:47+01:00",
       "available": true,
       "price_min": 3995,
@@ -5727,7 +5728,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:58:08+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T13:59:12+02:00",
       "available": true,
       "price_min": 0,
@@ -5792,7 +5793,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:53:56+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T13:54:41+02:00",
       "available": true,
       "price_min": 0,
@@ -5869,7 +5870,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:51:06+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T13:52:28+02:00",
       "available": true,
       "price_min": 0,
@@ -5970,7 +5971,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:55:09+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T13:56:04+02:00",
       "available": true,
       "price_min": 0,
@@ -6060,7 +6061,7 @@
         "SOFAS"
       ],
       "created_at": "2024-03-21T16:09:58+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-03-21T16:14:32+01:00",
       "available": true,
       "price_min": 5495,
@@ -6103,12 +6104,6 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117903_5_1_1.webp?v=1711034020",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117903_2_1_1.webp?v=1711034020",
           "alt": null,
           "width": 1200,
@@ -6116,6 +6111,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117903_4_1_1.webp?v=1711034020",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117903_5_1_1.webp?v=1711034020",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -6159,7 +6160,7 @@
         "SOFAS"
       ],
       "created_at": "2025-01-28T12:11:02+01:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-01-28T12:12:29+01:00",
       "available": true,
       "price_min": 0,
@@ -6236,7 +6237,7 @@
         "SOFAS"
       ],
       "created_at": "2025-04-11T16:36:03+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-04-11T16:38:26+02:00",
       "available": true,
       "price_min": 7995,
@@ -6325,7 +6326,7 @@
         "SOFAS"
       ],
       "created_at": "2025-05-11T13:59:43+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2025-05-11T14:00:27+02:00",
       "available": true,
       "price_min": 0,
@@ -6403,7 +6404,7 @@
         "SOFAS"
       ],
       "created_at": "2024-05-13T15:31:01+02:00",
-      "updated_at": "2026-05-22T17:56:39+02:00",
+      "updated_at": "2026-05-25T21:09:57+02:00",
       "published_at": "2024-05-13T15:33:27+02:00",
       "available": true,
       "price_min": 3995,
@@ -6438,6 +6439,12 @@
           "alt": null,
           "width": 700,
           "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118755_1_1_1.jpg?v=1779549284",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118755_5_1_1.webp?v=1715607152",

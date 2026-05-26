@@ -1,0 +1,721 @@
+{
+  "handle": "delia-skin-master",
+  "label": "DELIA SKIN MASTER",
+  "url": "https://arowonen.com/collections/delia-skin-master",
+  "scraped_at": "2026-05-25T19:06:22.741Z",
+  "shopify_product_count": 14,
+  "product_count": 8,
+  "products": [
+    {
+      "id": 14663621411148,
+      "title": "Rose Pandora - Soft Pink - 38cm",
+      "handle": "rose-pandora-soft-pink-38cm",
+      "url": "https://arowonen.com/products/rose-pandora-soft-pink-38cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & PLANTS",
+        "FLOWERS & VASES",
+        "RAMADAN GIFTS",
+        "VDAY"
+      ],
+      "created_at": "2025-01-19T16:12:13+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2025-01-19T16:13:24+01:00",
+      "available": true,
+      "price_min": 14.95,
+      "price_max": 14.95,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 51807556469068,
+          "title": "Default Title",
+          "sku": null,
+          "price": "14.95",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6112.heic?v=1778417606",
+          "alt": null,
+          "width": 4032,
+          "height": 3024
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/11c9a92b-7f51-4649-974a-5a2f36294db5.jpg?v=1737299597",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/IMG_6112.heic?v=1778417606",
+      "description_html": "<div class=\"product-info-main__description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description-description\" data-mce-fragment=\"1\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">\n<div class=\"product-info-main__description\">\n<div class=\"product-info-main__description-description\">The rose has been the flower of love and romance for centuries. It is therefore not without reason that it is the most sold flower during Valentine's Day. The rose has extensive symbolism and differs per color but also per number.  Meaning: Love, affection, happiness and peace</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n<div class=\"product-info-main__specification  with-description\"></div>\n</div>\n</div>\n</div>\n</div>\n<br data-mce-fragment=\"1\"><br>"
+    },
+    {
+      "id": 8902533448012,
+      "title": "Vase Blanca Tall - Medium - White 19x33CM",
+      "handle": "vase-blanca-medior-white",
+      "url": "https://arowonen.com/products/vase-blanca-medior-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-03-09T13:30:29+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-03-09T13:32:11+01:00",
+      "available": true,
+      "price_min": 125,
+      "price_max": 125,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47799988748620,
+          "title": "Default Title",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-50_37e8c393-e194-4e01-a3c7-f3ca1a5a0da0.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-19-1_9e47eb88-5575-4cb3-b907-171ccb47942e.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-32_73de0a07-9139-47c8-838d-db02bf5a4f56.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-42_22b74b6c-1262-40e8-a23c-5edba1f296ed.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-50_37e8c393-e194-4e01-a3c7-f3ca1a5a0da0.jpg?v=1709987521",
+      "description_html": "<p><strong>SIZE<br></strong>19 x H33CM<br><strong>MATERIAL<br></strong>Ceramics</p>\n<p><br></p>"
+    },
+    {
+      "id": 8902531416396,
+      "title": "Vase Blanca Tall - Large - White 26x44CM",
+      "handle": "vase-blanca-senior-white",
+      "url": "https://arowonen.com/products/vase-blanca-senior-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-03-09T13:28:03+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-03-09T13:28:03+01:00",
+      "available": true,
+      "price_min": 195,
+      "price_max": 195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47799977902412,
+          "title": "Default Title",
+          "sku": "",
+          "price": "195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-29_0729002d-e6b3-4363-8ab7-d299c2ffdcdf.jpg?v=1709987287",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-42.jpg?v=1709987288",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-19-1.jpg?v=1709987287",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-32.jpg?v=1709987289",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-29_0729002d-e6b3-4363-8ab7-d299c2ffdcdf.jpg?v=1709987287",
+      "description_html": "<p><strong>SIZE<br></strong>26 x H44CM<br><strong>MATERIAL<br></strong>Ceramics</p>\n<p> </p>"
+    },
+    {
+      "id": 8900365746508,
+      "title": "Book - Mosques: Splendors of Islam",
+      "handle": "book-mosques-splendors-of-islam",
+      "url": "https://arowonen.com/products/book-mosques-splendors-of-islam",
+      "vendor": "RIZZOLI",
+      "product_type": "",
+      "tags": [
+        "ART & ARCHITECTURE",
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2024-03-08T14:18:06+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-03-08T14:18:06+01:00",
+      "available": true,
+      "price_min": 85,
+      "price_max": 85,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47795858014540,
+          "title": "Default Title",
+          "sku": "",
+          "price": "85.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-03-08om14.17.47.png?v=1709903890",
+          "alt": null,
+          "width": 486,
+          "height": 477
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/550x660.jpg?v=1709903889",
+          "alt": null,
+          "width": 550,
+          "height": 660
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Mosques.jpg?v=1709903889",
+          "alt": null,
+          "width": 550,
+          "height": 653
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2024-03-08om14.17.47.png?v=1709903890",
+      "description_html": "<p><span>One of the most important and authoritative books to celebrate mosque architecture and Islamic design, featuring many new photographs commissioned for this volume.</span><br></p>\n<p><span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>ISBN</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">9780847860357</span><br><strong>PAGES</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">304</span><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"title\"><strong>SIZE</strong><br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" class=\"value\">26 x 31 x 3 cm</span></span></p>"
+    },
+    {
+      "id": 8900345594188,
+      "title": "Art Canvas - Layers - Gold/White - 180x130cm",
+      "handle": "art-canvas-layers-gold-white-180x130cm",
+      "url": "https://arowonen.com/products/art-canvas-layers-gold-white-180x130cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "ART",
+        "ART & MIRRORS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2024-03-08T14:09:34+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-03-08T14:09:33+01:00",
+      "available": true,
+      "price_min": 699,
+      "price_max": 699,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47795830030668,
+          "title": "Default Title",
+          "sku": "",
+          "price": "699.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Layers1.jpg?v=1709903377",
+          "alt": null,
+          "width": 1536,
+          "height": 2047
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/layers2.jpg?v=1709903378",
+          "alt": null,
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/layers3.jpg?v=1709903379",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Layers1.jpg?v=1709903377",
+      "description_html": "<p><span>The décor reaches new heights with the majestic artwork Layers. Its captivating colors elevate any interior style. Crafted with meticulous attention to detail, each piece is truly one-of-a-kind.</span></p>\n<p> </p>\n<p><span>180x130cm</span></p>"
+    },
+    {
+      "id": 8876404310348,
+      "title": "Totem - Pearls White",
+      "handle": "totem-pearls-white",
+      "url": "https://arowonen.com/products/totem-pearls-white",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB TOTEMS",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-02-23T22:38:47+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-02-23T22:40:14+01:00",
+      "available": true,
+      "price_min": 180,
+      "price_max": 790,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47736040423756,
+          "title": "250 ML",
+          "sku": null,
+          "price": "180.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "250 ML",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47736040456524,
+          "title": "2 LITER",
+          "sku": null,
+          "price": "405.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "2 LITER",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47736040489292,
+          "title": "5 LITER",
+          "sku": null,
+          "price": "790.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "5 LITER",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "250 ML",
+            "2 LITER",
+            "5 LITER"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om22.49.53.png?v=1708725007",
+          "alt": null,
+          "width": 1016,
+          "height": 1364
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198244177_totemwhitepearls_lifestyle.webp?v=1708725006",
+          "alt": null,
+          "width": 2333,
+          "height": 3500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198244177_homefragrances_whitepearls_totem_2L.webp?v=1708725006",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198244238_homefragrances_whitepearls_totem_5L.webp?v=1708725006",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198486096_homefragrances_whitepearls_totem_250mL.webp?v=1708725006",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om22.49.53.png?v=1708725007",
+      "description_html": "<p><span>The Totem White Pearls diffuser’s glass contains white and powder pink details. Our glass artisans’ dexterity means that each bottle is one of a kind. Its matte white ceramic cap, sculpturally alluring, can delicately be placed on the bottle as an adornment that gives it a refined presence.</span><br></p>\n<p><strong>FRAGRANCE<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Its perfume is a soft blend of white musk and freesia that will embalm your interiors in a discrete and feminine fashion.</span></p>"
+    },
+    {
+      "id": 8876134105420,
+      "title": "Candle - Pearls Coral",
+      "handle": "candle-pearls-coral",
+      "url": "https://arowonen.com/products/candle-pearls-coral",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB CANDLES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "CHRISTMAS",
+        "just dropped in",
+        "Just launched in the online store",
+        "KERST",
+        "RAMADAN GIFTS",
+        "SCENTED CANDLES",
+        "X-Mas"
+      ],
+      "created_at": "2024-02-23T19:13:34+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2025-05-17T12:22:26+02:00",
+      "available": true,
+      "price_min": 90,
+      "price_max": 480,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47735245439308,
+          "title": "MAX 10 cm",
+          "sku": null,
+          "price": "90.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 10 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245472076,
+          "title": "MAX 16 cm",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 16 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245504844,
+          "title": "MAX 24 cm",
+          "sku": null,
+          "price": "245.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 24 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245537612,
+          "title": "MAX 35 cm",
+          "sku": null,
+          "price": "480.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 35 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "MAX 10 cm",
+            "MAX 16 cm",
+            "MAX 24 cm",
+            "MAX 35 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.15.08.png?v=1708712126",
+          "alt": null,
+          "width": 615,
+          "height": 633
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/baobab-collection-candle-pearls-coral.webp?v=1708712126",
+          "alt": null,
+          "width": 1724,
+          "height": 2298
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482067_scentedcandles_coralpearls_Max10.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482098_scentedcandles_coralpearls_Max16.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482128_scentedcandles_coralpearls_Max24.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482142_scentedcandles_coralpearls_Max35.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.15.08.png?v=1708712126",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>Covered in delicate touches of coral on hand-blown glass, the Coral Pearls scented candle is an object of decoration that will shimmer in your interiors as it releases an enchanting perfume. This candle, with its reference to the color of precious corals, will fit perfectly into your vacation homes.  <br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper\"><br></div>\n<p><span><strong>FRAGRANCE<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The Coral Pearls candle's perfume is made up of a delicate blend of neroli, petit grain and vetiver, one that will fill your interiors with the fresh scent of a sunny spring day.</span></p>\n<p> </p>\n<p><strong>USE</strong><br>Always let the candle burn until its surface is totally liquid. This step can be long, especially during the very first burn. Once the wax is totally liquid, you can let the candle burn for a maximum of one hour. The layer of liquid wax should never exceed one centimeter in height. Never exceed the maximum burning time indicated on the instruction label, nor let it burn to the end. Systematically keep a centimeter of wax at the bottom.<br></p>\n<p><br></p>"
+    },
+    {
+      "id": 8875969053004,
+      "title": "Candle - Pearls White",
+      "handle": "candle-pearls-white",
+      "url": "https://arowonen.com/products/candle-pearls-white",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB CANDLES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-02-23T17:29:02+01:00",
+      "updated_at": "2026-05-25T21:06:22+02:00",
+      "published_at": "2024-02-23T17:32:26+01:00",
+      "available": true,
+      "price_min": 90,
+      "price_max": 480,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47734866968908,
+          "title": "MAX 10 cm",
+          "sku": null,
+          "price": "90.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 10 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47734867001676,
+          "title": "MAX 16 cm",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 16 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47734867067212,
+          "title": "MAX 24 cm",
+          "sku": null,
+          "price": "245.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 24 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47734867132748,
+          "title": "MAX 35 cm",
+          "sku": null,
+          "price": "480.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 35 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "MAX 10 cm",
+            "MAX 16 cm",
+            "MAX 24 cm",
+            "MAX 35 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om17.31.16.png?v=1708705905",
+          "alt": null,
+          "width": 648,
+          "height": 643
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_LIFESTYLE-163.webp?v=1708705905",
+          "alt": null,
+          "width": 2646,
+          "height": 3969
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198110786_scentedcandles_whitepearls_Max10.webp?v=1708705905",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198116788_scentedcandles_whitepearls_Max16.webp?v=1708705905",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198124783_scentedcandles_whitepearls_Max24.webp?v=1708705905",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198135789_scentedcandles_whitepearls_Max35.webp?v=1708705905",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om17.31.16.png?v=1708705905",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>For many centuries, white pearls have been seen as symbols of purity and love. Sprinkled with light pink and white fragments, the White Pearls scented candle is inspired by the perfection of the pearl, also known as “tears of the gods.”</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper\"><br></div>\n<p><span><strong>FRAGRANCE<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The delicate and floral scent of White Pearls, made up of white musk and freesia, references the feminine quality of white pearls.</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></span></p>\n<p><strong>USE</strong><br>Always let the candle burn until its surface is totally liquid. This step can be long, especially during the very first burn. Once the wax is totally liquid, you can let the candle burn for a maximum of one hour. The layer of liquid wax should never exceed one centimeter in height. Never exceed the maximum burning time indicated on the instruction label, nor let it burn to the end. Systematically keep a centimeter of wax at the bottom.<br></p>\n<p><br></p>"
+    }
+  ]
+}

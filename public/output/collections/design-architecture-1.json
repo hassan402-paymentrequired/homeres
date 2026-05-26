@@ -1,8 +1,9 @@
 {
   "handle": "design-architecture-1",
-  "label": "Design & Photography",
+  "label": "DESIGN & PHOTOGRAPHY",
   "url": "https://arowonen.com/collections/design-architecture-1",
-  "scraped_at": "2026-05-22T15:58:20.790Z",
+  "scraped_at": "2026-05-25T19:06:24.216Z",
+  "shopify_product_count": 173,
   "product_count": 103,
   "products": [
     {
@@ -20,7 +21,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T15:42:05+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:09+02:00",
       "available": true,
       "price_min": 120,
@@ -153,7 +154,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T15:32:34+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:07+02:00",
       "available": true,
       "price_min": 120,
@@ -280,7 +281,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T14:08:18+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:05+02:00",
       "available": true,
       "price_min": 120,
@@ -395,7 +396,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T13:49:40+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:03+02:00",
       "available": true,
       "price_min": 120,
@@ -510,7 +511,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T13:24:55+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:02+02:00",
       "available": true,
       "price_min": 120,
@@ -661,7 +662,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T13:16:49+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:58:00+02:00",
       "available": true,
       "price_min": 120,
@@ -800,7 +801,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T13:06:23+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:58+02:00",
       "available": true,
       "price_min": 1200,
@@ -945,7 +946,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T13:01:17+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:56+02:00",
       "available": true,
       "price_min": 120,
@@ -1066,7 +1067,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T12:46:30+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:54+02:00",
       "available": true,
       "price_min": 1200,
@@ -1199,7 +1200,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T12:41:28+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:53+02:00",
       "available": true,
       "price_min": 120,
@@ -1320,7 +1321,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T12:14:34+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:51+02:00",
       "available": true,
       "price_min": 75,
@@ -1441,7 +1442,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T11:55:44+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:49+02:00",
       "available": true,
       "price_min": 120,
@@ -1574,7 +1575,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T11:45:50+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:47+02:00",
       "available": true,
       "price_min": 1400,
@@ -1713,7 +1714,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T11:33:44+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:46+02:00",
       "available": true,
       "price_min": 120,
@@ -1834,7 +1835,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T11:29:53+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:44+02:00",
       "available": true,
       "price_min": 120,
@@ -1955,7 +1956,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T10:57:24+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:42+02:00",
       "available": true,
       "price_min": 120,
@@ -2088,7 +2089,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-29T10:39:19+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-05-01T19:57:40+02:00",
       "available": true,
       "price_min": 120,
@@ -2233,7 +2234,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-04-10T16:43:40+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2026-04-10T16:48:01+02:00",
       "available": true,
       "price_min": 120,
@@ -2348,7 +2349,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T17:05:36+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T17:32:11+01:00",
       "available": true,
       "price_min": 120,
@@ -2487,7 +2488,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T16:32:01+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T16:47:12+01:00",
       "available": true,
       "price_min": 360,
@@ -2560,7 +2561,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T16:29:50+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T16:46:46+01:00",
       "available": true,
       "price_min": 240,
@@ -2627,7 +2628,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T16:19:31+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T16:45:45+01:00",
       "available": true,
       "price_min": 480,
@@ -2694,7 +2695,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T16:12:10+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T16:44:50+01:00",
       "available": true,
       "price_min": 240,
@@ -2761,7 +2762,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-15T16:06:29+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-15T16:44:17+01:00",
       "available": true,
       "price_min": 360,
@@ -2828,7 +2829,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-02T12:08:30+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-11-02T12:12:29+01:00",
       "available": true,
       "price_min": 120,
@@ -2949,7 +2950,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-02T12:04:49+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-11-02T12:06:45+01:00",
       "available": true,
       "price_min": 120,
@@ -3035,7 +3036,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-09-18T13:20:13+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-09-21T13:13:50+02:00",
       "available": true,
       "price_min": 120,
@@ -3157,7 +3158,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-09-18T13:08:37+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-09-21T13:13:03+02:00",
       "available": true,
       "price_min": 120,
@@ -3288,7 +3289,7 @@
         "The Ultimate Collection"
       ],
       "created_at": "2025-08-26T14:33:26+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T14:26:47+02:00",
       "available": true,
       "price_min": 1400,
@@ -3445,7 +3446,7 @@
         "The Ultimate Collection"
       ],
       "created_at": "2025-08-26T12:18:15+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T13:17:12+02:00",
       "available": true,
       "price_min": 1200,
@@ -3583,7 +3584,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-26T11:36:53+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T12:15:35+02:00",
       "available": true,
       "price_min": 120,
@@ -3707,7 +3708,7 @@
         "DESIGN & PHOTOGRAPHY"
       ],
       "created_at": "2025-08-26T11:04:34+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T12:14:07+02:00",
       "available": true,
       "price_min": 120,
@@ -3825,7 +3826,7 @@
         "DESIGN & PHOTOGRAPHY"
       ],
       "created_at": "2025-08-25T18:49:33+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T12:13:44+02:00",
       "available": true,
       "price_min": 120,
@@ -3891,7 +3892,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-25T18:07:11+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-28T15:52:44+02:00",
       "available": true,
       "price_min": 85,
@@ -3983,7 +3984,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-08-25T16:56:49+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-28T15:52:32+02:00",
       "available": true,
       "price_min": 60,
@@ -4115,7 +4116,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-08-25T13:51:37+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T11:30:39+02:00",
       "available": true,
       "price_min": 120,
@@ -4237,7 +4238,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-08-25T13:42:29+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T11:28:07+02:00",
       "available": true,
       "price_min": 120,
@@ -4355,7 +4356,7 @@
         "DESIGN & PHOTOGRAPHY"
       ],
       "created_at": "2025-08-24T18:06:12+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-27T11:15:17+02:00",
       "available": true,
       "price_min": 120,
@@ -4487,7 +4488,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-24T13:27:13+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:32:48+02:00",
       "available": true,
       "price_min": 120,
@@ -4617,7 +4618,7 @@
         "DESIGN & PHOTOGRAPHY"
       ],
       "created_at": "2025-08-24T12:46:43+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:30:49+02:00",
       "available": true,
       "price_min": 120,
@@ -4738,7 +4739,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-08-24T12:42:09+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:29:53+02:00",
       "available": true,
       "price_min": 120,
@@ -4858,7 +4859,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-24T12:36:52+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:29:24+02:00",
       "available": true,
       "price_min": 120,
@@ -4984,7 +4985,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-24T12:23:42+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:28:54+02:00",
       "available": true,
       "price_min": 120,
@@ -5092,7 +5093,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-08-24T11:33:08+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-08-26T17:01:58+02:00",
       "available": true,
       "price_min": 120,
@@ -5213,7 +5214,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-11T11:56:42+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-05-11T11:59:34+02:00",
       "available": true,
       "price_min": 120,
@@ -5346,7 +5347,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-01-29T16:42:05+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T16:47:52+01:00",
       "available": true,
       "price_min": 120,
@@ -5484,7 +5485,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-01-29T15:29:44+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T15:36:34+01:00",
       "available": true,
       "price_min": 120,
@@ -5605,7 +5606,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-01-29T15:14:47+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T15:18:56+01:00",
       "available": true,
       "price_min": 1200,
@@ -5743,7 +5744,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-01-29T14:43:03+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T14:47:52+01:00",
       "available": true,
       "price_min": 120,
@@ -5858,7 +5859,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-01-29T14:28:20+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T14:33:31+01:00",
       "available": true,
       "price_min": 1200,
@@ -5967,7 +5968,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-29T14:06:14+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-29T14:09:57+01:00",
       "available": true,
       "price_min": 1200,
@@ -6113,7 +6114,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-12-03T14:54:40+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2024-12-03T14:57:17+01:00",
       "available": true,
       "price_min": 120,
@@ -6234,7 +6235,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-11-03T15:55:18+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:29:18+01:00",
       "available": true,
       "price_min": 120,
@@ -6349,7 +6350,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-11-03T14:29:27+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:29:18+01:00",
       "available": true,
       "price_min": 120,
@@ -6475,7 +6476,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-11-03T14:11:27+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:07:23+01:00",
       "available": true,
       "price_min": 120,
@@ -6590,7 +6591,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-10-19T17:29:34+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:07:05+01:00",
       "available": true,
       "price_min": 1400,
@@ -6741,7 +6742,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-10-19T16:48:58+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-12-26T13:43:50+01:00",
       "available": true,
       "price_min": 1200,
@@ -6862,7 +6863,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-10-19T16:29:17+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:17:57+01:00",
       "available": true,
       "price_min": 120,
@@ -6983,7 +6984,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-10-10T12:14:55+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:23+02:00",
       "published_at": "2025-01-25T10:17:54+01:00",
       "available": true,
       "price_min": 120,
@@ -7109,7 +7110,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-09-27T12:49:31+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:18+01:00",
       "available": true,
       "price_min": 120,
@@ -7259,7 +7260,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-08-14T12:22:49+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:12+01:00",
       "available": true,
       "price_min": 120,
@@ -7373,7 +7374,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-16T16:51:13+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:29:11+01:00",
       "available": true,
       "price_min": 120,
@@ -7499,7 +7500,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-16T16:44:27+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:17:58+01:00",
       "available": true,
       "price_min": 120,
@@ -7631,7 +7632,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-16T16:40:37+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:17:46+01:00",
       "available": true,
       "price_min": 120,
@@ -7763,7 +7764,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-16T16:37:37+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:25+01:00",
       "available": true,
       "price_min": 120,
@@ -7895,7 +7896,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-14T18:18:23+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-12-26T13:34:31+01:00",
       "available": true,
       "price_min": 195,
@@ -8027,7 +8028,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-14T15:23:24+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-06-14T17:27:33+02:00",
       "available": true,
       "price_min": 1200,
@@ -8195,7 +8196,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T17:49:40+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:09+01:00",
       "available": true,
       "price_min": 1400,
@@ -8351,7 +8352,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T17:14:31+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:16+01:00",
       "available": true,
       "price_min": 1200,
@@ -8489,7 +8490,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T17:10:12+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:12+01:00",
       "available": true,
       "price_min": 1200,
@@ -8628,7 +8629,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T15:20:17+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:05+01:00",
       "available": true,
       "price_min": 1200,
@@ -8766,7 +8767,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T15:13:03+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:23+01:00",
       "available": true,
       "price_min": 1200,
@@ -8922,7 +8923,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T14:40:18+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-24T15:47:25+01:00",
       "available": true,
       "price_min": 120,
@@ -9060,7 +9061,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T11:28:52+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:29:15+01:00",
       "available": true,
       "price_min": 120,
@@ -9175,7 +9176,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T10:10:03+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:11+01:00",
       "available": true,
       "price_min": 1400,
@@ -9283,7 +9284,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-08T10:06:36+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:09+01:00",
       "available": true,
       "price_min": 1400,
@@ -9385,7 +9386,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-05-20T14:47:22+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:22+01:00",
       "available": true,
       "price_min": 120,
@@ -9505,7 +9506,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-05-20T14:43:44+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:17:52+01:00",
       "available": true,
       "price_min": 120,
@@ -9623,7 +9624,7 @@
         "DESIGN & PHOTOGRAPHY"
       ],
       "created_at": "2024-05-20T14:27:46+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:17:50+01:00",
       "available": true,
       "price_min": 120,
@@ -9743,7 +9744,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-02T13:57:27+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-12-26T13:28:22+01:00",
       "available": true,
       "price_min": 120,
@@ -9863,7 +9864,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-02T13:54:03+02:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:14+01:00",
       "available": true,
       "price_min": 120,
@@ -9996,7 +9997,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-29T16:22:15+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-29T16:26:18+01:00",
       "available": true,
       "price_min": 120,
@@ -10129,7 +10130,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-29T16:09:08+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:14+01:00",
       "available": true,
       "price_min": 250,
@@ -10279,7 +10280,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-29T15:45:47+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-29T15:50:22+01:00",
       "available": true,
       "price_min": 120,
@@ -10429,7 +10430,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-29T15:41:10+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:07:20+01:00",
       "available": true,
       "price_min": 120,
@@ -10567,7 +10568,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-29T15:32:39+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-24T15:54:29+01:00",
       "available": true,
       "price_min": 120,
@@ -10681,7 +10682,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-29T15:24:08+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-29T15:31:20+01:00",
       "available": true,
       "price_min": 120,
@@ -10814,7 +10815,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T11:32:07+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-04T11:32:50+01:00",
       "available": true,
       "price_min": 60,
@@ -10904,7 +10905,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T11:24:07+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-04T11:27:29+01:00",
       "available": true,
       "price_min": 125,
@@ -11024,7 +11025,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-01T12:20:13+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-01T15:41:55+01:00",
       "available": true,
       "price_min": 120,
@@ -11163,7 +11164,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-01T11:59:20+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-03-01T12:04:38+01:00",
       "available": true,
       "price_min": 180,
@@ -11307,7 +11308,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-23T15:12:48+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-05-17T12:22:07+02:00",
       "available": true,
       "price_min": 120,
@@ -11463,7 +11464,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-23T14:56:28+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:29:17+01:00",
       "available": true,
       "price_min": 195,
@@ -11609,7 +11610,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-23T14:42:41+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:29:15+01:00",
       "available": true,
       "price_min": 120,
@@ -11749,7 +11750,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-23T14:37:17+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T10:29:15+01:00",
       "available": true,
       "price_min": 120,
@@ -11875,7 +11876,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-23T12:53:06+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-25T11:29:28+01:00",
       "available": true,
       "price_min": 120,
@@ -12014,7 +12015,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-23T12:45:46+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-02-23T12:48:28+01:00",
       "available": true,
       "price_min": 120,
@@ -12135,7 +12136,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-23T11:23:32+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-03-05T11:52:31+01:00",
       "available": true,
       "price_min": 195,
@@ -12285,7 +12286,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-23T11:07:10+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-02-23T11:10:10+01:00",
       "available": true,
       "price_min": 120,
@@ -12394,7 +12395,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-22T21:38:55+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-02-22T21:55:30+01:00",
       "available": true,
       "price_min": 120,
@@ -12515,7 +12516,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-22T21:17:57+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-01-03T20:21:33+01:00",
       "available": true,
       "price_min": 120,
@@ -12618,7 +12619,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-22T21:02:31+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2025-12-26T13:15:09+01:00",
       "available": true,
       "price_min": 120,
@@ -12750,7 +12751,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-22T15:14:53+01:00",
-      "updated_at": "2026-05-22T17:58:20+02:00",
+      "updated_at": "2026-05-25T21:06:24+02:00",
       "published_at": "2024-02-22T15:14:53+01:00",
       "available": true,
       "price_min": 120,

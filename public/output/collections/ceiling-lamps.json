@@ -1,8 +1,9 @@
 {
   "handle": "ceiling-lamps",
-  "label": "Ceiling Lamps",
+  "label": "CEILING LAMPS",
   "url": "https://arowonen.com/collections/ceiling-lamps",
-  "scraped_at": "2026-05-22T15:57:27.902Z",
+  "scraped_at": "2026-05-25T19:06:02.092Z",
+  "shopify_product_count": 71,
   "product_count": 56,
   "products": [
     {
@@ -18,7 +19,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T11:54:25+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:32:19+02:00",
       "available": true,
       "price_min": 230,
@@ -82,7 +83,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-31T10:07:12+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:18:55+02:00",
       "available": true,
       "price_min": 5100,
@@ -189,7 +190,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T10:01:11+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:17:36+02:00",
       "available": true,
       "price_min": 340,
@@ -278,7 +279,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T09:49:28+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:16:48+02:00",
       "available": true,
       "price_min": 550,
@@ -379,7 +380,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T09:42:15+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:16:36+02:00",
       "available": true,
       "price_min": 630,
@@ -521,7 +522,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-31T09:35:56+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:16:09+02:00",
       "available": true,
       "price_min": 480,
@@ -682,7 +683,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T09:21:37+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:15:04+02:00",
       "available": true,
       "price_min": 160,
@@ -800,7 +801,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-31T09:10:41+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:14:53+02:00",
       "available": true,
       "price_min": 1200,
@@ -978,7 +979,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-31T08:58:12+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:12:15+02:00",
       "available": true,
       "price_min": 880,
@@ -1145,7 +1146,7 @@
         "WALL LAMPS"
       ],
       "created_at": "2025-08-31T08:47:35+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:10:15+02:00",
       "available": true,
       "price_min": 290,
@@ -1275,7 +1276,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-31T08:34:43+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:09:54+02:00",
       "available": true,
       "price_min": 845,
@@ -1353,7 +1354,7 @@
         "Wan"
       ],
       "created_at": "2025-08-30T15:40:43+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:09:33+02:00",
       "available": true,
       "price_min": 200,
@@ -1471,7 +1472,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-30T15:27:44+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-09-07T15:05:39+02:00",
       "available": true,
       "price_min": 820,
@@ -1649,7 +1650,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:29:16+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:36:13+02:00",
       "available": true,
       "price_min": 0,
@@ -1725,7 +1726,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:26:22+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:27:39+02:00",
       "available": true,
       "price_min": 0,
@@ -1795,7 +1796,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:22:08+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:23:51+02:00",
       "available": true,
       "price_min": 0,
@@ -1865,7 +1866,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:20:30+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:21:25+02:00",
       "available": true,
       "price_min": 0,
@@ -1935,7 +1936,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:19:07+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:19:40+02:00",
       "available": true,
       "price_min": 0,
@@ -2005,7 +2006,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:17:13+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:17:36+02:00",
       "available": true,
       "price_min": 0,
@@ -2057,7 +2058,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:16:24+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:16:48+02:00",
       "available": true,
       "price_min": 0,
@@ -2133,7 +2134,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:14:45+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:15:15+02:00",
       "available": true,
       "price_min": 0,
@@ -2191,7 +2192,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T17:12:40+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T17:13:41+02:00",
       "available": true,
       "price_min": 0,
@@ -2255,7 +2256,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:33:44+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:34:33+02:00",
       "available": true,
       "price_min": 0,
@@ -2319,7 +2320,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:32:11+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:33:11+02:00",
       "available": true,
       "price_min": 0,
@@ -2395,7 +2396,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:30:44+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:31:20+02:00",
       "available": true,
       "price_min": 0,
@@ -2453,7 +2454,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:29:31+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:30:05+02:00",
       "available": true,
       "price_min": 0,
@@ -2517,7 +2518,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:28:34+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:28:50+02:00",
       "available": true,
       "price_min": 0,
@@ -2575,7 +2576,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:26:50+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:27:31+02:00",
       "available": true,
       "price_min": 0,
@@ -2645,7 +2646,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:25:50+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:26:18+02:00",
       "available": true,
       "price_min": 0,
@@ -2703,7 +2704,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:24:38+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:25:12+02:00",
       "available": true,
       "price_min": 0,
@@ -2767,7 +2768,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:23:23+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:23:46+02:00",
       "available": true,
       "price_min": 0,
@@ -2819,7 +2820,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:22:32+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:22:41+02:00",
       "available": true,
       "price_min": 0,
@@ -2871,7 +2872,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:20:42+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:21:55+02:00",
       "available": true,
       "price_min": 0,
@@ -2965,7 +2966,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:15:48+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:17:31+02:00",
       "available": true,
       "price_min": 0,
@@ -3059,7 +3060,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:09:43+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:14:41+02:00",
       "available": true,
       "price_min": 0,
@@ -3141,7 +3142,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:08:03+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:09:25+02:00",
       "available": true,
       "price_min": 0,
@@ -3235,7 +3236,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-07-19T16:05:48+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-07-19T16:07:12+02:00",
       "available": true,
       "price_min": 0,
@@ -3310,7 +3311,7 @@
         "CEILING LAMPS"
       ],
       "created_at": "2025-01-28T16:58:51+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2025-01-28T16:59:57+01:00",
       "available": true,
       "price_min": 0,
@@ -3373,7 +3374,7 @@
         "CEILING LAMPS"
       ],
       "created_at": "2025-01-28T14:55:14+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2026-02-17T10:36:35+01:00",
       "available": true,
       "price_min": 0,
@@ -3485,7 +3486,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T17:25:37+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-05-13T17:28:27+02:00",
       "available": true,
       "price_min": 995,
@@ -3516,6 +3517,18 @@
       ],
       "images": [
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_4_1_1.webp?v=1715613967",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_2_1_1.webp?v=1715614104",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_0_1_1.webp?v=1715613967",
           "alt": null,
           "width": 700,
@@ -3528,25 +3541,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_2_1_1.webp?v=1715614104",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_4_1_1.webp?v=1715613967",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_5_1_1.webp?v=1715613968",
           "alt": null,
           "width": 700,
           "height": 700
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_0_1_1.webp?v=1715613967",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118480_4_1_1.webp?v=1715613967",
       "description_html": "<div data-mce-fragment=\"1\">\n<p class=\"text-special-sm\">Introduce a touch of vintage elegance with the Eichholtz Mario Ceiling Lamp.</p>\n<p data-mce-fragment=\"1\"><span>Its classic brass finish and white glass come together to cast a gentle illumination, making it a perfect piece in your living space or bedroom.</span></p>\n</div>\n<div class=\"product-downloads\" id=\"product-downloads-container\" data-mce-fragment=\"1\">\n<div data-mce-fragment=\"1\"><br></div>\n<div data-mce-fragment=\"1\"><strong>Dimensions</strong></div>\n<div data-mce-fragment=\"1\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 60 | H. 15 cm</span></li>\n</ul>\n</div>\n</div>\n</div>\n<div data-mce-fragment=\"1\"><br></div>\n<div data-mce-fragment=\"1\"><strong>Specifications</strong></div>\n<div data-mce-fragment=\"1\">\n<strong></strong><br>\n</div>\n<div data-mce-fragment=\"1\">General info: <meta charset=\"utf-8\">\n<span>Vintage brass finish | white glass</span>\n</div>\n<div data-mce-fragment=\"1\">Lamp holder: <span data-mce-fragment=\"1\">E27</span>\n</div>\n<div data-mce-fragment=\"1\"><span>Lamp holder qty: 4</span></div>\n<div data-mce-fragment=\"1\">\n<span>Max voltage: 220 - 240 Volt</span><span></span>\n</div>\n<div data-mce-fragment=\"1\"><span>Indoor/outdoor: Indoor use/dry locations only</span></div>\n</div>"
     },
     {
@@ -3562,7 +3563,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T15:43:35+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-05-13T15:46:14+02:00",
       "available": true,
       "price_min": 1495,
@@ -3599,13 +3600,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_4_1_1.webp?v=1715607970",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_1_1_1.webp?v=1715607970",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_1_1_1.webp?v=1715607970",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_5_1_1.webp?v=1715607960",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3623,7 +3624,7 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_5_1_1.webp?v=1715607960",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_4_1_1.webp?v=1715607970",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3645,7 +3646,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:43:56+02:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-04-04T15:49:06+02:00",
       "available": true,
       "price_min": 995,
@@ -3721,7 +3722,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:46:45+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:48:37+01:00",
       "available": true,
       "price_min": 1195,
@@ -3791,7 +3792,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:43:58+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:46:31+01:00",
       "available": true,
       "price_min": 1195,
@@ -3861,7 +3862,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:42:19+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:43:12+01:00",
       "available": true,
       "price_min": 1195,
@@ -3925,7 +3926,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:33:48+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:36:21+01:00",
       "available": true,
       "price_min": 1195,
@@ -3989,7 +3990,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:30:48+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:33:12+01:00",
       "available": true,
       "price_min": 995,
@@ -4059,7 +4060,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:28:36+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:30:11+01:00",
       "available": true,
       "price_min": 995,
@@ -4129,7 +4130,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:23:49+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:28:01+01:00",
       "available": true,
       "price_min": 995,
@@ -4193,7 +4194,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T13:17:20+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T13:21:48+01:00",
       "available": true,
       "price_min": 995,
@@ -4263,7 +4264,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:47:29+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T12:48:55+01:00",
       "available": true,
       "price_min": 1995,
@@ -4333,7 +4334,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:43:47+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T12:47:10+01:00",
       "available": true,
       "price_min": 1995,
@@ -4403,7 +4404,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:38:22+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2026-05-15T11:35:35+02:00",
       "available": true,
       "price_min": 1495,
@@ -4473,7 +4474,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:34:19+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T12:37:47+01:00",
       "available": true,
       "price_min": 2195,
@@ -4549,7 +4550,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:30:12+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T12:33:45+01:00",
       "available": true,
       "price_min": 2495,
@@ -4625,7 +4626,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-25T12:22:35+01:00",
-      "updated_at": "2026-05-22T17:57:27+02:00",
+      "updated_at": "2026-05-25T21:06:02+02:00",
       "published_at": "2024-03-25T12:29:44+01:00",
       "available": true,
       "price_min": 2795,

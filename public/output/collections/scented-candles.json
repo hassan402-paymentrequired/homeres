@@ -1,8 +1,9 @@
 {
   "handle": "scented-candles",
-  "label": "Scented Candles",
+  "label": "SCENTED CANDLES",
   "url": "https://arowonen.com/collections/scented-candles",
-  "scraped_at": "2026-05-22T15:58:59.063Z",
+  "scraped_at": "2026-05-25T19:09:51.962Z",
+  "shopify_product_count": 282,
   "product_count": 154,
   "products": [
     {
@@ -19,7 +20,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-04-02T19:49:36+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-04-02T19:49:36+02:00",
       "available": true,
       "price_min": 500,
@@ -89,7 +90,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-03-06T14:45:36+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-03-06T14:46:56+01:00",
       "available": true,
       "price_min": 117,
@@ -225,7 +226,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-03-06T14:39:14+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-03-06T14:41:53+01:00",
       "available": true,
       "price_min": 117,
@@ -352,7 +353,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-02-06T20:16:52+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-02-08T13:55:31+01:00",
       "available": true,
       "price_min": 160,
@@ -407,7 +408,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-02-06T20:14:27+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-02-08T13:55:30+01:00",
       "available": true,
       "price_min": 145,
@@ -462,7 +463,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-02-06T20:12:17+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-02-08T13:55:28+01:00",
       "available": true,
       "price_min": 125,
@@ -523,7 +524,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2026-02-06T19:45:58+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-02-08T13:55:25+01:00",
       "available": true,
       "price_min": 95,
@@ -594,7 +595,7 @@
         "VDAY"
       ],
       "created_at": "2026-01-24T14:22:03+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2026-01-26T13:27:11+01:00",
       "available": true,
       "price_min": 115,
@@ -719,7 +720,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-04T13:44:09+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-04T14:07:38+02:00",
       "available": true,
       "price_min": 55,
@@ -778,7 +779,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-02T12:13:44+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:30+02:00",
       "available": true,
       "price_min": 106,
@@ -861,7 +862,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-02T11:18:52+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:27+02:00",
       "available": true,
       "price_min": 153,
@@ -933,7 +934,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:51:14+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:24+02:00",
       "available": true,
       "price_min": 185,
@@ -1011,7 +1012,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:43:59+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:21+02:00",
       "available": true,
       "price_min": 950,
@@ -1089,7 +1090,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:40:58+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:19+02:00",
       "available": true,
       "price_min": 170,
@@ -1167,7 +1168,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:38:19+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:30:15+02:00",
       "available": true,
       "price_min": 185,
@@ -1239,7 +1240,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:33:48+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:56+02:00",
       "available": true,
       "price_min": 430,
@@ -1305,7 +1306,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:30:13+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:53+02:00",
       "available": true,
       "price_min": 250,
@@ -1377,7 +1378,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:22:08+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:50+02:00",
       "available": true,
       "price_min": 550,
@@ -1455,7 +1456,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:19:38+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:47+02:00",
       "available": true,
       "price_min": 185,
@@ -1527,7 +1528,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:09:43+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:41+02:00",
       "available": true,
       "price_min": 185,
@@ -1599,7 +1600,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:04:45+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:39+02:00",
       "available": true,
       "price_min": 185,
@@ -1671,7 +1672,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T15:02:15+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:36+02:00",
       "available": true,
       "price_min": 350,
@@ -1737,7 +1738,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T14:33:55+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:33+02:00",
       "available": true,
       "price_min": 230,
@@ -1833,7 +1834,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-31T17:55:24+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:27+02:00",
       "available": true,
       "price_min": 430,
@@ -1911,7 +1912,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-31T17:49:11+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-09-05T16:32:24+02:00",
       "available": true,
       "price_min": 250,
@@ -1992,7 +1993,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-23T15:19:42+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T16:06:16+02:00",
       "available": true,
       "price_min": 105,
@@ -2127,7 +2128,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-23T13:47:41+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:32:47+02:00",
       "available": true,
       "price_min": 97,
@@ -2268,7 +2269,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-23T13:24:27+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:30:16+02:00",
       "available": true,
       "price_min": 105,
@@ -2398,7 +2399,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-23T13:22:12+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:29:46+02:00",
       "available": true,
       "price_min": 55,
@@ -2462,7 +2463,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-23T13:09:40+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:28:44+02:00",
       "available": true,
       "price_min": 55,
@@ -2526,7 +2527,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:53:27+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:28:08+02:00",
       "available": true,
       "price_min": 55,
@@ -2590,7 +2591,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:37:20+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:25:29+02:00",
       "available": true,
       "price_min": 55,
@@ -2663,7 +2664,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:24:56+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:24:54+02:00",
       "available": true,
       "price_min": 105,
@@ -2793,7 +2794,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:22:57+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:22:23+02:00",
       "available": true,
       "price_min": 55,
@@ -2868,7 +2869,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:11:31+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:21:25+02:00",
       "available": true,
       "price_min": 97,
@@ -3009,7 +3010,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T15:07:51+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:20:41+02:00",
       "available": true,
       "price_min": 55,
@@ -3084,7 +3085,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T13:41:23+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:17:22+02:00",
       "available": true,
       "price_min": 55,
@@ -3159,7 +3160,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T13:36:51+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:12:28+02:00",
       "available": true,
       "price_min": 55,
@@ -3234,7 +3235,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T13:31:36+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:12:15+02:00",
       "available": true,
       "price_min": 97,
@@ -3375,7 +3376,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T13:27:11+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:12:01+02:00",
       "available": true,
       "price_min": 55,
@@ -3456,7 +3457,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T13:04:51+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:10:30+02:00",
       "available": true,
       "price_min": 80,
@@ -3597,7 +3598,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T12:57:34+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:07:27+02:00",
       "available": true,
       "price_min": 55,
@@ -3672,7 +3673,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-22T12:50:03+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T14:06:49+02:00",
       "available": true,
       "price_min": 55,
@@ -3736,7 +3737,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T15:01:53+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:50+02:00",
       "published_at": "2025-08-26T13:25:57+02:00",
       "available": true,
       "price_min": 195,
@@ -3818,7 +3819,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:38:16+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:42+02:00",
       "available": true,
       "price_min": 150,
@@ -3900,7 +3901,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:33:15+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:39+02:00",
       "available": true,
       "price_min": 325,
@@ -3937,12 +3938,6 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC20Lb_1400x_cd991180-7e72-4850-a8fb-00febec69310.webp?v=1755779708",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GrandBazaar_0648_1400x_7478811b-5762-4c3d-833d-7507885c38fa.webp?v=1755779708",
           "alt": null,
           "width": 1400,
@@ -3950,6 +3945,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GrandBazaar_0721_1400x_5d28ad7e-3110-4de1-9c5d-baf2b4441703.webp?v=1755779708",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC20Lb_1400x_cd991180-7e72-4850-a8fb-00febec69310.webp?v=1755779708",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3976,7 +3977,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:31:50+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:36+02:00",
       "available": true,
       "price_min": 125,
@@ -4046,7 +4047,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:30:02+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:33+02:00",
       "available": true,
       "price_min": 195,
@@ -4083,12 +4084,6 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C221b_1400x_f871c7c2-ece1-45aa-80ab-8f46ca46b578.webp?v=1755779459",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Coral_0576_800x_66a0e4e7-927c-472b-855b-74bc1724f984.webp?v=1755779459",
           "alt": null,
           "width": 800,
@@ -4099,6 +4094,12 @@
           "alt": null,
           "width": 800,
           "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C221b_1400x_f871c7c2-ece1-45aa-80ab-8f46ca46b578.webp?v=1755779459",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C221a_1400x_5a31427b-9f35-426d-b276-a9e564d0b5bd.webp?v=1755779459",
@@ -4116,7 +4117,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:27:09+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:31+02:00",
       "available": true,
       "price_min": 195,
@@ -4168,7 +4169,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:23:40+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:28+02:00",
       "available": true,
       "price_min": 105,
@@ -4205,6 +4206,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ApothecaryRose_0640_1000x_72ece007-c492-48b0-b572-1f2cb4fd0e0f.webp?v=1755779126",
+          "alt": null,
+          "width": 1000,
+          "height": 1000
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5202b_1400x_295b4e47-29a8-44a7-9163-b226ed5658b2.webp?v=1755779126",
           "alt": null,
           "width": 1400,
@@ -4212,12 +4219,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ApothecaryRose_0620_1000x_0735fbb1-cea4-424f-95d8-0f6633e8c837.webp?v=1755779127",
-          "alt": null,
-          "width": 1000,
-          "height": 1000
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ApothecaryRose_0640_1000x_72ece007-c492-48b0-b572-1f2cb4fd0e0f.webp?v=1755779126",
           "alt": null,
           "width": 1000,
           "height": 1000
@@ -4250,7 +4251,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:21:39+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:25+02:00",
       "available": true,
       "price_min": 325,
@@ -4287,18 +4288,6 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75Lb_1400x_70599b15-cd25-4597-9a4b-2353d36367f6.webp?v=1755778968",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75Lc_1400x_29c1c586-9112-43a4-af39-947c72b7e1d3.webp?v=1755778969",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday2021_4741_1_1400x_e6487244-8e1d-4571-8ccc-89ec99c07ce8.webp?v=1755778969",
           "alt": null,
           "width": 1400,
@@ -4306,6 +4295,18 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ParfumsRusse_3822-3wick_1_1400x_44378410-66b4-4570-8fe3-d2c3ad3e4042.webp?v=1755778969",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75Lb_1400x_70599b15-cd25-4597-9a4b-2353d36367f6.webp?v=1755778968",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75Lc_1400x_29c1c586-9112-43a4-af39-947c72b7e1d3.webp?v=1755778969",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4326,7 +4327,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:20:00+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:23+02:00",
       "available": true,
       "price_min": 125,
@@ -4363,6 +4364,18 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/the-russe-no-75-candle-l-objet-4_1400x_500b7b71-a123-426b-bd0c-4b49086e2913.webp?v=1779627507",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ParfumsRusse_3824_1_1400x_b6221193-2c3b-4166-b422-aeb6ee577b07.webp?v=1755778867",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75b_1400x_e5d4c526-5161-4e4b-b235-1383bd8594be.webp?v=1755778866",
           "alt": null,
           "width": 1400,
@@ -4370,12 +4383,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC75c_1400x_db32efc7-d803-422f-ac7c-164ece431288.webp?v=1755778866",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ParfumsRusse_3824_1_1400x_b6221193-2c3b-4166-b422-aeb6ee577b07.webp?v=1755778867",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4396,7 +4403,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:18:08+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:20+02:00",
       "available": true,
       "price_min": 325,
@@ -4433,6 +4440,24 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ohmondieu_700x_4989d08a-b9c1-43bb-aeee-9a820699d56d.webp?v=1755778762",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday2021_4755_1_1400x_17f01276-fa37-4205-89c7-27c6df7ccc1d.webp?v=1755778763",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday22_Candle69_Lit_crop_1400x_acadbe20-78d2-4ba7-b145-06b8ce567a6f.webp?v=1755778763",
+          "alt": null,
+          "width": 1400,
+          "height": 1625
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC69Lb_1400x_f361474f-6b1b-4e87-a34a-07c54a82c6ac.webp?v=1755778781",
           "alt": null,
           "width": 1400,
@@ -4449,24 +4474,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday22_Candle69_Lit_crop_1400x_acadbe20-78d2-4ba7-b145-06b8ce567a6f.webp?v=1755778763",
-          "alt": null,
-          "width": 1400,
-          "height": 1625
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday2021_4755_1_1400x_17f01276-fa37-4205-89c7-27c6df7ccc1d.webp?v=1755778763",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ohmondieu_700x_4989d08a-b9c1-43bb-aeee-9a820699d56d.webp?v=1755778762",
-          "alt": null,
-          "width": 700,
-          "height": 700
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC69La_1400x_29a251b8-5662-4373-b61b-5fb740603b93.webp?v=1755778781",
@@ -4484,7 +4491,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:15:55+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:17+02:00",
       "available": true,
       "price_min": 125,
@@ -4521,6 +4528,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday2021_4755_1_1400x_cead3240-9992-4035-ab91-ca91f023fb76.webp?v=1755778636",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC69b_1400x_2b0df1cd-ab08-4c39-968d-144ef1210e5a.webp?v=1755778634",
           "alt": null,
           "width": 1400,
@@ -4543,12 +4556,6 @@
           "alt": null,
           "width": 1400,
           "height": 1625
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/holiday2021_4755_1_1400x_cead3240-9992-4035-ab91-ca91f023fb76.webp?v=1755778636",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC69a_1400x_7fea0e26-be98-4a41-b6e7-1494278359f7.webp?v=1755778634",
@@ -4566,7 +4573,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:14:00+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:15+02:00",
       "available": true,
       "price_min": 325,
@@ -4603,13 +4610,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28Lb_1400x_63692502-9243-4399-84ce-bea93ef8cf94.webp?v=1755778514",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28Lc_1400x_8222902e-8172-4a95-a228-ca34390bf07d.webp?v=1755778513",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28holiday2021_4649_1400x_56f991e1-4fca-43b2-b218-b00ccf2e2cc3.webp?v=1755778514",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4627,7 +4628,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28holiday2021_4649_1400x_56f991e1-4fca-43b2-b218-b00ccf2e2cc3.webp?v=1755778514",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28Lb_1400x_63692502-9243-4399-84ce-bea93ef8cf94.webp?v=1755778514",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28Lc_1400x_8222902e-8172-4a95-a228-ca34390bf07d.webp?v=1755778513",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4648,7 +4655,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:11:27+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:13+02:00",
       "available": true,
       "price_min": 125,
@@ -4685,13 +4692,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28b_1400x_e80dca14-7a6f-4b45-bdeb-40d30d4e6e32.webp?v=1755778375",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28holiday2021_4649_1400x_db540b64-0cfc-4dfe-9ac4-e34fe39f7e0f.webp?v=1755778376",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28c_1400x_b51ca9fe-b6ef-4ab5-950a-4f5ca55ca1e0.webp?v=1755778375",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28_ingredients_01_1400x_a54f837a-f5cd-4e8b-bce0-091ba4a246a8.webp?v=1755778376",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4703,13 +4710,13 @@
           "height": 1625
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28_ingredients_01_1400x_a54f837a-f5cd-4e8b-bce0-091ba4a246a8.webp?v=1755778376",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28b_1400x_e80dca14-7a6f-4b45-bdeb-40d30d4e6e32.webp?v=1755778375",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_parfums_28holiday2021_4649_1400x_db540b64-0cfc-4dfe-9ac4-e34fe39f7e0f.webp?v=1755778376",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HFC28c_1400x_b51ca9fe-b6ef-4ab5-950a-4f5ca55ca1e0.webp?v=1755778375",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -4730,7 +4737,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:08:11+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:11+02:00",
       "available": true,
       "price_min": 195,
@@ -4788,7 +4795,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:06:00+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:08+02:00",
       "available": true,
       "price_min": 195,
@@ -4840,7 +4847,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:04:38+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:25:03+02:00",
       "available": true,
       "price_min": 195,
@@ -4892,7 +4899,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:02:16+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:57+02:00",
       "available": true,
       "price_min": 225,
@@ -4950,7 +4957,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T14:00:44+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:55+02:00",
       "available": true,
       "price_min": 195,
@@ -5008,7 +5015,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:58:05+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:52+02:00",
       "available": true,
       "price_min": 105,
@@ -5045,16 +5052,16 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5201b_1400x_e4b16b3f-0afa-400f-90f7-5f22cb266fbf.webp?v=1755777546",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BoisSauvage-Right_1400x_3c547441-d0c5-481e-9bb2-7063f979d769.webp?v=1755777547",
           "alt": null,
           "width": 1400,
           "height": 1750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5201b_1400x_e4b16b3f-0afa-400f-90f7-5f22cb266fbf.webp?v=1755777546",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5201a_1400x_5980b0ca-1773-416e-a914-d223db945cfe.webp?v=1755777546",
@@ -5072,7 +5079,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:56:45+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:50+02:00",
       "available": true,
       "price_min": 195,
@@ -5130,7 +5137,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:55:17+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:47+02:00",
       "available": true,
       "price_min": 195,
@@ -5182,7 +5189,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:52:11+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:44+02:00",
       "available": true,
       "price_min": 195,
@@ -5258,7 +5265,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:50:06+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:42+02:00",
       "available": true,
       "price_min": 195,
@@ -5328,7 +5335,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T13:47:04+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:39+02:00",
       "available": true,
       "price_min": 195,
@@ -5392,7 +5399,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T12:22:48+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:24:20+02:00",
       "available": true,
       "price_min": 105,
@@ -5429,6 +5436,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CoteMaquis-Left_1400x_f9a1e311-7fdf-4d5e-8072-634a274650e5.webp?v=1755771964",
+          "alt": null,
+          "width": 1400,
+          "height": 1750
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5203b_1400x_1ca6bf9c-755d-4d33-bb6c-1e2a245ef05e.webp?v=1755771963",
           "alt": null,
           "width": 1400,
@@ -5439,12 +5452,6 @@
           "alt": null,
           "width": 1000,
           "height": 1000
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CoteMaquis-Left_1400x_f9a1e311-7fdf-4d5e-8072-634a274650e5.webp?v=1755771964",
-          "alt": null,
-          "width": 1400,
-          "height": 1750
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5203a_1400x_3485f3e7-c3df-4d16-a53e-58d9ee228647.webp?v=1755771962",
@@ -5462,7 +5469,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-21T11:34:36+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:23:21+02:00",
       "available": true,
       "price_min": 195,
@@ -5519,7 +5526,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-19T13:14:21+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:40:18+02:00",
       "available": true,
       "price_min": 28,
@@ -5661,7 +5668,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-18T09:53:05+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:20:02+02:00",
       "available": true,
       "price_min": 150,
@@ -5698,6 +5705,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_fragrance_002_1400x_db855cdb-13ec-4d9d-ab4b-e1b8121bab49.webp?v=1755503684",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C101b_1400x_deb84153-682d-4689-850c-f6bdf5062b88.webp?v=1755503684",
           "alt": null,
           "width": 1400,
@@ -5720,12 +5733,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_fragrance_002_1400x_db855cdb-13ec-4d9d-ab4b-e1b8121bab49.webp?v=1755503684",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C101a_1400x_cd6b20f9-a6e7-47f8-ab60-0310e041022a.webp?v=1755503684",
@@ -5743,7 +5750,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-18T09:49:54+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T13:20:00+02:00",
       "available": true,
       "price_min": 675,
@@ -5780,6 +5787,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_28_006_1_1400x_78fd7c4d-a5a2-485c-b0f7-7e4a2328b1a3.webp?v=1755503503",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C401b_1400x_eca2501b-99ac-46cc-a584-37b9fc8a9add.webp?v=1755503503",
           "alt": null,
           "width": 1400,
@@ -5787,12 +5800,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C401c_1400x_fe64fc7a-8ea3-4b5a-9d7a-ca984f930adb.webp?v=1755503502",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_28_006_1_1400x_78fd7c4d-a5a2-485c-b0f7-7e4a2328b1a3.webp?v=1755503503",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5825,7 +5832,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-15T17:20:01+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T12:36:55+02:00",
       "available": true,
       "price_min": 125,
@@ -5889,7 +5896,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-15T17:07:40+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T12:35:24+02:00",
       "available": true,
       "price_min": 150,
@@ -5921,6 +5928,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C233a_1400x_c28815bf-cce9-41c9-8505-92202f6a2a9b.webp?v=1755270599",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_fragrance_C233_0419_1400x_7e37f18c-e289-40e9-9d5a-aaa121b572c2.webp?v=1755270599",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5960,12 +5973,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_fragrance_C233_0419_1400x_7e37f18c-e289-40e9-9d5a-aaa121b572c2.webp?v=1755270599",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C233a_1400x_c28815bf-cce9-41c9-8505-92202f6a2a9b.webp?v=1755270599",
@@ -5983,7 +5990,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-15T14:10:59+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T12:22:53+02:00",
       "available": true,
       "price_min": 525,
@@ -6014,6 +6021,18 @@
       ],
       "images": [
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_m_1400x_0b6c431e-61d3-4ff9-b076-d2f51adb6d75.webp?v=1755260494",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_fragrance_C234L_0242_1400x_67e4e77d-a3a0-4528-910c-d0ff036aa8b5.webp?v=1755260494",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_e_1400x_e4abc861-719c-4823-ad4b-04bbe7089390.webp?v=1755260494",
           "alt": null,
           "width": 1400,
@@ -6021,12 +6040,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_f_1400x_2a0c0c5c-0885-4f0c-b7d2-c88c0fc0203f.webp?v=1755260494",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_m_1400x_0b6c431e-61d3-4ff9-b076-d2f51adb6d75.webp?v=1755260494",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -6056,19 +6069,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_fragrance_C234L_0242_1400x_67e4e77d-a3a0-4528-910c-d0ff036aa8b5.webp?v=1755260494",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_fragrance_C234L_0245_1400x_962a1809-c75a-40c4-8a52-95860ffbc5e7.webp?v=1755260494",
           "alt": null,
           "width": 1400,
           "height": 1400
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_e_1400x_e4abc861-719c-4823-ad4b-04bbe7089390.webp?v=1755260494",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C234L_m_1400x_0b6c431e-61d3-4ff9-b076-d2f51adb6d75.webp?v=1755260494",
       "description_html": "<div class=\"ProductMeta__Description\">\n<div class=\"ProductMeta__Description\">\n<p class=\"MsoNormal\"><span>The MASK candle is a limited-edition marvel, each meticulously crafted to be both a sensory experience and a bold statement of wit and elegance. Created with three wicks, it fills any space with the earthy, grounding notes of vetiver while adding a whimsical touch to any setting. Ruan Hoffmann's unique artistry comes alive in this piece, with hand-applied gold accents by our master artisans that sparkle against the candle's playful form.</span></p>\n<p class=\"MsoNormal\"><span>The lid, shaped as an expressive mask, adds yet another layer of artistry: when placed on the exterior, it transforms the protrusion into the 'nose,' further enhancing the design's character and functionality.</span></p>\n<p class=\"MsoNormal\"><span>Each MASK candle bears a one-of-a-kind character, thanks to a carefully developed crackled effect and individually painted details, a testament to the months of dedication poured into perfecting its shape. This exclusive piece is as much a collectible as it is a playful tribute to the craftsmanship and humor that defines the L’OBJET x Ruan Hoffmann collection</span></p>\n</div>\n<p><strong>DETAILS<br></strong></p>\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">4.75 x 6.25 in (8.5 x 10.5 cm )</li>\n<li id=\"vl_meta\">35 oz/1000 g</li>\n<li id=\"gb_meta\">Presented in a luxury gift box</li>\n<li id=\"fragName_meta\">Burnt Time: 125 Hours</li>\n<li id=\"fragNotes_meta\">Scent: Veti-Vert. A joyful creation that brings a fresh citrusy light to the vetiver, blended with tomato leaves</li>\n<li class=\"material_meta\">Earthenware|24K Gold</li>\n<li id=\"Coo_meta\">Portugal</li>\n<li id=\"or_meta\">Dust with a soft cloth. Once the candle has burned completely, the vessel can then be repurposed as a decorative object.</li>\n</ul>\n</div>"
     },
     {
@@ -6086,7 +6093,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-15T11:57:04+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T11:58:27+02:00",
       "available": true,
       "price_min": 250,
@@ -6172,7 +6179,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-09T08:49:26+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-12T12:18:21+02:00",
       "available": true,
       "price_min": 590,
@@ -6248,7 +6255,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-06-21T16:01:44+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-21T16:02:58+02:00",
       "available": true,
       "price_min": 250,
@@ -6285,6 +6292,12 @@
           "height": 1800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL23c_1800x1800_fef81f91-8716-4efe-bde3-ce6fdf2315a1.webp?v=1750514566",
+          "alt": null,
+          "width": 1800,
+          "height": 1800
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Lito2025_LXL23_LXL20_LXL22_1800x1800_c39f370b-d66a-46b3-b966-95537a55f902.webp?v=1750514853",
           "alt": null,
           "width": 1800,
@@ -6298,12 +6311,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL23b_1800x1800_167b3058-8c9b-4f5c-8f39-13ecb5aab1dc.webp?v=1750514567",
-          "alt": null,
-          "width": 1800,
-          "height": 1800
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL23c_1800x1800_fef81f91-8716-4efe-bde3-ce6fdf2315a1.webp?v=1750514566",
           "alt": null,
           "width": 1800,
           "height": 1800
@@ -6331,7 +6338,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T14:31:14+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T14:32:30+02:00",
       "available": true,
       "price_min": 105,
@@ -6420,7 +6427,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T12:05:43+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T12:08:16+02:00",
       "available": true,
       "price_min": 106,
@@ -6509,7 +6516,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T12:01:51+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T12:03:04+02:00",
       "available": true,
       "price_min": 106,
@@ -6592,7 +6599,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T11:59:06+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T12:00:49+02:00",
       "available": true,
       "price_min": 117,
@@ -6663,7 +6670,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T11:52:06+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T11:53:52+02:00",
       "available": true,
       "price_min": 106,
@@ -6758,7 +6765,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T11:49:39+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T11:51:17+02:00",
       "available": true,
       "price_min": 106,
@@ -6835,7 +6842,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-05-24T11:46:18+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T11:48:49+02:00",
       "available": true,
       "price_min": 105,
@@ -6906,7 +6913,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-10-17T14:28:02+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-12-26T13:43:50+01:00",
       "available": true,
       "price_min": 75,
@@ -6971,7 +6978,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-10-17T14:25:13+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:33+01:00",
       "available": true,
       "price_min": 75,
@@ -7036,7 +7043,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-10-17T11:49:06+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-12-26T13:43:50+01:00",
       "available": true,
       "price_min": 75,
@@ -7100,7 +7107,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-09-06T15:04:15+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-05T13:36:58+02:00",
       "available": true,
       "price_min": 395,
@@ -7137,6 +7144,12 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_PRISM2.0_Amber_3_LPF115_C226_1400x_f7edff91-379e-42be-804d-f0fc667ae1fd.webp?v=1779702242",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C226Lb_800x_0475b046-5896-492b-9e66-aebd6968c106.webp?v=1725627894",
           "alt": null,
           "width": 800,
@@ -7170,7 +7183,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-09-06T15:01:23+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-05T13:39:20+02:00",
       "available": true,
       "price_min": 165,
@@ -7205,6 +7218,12 @@
           "alt": null,
           "width": 800,
           "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_C226_C226L_1400x_2736eb49-773d-479c-b847-489058d229b3.webp?v=1779702359",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C226b_800x_aef1ec7e-40b1-4464-9e04-a49135d5f72a.webp?v=1725627790",
@@ -7242,7 +7261,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:50:09+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T16:53:15+02:00",
       "available": true,
       "price_min": 95,
@@ -7308,7 +7327,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:46:55+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T16:48:05+02:00",
       "available": true,
       "price_min": 80,
@@ -7380,7 +7399,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:09:58+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T16:11:47+02:00",
       "available": true,
       "price_min": 250,
@@ -7464,7 +7483,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:03:00+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T16:04:11+02:00",
       "available": true,
       "price_min": 350,
@@ -7542,7 +7561,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:53:24+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:56:14+02:00",
       "available": true,
       "price_min": 230,
@@ -7614,7 +7633,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:49:13+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:52:12+02:00",
       "available": true,
       "price_min": 300,
@@ -7686,7 +7705,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:45:29+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:47:48+02:00",
       "available": true,
       "price_min": 950,
@@ -7800,7 +7819,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:35:12+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:37:21+02:00",
       "available": true,
       "price_min": 430,
@@ -7872,7 +7891,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:32:44+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:34:25+02:00",
       "available": true,
       "price_min": 230,
@@ -7938,7 +7957,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:27:22+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:31:29+02:00",
       "available": true,
       "price_min": 950,
@@ -8034,7 +8053,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:11:09+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:14:43+02:00",
       "available": true,
       "price_min": 290,
@@ -8107,7 +8126,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:04:37+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-06-28T15:09:09+02:00",
       "available": true,
       "price_min": 1900,
@@ -8177,7 +8196,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-08T10:04:37+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-10T17:30:04+02:00",
       "available": true,
       "price_min": 395,
@@ -8265,7 +8284,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-08T09:59:57+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-10T17:30:13+02:00",
       "available": true,
       "price_min": 395,
@@ -8355,7 +8374,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:18:04+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-05-10T20:20:15+02:00",
       "available": true,
       "price_min": 290,
@@ -8439,7 +8458,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:07:34+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-05-10T20:09:43+02:00",
       "available": true,
       "price_min": 290,
@@ -8517,7 +8536,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:03:29+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-05-10T20:05:35+02:00",
       "available": true,
       "price_min": 250,
@@ -8601,7 +8620,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T19:55:46+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-05-10T20:01:24+02:00",
       "available": true,
       "price_min": 550,
@@ -8679,7 +8698,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T19:42:15+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-05-10T19:48:02+02:00",
       "available": true,
       "price_min": 490,
@@ -8755,7 +8774,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T17:02:29+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:33+01:00",
       "available": true,
       "price_min": 75,
@@ -8819,7 +8838,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T16:59:56+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:31+01:00",
       "available": true,
       "price_min": 75,
@@ -8883,7 +8902,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T16:57:59+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:32+01:00",
       "available": true,
       "price_min": 75,
@@ -8947,7 +8966,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T16:56:47+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:31+01:00",
       "available": true,
       "price_min": 75,
@@ -9011,7 +9030,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T16:55:16+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-12-26T13:28:22+01:00",
       "available": true,
       "price_min": 75,
@@ -9074,7 +9093,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-13T16:54:51+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-25T10:30:31+01:00",
       "available": true,
       "price_min": 75,
@@ -9149,7 +9168,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-02T17:24:15+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-07-23T17:18:54+02:00",
       "available": true,
       "price_min": 77,
@@ -9218,7 +9237,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-02T17:21:53+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-07-23T17:19:08+02:00",
       "available": true,
       "price_min": 77,
@@ -9293,7 +9312,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-02T17:16:06+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-07-23T17:19:20+02:00",
       "available": true,
       "price_min": 77,
@@ -9368,7 +9387,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-04-02T17:15:32+02:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-07-23T17:20:42+02:00",
       "available": true,
       "price_min": 77,
@@ -9433,7 +9452,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-03-16T17:12:19+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T11:39:39+02:00",
       "available": true,
       "price_min": 203,
@@ -9504,7 +9523,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-03-16T17:01:38+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T11:40:54+02:00",
       "available": true,
       "price_min": 155,
@@ -9574,7 +9593,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-03-10T13:53:46+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-20T11:47:49+01:00",
       "available": true,
       "price_min": 525,
@@ -9611,6 +9630,12 @@
           "height": 1600
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_27_1816_1600x_4e505c02-c239-4082-b6d3-4c5702e7cfdb.webp?v=1710075830",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL20Lb_1600x_49051d9a-6b8d-4714-bdcf-380ea9fe64e8.webp?v=1710075829",
           "alt": null,
           "width": 1600,
@@ -9618,12 +9643,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL20Lc_1600x_068999e5-81a8-4ae3-aa90-bfcb429be818.webp?v=1710075829",
-          "alt": null,
-          "width": 1600,
-          "height": 1600
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_27_1816_1600x_4e505c02-c239-4082-b6d3-4c5702e7cfdb.webp?v=1710075830",
           "alt": null,
           "width": 1600,
           "height": 1600
@@ -9644,7 +9663,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-03-10T13:47:54+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-21T13:54:22+02:00",
       "available": true,
       "price_min": 195,
@@ -9681,6 +9700,12 @@
           "height": 1600
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_beehive_01_1400x_000f21d2-b454-4100-a7b8-e96632f60a66.webp?v=1710075010",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/C220b_1600x_fc3c64d2-933e-41c9-8d72-ff2ffadd6b10.webp?v=1710075009",
           "alt": null,
           "width": 1600,
@@ -9691,12 +9716,6 @@
           "alt": null,
           "width": 1600,
           "height": 1600
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_beehive_01_1400x_000f21d2-b454-4100-a7b8-e96632f60a66.webp?v=1710075010",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_beehive_02_1400x_2d2e988b-7608-4870-a843-a1dfbb023b5f.webp?v=1710075010",
@@ -9726,7 +9745,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-28T16:31:21+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-21T14:32:18+02:00",
       "available": true,
       "price_min": 390,
@@ -9790,7 +9809,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-28T16:25:41+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-21T14:32:18+02:00",
       "available": true,
       "price_min": 420,
@@ -9866,7 +9885,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-28T16:21:19+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-21T14:32:18+02:00",
       "available": true,
       "price_min": 310,
@@ -9939,7 +9958,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:08:50+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-06-21T14:32:19+02:00",
       "available": true,
       "price_min": 710,
@@ -10010,7 +10029,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-28T13:20:41+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-28T13:23:00+01:00",
       "available": true,
       "price_min": 55,
@@ -10077,7 +10096,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-28T12:27:39+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-24T10:58:44+02:00",
       "available": true,
       "price_min": 119,
@@ -10177,7 +10196,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-24T17:09:00+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-20T11:43:00+01:00",
       "available": true,
       "price_min": 250,
@@ -10212,6 +10231,18 @@
           "alt": null,
           "width": 1800,
           "height": 1800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lito_108_1_1400x_4dfb03ad-5938-44af-a643-4891356210f0.webp?v=1779708655",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Lito2025_LXL23_LXL20_LXL22_1400x_549ba89f-5914-4cc3-8930-91dd7e30b811.webp?v=1779708651",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL20b_1800x1800_b1dd533c-c194-4c81-ac53-ffb0e596a5c3.webp?v=1708791017",
@@ -10253,7 +10284,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-24T17:06:53+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-01-20T11:43:26+01:00",
       "available": true,
       "price_min": 450,
@@ -10290,6 +10321,12 @@
           "height": 1800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lito_108_1_1800x1800_365b4706-c3a5-45d6-a33f-f1c83c2d4196.webp?v=1708790817",
+          "alt": null,
+          "width": 1800,
+          "height": 1800
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL21b_1800x1800_80b97a5f-5e5a-4e0d-9632-071b347915f0.webp?v=1708790817",
           "alt": null,
           "width": 1800,
@@ -10303,12 +10340,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LXL21d_1800x1800_9776a0f2-2adf-4556-85d7-3d37b3d40d2e.webp?v=1708790816",
-          "alt": null,
-          "width": 1800,
-          "height": 1800
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Lito_108_1_1800x1800_365b4706-c3a5-45d6-a33f-f1c83c2d4196.webp?v=1708790817",
           "alt": null,
           "width": 1800,
           "height": 1800
@@ -10332,7 +10363,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-24T15:34:12+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-24T15:36:49+01:00",
       "available": true,
       "price_min": 590,
@@ -10392,7 +10423,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-24T14:16:23+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-24T14:16:23+01:00",
       "available": true,
       "price_min": 100,
@@ -10455,7 +10486,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-24T13:39:46+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-24T14:04:44+01:00",
       "available": true,
       "price_min": 28,
@@ -10608,7 +10639,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T21:50:09+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T16:53:27+02:00",
       "available": true,
       "price_min": 117,
@@ -10737,7 +10768,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T21:46:07+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-26T16:53:24+02:00",
       "available": true,
       "price_min": 90,
@@ -10867,7 +10898,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T20:23:43+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T20:25:37+01:00",
       "available": true,
       "price_min": 90,
@@ -10997,7 +11028,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T20:20:15+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-17T15:17:11+02:00",
       "available": true,
       "price_min": 90,
@@ -11127,7 +11158,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T20:15:09+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-08-16T17:05:07+02:00",
       "available": true,
       "price_min": 90,
@@ -11256,7 +11287,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T19:31:46+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T19:49:03+01:00",
       "available": true,
       "price_min": 117,
@@ -11385,7 +11416,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T19:27:57+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T19:30:25+01:00",
       "available": true,
       "price_min": 117,
@@ -11514,7 +11545,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T19:24:52+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T19:27:09+01:00",
       "available": true,
       "price_min": 117,
@@ -11643,7 +11674,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T19:17:00+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-17T12:22:35+02:00",
       "available": true,
       "price_min": 117,
@@ -11776,7 +11807,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-23T19:13:34+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2025-05-17T12:22:26+02:00",
       "available": true,
       "price_min": 90,
@@ -11905,7 +11936,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T18:57:52+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T19:12:40+01:00",
       "available": true,
       "price_min": 117,
@@ -12035,7 +12066,7 @@
         "VDAY"
       ],
       "created_at": "2024-02-23T18:50:47+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T18:56:17+01:00",
       "available": true,
       "price_min": 117,
@@ -12171,7 +12202,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T18:15:35+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T18:49:54+01:00",
       "available": true,
       "price_min": 117,
@@ -12300,7 +12331,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T18:11:33+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T18:14:34+01:00",
       "available": true,
       "price_min": 117,
@@ -12436,7 +12467,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T18:07:28+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T18:09:36+01:00",
       "available": true,
       "price_min": 97,
@@ -12566,7 +12597,7 @@
         "VDAY"
       ],
       "created_at": "2024-02-23T17:50:57+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T17:59:57+01:00",
       "available": true,
       "price_min": 97,
@@ -12709,7 +12740,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-23T17:39:53+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T17:47:15+01:00",
       "available": true,
       "price_min": 97,
@@ -12839,7 +12870,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T17:34:23+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T17:36:44+01:00",
       "available": true,
       "price_min": 97,
@@ -12968,7 +12999,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T17:29:02+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T17:32:26+01:00",
       "available": true,
       "price_min": 90,
@@ -13097,7 +13128,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-02-23T17:22:54+01:00",
-      "updated_at": "2026-05-22T17:58:59+02:00",
+      "updated_at": "2026-05-25T21:09:51+02:00",
       "published_at": "2024-02-23T17:27:21+01:00",
       "available": true,
       "price_min": 90,

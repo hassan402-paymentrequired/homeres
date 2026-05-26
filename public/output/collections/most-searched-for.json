@@ -1,0 +1,1086 @@
+{
+  "handle": "most-searched-for",
+  "label": "MOST SEARCHED FOR",
+  "url": "https://arowonen.com/collections/most-searched-for",
+  "scraped_at": "2026-05-25T19:07:55.099Z",
+  "shopify_product_count": 53,
+  "product_count": 12,
+  "products": [
+    {
+      "id": 14906266026316,
+      "title": "Art Canvas - Golden horizon 200x100",
+      "handle": "art-canvas-golden-horizon-200x100",
+      "url": "https://arowonen.com/products/art-canvas-golden-horizon-200x100",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "ART",
+        "ART & MIRRORS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2025-05-26T18:52:41+02:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2025-05-26T18:53:40+02:00",
+      "available": true,
+      "price_min": 559,
+      "price_max": 559,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52632727781708,
+          "title": "Default Title",
+          "sku": null,
+          "price": "559.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tableau-acrylique-abstract-fields-200x100.webp?v=1748278402",
+          "alt": null,
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tableau-acrylique-abstract-fields-200x100_1.jpg?v=1748278402",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tableau-acrylique-abstract-fields-200x100.jpg?v=1748278402",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tableau-acrylique-abstract-fields-200x100.webp?v=1748278402",
+      "description_html": "<p>Please note! Each painting is hand painted, unique and features a signature.</p>"
+    },
+    {
+      "id": 14906260455756,
+      "title": "Art Canvas - Abstract horizon 120x90cm",
+      "handle": "art-canvas-abstract-horizon-120x90cm",
+      "url": "https://arowonen.com/products/art-canvas-abstract-horizon-120x90cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "ART",
+        "ART & MIRRORS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2025-05-26T18:45:15+02:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2025-05-26T18:47:57+02:00",
+      "available": true,
+      "price_min": 219,
+      "price_max": 219,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52632707924300,
+          "title": "Default Title",
+          "sku": null,
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/schilderij-abstract-horizon-120x90cm-kare-design.jpg?v=1748278045",
+          "alt": null,
+          "width": 430,
+          "height": 430
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/schilderij-abstract-horizon-120x90cm-kare-design_3.jpg?v=1748278045",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/schilderij-abstract-horizon-120x90cm-kare-design_2.jpg?v=1748278045",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/schilderij-abstract-horizon-120x90cm-kare-design_1.jpg?v=1748278045",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/schilderij-abstract-horizon-120x90cm-kare-design.jpg?v=1748278045",
+      "description_html": "<p>Please note! Each painting is hand painted, unique and features a signature.</p>"
+    },
+    {
+      "id": 14768372973900,
+      "title": "Planter - Greyson - 130cm",
+      "handle": "planter-greyson-130cm",
+      "url": "https://arowonen.com/products/planter-greyson-130cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "NEW ARRIVALS",
+        "PLANTERS"
+      ],
+      "created_at": "2025-03-19T10:39:09+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2025-03-19T10:41:32+01:00",
+      "available": true,
+      "price_min": 1389,
+      "price_max": 1389,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52195369255244,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1389.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-03-19om10.41.08.png?v=1742377283",
+          "alt": null,
+          "width": 496,
+          "height": 617
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Facetune_29-08-2020-16-28-08.jpg?v=1742377283",
+          "alt": null,
+          "width": 2781,
+          "height": 3708
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-03-19om10.41.08.png?v=1742377283",
+      "description_html": "<p data-mce-fragment=\"1\">This beautiful tall vase in a chrome colour is 130 centimeters tall and a real statement piece in any home. </p>\n<p data-mce-fragment=\"1\">Dimensions:</p>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">Height: 130 cm</li>\n<li data-mce-fragment=\"1\">Depth: 128 cm</li>\n<li data-mce-fragment=\"1\">Diameter: 60 cm</li>\n<li data-mce-fragment=\"1\">Opening 37 cm</li>\n</ul>"
+    },
+    {
+      "id": 8902563135820,
+      "title": "Art Canvas - Golden horizon 120x90cm",
+      "handle": "art-canvas-golden-horizon-120x90cm",
+      "url": "https://arowonen.com/products/art-canvas-golden-horizon-120x90cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "ART",
+        "ART & MIRRORS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2024-03-09T14:02:48+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-03-09T14:02:48+01:00",
+      "available": true,
+      "price_min": 219,
+      "price_max": 219,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47800074305868,
+          "title": "Default Title",
+          "sku": "",
+          "price": "219.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GoldenHorizon2.jpg?v=1709989372",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GoldenHorizon1.jpg?v=1709989372",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GoldenHorizon3.jpg?v=1709989374",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GoldenHorizon4.jpg?v=1709989373",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/GoldenHorizon2.jpg?v=1709989372",
+      "description_html": "<p>Please note! Each painting features a unique signature.</p>"
+    },
+    {
+      "id": 8902533448012,
+      "title": "Vase Blanca Tall - Medium - White 19x33CM",
+      "handle": "vase-blanca-medior-white",
+      "url": "https://arowonen.com/products/vase-blanca-medior-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-03-09T13:30:29+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-03-09T13:32:11+01:00",
+      "available": true,
+      "price_min": 125,
+      "price_max": 125,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47799988748620,
+          "title": "Default Title",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-50_37e8c393-e194-4e01-a3c7-f3ca1a5a0da0.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-19-1_9e47eb88-5575-4cb3-b907-171ccb47942e.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-32_73de0a07-9139-47c8-838d-db02bf5a4f56.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-42_22b74b6c-1262-40e8-a23c-5edba1f296ed.jpg?v=1709987521",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-50_37e8c393-e194-4e01-a3c7-f3ca1a5a0da0.jpg?v=1709987521",
+      "description_html": "<p><strong>SIZE<br></strong>19 x H33CM<br><strong>MATERIAL<br></strong>Ceramics</p>\n<p><br></p>"
+    },
+    {
+      "id": 8902531416396,
+      "title": "Vase Blanca Tall - Large - White 26x44CM",
+      "handle": "vase-blanca-senior-white",
+      "url": "https://arowonen.com/products/vase-blanca-senior-white",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "FLOWERS & VASES",
+        "just dropped in",
+        "Just launched in the online store",
+        "VASES"
+      ],
+      "created_at": "2024-03-09T13:28:03+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-03-09T13:28:03+01:00",
+      "available": true,
+      "price_min": 195,
+      "price_max": 195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47799977902412,
+          "title": "Default Title",
+          "sku": "",
+          "price": "195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-29_0729002d-e6b3-4363-8ab7-d299c2ffdcdf.jpg?v=1709987287",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-42.jpg?v=1709987288",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-19-1.jpg?v=1709987287",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/foto-13-11-2021-14-26-32.jpg?v=1709987289",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-29_0729002d-e6b3-4363-8ab7-d299c2ffdcdf.jpg?v=1709987287",
+      "description_html": "<p><strong>SIZE<br></strong>26 x H44CM<br><strong>MATERIAL<br></strong>Ceramics</p>\n<p> </p>"
+    },
+    {
+      "id": 8900345594188,
+      "title": "Art Canvas - Layers - Gold/White - 180x130cm",
+      "handle": "art-canvas-layers-gold-white-180x130cm",
+      "url": "https://arowonen.com/products/art-canvas-layers-gold-white-180x130cm",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "ART",
+        "ART & MIRRORS",
+        "just dropped in",
+        "Just launched in the online store",
+        "RAMADAN GIFTS"
+      ],
+      "created_at": "2024-03-08T14:09:34+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-03-08T14:09:33+01:00",
+      "available": true,
+      "price_min": 699,
+      "price_max": 699,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47795830030668,
+          "title": "Default Title",
+          "sku": "",
+          "price": "699.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Layers1.jpg?v=1709903377",
+          "alt": null,
+          "width": 1536,
+          "height": 2047
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/layers2.jpg?v=1709903378",
+          "alt": null,
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/layers3.jpg?v=1709903379",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Layers1.jpg?v=1709903377",
+      "description_html": "<p><span>The décor reaches new heights with the majestic artwork Layers. Its captivating colors elevate any interior style. Crafted with meticulous attention to detail, each piece is truly one-of-a-kind.</span></p>\n<p> </p>\n<p><span>180x130cm</span></p>"
+    },
+    {
+      "id": 8877494042956,
+      "title": "Baccarat Rouge 540 Candle",
+      "handle": "baccarat-rouge-540-candle",
+      "url": "https://arowonen.com/products/baccarat-rouge-540-candle",
+      "vendor": "BACCARAT",
+      "product_type": "",
+      "tags": [
+        "CANDLE & TEALIGHT HOLDERS",
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-02-24T15:34:12+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-02-24T15:36:49+01:00",
+      "available": true,
+      "price_min": 590,
+      "price_max": 590,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47738622968140,
+          "title": "Default Title",
+          "sku": null,
+          "price": "590.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2808535_grey_001.jpg?v=1708785403",
+          "alt": null,
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/lifestyle_bon_jour_versailles_gm_01_227c51b2-a98f-4245-9f1b-3d5370230f37.jpg?v=1708785402",
+          "alt": null,
+          "width": 1212,
+          "height": 1212
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2808535_grey_001.jpg?v=1708785403",
+      "description_html": "<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<div class=\"bb-1-secondary-200 pb-32\">\n<div class=\"js-description-and-details-panel\" id=\"description-panel\">\n<div class=\"pt-24\">\n<p class=\"mb-0 body-14 fw-500 color-grey-500 description-and-details-panel-text\">To celebrate the Maison’s 250th anniversary, Baccarat has created the Baccarat Rouge 540 candle. A scented flame and the intimate light of crystal in all its splendour together in this unique combination. Like the bottle of the Baccarat Rouge 540 fragrance, the crystal candle holder decoration is a tribute to the creations of Georges Chevalier, Baccarat’s Artistic Director from the Roaring Twenties through to the Seventies. Enhanced by its many facets, this object of desire has an exclusive and timeless design which exalts the space and glows with a very special shimmering light. A scented candle is hidden in its heart, its fragrance, created by Francis Kurkdjian, is inspired by the floral, amber woodiness of the Baccarat Rouge 540 perfume.</p>\n</div>\n</div>\n</div>\n<div class=\"py-32\">\n<div class=\"d-flex justify-content-between align-items-center w-100\"><br></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"py-32\">\n<div class=\"d-flex justify-content-between align-items-center w-100\">\n<strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">HEIGHT</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">12.30 cm</span><br><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WIDTH</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">16 cm</span><br><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">LENGTH</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">14.80 cm</span><br><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">WEIGHT</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">2.05 Kg</span><br><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">DIAMETER</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">11.50 cm</span><br><strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">ITEM INGREDIENTS</span></strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Contains: Tetramethyl Acetyloctahydronaphthalenes, 4-Tert-Butylcyclohexyl Acetate, Hexyl Cinnamal</span>\n</div>\n</div>"
+    },
+    {
+      "id": 8877123240268,
+      "title": "Totem - Sand Siloli",
+      "handle": "totem-sand-siloli",
+      "url": "https://arowonen.com/products/totem-sand-siloli",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB TOTEMS",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-02-24T10:33:14+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-02-24T10:35:20+01:00",
+      "available": true,
+      "price_min": 180,
+      "price_max": 790,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47737430212940,
+          "title": "250 ML",
+          "sku": null,
+          "price": "180.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "250 ML",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737430245708,
+          "title": "2 LITER",
+          "sku": null,
+          "price": "405.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "2 LITER",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737430278476,
+          "title": "5 LITER",
+          "sku": null,
+          "price": "790.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "5 LITER",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "250 ML",
+            "2 LITER",
+            "5 LITER"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-24om10.33.50.png?v=1708767250",
+          "alt": null,
+          "width": 938,
+          "height": 1406
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LIFESTYLE_2023_0052.webp?v=1708767281",
+          "alt": null,
+          "width": 3403,
+          "height": 5105
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM0_25L_ws.webp?v=1708767280",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM2L_ws.webp?v=1708767281",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM5L_ws.webp?v=1708767281",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-24om10.33.50.png?v=1708767250",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p><span>The Totem Siloli diffuser, available in 2 and 5 liters, is finished with a brown and beige handmade ceramic stopper that matches the colors of the glass. It claims its place in an interior as a unique and refillable decorative object.</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>FRAGRANCE<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The dry woody fragrance of cedar and tonka bean takes us to the wide-open spaces of an equatorial climate, with a touch of lime to give this fragrance an unusual fresh-ness. The sophistication of the olfactory materials is in perfect harmony with that of the glass, striking a beautiful balance between decorative and perfumed object.</span></p>"
+    },
+    {
+      "id": 8876134105420,
+      "title": "Candle - Pearls Coral",
+      "handle": "candle-pearls-coral",
+      "url": "https://arowonen.com/products/candle-pearls-coral",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB CANDLES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "CHRISTMAS",
+        "just dropped in",
+        "Just launched in the online store",
+        "KERST",
+        "RAMADAN GIFTS",
+        "SCENTED CANDLES",
+        "X-Mas"
+      ],
+      "created_at": "2024-02-23T19:13:34+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2025-05-17T12:22:26+02:00",
+      "available": true,
+      "price_min": 90,
+      "price_max": 480,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47735245439308,
+          "title": "MAX 10 cm",
+          "sku": null,
+          "price": "90.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 10 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245472076,
+          "title": "MAX 16 cm",
+          "sku": null,
+          "price": "125.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 16 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245504844,
+          "title": "MAX 24 cm",
+          "sku": null,
+          "price": "245.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 24 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735245537612,
+          "title": "MAX 35 cm",
+          "sku": null,
+          "price": "480.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 35 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "MAX 10 cm",
+            "MAX 16 cm",
+            "MAX 24 cm",
+            "MAX 35 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.15.08.png?v=1708712126",
+          "alt": null,
+          "width": 615,
+          "height": 633
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/baobab-collection-candle-pearls-coral.webp?v=1708712126",
+          "alt": null,
+          "width": 1724,
+          "height": 2298
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482067_scentedcandles_coralpearls_Max10.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482098_scentedcandles_coralpearls_Max16.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482128_scentedcandles_coralpearls_Max24.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198482142_scentedcandles_coralpearls_Max35.webp?v=1708712126",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.15.08.png?v=1708712126",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>Covered in delicate touches of coral on hand-blown glass, the Coral Pearls scented candle is an object of decoration that will shimmer in your interiors as it releases an enchanting perfume. This candle, with its reference to the color of precious corals, will fit perfectly into your vacation homes.  <br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper\"><br></div>\n<p><span><strong>FRAGRANCE<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The Coral Pearls candle's perfume is made up of a delicate blend of neroli, petit grain and vetiver, one that will fill your interiors with the fresh scent of a sunny spring day.</span></p>\n<p> </p>\n<p><strong>USE</strong><br>Always let the candle burn until its surface is totally liquid. This step can be long, especially during the very first burn. Once the wax is totally liquid, you can let the candle burn for a maximum of one hour. The layer of liquid wax should never exceed one centimeter in height. Never exceed the maximum burning time indicated on the instruction label, nor let it burn to the end. Systematically keep a centimeter of wax at the bottom.<br></p>\n<p><br></p>"
+    },
+    {
+      "id": 8876102091084,
+      "title": "Candle - Gentlemen",
+      "handle": "candle-gentlemen",
+      "url": "https://arowonen.com/products/candle-gentlemen",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB CANDLES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-02-23T18:57:52+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-02-23T19:12:40+01:00",
+      "available": true,
+      "price_min": 117,
+      "price_max": 645,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47735178428748,
+          "title": "MAX 10 cm",
+          "sku": null,
+          "price": "117.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 10 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735178461516,
+          "title": "MAX 16 cm",
+          "sku": null,
+          "price": "168.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 16 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735178494284,
+          "title": "MAX 24 cm",
+          "sku": null,
+          "price": "330.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 24 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735178527052,
+          "title": "MAX 35 cm",
+          "sku": null,
+          "price": "645.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 35 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "MAX 10 cm",
+            "MAX 16 cm",
+            "MAX 24 cm",
+            "MAX 35 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.10.44.png?v=1708711907",
+          "alt": null,
+          "width": 598,
+          "height": 632
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198111028_scentedcandles_gentlemen_lifestyle.webp?v=1708711904",
+          "alt": null,
+          "width": 2334,
+          "height": 3500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198111028_scentedcandles_gentlemen_max10.webp?v=1708711904",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198117020_scentedcandles_gentlemen_max16.webp?v=1708711904",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198125025_scentedcandles_gentlemen_max24.webp?v=1708711904",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198136021_scentedcandles_gentlemen_max35.webp?v=1708711904",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-23om19.10.44.png?v=1708711907",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>This scented candle for men comes in a glass adorned with platinum and ultramarine decoration, and is packed with masculine candle scents. The rum scented candle gives off a totally irresistible perfume, masculine with a scent of saffron. Candles like this will suit any man's home.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper\"><br></div>\n<p><span><strong>FRAGRANCE<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Its perfume combines notes of rum and saffron, a blend that can only belong to an elegant man, simultaneously seductive and refined.</span></p>\n<p><br></p>\n<p><strong>USE</strong><br>Always let the candle burn until its surface is totally liquid. This step can be long, especially during the very first burn. Once the wax is totally liquid, you can let the candle burn for a maximum of one hour. The layer of liquid wax should never exceed one centimeter in height. Never exceed the maximum burning time indicated on the instruction label, nor let it burn to the end. Systematically keep a centimeter of wax at the bottom.<br></p>\n<p><br></p>"
+    },
+    {
+      "id": 8874483810636,
+      "title": "Book - Provence Glory",
+      "handle": "book-provence-glory",
+      "url": "https://arowonen.com/products/book-provence-glory",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-22T20:57:24+01:00",
+      "updated_at": "2026-05-25T21:07:55+02:00",
+      "published_at": "2024-02-22T21:06:58+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47731637158220,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/provence-glory-assouline-1.jpg?v=1708632142",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/provence-glory-assouline-3.jpg?v=1708632142",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/provence-glory-assouline-2.jpg?v=1708632142",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Palm-Beach-Spread_10.webp?v=1708632142",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/provence_glory_desktop.webp?v=1708632142",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_01.webp?v=1708632141",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_02.webp?v=1708632138",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_03.webp?v=1708632137",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_04.webp?v=1708632137",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_05.webp?v=1708632140",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_06.webp?v=1708632139",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_07.webp?v=1708632140",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_08.webp?v=1708632138",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_09.webp?v=1708632137",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_10.webp?v=1708632140",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_11.webp?v=1708632138",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_12.webp?v=1708632137",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Provence-Glory-Spread_13.webp?v=1708632139",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/provence-glory-assouline-1.jpg?v=1708632142",
+      "description_html": "<p>From cities to quaint towns and everything in between, Provence has something for everyone. Swim in the crystal clear waters of the Calanque de Sormiou in Marseille. Drive with the top down through fields of lavender in Valensole. Experience a bite of just-out-of-the-oven fougasse, a Provençal classic. Stand in awe of the beautiful, white Camargue horses native to the area. Located in the South of France, Provence is uniquely positioned to be a cultural blend of the Mediterranean. Roman landmarks still prevail from the 1st century AD alongside châteaus from medieval times—a varied legacy brightened by the indigenous mimosas and cypresses.<br><br>Perhaps since the region is well-known for its ability to inspire, it’s home to a plethora of festivals such as Rencontre d’Arles, Festival d’Avignon, Festival d’Aix-en-Provence and more, all celebrating the arts. Artists who have praised the unique Provençal light include Cézanne, Van Gogh, Matisse and Picasso. Alexandre Dumas and Jean Giono are among the writers who were drawn to write in the shade of the plane trees.</p>\n<div class=\"product-details__detail-list-item\">\n<p><strong>PAGE COUNT</strong><br>312 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>March 2021<br><strong>DIMENSIONS</strong><br>W 25 x L 33 x D 4 cm<br><strong>COVER MATERIALS</strong><br>Linen hardcover<br><strong>ISBN</strong><br>9781614289821<br><strong>WEIGHT</strong><br>2.72 kg<br><strong>AUTHOR</strong><br>François Simon</p>\n</div>"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "handle": "baobab-accessoires",
+  "label": "BAOBAB ACCESSOIRES",
+  "url": "https://arowonen.com/collections/baobab-accessoires",
+  "scraped_at": "2026-05-25T19:05:33.914Z",
+  "shopify_product_count": 15,
+  "product_count": 4,
+  "products": [
+    {
+      "id": 15046044451148,
+      "title": "Snuffer Black",
+      "handle": "snuffer-black",
+      "url": "https://arowonen.com/products/snuffer-black",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB ACCESSOIRES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "FRAGRANCE ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2025-08-24T09:26:21+02:00",
+      "updated_at": "2026-05-25T21:05:33+02:00",
+      "published_at": "2025-08-26T16:09:53+02:00",
+      "available": true,
+      "price_min": 29,
+      "price_max": 29,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53182749770060,
+          "title": "Default Title",
+          "sku": null,
+          "price": "29.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/snufferblack_1_550x_b9ee8e58-3396-4bc5-8f1a-85ef71336f16.webp?v=1756394972",
+          "alt": null,
+          "width": 550,
+          "height": 733
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_CHRISTMAS_2023-56_550x_3a771602-08ab-4953-b2cb-057d9e429aeb.webp?v=1756394972",
+          "alt": null,
+          "width": 550,
+          "height": 825
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_PERMANENT_COLLECTION-189_1_550x_3c952bc1-f2d7-4fb8-b8c3-fe6207d43f4f.webp?v=1756394972",
+          "alt": null,
+          "width": 550,
+          "height": 825
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/snufferblack_1_550x_b9ee8e58-3396-4bc5-8f1a-85ef71336f16.webp?v=1756394972",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div class=\"accordion__body\" id=\"description-main\" data-accordion-body=\"\">\n<div class=\"accordion-content__holder accordion-content__holder--truncate\" data-truncated-holder=\"\">\n<div class=\"accordion-content__inner\">\n<div class=\"accordion-content__entry\" data-truncated-content=\"accordion-content__entry--truncate\">\n<div class=\"product__tab-content active\">\n<div class=\"product__tab-content-accordion active\">\n<div class=\"product__tab-content-accordion-content\">\n<div class=\"product__tab-content active\">\n<div class=\"product__tab-content-accordion active\">\n<div class=\"product__tab-content-accordion-content\">\n<p>The Baobab Collection snuffer is a beautiful decorative object coated in a silver metallic paint. Its cube-shaped bell will allow you to put out your candles in an elegant fashion.</p>\n</div>\n</div>\n</div>\n<p><strong>USE</strong></p>\n</div>\n</div>\n</div>\n<div class=\"product__tab-content\">\n<div class=\"product__tab-content-accordion\">\n<div class=\"product__tab-content-accordion-content\">\n<div class=\"product__tab-content active\">\n<div class=\"product__tab-content-accordion\">\n<div class=\"product__tab-content-accordion-content\">\n<div class=\"product__tab-content\">\n<div class=\"product__tab-content-accordion active\">\n<div class=\"product__tab-content-accordion-content\">\n<p><span class=\"metafield-multi_line_text_field\">To use a candle snuffer, gently place the snuffer's bell over the candle flame until it extinguishes. This prevents wax splatters and smoke. Lift the snuffer away, and let the candle cool before moving it.</span></p>\n</div>\n</div>\n</div>\n<div class=\"product__tab-content\">\n<div class=\"product__tab-content-accordion\">\n<div class=\"product__tab-content-accordion-title\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper shipping\" data-title=\"shipping\"><br></div>"
+    },
+    {
+      "id": 15046043369804,
+      "title": "Wick Trimmer",
+      "handle": "wick-trimmer-1",
+      "url": "https://arowonen.com/products/wick-trimmer-1",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB ACCESSOIRES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "FRAGRANCE ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2025-08-24T09:23:12+02:00",
+      "updated_at": "2026-05-25T21:05:33+02:00",
+      "published_at": "2025-08-26T16:08:46+02:00",
+      "available": true,
+      "price_min": 27,
+      "price_max": 27,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 53182745674060,
+          "title": "Default Title",
+          "sku": null,
+          "price": "27.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_LIFESTYLE-231_550x_e4edc735-60c7-4668-9839-000bc1a88ca1.webp?v=1756395040",
+          "alt": null,
+          "width": 550,
+          "height": 825
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_LIFESTYLE-233_550x_8d818e7b-ee8c-4070-9dfe-89b7bba885e2.webp?v=1756395039",
+          "alt": null,
+          "width": 550,
+          "height": 825
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_LIFESTYLE-234_550x_171176a0-f6c9-4847-a757-8e8e14bd871d.webp?v=1756395041",
+          "alt": null,
+          "width": 550,
+          "height": 825
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BAOBAB_LIFESTYLE-231_550x_e4edc735-60c7-4668-9839-000bc1a88ca1.webp?v=1756395040",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"product__tab-content active\">\n<div class=\"product__tab-content-accordion active\">\n<div class=\"product__tab-content-accordion-content\">\n<p>Essential and minimalist, this accessory will allow you to keep the wicks of your Baobab Collection candle at an ideal length and avoid smoking.<br></p>\n<p><strong>USE</strong></p>\n</div>\n</div>\n</div>\n<div class=\"product__tab-content\">\n<div class=\"product__tab-content-accordion\">\n<div class=\"product__tab-content-accordion-content\">\n<div class=\"product__tab-content active\">\n<div class=\"product__tab-content-accordion\">\n<div class=\"product__tab-content-accordion-content\">\n<p><span class=\"metafield-multi_line_text_field\">To use your wick trimmer, simply trim the wick to about 1/2 inch above the wax before lighting the candle. This helps the candle burn cleanly and evenly, reducing smoke and extending its life. Dispose of the trimmings and repeat each time before lighting.</span></p>\n</div>\n</div>\n</div>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div data-title=\"shipping\" class=\"accordion__wrapper shipping\"><br></div>"
+    },
+    {
+      "id": 8877236519244,
+      "title": "Lighter Gas Refill",
+      "handle": "lighter-gas-refill",
+      "url": "https://arowonen.com/products/lighter-gas-refill",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB ACCESSOIRES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "FRAGRANCE ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-02-24T12:39:34+01:00",
+      "updated_at": "2026-05-25T21:05:33+02:00",
+      "published_at": "2024-02-24T12:39:34+01:00",
+      "available": true,
+      "price_min": 18,
+      "price_max": 18,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47737909805388,
+          "title": "Default Title",
+          "sku": "",
+          "price": "18.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/60A1844.webp?v=1708774777",
+          "alt": null,
+          "width": 1667,
+          "height": 2500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/60A1844.webp?v=1708774777",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>The Baobab Collection gas bottle allows lighters to be refilled with high-quality gas to ensure optimal use.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div data-title=\"shipping\" class=\"accordion__wrapper shipping\"></div>"
+    },
+    {
+      "id": 8877225083212,
+      "title": "Lighter Graine",
+      "handle": "lighter-graine",
+      "url": "https://arowonen.com/products/lighter-graine",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB ACCESSOIRES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "FRAGRANCE ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-02-24T12:29:16+01:00",
+      "updated_at": "2026-05-25T21:05:33+02:00",
+      "published_at": "2024-02-24T12:29:16+01:00",
+      "available": true,
+      "price_min": 147,
+      "price_max": 147,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 8,
+      "variants": [
+        {
+          "id": 47737875759436,
+          "title": "White",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "White",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875792204,
+          "title": "Grey",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Grey",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875857740,
+          "title": "Brown",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Brown",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875890508,
+          "title": "Black",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Black",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875923276,
+          "title": "Ochre",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Ochre",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875956044,
+          "title": "Orange",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Orange",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737875988812,
+          "title": "Red",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Red",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737876021580,
+          "title": "Taupe",
+          "sku": "",
+          "price": "147.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Taupe",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Stijl",
+          "values": [
+            "White",
+            "Grey",
+            "Brown",
+            "Black",
+            "Ochre",
+            "Orange",
+            "Red",
+            "Taupe"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/60A1752_1100x_90c2d2e9-aed9-4e36-98bc-9ddf2096702b.webp?v=1708774195",
+          "alt": null,
+          "width": 1100,
+          "height": 1650
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198330351_accessories_lighter_grainewhite.webp?v=1708774212",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198335066_accessories_lighter_grainetaupe.webp?v=1708774297",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473089_accessories_lighter_graineblack.webp?v=1708774298",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473096_accessories_lighters_grainebrown.webp?v=1708774296",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473102_accessories_lighter_grainegrey.webp?v=1708774296",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473126_accessories_lighter_grainered.webp?v=1708774295",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473133_accessories_lighter_graineorange.webp?v=1708774297",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198473157_accessories_lighter_graineochre.webp?v=1708774295",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/60A1752_1100x_90c2d2e9-aed9-4e36-98bc-9ddf2096702b.webp?v=1708774195",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate is-visible\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>Covered in full-grain red leather, the Baobab Collection lighter is a precious object meant for exhibition. Its long rectangular form is both contemporary and perfectly suited to any type of candle. A torch flame has been designed by the best of engineers in order to ensure an efficient and secure lighting. <br>*The lighter is sold empty with a gas refill included. </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div data-title=\"shipping\" class=\"accordion__wrapper shipping\"></div>"
+    }
+  ]
+}

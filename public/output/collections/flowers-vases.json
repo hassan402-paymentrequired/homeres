@@ -1,8 +1,9 @@
 {
   "handle": "flowers-vases",
-  "label": "Flowers & Vases (All)",
+  "label": "FLOWERS & VASES",
   "url": "https://arowonen.com/collections/flowers-vases",
-  "scraped_at": "2026-05-22T15:59:10.354Z",
+  "scraped_at": "2026-05-25T19:07:06.612Z",
+  "shopify_product_count": 685,
   "product_count": 431,
   "products": [
     {
@@ -18,7 +19,7 @@
         "VASES"
       ],
       "created_at": "2026-05-10T15:57:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-10T15:59:18+02:00",
       "available": true,
       "price_min": 199,
@@ -77,7 +78,7 @@
         "VASES"
       ],
       "created_at": "2026-05-10T15:26:20+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-10T15:28:31+02:00",
       "available": true,
       "price_min": 115,
@@ -142,7 +143,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-05-06T12:10:28+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-06T12:12:55+02:00",
       "available": true,
       "price_min": 35,
@@ -195,7 +196,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-05-06T11:50:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-06T11:54:11+02:00",
       "available": true,
       "price_min": 35,
@@ -248,7 +249,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-05-06T11:34:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-06T11:37:23+02:00",
       "available": true,
       "price_min": 35,
@@ -301,7 +302,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-05-06T11:29:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-05-06T11:33:01+02:00",
       "available": true,
       "price_min": 35,
@@ -355,7 +356,7 @@
         "VASES"
       ],
       "created_at": "2026-02-17T11:08:27+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-20T14:28:55+01:00",
       "available": true,
       "price_min": 95,
@@ -442,7 +443,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:30:57+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:08+01:00",
       "available": true,
       "price_min": 760,
@@ -517,7 +518,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:21:06+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:06+01:00",
       "available": true,
       "price_min": 730,
@@ -592,7 +593,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:14:08+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:05+01:00",
       "available": true,
       "price_min": 1480,
@@ -672,7 +673,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-21T11:21:23+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:45+01:00",
       "available": true,
       "price_min": 369,
@@ -740,7 +741,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-21T11:16:19+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:44+01:00",
       "available": true,
       "price_min": 369,
@@ -808,7 +809,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-21T11:13:16+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:41+01:00",
       "available": true,
       "price_min": 369,
@@ -888,7 +889,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-21T11:06:09+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2026-02-11T21:54:39+01:00",
       "available": true,
       "price_min": 369,
@@ -953,7 +954,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-12-20T14:21:31+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-12-20T16:11:03+01:00",
       "available": true,
       "price_min": 29,
@@ -1007,7 +1008,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T15:12:46+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T15:14:50+01:00",
       "available": true,
       "price_min": 295,
@@ -1073,7 +1074,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T15:00:57+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T15:02:36+01:00",
       "available": true,
       "price_min": 295,
@@ -1151,7 +1152,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T14:55:54+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T14:57:32+01:00",
       "available": true,
       "price_min": 295,
@@ -1223,7 +1224,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T14:53:49+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T14:55:15+01:00",
       "available": true,
       "price_min": 395,
@@ -1295,7 +1296,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T14:40:43+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T14:43:54+01:00",
       "available": true,
       "price_min": 395,
@@ -1373,7 +1374,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T14:20:09+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T14:23:03+01:00",
       "available": true,
       "price_min": 795,
@@ -1453,7 +1454,7 @@
         "VASES"
       ],
       "created_at": "2025-11-26T13:46:13+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-26T13:53:06+01:00",
       "available": true,
       "price_min": 1500,
@@ -1512,7 +1513,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-24T17:31:15+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T17:31:20+01:00",
       "available": true,
       "price_min": 39,
@@ -1589,7 +1590,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-24T17:23:49+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T17:24:03+01:00",
       "available": true,
       "price_min": 49,
@@ -1666,7 +1667,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-24T17:21:43+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T17:23:28+01:00",
       "available": true,
       "price_min": 49,
@@ -1744,7 +1745,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T16:35:45+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T16:36:34+01:00",
       "available": true,
       "price_min": 295,
@@ -1816,7 +1817,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T16:31:57+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T16:34:26+01:00",
       "available": true,
       "price_min": 295,
@@ -1888,7 +1889,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T16:17:24+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T16:21:47+01:00",
       "available": true,
       "price_min": 595,
@@ -1966,7 +1967,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T15:32:56+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T15:34:45+01:00",
       "available": true,
       "price_min": 295,
@@ -2044,7 +2045,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T15:18:00+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T15:20:42+01:00",
       "available": true,
       "price_min": 295,
@@ -2116,7 +2117,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T15:12:52+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T15:14:33+01:00",
       "available": true,
       "price_min": 295,
@@ -2188,7 +2189,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T15:04:58+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T15:07:00+01:00",
       "available": true,
       "price_min": 295,
@@ -2254,7 +2255,7 @@
         "VASES"
       ],
       "created_at": "2025-11-24T13:17:54+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-24T13:19:57+01:00",
       "available": true,
       "price_min": 345,
@@ -2330,7 +2331,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2025-11-23T15:12:16+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-23T15:13:23+01:00",
       "available": true,
       "price_min": 45,
@@ -2382,7 +2383,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2025-11-23T15:10:34+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-23T15:11:50+01:00",
       "available": true,
       "price_min": 45,
@@ -2437,7 +2438,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-23T14:35:46+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-11-23T14:39:10+01:00",
       "available": true,
       "price_min": 49,
@@ -2492,7 +2493,7 @@
         "VASES"
       ],
       "created_at": "2025-09-23T11:17:16+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-27T12:16:49+02:00",
       "available": true,
       "price_min": 1195,
@@ -2612,7 +2613,7 @@
         "VASES"
       ],
       "created_at": "2025-09-14T13:11:30+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T14:53:20+02:00",
       "available": true,
       "price_min": 272,
@@ -2664,7 +2665,7 @@
         "VASES"
       ],
       "created_at": "2025-09-14T11:00:27+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T14:53:02+02:00",
       "available": true,
       "price_min": 272,
@@ -2754,7 +2755,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-09-09T11:19:28+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T13:57:10+02:00",
       "available": true,
       "price_min": 1065,
@@ -2838,7 +2839,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-09-08T17:02:30+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T13:56:51+02:00",
       "available": true,
       "price_min": 946,
@@ -2904,7 +2905,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-09-08T16:59:58+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T13:56:15+02:00",
       "available": true,
       "price_min": 827,
@@ -2982,7 +2983,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-09-08T16:58:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T13:55:58+02:00",
       "available": true,
       "price_min": 962,
@@ -3054,7 +3055,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-09-08T16:45:08+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-21T13:55:33+02:00",
       "available": true,
       "price_min": 478,
@@ -3130,7 +3131,7 @@
         "VASES"
       ],
       "created_at": "2025-09-08T16:30:40+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:55:22+02:00",
       "available": true,
       "price_min": 215,
@@ -3214,7 +3215,7 @@
         "VASES"
       ],
       "created_at": "2025-09-08T16:27:40+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:55:01+02:00",
       "available": true,
       "price_min": 167,
@@ -3292,7 +3293,7 @@
         "VASES"
       ],
       "created_at": "2025-09-08T10:32:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:54:43+02:00",
       "available": true,
       "price_min": 119,
@@ -3377,7 +3378,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T13:52:32+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:52:46+02:00",
       "available": true,
       "price_min": 424,
@@ -3448,7 +3449,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T13:50:14+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:52:27+02:00",
       "available": true,
       "price_min": 119,
@@ -3539,7 +3540,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T13:48:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:52:11+02:00",
       "available": true,
       "price_min": 106,
@@ -3637,7 +3638,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T13:42:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:51:32+02:00",
       "available": true,
       "price_min": 236,
@@ -3735,7 +3736,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T13:40:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:51:18+02:00",
       "available": true,
       "price_min": 393,
@@ -3827,7 +3828,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T12:05:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:51:05+02:00",
       "available": true,
       "price_min": 357,
@@ -3931,7 +3932,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T11:57:30+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:50:52+02:00",
       "available": true,
       "price_min": 708,
@@ -4016,7 +4017,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T11:54:05+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:50:37+02:00",
       "available": true,
       "price_min": 387,
@@ -4107,7 +4108,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T11:51:53+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:50:10+02:00",
       "available": true,
       "price_min": 393,
@@ -4162,7 +4163,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T11:48:22+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:50:02+02:00",
       "available": true,
       "price_min": 236,
@@ -4290,7 +4291,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T11:12:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:49:10+02:00",
       "available": true,
       "price_min": 393,
@@ -4375,7 +4376,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-07T11:02:25+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:48:56+02:00",
       "available": true,
       "price_min": 908,
@@ -4456,7 +4457,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T10:58:28+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:48:36+02:00",
       "available": true,
       "price_min": 424,
@@ -4534,7 +4535,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T09:21:19+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:48:10+02:00",
       "available": true,
       "price_min": 91,
@@ -4618,7 +4619,7 @@
         "VASES"
       ],
       "created_at": "2025-09-07T09:16:19+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:47:13+02:00",
       "available": true,
       "price_min": 119,
@@ -4672,7 +4673,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T16:47:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:46:30+02:00",
       "available": true,
       "price_min": 702,
@@ -4760,7 +4761,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T15:54:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:44:21+02:00",
       "available": true,
       "price_min": 478,
@@ -4862,7 +4863,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T15:24:47+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:43:36+02:00",
       "available": true,
       "price_min": 536,
@@ -4951,7 +4952,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T15:19:46+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:43:10+02:00",
       "available": true,
       "price_min": 424,
@@ -5034,7 +5035,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T15:16:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:42:37+02:00",
       "available": true,
       "price_min": 545,
@@ -5123,7 +5124,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T15:13:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:39:59+02:00",
       "available": true,
       "price_min": 478,
@@ -5212,7 +5213,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T14:15:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:39:27+02:00",
       "available": true,
       "price_min": 298,
@@ -5300,7 +5301,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T14:09:45+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:38:46+02:00",
       "available": true,
       "price_min": 151,
@@ -5384,7 +5385,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T10:51:48+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:18:38+02:00",
       "available": true,
       "price_min": 393,
@@ -5468,7 +5469,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-06T10:49:32+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:15:14+02:00",
       "available": true,
       "price_min": 357,
@@ -5552,7 +5553,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T10:47:24+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:13:14+02:00",
       "available": true,
       "price_min": 333,
@@ -5642,7 +5643,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T10:44:46+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:19:13+02:00",
       "available": true,
       "price_min": 536,
@@ -5719,7 +5720,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T10:40:01+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:03:30+02:00",
       "available": true,
       "price_min": 841,
@@ -5833,7 +5834,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:57:01+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:22:54+02:00",
       "available": true,
       "price_min": 182,
@@ -5939,7 +5940,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:54:21+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:16:01+02:00",
       "available": true,
       "price_min": 115,
@@ -6034,7 +6035,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:49:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:15:37+02:00",
       "available": true,
       "price_min": 565,
@@ -6111,7 +6112,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:46:10+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:14:58+02:00",
       "available": true,
       "price_min": 182,
@@ -6202,7 +6203,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:43:10+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:13:46+02:00",
       "available": true,
       "price_min": 113,
@@ -6287,7 +6288,7 @@
         "VASES"
       ],
       "created_at": "2025-09-06T08:40:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-17T20:13:14+02:00",
       "available": true,
       "price_min": 151,
@@ -6373,7 +6374,7 @@
         "VASES"
       ],
       "created_at": "2025-09-05T12:33:35+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-11T13:20:16+02:00",
       "available": true,
       "price_min": 149,
@@ -6439,7 +6440,7 @@
         "VASES"
       ],
       "created_at": "2025-09-04T10:52:07+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-05T16:31:39+02:00",
       "available": true,
       "price_min": 315,
@@ -6529,7 +6530,7 @@
         "VASES"
       ],
       "created_at": "2025-09-04T10:48:19+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-05T16:31:37+02:00",
       "available": true,
       "price_min": 286,
@@ -6613,7 +6614,7 @@
         "VASES"
       ],
       "created_at": "2025-09-04T10:30:16+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-05T16:31:34+02:00",
       "available": true,
       "price_min": 248,
@@ -6709,7 +6710,7 @@
         "VASES"
       ],
       "created_at": "2025-09-04T10:06:19+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-05T16:31:31+02:00",
       "available": true,
       "price_min": 119,
@@ -6917,7 +6918,7 @@
         "VASES"
       ],
       "created_at": "2025-08-29T14:09:53+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-29T14:11:50+02:00",
       "available": true,
       "price_min": 310,
@@ -6981,7 +6982,7 @@
         "VASES"
       ],
       "created_at": "2025-08-29T13:07:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-29T13:12:50+02:00",
       "available": true,
       "price_min": 499,
@@ -7045,7 +7046,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T13:42:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T13:43:50+02:00",
       "available": true,
       "price_min": 275,
@@ -7103,7 +7104,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T13:22:23+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T13:23:24+02:00",
       "available": true,
       "price_min": 87.5,
@@ -7179,7 +7180,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T13:11:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T13:13:40+02:00",
       "available": true,
       "price_min": 439,
@@ -7237,7 +7238,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T13:10:29+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T13:11:07+02:00",
       "available": true,
       "price_min": 575,
@@ -7295,7 +7296,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T13:02:14+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T13:04:03+02:00",
       "available": true,
       "price_min": 112,
@@ -7359,7 +7360,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T12:43:14+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T12:50:25+02:00",
       "available": true,
       "price_min": 147,
@@ -7429,7 +7430,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T12:30:21+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T12:31:04+02:00",
       "available": true,
       "price_min": 237,
@@ -7493,7 +7494,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:37:58+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:39:00+02:00",
       "available": true,
       "price_min": 297,
@@ -7557,7 +7558,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:28:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:29:42+02:00",
       "available": true,
       "price_min": 84.9,
@@ -7633,7 +7634,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:25:45+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:26:23+02:00",
       "available": true,
       "price_min": 129,
@@ -7703,7 +7704,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:24:10+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:24:55+02:00",
       "available": true,
       "price_min": 139,
@@ -7767,7 +7768,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:19:22+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:20:19+02:00",
       "available": true,
       "price_min": 349,
@@ -7825,7 +7826,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T11:08:32+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T11:09:22+02:00",
       "available": true,
       "price_min": 439,
@@ -7883,7 +7884,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:53:53+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:57:52+02:00",
       "available": true,
       "price_min": 80.5,
@@ -7941,7 +7942,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:46:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:48:13+02:00",
       "available": true,
       "price_min": 225,
@@ -8011,7 +8012,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:43:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:45:26+02:00",
       "available": true,
       "price_min": 150,
@@ -8087,7 +8088,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:36:21+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:37:22+02:00",
       "available": true,
       "price_min": 181.5,
@@ -8157,7 +8158,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:32:20+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:33:49+02:00",
       "available": true,
       "price_min": 95,
@@ -8233,7 +8234,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:25:48+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:26:48+02:00",
       "available": true,
       "price_min": 165,
@@ -8303,7 +8304,7 @@
         "VASES"
       ],
       "created_at": "2025-08-28T10:21:30+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-28T10:22:35+02:00",
       "available": true,
       "price_min": 184,
@@ -8375,7 +8376,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:51:46+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:27:26+02:00",
       "available": true,
       "price_min": 485,
@@ -8435,7 +8436,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:43:34+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:27:00+02:00",
       "available": true,
       "price_min": 555,
@@ -8489,7 +8490,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:36:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:26:46+02:00",
       "available": true,
       "price_min": 810,
@@ -8543,7 +8544,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:32:54+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:26:34+02:00",
       "available": true,
       "price_min": 675,
@@ -8603,7 +8604,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:30:24+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:25:48+02:00",
       "available": true,
       "price_min": 905,
@@ -8657,7 +8658,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:28:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:25:30+02:00",
       "available": true,
       "price_min": 675,
@@ -8711,7 +8712,7 @@
         "VASES"
       ],
       "created_at": "2025-08-27T11:24:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-30T12:25:19+02:00",
       "available": true,
       "price_min": 695,
@@ -8764,7 +8765,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T14:00:24+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:23:02+02:00",
       "available": true,
       "price_min": 850,
@@ -8817,7 +8818,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T11:34:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:22:17+02:00",
       "available": true,
       "price_min": 325,
@@ -8854,16 +8855,22 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TO104b_1400x_f9386dd4-adf1-4dd2-91c4-10656e1a93bc.webp?v=1755596232",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_02_00230_1400x_647b7edc-6fd9-40ae-9be3-5abcae921ff8.webp?v=1755596232",
           "alt": null,
           "width": 1400,
           "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_06_00545_1400x_b6749464-2256-4aec-af52-d603a6a59b4f.webp?v=1755596232",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TO104b_1400x_f9386dd4-adf1-4dd2-91c4-10656e1a93bc.webp?v=1755596232",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_02_00246_1400x_c0be3a9a-e392-408b-b8cf-64cadee2c063.webp?v=1755596232",
@@ -8876,12 +8883,6 @@
           "alt": null,
           "width": 1400,
           "height": 1000
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_06_00545_1400x_b6749464-2256-4aec-af52-d603a6a59b4f.webp?v=1755596232",
-          "alt": null,
-          "width": 1400,
-          "height": 1960
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_17_01201_1400x_16be2693-d8ef-4662-b976-fba2515a4d67.webp?v=1755596232",
@@ -8906,7 +8907,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T11:28:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:22:14+02:00",
       "available": true,
       "price_min": 375,
@@ -8943,6 +8944,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_06_00545_1400x_1d6f4bd4-cb15-4c1f-9fd3-4269e87b6efb.webp?v=1755596035",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TO104b_1400x_e52f5348-e347-4c1b-9011-97afce0e7867.webp?v=1755596035",
           "alt": null,
           "width": 1400,
@@ -8971,12 +8978,6 @@
           "alt": null,
           "width": 1400,
           "height": 1000
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_06_00545_1400x_1d6f4bd4-cb15-4c1f-9fd3-4269e87b6efb.webp?v=1755596035",
-          "alt": null,
-          "width": 1400,
-          "height": 1960
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TO103a_1400x_5cd89421-c91a-41f0-bbb3-ae4784b4d3ad.webp?v=1755596035",
@@ -8995,7 +8996,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T11:05:14+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:22:12+02:00",
       "available": true,
       "price_min": 450,
@@ -9032,6 +9033,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_22_1667_1400x_adfe7833-b2da-4b69-8f3a-16c1642c764f.webp?v=1755592847",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM100b_1400x_cc8bc55d-adc0-46ba-b422-25bef7e2e658.webp?v=1755592846",
           "alt": null,
           "width": 1400,
@@ -9039,12 +9046,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_01_00096_1400x_a27103b6-7270-4a0e-ad80-2a13c1acadc4.webp?v=1755592846",
-          "alt": null,
-          "width": 1400,
-          "height": 1960
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_22_1667_1400x_adfe7833-b2da-4b69-8f3a-16c1642c764f.webp?v=1755592847",
           "alt": null,
           "width": 1400,
           "height": 1960
@@ -9066,7 +9067,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:39:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:22:03+02:00",
       "available": true,
       "price_min": 450,
@@ -9103,6 +9104,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_22_1667_1400x_adfe7833-b2da-4b69-8f3a-16c1642c764f.webp?v=1755592847",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM100b_1400x_cc8bc55d-adc0-46ba-b422-25bef7e2e658.webp?v=1755592846",
           "alt": null,
           "width": 1400,
@@ -9110,12 +9117,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_01_00096_1400x_a27103b6-7270-4a0e-ad80-2a13c1acadc4.webp?v=1755592846",
-          "alt": null,
-          "width": 1400,
-          "height": 1960
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_22_1667_1400x_adfe7833-b2da-4b69-8f3a-16c1642c764f.webp?v=1755592847",
           "alt": null,
           "width": 1400,
           "height": 1960
@@ -9137,7 +9138,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:38:08+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:22:01+02:00",
       "available": true,
       "price_min": 650,
@@ -9174,16 +9175,16 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM102b_1400x_f329d200-74c8-46e1-8e08-d29f712c74da.webp?v=1755592745",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_01_00096_1400x_f15fa97e-87c7-43a6-bcad-c41aec1bf3c5.webp?v=1755592746",
           "alt": null,
           "width": 1400,
           "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM102b_1400x_f329d200-74c8-46e1-8e08-d29f712c74da.webp?v=1755592745",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM102a_1400x_fd8661f9-0114-4187-8bde-c54174c0861d.webp?v=1755592745",
@@ -9202,7 +9203,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:32:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:58+02:00",
       "available": true,
       "price_min": 950,
@@ -9239,16 +9240,16 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM103a_1400x_9b93a3e3-b2df-428e-8892-d2ae2e4f4d08.webp?v=1755592671",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Sp2023_01_00096_1400x_9f4190c0-cef6-4551-bf96-d71296b58be9.webp?v=1755592624",
           "alt": null,
           "width": 1400,
           "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM103a_1400x_9b93a3e3-b2df-428e-8892-d2ae2e4f4d08.webp?v=1755592671",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DM103b_1400x_f5e44242-9d01-498b-957b-ccf23d1756fc.webp?v=1755592671",
@@ -9267,7 +9268,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:29:44+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:56+02:00",
       "available": true,
       "price_min": 825,
@@ -9320,7 +9321,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:21:10+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:54+02:00",
       "available": true,
       "price_min": 770,
@@ -9357,13 +9358,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM598a_1400x_52195f73-3af7-4d43-affb-473d7c4db4cb.webp?v=1755591885",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Timna_Terra_Linen_TM598_3_1400x_5b077968-9e94-4e6d-9ae7-75eba79fa317.webp?v=1755591885",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM598b_1400x_48ec33c3-16af-4c70-b327-762f33991a6f.webp?v=1755591885",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM598a_1400x_52195f73-3af7-4d43-affb-473d7c4db4cb.webp?v=1755591885",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -9375,7 +9376,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Timna_Terra_Linen_TM598_3_1400x_5b077968-9e94-4e6d-9ae7-75eba79fa317.webp?v=1755591885",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM598b_1400x_48ec33c3-16af-4c70-b327-762f33991a6f.webp?v=1755591885",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -9403,7 +9404,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:18:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:51+02:00",
       "available": true,
       "price_min": 770,
@@ -9468,7 +9469,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:12:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:49+02:00",
       "available": true,
       "price_min": 770,
@@ -9505,6 +9506,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1932_1400x_f7221c1f-cf81-4c68-b427-c34cff7eb765.webp?v=1755591454",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM199d_1400x_068ae6c6-dc6d-4aaf-b7e6-67f467a996a7.webp?v=1755591454",
           "alt": null,
           "width": 1400,
@@ -9533,12 +9540,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1932_1400x_f7221c1f-cf81-4c68-b427-c34cff7eb765.webp?v=1755591454",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM199b_1400x_23bda06a-cc55-45ac-a665-535a5c9ecd32.webp?v=1755591454",
@@ -9557,7 +9558,7 @@
         "VASES"
       ],
       "created_at": "2025-08-19T10:06:21+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T13:21:48+02:00",
       "available": true,
       "price_min": 770,
@@ -9594,6 +9595,18 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0157_1400x_170fef99-029d-44bb-86bd-16b992f79e0a.webp?v=1755591144",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0040_1400x_cdd29cda-d46d-42eb-b905-b7736914c0b3.webp?v=1755591144",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM198e_1400x_1967fe86-2b46-47aa-9c6c-6d45de779d89.webp?v=1755591144",
           "alt": null,
           "width": 1400,
@@ -9612,19 +9625,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0040_1400x_cdd29cda-d46d-42eb-b905-b7736914c0b3.webp?v=1755591144",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TM198b_1400x_9d67288d-b174-4ad5-8082-73163ba55a4e.webp?v=1755591144",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0157_1400x_170fef99-029d-44bb-86bd-16b992f79e0a.webp?v=1755591144",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -9646,7 +9647,7 @@
         "VASES"
       ],
       "created_at": "2025-08-16T08:50:47+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:49:08+02:00",
       "available": true,
       "price_min": 385,
@@ -9683,16 +9684,16 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CN100b_1400x_7f14c961-e54a-42c7-b929-970cdaa67b7c.webp?v=1755327109",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/malachitecenote_900x_6ba0ea69-e5bd-477b-9e61-5b3cc6d2c3e6.webp?v=1755327109",
           "alt": null,
           "width": 900,
           "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CN100b_1400x_7f14c961-e54a-42c7-b929-970cdaa67b7c.webp?v=1755327109",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CN100a_1400x_e79b9e47-d22a-440e-9094-4eace39a7559.webp?v=1755327110",
@@ -9711,7 +9712,7 @@
         "VASES"
       ],
       "created_at": "2025-08-16T08:45:07+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:48:56+02:00",
       "available": true,
       "price_min": 770,
@@ -9770,7 +9771,7 @@
         "VASES"
       ],
       "created_at": "2025-08-15T13:25:07+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:15:42+02:00",
       "available": true,
       "price_min": 525,
@@ -9841,7 +9842,7 @@
         "VASES"
       ],
       "created_at": "2025-08-15T13:20:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:10:31+02:00",
       "available": true,
       "price_min": 525,
@@ -9912,7 +9913,7 @@
         "VASES"
       ],
       "created_at": "2025-08-15T13:16:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:10:20+02:00",
       "available": true,
       "price_min": 1500,
@@ -9983,7 +9984,7 @@
         "VASES"
       ],
       "created_at": "2025-08-15T13:06:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-26T12:09:24+02:00",
       "available": true,
       "price_min": 1500,
@@ -10054,7 +10055,7 @@
         "VASES"
       ],
       "created_at": "2025-08-09T11:14:12+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-12T12:29:06+02:00",
       "available": true,
       "price_min": 650,
@@ -10128,7 +10129,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-09T11:11:29+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-12T12:28:54+02:00",
       "available": true,
       "price_min": 290,
@@ -10189,7 +10190,7 @@
         "VASES"
       ],
       "created_at": "2025-08-09T10:02:46+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-12T12:24:55+02:00",
       "available": true,
       "price_min": 480,
@@ -10266,7 +10267,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T14:09:16+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T14:10:24+02:00",
       "available": true,
       "price_min": 795,
@@ -10343,7 +10344,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:48:09+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:50:43+02:00",
       "available": true,
       "price_min": 695,
@@ -10420,7 +10421,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:46:16+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:47:05+02:00",
       "available": true,
       "price_min": 395,
@@ -10497,7 +10498,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:42:47+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:45:06+02:00",
       "available": true,
       "price_min": 495,
@@ -10574,7 +10575,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:40:34+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:41:51+02:00",
       "available": true,
       "price_min": 195,
@@ -10651,7 +10652,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:38:27+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:39:57+02:00",
       "available": true,
       "price_min": 195,
@@ -10728,7 +10729,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:35:39+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:37:28+02:00",
       "available": true,
       "price_min": 245,
@@ -10799,7 +10800,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:27:08+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:34:47+02:00",
       "available": true,
       "price_min": 145,
@@ -10876,7 +10877,7 @@
         "VASES"
       ],
       "created_at": "2025-08-03T13:14:04+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-03T13:17:27+02:00",
       "available": true,
       "price_min": 245,
@@ -10953,7 +10954,7 @@
         "VASES"
       ],
       "created_at": "2025-08-02T17:59:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-02T18:01:02+02:00",
       "available": true,
       "price_min": 245,
@@ -11030,7 +11031,7 @@
         "VASES"
       ],
       "created_at": "2025-08-02T17:57:09+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-08-02T17:58:47+02:00",
       "available": true,
       "price_min": 195,
@@ -11114,7 +11115,7 @@
         "VASES"
       ],
       "created_at": "2025-06-28T15:55:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-28T15:56:30+02:00",
       "available": true,
       "price_min": 99,
@@ -11192,7 +11193,7 @@
         "VASES"
       ],
       "created_at": "2025-06-28T15:52:50+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-28T15:53:43+02:00",
       "available": true,
       "price_min": 208,
@@ -11263,7 +11264,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-10T17:30:45+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-10T17:31:16+02:00",
       "available": true,
       "price_min": 19,
@@ -11315,7 +11316,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2025-05-17T14:24:30+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:24:57+02:00",
       "available": true,
       "price_min": 19,
@@ -11368,7 +11369,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T14:16:29+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:18:20+02:00",
       "available": true,
       "price_min": 29,
@@ -11422,7 +11423,7 @@
         "VDAY"
       ],
       "created_at": "2025-05-17T14:09:00+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:09:34+02:00",
       "available": true,
       "price_min": 29,
@@ -11476,7 +11477,7 @@
         "VDAY"
       ],
       "created_at": "2025-05-17T14:07:12+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:07:58+02:00",
       "available": true,
       "price_min": 39,
@@ -11530,7 +11531,7 @@
         "VDAY"
       ],
       "created_at": "2025-05-17T14:05:41+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:06:50+02:00",
       "available": true,
       "price_min": 39,
@@ -11583,7 +11584,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T14:04:33+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:05:11+02:00",
       "available": true,
       "price_min": 19,
@@ -11642,7 +11643,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T14:02:07+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:03:41+02:00",
       "available": true,
       "price_min": 19,
@@ -11701,7 +11702,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T14:00:10+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T14:01:38+02:00",
       "available": true,
       "price_min": 39,
@@ -11754,7 +11755,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:54:40+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:55:52+02:00",
       "available": true,
       "price_min": 29,
@@ -11807,7 +11808,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:51:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:53:40+02:00",
       "available": true,
       "price_min": 19,
@@ -11860,7 +11861,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:50:17+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:51:39+02:00",
       "available": true,
       "price_min": 29,
@@ -11913,7 +11914,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:43:46+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:45:43+02:00",
       "available": true,
       "price_min": 39,
@@ -11966,7 +11967,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:41:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:42:32+02:00",
       "available": true,
       "price_min": 19,
@@ -12025,7 +12026,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:37:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:38:54+02:00",
       "available": true,
       "price_min": 19,
@@ -12084,7 +12085,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:36:13+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:37:08+02:00",
       "available": true,
       "price_min": 19,
@@ -12143,7 +12144,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:34:23+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:35:45+02:00",
       "available": true,
       "price_min": 19,
@@ -12202,7 +12203,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:31:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:34:00+02:00",
       "available": true,
       "price_min": 19,
@@ -12255,7 +12256,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T13:25:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T13:29:49+02:00",
       "available": true,
       "price_min": 19,
@@ -12314,7 +12315,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-05-17T11:53:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T11:54:20+02:00",
       "available": true,
       "price_min": 19,
@@ -12368,7 +12369,7 @@
         "VASES"
       ],
       "created_at": "2025-04-13T11:16:56+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-04-13T11:18:04+02:00",
       "available": true,
       "price_min": 245,
@@ -12446,7 +12447,7 @@
         "VASES"
       ],
       "created_at": "2025-04-13T11:12:59+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-04-13T11:14:35+02:00",
       "available": true,
       "price_min": 325,
@@ -12524,7 +12525,7 @@
         "VASES"
       ],
       "created_at": "2025-04-13T11:11:12+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-04-13T11:12:28+02:00",
       "available": true,
       "price_min": 395,
@@ -12602,7 +12603,7 @@
         "PLANTERS"
       ],
       "created_at": "2025-03-19T10:39:09+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-03-19T10:41:32+01:00",
       "available": true,
       "price_min": 1389,
@@ -12661,7 +12662,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-02-02T14:36:49+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-02-02T14:37:32+01:00",
       "available": true,
       "price_min": 35,
@@ -12714,7 +12715,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T17:22:37+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T17:23:31+01:00",
       "available": true,
       "price_min": 339,
@@ -12767,7 +12768,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T13:47:37+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:49:02+01:00",
       "available": true,
       "price_min": 69,
@@ -12820,7 +12821,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T13:41:19+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:45:28+01:00",
       "available": true,
       "price_min": 59,
@@ -12873,7 +12874,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T13:37:08+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:37:52+01:00",
       "available": false,
       "price_min": 99,
@@ -12926,7 +12927,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T13:14:00+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:14:46+01:00",
       "available": true,
       "price_min": 29,
@@ -12981,7 +12982,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T13:08:23+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:09:58+01:00",
       "available": true,
       "price_min": 20,
@@ -13034,7 +13035,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T12:59:30+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:01:02+01:00",
       "available": false,
       "price_min": 22.95,
@@ -13087,7 +13088,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-27T12:54:42+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T12:55:41+01:00",
       "available": false,
       "price_min": 29,
@@ -13141,7 +13142,7 @@
         "VDAY"
       ],
       "created_at": "2025-01-24T16:14:36+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-24T16:15:58+01:00",
       "available": true,
       "price_min": 49,
@@ -13194,7 +13195,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-24T16:05:33+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-24T16:07:04+01:00",
       "available": true,
       "price_min": 19,
@@ -13247,7 +13248,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-24T15:27:21+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-24T15:28:01+01:00",
       "available": true,
       "price_min": 25,
@@ -13302,7 +13303,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-24T15:19:59+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-24T15:22:09+01:00",
       "available": true,
       "price_min": 59,
@@ -13355,7 +13356,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-24T15:11:03+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-24T15:12:30+01:00",
       "available": true,
       "price_min": 29,
@@ -13409,7 +13410,7 @@
         "VDAY"
       ],
       "created_at": "2025-01-19T16:12:13+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T16:13:24+01:00",
       "available": true,
       "price_min": 14.95,
@@ -13470,7 +13471,7 @@
         "VASES"
       ],
       "created_at": "2025-01-04T16:48:32+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-04T16:50:46+01:00",
       "available": true,
       "price_min": 13000,
@@ -13531,7 +13532,7 @@
         "VDAY"
       ],
       "created_at": "2025-01-04T13:30:24+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-04T13:32:22+01:00",
       "available": true,
       "price_min": 2400,
@@ -13596,7 +13597,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-11-24T14:19:14+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T13:10:59+01:00",
       "available": true,
       "price_min": 45,
@@ -13649,7 +13650,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-11-24T14:01:13+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-26T13:46:17+01:00",
       "available": true,
       "price_min": 899,
@@ -13703,7 +13704,7 @@
         "VASES"
       ],
       "created_at": "2024-11-20T15:05:26+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:12:18+02:00",
       "available": true,
       "price_min": 103,
@@ -13781,7 +13782,7 @@
         "VASES"
       ],
       "created_at": "2024-11-20T15:03:48+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:12:06+02:00",
       "available": true,
       "price_min": 115,
@@ -13865,7 +13866,7 @@
         "VASES"
       ],
       "created_at": "2024-11-20T15:02:01+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:10:49+02:00",
       "available": true,
       "price_min": 151,
@@ -13955,7 +13956,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T16:30:52+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:26:10+02:00",
       "available": true,
       "price_min": 248,
@@ -14009,7 +14010,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T16:17:56+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:26:02+02:00",
       "available": true,
       "price_min": 290,
@@ -14069,7 +14070,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T15:51:11+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:25:57+02:00",
       "available": true,
       "price_min": 502,
@@ -14129,7 +14130,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T15:45:10+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:21:11+02:00",
       "available": true,
       "price_min": 248,
@@ -14207,7 +14208,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T15:42:31+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:25:55+02:00",
       "available": true,
       "price_min": 290,
@@ -14285,7 +14286,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T15:40:28+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:25:52+02:00",
       "available": true,
       "price_min": 315,
@@ -14357,7 +14358,7 @@
         "VASES"
       ],
       "created_at": "2024-11-03T15:33:18+01:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-09-10T16:25:48+02:00",
       "available": true,
       "price_min": 155,
@@ -14439,7 +14440,7 @@
         "VASES"
       ],
       "created_at": "2024-10-02T12:11:45+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:08:00+02:00",
       "available": true,
       "price_min": 575,
@@ -14516,7 +14517,7 @@
         "VASES"
       ],
       "created_at": "2024-10-01T16:12:07+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:43+02:00",
       "available": true,
       "price_min": 650,
@@ -14595,7 +14596,7 @@
         "VASES"
       ],
       "created_at": "2024-10-01T14:30:35+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-10-01T14:31:48+02:00",
       "available": true,
       "price_min": 1079,
@@ -14662,7 +14663,7 @@
         "VASES"
       ],
       "created_at": "2024-10-01T14:23:41+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-10-01T14:29:43+02:00",
       "available": true,
       "price_min": 1079,
@@ -14729,7 +14730,7 @@
         "VASES"
       ],
       "created_at": "2024-10-01T14:13:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-10-01T14:16:29+02:00",
       "available": true,
       "price_min": 1299,
@@ -14781,7 +14782,7 @@
         "VASES"
       ],
       "created_at": "2024-09-28T17:56:08+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:39+02:00",
       "available": true,
       "price_min": 599,
@@ -14851,7 +14852,7 @@
         "VASES"
       ],
       "created_at": "2024-09-28T17:54:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:37+02:00",
       "available": true,
       "price_min": 465,
@@ -14921,7 +14922,7 @@
         "VASES"
       ],
       "created_at": "2024-09-28T17:48:56+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:36+02:00",
       "available": true,
       "price_min": 970,
@@ -14992,7 +14993,7 @@
         "VASES"
       ],
       "created_at": "2024-09-28T17:44:54+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:35+02:00",
       "available": true,
       "price_min": 950,
@@ -15063,7 +15064,7 @@
         "VASES"
       ],
       "created_at": "2024-09-22T14:39:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-09-22T14:39:54+02:00",
       "available": true,
       "price_min": 295,
@@ -15128,7 +15129,7 @@
         "VASES"
       ],
       "created_at": "2024-09-22T14:30:01+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-09-22T14:31:46+02:00",
       "available": true,
       "price_min": 245,
@@ -15198,7 +15199,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T13:27:45+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-02-02T14:30:43+01:00",
       "available": true,
       "price_min": 189,
@@ -15256,7 +15257,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T13:20:57+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-02-02T12:42:37+01:00",
       "available": true,
       "price_min": 275,
@@ -15314,7 +15315,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T13:12:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T14:38:13+01:00",
       "available": true,
       "price_min": 55,
@@ -15367,7 +15368,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-09-22T13:10:58+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T14:25:48+01:00",
       "available": true,
       "price_min": 59,
@@ -15420,7 +15421,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-09-22T13:08:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-12-15T12:25:11+01:00",
       "available": true,
       "price_min": 39,
@@ -15472,7 +15473,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T13:06:03+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:58:53+01:00",
       "available": true,
       "price_min": 65,
@@ -15524,7 +15525,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:55:52+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-02-02T14:59:45+01:00",
       "available": true,
       "price_min": 20,
@@ -15576,7 +15577,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:55:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:53:30+01:00",
       "available": true,
       "price_min": 20,
@@ -15628,7 +15629,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:53:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:53:46+01:00",
       "available": true,
       "price_min": 25,
@@ -15680,7 +15681,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:52:47+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-05-17T12:16:13+02:00",
       "available": true,
       "price_min": 15,
@@ -15733,7 +15734,7 @@
         "VDAY"
       ],
       "created_at": "2024-09-22T12:51:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:59:26+01:00",
       "available": true,
       "price_min": 19,
@@ -15785,7 +15786,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:45:29+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:45:48+01:00",
       "available": true,
       "price_min": 39,
@@ -15837,7 +15838,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:44:24+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:51:26+01:00",
       "available": true,
       "price_min": 29,
@@ -15889,7 +15890,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:43:04+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:50:00+01:00",
       "available": true,
       "price_min": 29,
@@ -15942,7 +15943,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-09-22T12:36:59+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T12:53:40+01:00",
       "available": true,
       "price_min": 59,
@@ -15994,7 +15995,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:35:37+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T16:09:01+01:00",
       "available": true,
       "price_min": 65,
@@ -16047,7 +16048,7 @@
         "VDAY"
       ],
       "created_at": "2024-09-22T12:31:19+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:43:13+01:00",
       "available": true,
       "price_min": 49,
@@ -16099,7 +16100,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-09-22T12:29:34+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-19T13:46:44+01:00",
       "available": true,
       "price_min": 25,
@@ -16152,7 +16153,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-09-22T12:26:11+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-27T17:01:46+01:00",
       "available": true,
       "price_min": 185,
@@ -16206,7 +16207,7 @@
         "VASES"
       ],
       "created_at": "2024-08-15T18:04:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-11T13:58:02+01:00",
       "available": true,
       "price_min": 327,
@@ -16289,7 +16290,7 @@
         "VASES"
       ],
       "created_at": "2024-08-09T18:42:16+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-21T14:31:54+02:00",
       "available": true,
       "price_min": 650,
@@ -16354,7 +16355,7 @@
         "VASES"
       ],
       "created_at": "2024-08-09T17:50:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-21T14:31:54+02:00",
       "available": true,
       "price_min": 650,
@@ -16419,7 +16420,7 @@
         "VASES"
       ],
       "created_at": "2024-08-09T17:45:43+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-21T14:31:54+02:00",
       "available": true,
       "price_min": 1110,
@@ -16484,7 +16485,7 @@
         "VASES"
       ],
       "created_at": "2024-08-09T17:42:49+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-20T12:13:22+01:00",
       "available": true,
       "price_min": 650,
@@ -16549,7 +16550,7 @@
         "VASES"
       ],
       "created_at": "2024-07-20T16:52:25+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-02-15T11:57:30+01:00",
       "available": true,
       "price_min": 130,
@@ -16614,7 +16615,7 @@
         "VASES"
       ],
       "created_at": "2024-07-20T11:46:50+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-14T12:07:31+02:00",
       "available": true,
       "price_min": 209,
@@ -16668,7 +16669,7 @@
         "VASES"
       ],
       "created_at": "2024-06-29T18:05:09+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-20T14:46:13+02:00",
       "available": true,
       "price_min": 1100,
@@ -16726,7 +16727,7 @@
         "VASES"
       ],
       "created_at": "2024-06-29T15:05:11+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-06-29T15:06:09+02:00",
       "available": true,
       "price_min": 197,
@@ -16796,7 +16797,7 @@
         "VASES"
       ],
       "created_at": "2024-06-29T15:03:42+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-06-29T15:03:42+02:00",
       "available": true,
       "price_min": 268,
@@ -16868,7 +16869,7 @@
         "VASES"
       ],
       "created_at": "2024-06-08T11:41:38+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-10T17:29:11+02:00",
       "available": true,
       "price_min": 425,
@@ -16952,7 +16953,7 @@
         "VASES"
       ],
       "created_at": "2024-06-08T11:33:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-10T17:29:22+02:00",
       "available": true,
       "price_min": 425,
@@ -17042,7 +17043,7 @@
         "VASES"
       ],
       "created_at": "2024-06-06T17:33:47+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-10T17:34:52+02:00",
       "available": true,
       "price_min": 650,
@@ -17126,7 +17127,7 @@
         "VASES"
       ],
       "created_at": "2024-06-06T17:32:02+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-06-10T17:35:05+02:00",
       "available": true,
       "price_min": 650,
@@ -17216,7 +17217,7 @@
         "VASES"
       ],
       "created_at": "2024-05-18T16:08:36+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-11T13:16:29+01:00",
       "available": true,
       "price_min": 442,
@@ -17300,7 +17301,7 @@
         "VASES"
       ],
       "created_at": "2024-05-18T11:25:31+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2025-01-11T12:26:42+01:00",
       "available": true,
       "price_min": 514,
@@ -17407,7 +17408,7 @@
         "VASES"
       ],
       "created_at": "2024-05-13T16:20:26+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-05-13T16:24:00+02:00",
       "available": true,
       "price_min": 395,
@@ -17444,10 +17445,10 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118654_4_1_1.webp?v=1715610229",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118654_1_1_1.jpg?v=1779547904",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118654_2_1_1.webp?v=1715610229",
@@ -17457,6 +17458,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118654_3_1_1.webp?v=1715610229",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118654_4_1_1.webp?v=1715610229",
           "alt": null,
           "width": 700,
           "height": 700
@@ -17478,7 +17485,7 @@
         "VASES"
       ],
       "created_at": "2024-05-13T16:15:34+02:00",
-      "updated_at": "2026-05-22T17:59:08+02:00",
+      "updated_at": "2026-05-25T21:06:51+02:00",
       "published_at": "2024-05-13T16:19:37+02:00",
       "available": true,
       "price_min": 395,
@@ -17515,13 +17522,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118167_5_1_1.webp?v=1715609967",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118167_1_1_1.webp?v=1715609967",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118167_1_1_1.webp?v=1715609967",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118167_5_1_1.webp?v=1715609967",
           "alt": null,
           "width": 700,
           "height": 700
@@ -17561,7 +17568,7 @@
         "VASES"
       ],
       "created_at": "2024-05-13T16:11:54+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-05-13T16:13:40+02:00",
       "available": true,
       "price_min": 95,
@@ -17596,6 +17603,12 @@
           "alt": null,
           "width": 700,
           "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118652_1_1_1.webp?v=1779548877",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118652_2_1_1.webp?v=1715609611",
@@ -17638,7 +17651,7 @@
         "VASES"
       ],
       "created_at": "2024-05-13T16:09:19+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-05-13T16:11:10+02:00",
       "available": true,
       "price_min": 295,
@@ -17709,7 +17722,7 @@
         "VASES"
       ],
       "created_at": "2024-05-13T15:51:08+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-05-13T15:53:12+02:00",
       "available": true,
       "price_min": 295,
@@ -17744,6 +17757,12 @@
           "alt": null,
           "width": 700,
           "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118653_1_1_1.webp?v=1779548993",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118653_5_1_1.webp?v=1715608385",
@@ -17785,7 +17804,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:38:46+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:40:01+02:00",
       "available": true,
       "price_min": 329,
@@ -17843,7 +17862,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:36:18+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:37:58+02:00",
       "available": true,
       "price_min": 269,
@@ -17907,7 +17926,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:28:21+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:34:54+02:00",
       "available": true,
       "price_min": 265,
@@ -17965,7 +17984,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:25:54+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:27:34+02:00",
       "available": true,
       "price_min": 579,
@@ -18035,7 +18054,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:23:49+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:25:15+02:00",
       "available": true,
       "price_min": 579,
@@ -18099,7 +18118,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:19:38+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:22:04+02:00",
       "available": true,
       "price_min": 579,
@@ -18169,7 +18188,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:16:30+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:18:26+02:00",
       "available": true,
       "price_min": 579,
@@ -18233,7 +18252,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:15:04+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:15:56+02:00",
       "available": true,
       "price_min": 579,
@@ -18297,7 +18316,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:09:43+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:11:42+02:00",
       "available": true,
       "price_min": 579,
@@ -18361,7 +18380,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:08:26+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:09:03+02:00",
       "available": true,
       "price_min": 265,
@@ -18425,7 +18444,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T11:06:12+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:06:43+02:00",
       "available": true,
       "price_min": 265,
@@ -18489,7 +18508,7 @@
         "VASES"
       ],
       "created_at": "2024-04-19T10:59:48+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-19T11:02:52+02:00",
       "available": true,
       "price_min": 265,
@@ -18548,7 +18567,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T17:42:36+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T17:43:17+02:00",
       "available": true,
       "price_min": 1759,
@@ -18621,7 +18640,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:35:10+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T16:35:47+02:00",
       "available": true,
       "price_min": 1239,
@@ -18674,7 +18693,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:31:49+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T16:32:27+02:00",
       "available": true,
       "price_min": 560,
@@ -18727,7 +18746,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:27:40+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T16:29:38+02:00",
       "available": true,
       "price_min": 729,
@@ -18780,7 +18799,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:07:14+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:29+02:00",
       "available": true,
       "price_min": 225,
@@ -18845,7 +18864,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:05:28+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:28+02:00",
       "available": true,
       "price_min": 99.9,
@@ -18911,7 +18930,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T16:02:28+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:17:18+01:00",
       "available": true,
       "price_min": 475,
@@ -18982,7 +19001,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T15:59:13+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:27+02:00",
       "available": true,
       "price_min": 400,
@@ -19053,7 +19072,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T15:55:07+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:25+02:00",
       "available": true,
       "price_min": 99.9,
@@ -19124,7 +19143,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T15:53:07+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:24+02:00",
       "available": true,
       "price_min": 169,
@@ -19189,7 +19208,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T14:12:57+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:23+02:00",
       "available": true,
       "price_min": 115,
@@ -19266,7 +19285,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T14:09:07+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:20+02:00",
       "available": true,
       "price_min": 815,
@@ -19337,7 +19356,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T14:05:09+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:18+02:00",
       "available": true,
       "price_min": 515,
@@ -19408,7 +19427,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:50:34+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:17+02:00",
       "available": true,
       "price_min": 119,
@@ -19485,7 +19504,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:42:27+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:16+02:00",
       "available": true,
       "price_min": 345,
@@ -19556,7 +19575,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:41:00+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:14+02:00",
       "available": true,
       "price_min": 325,
@@ -19633,7 +19652,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:38:59+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:13+02:00",
       "available": true,
       "price_min": 635,
@@ -19704,7 +19723,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:37:33+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T13:40:18+02:00",
       "available": true,
       "price_min": 949,
@@ -19763,7 +19782,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:36:43+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:11+02:00",
       "available": true,
       "price_min": 179,
@@ -19834,7 +19853,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:30:03+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T13:31:08+02:00",
       "available": true,
       "price_min": 729,
@@ -19893,7 +19912,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:26:03+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:10+02:00",
       "available": true,
       "price_min": 515,
@@ -19952,7 +19971,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:23:57+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:09+02:00",
       "available": true,
       "price_min": 499,
@@ -20017,7 +20036,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:22:11+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:07+02:00",
       "available": true,
       "price_min": 395,
@@ -20082,7 +20101,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:20:18+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T13:27:58+02:00",
       "available": true,
       "price_min": 729,
@@ -20141,7 +20160,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:19:14+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:06+02:00",
       "available": true,
       "price_min": 815,
@@ -20206,7 +20225,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:17:13+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:05+02:00",
       "available": true,
       "price_min": 129,
@@ -20278,7 +20297,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:14:51+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:22:59+01:00",
       "available": true,
       "price_min": 739,
@@ -20361,7 +20380,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:06:56+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:03+02:00",
       "available": true,
       "price_min": 255,
@@ -20438,7 +20457,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:04:44+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:02+02:00",
       "available": true,
       "price_min": 174,
@@ -20509,7 +20528,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T13:02:16+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:07:00+02:00",
       "available": true,
       "price_min": 299,
@@ -20580,7 +20599,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:58:39+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:06:59+02:00",
       "available": true,
       "price_min": 165,
@@ -20645,7 +20664,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:56:43+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:06:57+02:00",
       "available": true,
       "price_min": 115,
@@ -20710,7 +20729,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:48:23+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:04+02:00",
       "available": true,
       "price_min": 275,
@@ -20775,7 +20794,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:44:23+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:02+02:00",
       "available": true,
       "price_min": 315,
@@ -20840,7 +20859,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:42:06+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:01+02:00",
       "available": true,
       "price_min": 105,
@@ -20905,7 +20924,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:38:12+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:00+02:00",
       "available": true,
       "price_min": 970,
@@ -20976,7 +20995,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:35:56+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:58+02:00",
       "available": true,
       "price_min": 299,
@@ -21041,7 +21060,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:32:23+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:57+02:00",
       "available": true,
       "price_min": 129,
@@ -21130,7 +21149,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:29:12+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:55+02:00",
       "available": true,
       "price_min": 199,
@@ -21189,7 +21208,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:21:31+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:54+02:00",
       "available": true,
       "price_min": 107,
@@ -21265,7 +21284,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:18:22+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T12:34:39+02:00",
       "available": true,
       "price_min": 265,
@@ -21324,7 +21343,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:16:21+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:53+02:00",
       "available": true,
       "price_min": 495,
@@ -21389,7 +21408,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:14:10+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:51+02:00",
       "available": true,
       "price_min": 815,
@@ -21455,7 +21474,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:11:16+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:23:28+01:00",
       "available": true,
       "price_min": 635,
@@ -21544,7 +21563,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:07:51+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:50+02:00",
       "available": true,
       "price_min": 79.9,
@@ -21609,7 +21628,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:05:34+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:49+02:00",
       "available": true,
       "price_min": 239,
@@ -21680,7 +21699,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:03:50+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:47+02:00",
       "available": true,
       "price_min": 815,
@@ -21757,7 +21776,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T12:01:18+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:46+02:00",
       "available": true,
       "price_min": 635,
@@ -21835,7 +21854,7 @@
         "VASES"
       ],
       "created_at": "2024-04-15T11:59:00+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:18:29+01:00",
       "available": true,
       "price_min": 255,
@@ -21920,7 +21939,7 @@
         "VASES"
       ],
       "created_at": "2024-04-14T16:36:29+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-14T16:41:31+02:00",
       "available": true,
       "price_min": 219,
@@ -22011,7 +22030,7 @@
         "VASES"
       ],
       "created_at": "2024-04-14T14:29:26+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:23+01:00",
       "available": true,
       "price_min": 68.9,
@@ -22108,7 +22127,7 @@
         "VASES"
       ],
       "created_at": "2024-04-14T12:25:06+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:10+01:00",
       "available": true,
       "price_min": 68.9,
@@ -22211,7 +22230,7 @@
         "VASES"
       ],
       "created_at": "2024-04-13T18:06:03+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:09+01:00",
       "available": true,
       "price_min": 68.9,
@@ -22314,7 +22333,7 @@
         "VASES"
       ],
       "created_at": "2024-04-13T16:57:01+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:08+01:00",
       "available": true,
       "price_min": 92.95,
@@ -22381,7 +22400,7 @@
         "VASES"
       ],
       "created_at": "2024-04-13T15:46:46+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:04+01:00",
       "available": true,
       "price_min": 195,
@@ -22493,7 +22512,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-04-13T12:35:59+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:04:34+01:00",
       "available": true,
       "price_min": 15,
@@ -22545,7 +22564,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-04-13T12:29:37+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-19T13:52:21+01:00",
       "available": true,
       "price_min": 14.95,
@@ -22600,7 +22619,7 @@
         "X-Mas"
       ],
       "created_at": "2024-04-13T12:25:47+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-11-23T14:40:26+01:00",
       "available": true,
       "price_min": 49,
@@ -22654,7 +22673,7 @@
         "VASES"
       ],
       "created_at": "2024-04-13T11:56:22+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:04:26+01:00",
       "available": true,
       "price_min": 172,
@@ -22730,7 +22749,7 @@
         "FLOWERS & VASES"
       ],
       "created_at": "2024-04-12T17:39:13+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-19T14:28:59+01:00",
       "available": true,
       "price_min": 59,
@@ -22783,7 +22802,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:11:20+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:44+02:00",
       "available": true,
       "price_min": 71.5,
@@ -22854,7 +22873,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:09:49+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:43+02:00",
       "available": true,
       "price_min": 169,
@@ -22913,7 +22932,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:07:45+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:42+02:00",
       "available": true,
       "price_min": 950,
@@ -22972,7 +22991,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:05:36+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:40+02:00",
       "available": true,
       "price_min": 635,
@@ -23043,7 +23062,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:03:16+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:39+02:00",
       "available": true,
       "price_min": 539,
@@ -23114,7 +23133,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T14:01:05+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:38+02:00",
       "available": true,
       "price_min": 255,
@@ -23179,7 +23198,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:58:19+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:36+02:00",
       "available": true,
       "price_min": 825,
@@ -23244,7 +23263,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:56:37+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:35+02:00",
       "available": true,
       "price_min": 267,
@@ -23309,7 +23328,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:49:56+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:32+02:00",
       "available": true,
       "price_min": 435,
@@ -23368,7 +23387,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:40:37+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:31+02:00",
       "available": true,
       "price_min": 850,
@@ -23439,7 +23458,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:26:58+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:28+02:00",
       "available": true,
       "price_min": 289,
@@ -23510,7 +23529,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:24:25+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:27+02:00",
       "available": true,
       "price_min": 875,
@@ -23576,7 +23595,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:22:19+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:17:47+01:00",
       "available": true,
       "price_min": 915,
@@ -23653,7 +23672,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:20:37+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:25+02:00",
       "available": true,
       "price_min": 63.5,
@@ -23718,7 +23737,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:17:50+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:24+02:00",
       "available": true,
       "price_min": 475,
@@ -23795,7 +23814,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:14:21+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:22+02:00",
       "available": true,
       "price_min": 595,
@@ -23860,7 +23879,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:12:45+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:21+02:00",
       "available": true,
       "price_min": 915,
@@ -23931,7 +23950,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:10:30+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:20+02:00",
       "available": true,
       "price_min": 115,
@@ -23996,7 +24015,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:05:56+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:18+02:00",
       "available": true,
       "price_min": 225,
@@ -24067,7 +24086,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T13:03:55+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:17+02:00",
       "available": true,
       "price_min": 635,
@@ -24132,7 +24151,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:58:05+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:15+02:00",
       "available": true,
       "price_min": 420,
@@ -24221,7 +24240,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:56:14+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:14+02:00",
       "available": true,
       "price_min": 650,
@@ -24292,7 +24311,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:52:17+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:13+02:00",
       "available": true,
       "price_min": 87.5,
@@ -24363,7 +24382,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:49:47+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:11+02:00",
       "available": true,
       "price_min": 675,
@@ -24440,7 +24459,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:47:17+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:10+02:00",
       "available": true,
       "price_min": 435,
@@ -24505,7 +24524,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:45:08+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:09+02:00",
       "available": true,
       "price_min": 169,
@@ -24576,7 +24595,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:41:55+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:07+02:00",
       "available": true,
       "price_min": 152,
@@ -24659,7 +24678,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:39:47+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:06+02:00",
       "available": true,
       "price_min": 399,
@@ -24736,7 +24755,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:37:52+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:05+02:00",
       "available": true,
       "price_min": 675,
@@ -24813,7 +24832,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:34:53+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:03+02:00",
       "available": true,
       "price_min": 299,
@@ -24879,7 +24898,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:32:08+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:21:12+01:00",
       "available": true,
       "price_min": 445,
@@ -24956,7 +24975,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:29:38+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:08:02+02:00",
       "available": true,
       "price_min": 815,
@@ -25028,7 +25047,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:24:21+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:18:51+01:00",
       "available": true,
       "price_min": 815,
@@ -25099,7 +25118,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:22:05+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:48+02:00",
       "available": true,
       "price_min": 255,
@@ -25158,7 +25177,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:18:06+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:47+02:00",
       "available": true,
       "price_min": 199,
@@ -25217,7 +25236,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:13:25+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:45+02:00",
       "available": true,
       "price_min": 175,
@@ -25288,7 +25307,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T12:02:27+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:44+02:00",
       "available": true,
       "price_min": 87.5,
@@ -25365,7 +25384,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:59:11+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:42+02:00",
       "available": true,
       "price_min": 359,
@@ -25436,7 +25455,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:57:21+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:41+02:00",
       "available": true,
       "price_min": 485,
@@ -25507,7 +25526,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:55:02+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:40+02:00",
       "available": true,
       "price_min": 399,
@@ -25572,7 +25591,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:51:17+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:38+02:00",
       "available": true,
       "price_min": 129,
@@ -25637,7 +25656,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:46:03+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:37+02:00",
       "available": true,
       "price_min": 515,
@@ -25714,7 +25733,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:41:44+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:35+02:00",
       "available": true,
       "price_min": 515,
@@ -25785,7 +25804,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:36:04+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:32+02:00",
       "available": true,
       "price_min": 195,
@@ -25844,7 +25863,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:25:49+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:29+02:00",
       "available": true,
       "price_min": 175,
@@ -25910,7 +25929,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:23:06+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T15:20:31+01:00",
       "available": true,
       "price_min": 560,
@@ -25987,7 +26006,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T11:18:47+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-14T12:09:26+02:00",
       "available": true,
       "price_min": 420,
@@ -26058,7 +26077,7 @@
         "VASES"
       ],
       "created_at": "2024-04-11T10:14:22+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-15T13:18:59+02:00",
       "available": true,
       "price_min": 729,
@@ -26112,7 +26131,7 @@
         "VASES"
       ],
       "created_at": "2024-04-09T17:25:11+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:03:53+01:00",
       "available": true,
       "price_min": 69.9,
@@ -26172,7 +26191,7 @@
         "VASES"
       ],
       "created_at": "2024-04-09T16:33:06+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:05:08+01:00",
       "available": true,
       "price_min": 55.5,
@@ -26250,7 +26269,7 @@
         "VASES"
       ],
       "created_at": "2024-04-09T15:54:53+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:05:07+01:00",
       "available": true,
       "price_min": 109,
@@ -26316,7 +26335,7 @@
         "VASES"
       ],
       "created_at": "2024-04-09T15:50:27+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:05:06+01:00",
       "available": true,
       "price_min": 172,
@@ -26418,7 +26437,7 @@
         "VASES"
       ],
       "created_at": "2024-04-09T13:03:15+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-03-29T13:04:59+01:00",
       "available": true,
       "price_min": 125,
@@ -26512,7 +26531,7 @@
         "VASES"
       ],
       "created_at": "2024-04-08T16:26:48+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-09T10:47:19+02:00",
       "available": true,
       "price_min": 455,
@@ -26564,7 +26583,7 @@
         "VASES"
       ],
       "created_at": "2024-04-08T16:24:30+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-09T10:47:47+02:00",
       "available": true,
       "price_min": 1759,
@@ -26625,7 +26644,7 @@
         "VASES"
       ],
       "created_at": "2024-04-07T16:22:47+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-07T16:23:39+02:00",
       "available": true,
       "price_min": 265,
@@ -26680,7 +26699,7 @@
         "VASES"
       ],
       "created_at": "2024-04-07T16:01:28+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-07T16:12:24+02:00",
       "available": true,
       "price_min": 269,
@@ -26733,7 +26752,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:24:10+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:25:58+02:00",
       "available": true,
       "price_min": 345,
@@ -26770,6 +26789,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118234_1_1_1.webp?v=1712240750",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118234_4_1_1.webp?v=1712240750",
           "alt": null,
           "width": 1200,
@@ -26783,12 +26808,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118234_2_1_1.webp?v=1712240750",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118234_1_1_1.webp?v=1712240750",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -26810,7 +26829,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:21:31+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:23:53+02:00",
       "available": true,
       "price_min": 345,
@@ -26881,7 +26900,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:18:36+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:21:01+02:00",
       "available": true,
       "price_min": 245,
@@ -26913,6 +26932,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118445_0_1_1.webp?v=1712240405",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118445_1_1_1.webp?v=1779619446",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -26952,7 +26977,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:16:14+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:18:17+02:00",
       "available": true,
       "price_min": 325,
@@ -27023,7 +27048,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:13:29+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:15:51+02:00",
       "available": true,
       "price_min": 395,
@@ -27094,7 +27119,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:10:00+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:13:01+02:00",
       "available": true,
       "price_min": 295,
@@ -27159,7 +27184,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:06:43+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:09:39+02:00",
       "available": true,
       "price_min": 395,
@@ -27224,7 +27249,7 @@
         "VASES"
       ],
       "created_at": "2024-04-04T16:06:18+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-04-04T16:06:18+02:00",
       "available": true,
       "price_min": 795,
@@ -27261,19 +27286,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_2_1_1.webp?v=1712239585",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_3_1_1.webp?v=1712239586",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_1_1_1.webp?v=1712239582",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_2_1_1.webp?v=1712239585",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -27283,6 +27302,12 @@
           "alt": null,
           "width": 2560,
           "height": 2560
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_3_1_1.webp?v=1712239586",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/112895_0_1_1.webp?v=1712239584",
@@ -27303,7 +27328,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-04-02T17:17:10+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-27T13:03:35+01:00",
       "available": true,
       "price_min": 55,
@@ -27363,7 +27388,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-02T16:59:31+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-19T15:03:51+01:00",
       "available": true,
       "price_min": 49,
@@ -27423,7 +27448,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-02T16:46:14+02:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-02-02T14:59:04+01:00",
       "available": true,
       "price_min": 39,
@@ -27489,7 +27514,7 @@
         "VASES"
       ],
       "created_at": "2024-03-21T15:57:51+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-11T13:20:02+01:00",
       "available": true,
       "price_min": 387,
@@ -27555,7 +27580,7 @@
         "VASES"
       ],
       "created_at": "2024-03-21T13:42:53+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-11T13:17:22+01:00",
       "available": true,
       "price_min": 103,
@@ -27675,7 +27700,7 @@
         "VASES"
       ],
       "created_at": "2024-03-21T13:25:23+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-11T14:04:27+01:00",
       "available": true,
       "price_min": 545,
@@ -27771,7 +27796,7 @@
         "VASES"
       ],
       "created_at": "2024-03-21T13:14:15+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-11T13:16:03+01:00",
       "available": true,
       "price_min": 545,
@@ -27903,7 +27928,7 @@
         "VASES"
       ],
       "created_at": "2024-03-17T16:15:57+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-11T13:15:43+01:00",
       "available": true,
       "price_min": 603,
@@ -28023,7 +28048,7 @@
         "VASES"
       ],
       "created_at": "2024-03-17T16:11:08+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-18T16:58:15+01:00",
       "available": true,
       "price_min": 315,
@@ -28155,7 +28180,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-15T15:29:26+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-19T14:21:12+01:00",
       "available": true,
       "price_min": 20,
@@ -28221,7 +28246,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-15T13:44:03+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-19T13:56:40+01:00",
       "available": true,
       "price_min": 20,
@@ -28300,7 +28325,7 @@
         "VASES"
       ],
       "created_at": "2024-03-09T14:37:17+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-09T14:39:37+01:00",
       "available": true,
       "price_min": 1479,
@@ -28366,7 +28391,7 @@
         "VASES"
       ],
       "created_at": "2024-03-09T13:30:29+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-09T13:32:11+01:00",
       "available": true,
       "price_min": 125,
@@ -28438,7 +28463,7 @@
         "VASES"
       ],
       "created_at": "2024-03-09T13:28:03+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-09T13:28:03+01:00",
       "available": true,
       "price_min": 195,
@@ -28512,7 +28537,7 @@
         "VASES"
       ],
       "created_at": "2024-03-05T12:28:59+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-05T12:31:22+01:00",
       "available": false,
       "price_min": 400,
@@ -28616,7 +28641,7 @@
         "VASES"
       ],
       "created_at": "2024-03-05T11:47:51+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-05T12:04:37+01:00",
       "available": false,
       "price_min": 500,
@@ -28749,7 +28774,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T17:50:23+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-08T14:41:25+01:00",
       "available": true,
       "price_min": 1479,
@@ -28816,7 +28841,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T17:49:06+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-08T14:41:25+01:00",
       "available": true,
       "price_min": 1479,
@@ -28889,7 +28914,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T17:48:28+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-08T14:41:25+01:00",
       "available": true,
       "price_min": 1479,
@@ -28956,7 +28981,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T17:39:25+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-08T14:41:24+01:00",
       "available": true,
       "price_min": 1479,
@@ -29016,7 +29041,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T16:00:54+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-04T17:00:23+01:00",
       "available": true,
       "price_min": 1300,
@@ -29077,7 +29102,7 @@
         "VASES"
       ],
       "created_at": "2024-03-04T15:57:39+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-03-04T17:00:44+01:00",
       "available": true,
       "price_min": 1300,
@@ -29139,7 +29164,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-03T16:16:32+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-01-20T12:05:50+01:00",
       "available": true,
       "price_min": 650,
@@ -29204,7 +29229,7 @@
         "VASES"
       ],
       "created_at": "2024-03-03T16:13:47+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-21T14:32:13+02:00",
       "available": true,
       "price_min": 650,
@@ -29272,7 +29297,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:01:29+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-21T14:32:19+02:00",
       "available": true,
       "price_min": 613,
@@ -29342,7 +29367,7 @@
         "VASES"
       ],
       "created_at": "2024-02-28T15:55:19+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2025-06-21T14:32:19+02:00",
       "available": true,
       "price_min": 2130,
@@ -29408,7 +29433,7 @@
         "VASES"
       ],
       "created_at": "2024-02-24T16:43:06+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-24T16:43:06+01:00",
       "available": true,
       "price_min": 1800,
@@ -29474,7 +29499,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:55:12+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:55:27+01:00",
       "available": true,
       "price_min": 735,
@@ -29528,7 +29553,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:54:23+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:54:58+01:00",
       "available": true,
       "price_min": 735,
@@ -29582,7 +29607,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:53:16+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:53:45+01:00",
       "available": true,
       "price_min": 775,
@@ -29638,7 +29663,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-23T17:52:27+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:52:49+01:00",
       "available": true,
       "price_min": 595,
@@ -29692,7 +29717,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:50:38+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:52:10+01:00",
       "available": true,
       "price_min": 635,
@@ -29746,7 +29771,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:47:44+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:49:55+01:00",
       "available": true,
       "price_min": 695,
@@ -29800,7 +29825,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:46:53+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:47:15+01:00",
       "available": true,
       "price_min": 620,
@@ -29854,7 +29879,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:39:48+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:55:48+01:00",
       "available": true,
       "price_min": 580,
@@ -29908,7 +29933,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:24:51+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:26:00+01:00",
       "available": true,
       "price_min": 775,
@@ -29962,7 +29987,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:23:17+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:23:51+01:00",
       "available": true,
       "price_min": 555,
@@ -30016,7 +30041,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:20:53+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:22:25+01:00",
       "available": true,
       "price_min": 555,
@@ -30073,7 +30098,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-23T17:05:00+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:05:34+01:00",
       "available": true,
       "price_min": 735,
@@ -30127,7 +30152,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T17:03:19+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T17:04:06+01:00",
       "available": true,
       "price_min": 735,
@@ -30181,7 +30206,7 @@
         "VASES"
       ],
       "created_at": "2024-02-23T16:47:13+01:00",
-      "updated_at": "2026-05-22T17:59:10+02:00",
+      "updated_at": "2026-05-25T21:07:05+02:00",
       "published_at": "2024-02-23T16:47:13+01:00",
       "available": true,
       "price_min": 735,

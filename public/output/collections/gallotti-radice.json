@@ -1,0 +1,132 @@
+{
+  "handle": "gallotti-radice",
+  "label": "GALLOTTI & RADICE",
+  "url": "https://arowonen.com/collections/gallotti-radice",
+  "scraped_at": "2026-05-25T19:07:20.297Z",
+  "shopify_product_count": 4,
+  "product_count": 2,
+  "products": [
+    {
+      "id": 9101967229260,
+      "title": "Floor lamp - Diantha Terra",
+      "handle": "floor-lamp-diantha-terra",
+      "url": "https://arowonen.com/products/floor-lamp-diantha-terra",
+      "vendor": "GALLOTTI & RADICE",
+      "product_type": "",
+      "tags": [
+        "FLOOR LAMPS",
+        "LIGHTING"
+      ],
+      "created_at": "2024-06-18T15:51:36+02:00",
+      "updated_at": "2026-05-25T21:07:20+02:00",
+      "published_at": "2024-06-18T15:51:35+02:00",
+      "available": true,
+      "price_min": 3729,
+      "price_max": 3729,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48328206319948,
+          "title": "Default Title",
+          "sku": "",
+          "price": "3729.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-3-sma.jpg?v=1718718686",
+          "alt": null,
+          "width": 600,
+          "height": 1103
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-4-sma.jpg?v=1718718686",
+          "alt": null,
+          "width": 600,
+          "height": 826
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-1-sma.jpg?v=1718718687",
+          "alt": null,
+          "width": 600,
+          "height": 762
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-2-sma.jpg?v=1718718687",
+          "alt": null,
+          "width": 600,
+          "height": 797
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice-lampade-diantha-terra-gallery-3-sma.jpg?v=1718718686",
+      "description_html": "<p> </p>\n<p>Floor lamp with dimmable LED light. Mouth-blown and bronze painted glass. Bronzed black metal parts. Touch button switch positioned on the lamp structure.</p>\n<p><strong>Dimensions</strong></p>\n<p>Cm (L x W x H)<br>104.5 x 80 x 222</p>\n<!---->"
+    },
+    {
+      "id": 9101950353740,
+      "title": "Armchair - 0414 - Velvet Pearl",
+      "handle": "armchair-0414-velvet-pearl",
+      "url": "https://arowonen.com/products/armchair-0414-velvet-pearl",
+      "vendor": "GALLOTTI & RADICE",
+      "product_type": "",
+      "tags": [
+        "DINING CHAIRS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-06-18T15:24:00+02:00",
+      "updated_at": "2026-05-25T21:07:20+02:00",
+      "published_at": "2025-02-15T18:10:27+01:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 48328150974796,
+          "title": "Default Title",
+          "sku": "",
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice_sedute_0414_gallery_9_small_bbcb1c0f-ad92-4221-91bb-cf12193aaa47.jpg?v=1739639414",
+          "alt": null,
+          "width": 600,
+          "height": 817
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/gallottiradice_sedute_0414_gallery_9_small_bbcb1c0f-ad92-4221-91bb-cf12193aaa47.jpg?v=1739639414",
+      "description_html": "<p> </p>\n<p><strong>DIMENSIONS</strong></p>\n<ul>\n<li>Cm (L x W x H)</li>\n<li>57 x 52 x 75</li>\n</ul>\n<!---->"
+    }
+  ]
+}

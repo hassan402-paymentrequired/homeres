@@ -15,6 +15,18 @@ use Illuminate\Support\Str;
 
 class CatalogProductImporter
 {
+    /**
+     * Shopify vendor strings that do not match brand handle/name exactly.
+     *
+     * @var array<string, string> vendor (lowercase) => brand handle
+     */
+    private const VENDOR_BRAND_ALIASES = [
+        'arowonen' => 'arowonen',
+        'missoni' => 'missoni-home',
+        'gallotti & radice' => 'gallotti-radice',
+        'londonart' => 'londonart',
+    ];
+
     public function __construct(
         private ProductHandleGenerator $handleGenerator,
         private ScrapedProductPricing $pricing,
@@ -221,15 +233,30 @@ class CatalogProductImporter
             return null;
         }
 
-        $handle = Str::slug(trim($vendor));
         $normalized = strtolower(trim($vendor));
+        $handle = self::VENDOR_BRAND_ALIASES[$normalized] ?? Str::slug(trim($vendor));
 
-        return Brand::query()
+        $brand = Brand::query()
             ->where(function ($query) use ($handle, $normalized): void {
                 $query->where('handle', $handle)
                     ->orWhereRaw('LOWER(name) = ?', [$normalized]);
             })
             ->first();
+
+        if ($brand !== null) {
+            return $brand;
+        }
+
+        return Brand::query()->firstOrCreate(
+            ['handle' => $handle],
+            [
+                'name' => trim($vendor),
+                'description' => null,
+                'sort_order' => (int) Brand::query()->max('sort_order') + 1,
+                'is_active' => true,
+                'show_in_nav' => false,
+            ],
+        );
     }
 
     /**

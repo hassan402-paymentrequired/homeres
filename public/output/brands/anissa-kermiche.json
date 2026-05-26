@@ -1,8 +1,9 @@
 {
   "handle": "anissa-kermiche",
-  "label": "Anissa Kermiche",
+  "label": "ANISSA KERMICHE",
   "url": "https://arowonen.com/collections/anissa-kermiche",
-  "scraped_at": "2026-05-22T15:54:41.323Z",
+  "scraped_at": "2026-05-25T19:03:37.369Z",
+  "shopify_product_count": 14,
   "product_count": 2,
   "products": [
     {
@@ -21,7 +22,7 @@
         "VASES"
       ],
       "created_at": "2024-03-05T12:28:59+01:00",
-      "updated_at": "2026-05-22T17:54:41+02:00",
+      "updated_at": "2026-05-25T21:03:37+02:00",
       "published_at": "2024-03-05T12:31:22+01:00",
       "available": false,
       "price_min": 400,
@@ -125,7 +126,7 @@
         "VASES"
       ],
       "created_at": "2024-03-05T11:47:51+01:00",
-      "updated_at": "2026-05-22T17:54:41+02:00",
+      "updated_at": "2026-05-25T21:03:37+02:00",
       "published_at": "2024-03-05T12:04:37+01:00",
       "available": false,
       "price_min": 500,

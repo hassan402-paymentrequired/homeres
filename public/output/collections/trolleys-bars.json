@@ -1,8 +1,9 @@
 {
   "handle": "trolleys-bars",
-  "label": "Trolleys & Bars",
+  "label": "TROLLEYS & BARS",
   "url": "https://arowonen.com/collections/trolleys-bars",
-  "scraped_at": "2026-05-22T15:57:11.539Z",
+  "scraped_at": "2026-05-25T19:10:15.265Z",
+  "shopify_product_count": 23,
   "product_count": 14,
   "products": [
     {
@@ -18,7 +19,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2026-02-07T16:00:55+01:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2026-02-08T13:55:52+01:00",
       "available": true,
       "price_min": 1995,
@@ -96,7 +97,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-10-04T15:08:31+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2026-02-07T17:42:49+01:00",
       "available": true,
       "price_min": 3495,
@@ -180,7 +181,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-09-27T11:26:17+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-09-29T13:41:27+02:00",
       "available": true,
       "price_min": 4995,
@@ -274,7 +275,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-08-02T14:22:59+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-08-02T14:25:52+02:00",
       "available": true,
       "price_min": 1795,
@@ -362,7 +363,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T13:02:06+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T13:02:20+02:00",
       "available": true,
       "price_min": 0,
@@ -414,7 +415,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T13:00:40+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T13:01:45+02:00",
       "available": true,
       "price_min": 0,
@@ -503,7 +504,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T12:50:09+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T12:51:38+02:00",
       "available": true,
       "price_min": 0,
@@ -585,7 +586,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T12:48:53+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T12:49:32+02:00",
       "available": true,
       "price_min": 0,
@@ -643,7 +644,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T12:48:12+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T12:48:34+02:00",
       "available": true,
       "price_min": 0,
@@ -713,7 +714,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-07-21T12:46:09+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-07-21T12:47:37+02:00",
       "available": true,
       "price_min": 0,
@@ -838,7 +839,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-04-11T17:24:11+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-04-11T17:25:39+02:00",
       "available": true,
       "price_min": 3995,
@@ -933,7 +934,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2025-04-11T13:41:48+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-04-11T13:44:03+02:00",
       "available": true,
       "price_min": 2195,
@@ -992,12 +993,6 @@
           "alt": null,
           "width": 1200,
           "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_16.webp?v=1744371795",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113192_0_1_1.webp?v=1744371794",
@@ -1017,7 +1012,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2024-04-13T12:57:30+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-03-29T13:04:38+01:00",
       "available": true,
       "price_min": 1259,
@@ -1131,7 +1126,7 @@
         "TROLLEYS & BARS"
       ],
       "created_at": "2024-04-13T12:48:39+02:00",
-      "updated_at": "2026-05-22T17:57:11+02:00",
+      "updated_at": "2026-05-25T21:10:15+02:00",
       "published_at": "2025-03-29T13:04:37+01:00",
       "available": true,
       "price_min": 1259,

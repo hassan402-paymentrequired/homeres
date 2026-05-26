@@ -31,11 +31,9 @@ function collectionHref(slug: string): string {
 const ROW_PATTERNS = [
     ['60%', '40%'],
     ['35%', '35%', '30%'],
-    ['40%', '60%'],
-    ['25%', '50%', '25%'],
 ];
 
-const ROW_HEIGHTS = [260, 200, 240, 220];
+const ROW_HEIGHTS = [260, 200, 240, 220, 220];
 
 function buildRows(
     items: ShopCollection[],

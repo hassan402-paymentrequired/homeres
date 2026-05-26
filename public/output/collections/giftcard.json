@@ -1,0 +1,182 @@
+{
+  "handle": "giftcard",
+  "label": "GIFTCARD",
+  "url": "https://arowonen.com/collections/giftcard",
+  "scraped_at": "2026-05-25T19:07:22.487Z",
+  "shopify_product_count": 1,
+  "product_count": 1,
+  "products": [
+    {
+      "id": 8902748012876,
+      "title": "AROWONEN Gift Card",
+      "handle": "arowonen-gift-card",
+      "url": "https://arowonen.com/products/arowonen-gift-card",
+      "vendor": "AROWONEN",
+      "product_type": "",
+      "tags": [
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-09T15:45:23+01:00",
+      "updated_at": "2026-05-25T21:07:22+02:00",
+      "published_at": "2024-03-09T15:45:23+01:00",
+      "available": true,
+      "price_min": 50,
+      "price_max": 5000,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 11,
+      "variants": [
+        {
+          "id": 47800586764620,
+          "title": "€ 50,00",
+          "sku": "",
+          "price": "50.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 50,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800586797388,
+          "title": "€ 100,00",
+          "sku": "",
+          "price": "100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 100,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800586830156,
+          "title": "€ 150,00",
+          "sku": "",
+          "price": "150.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 150,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800586862924,
+          "title": "€ 200,00",
+          "sku": "",
+          "price": "200.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 200,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800586928460,
+          "title": "€ 250,00",
+          "sku": "",
+          "price": "250.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 250,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800586993996,
+          "title": "€ 500,00",
+          "sku": "",
+          "price": "500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 500,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800587059532,
+          "title": "€ 750,00",
+          "sku": "",
+          "price": "750.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 750,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800587092300,
+          "title": "€ 1.000,00",
+          "sku": "",
+          "price": "1000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 1.000,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800587157836,
+          "title": "€ 1.500,00",
+          "sku": "",
+          "price": "1500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 1.500,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800587190604,
+          "title": "€ 2.500,00",
+          "sku": "",
+          "price": "2500.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 2.500,00",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47800587223372,
+          "title": "€ 5.000,00",
+          "sku": "",
+          "price": "5000.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "€ 5.000,00",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Waardes",
+          "values": [
+            "€ 50,00",
+            "€ 100,00",
+            "€ 150,00",
+            "€ 200,00",
+            "€ 250,00",
+            "€ 500,00",
+            "€ 750,00",
+            "€ 1.000,00",
+            "€ 1.500,00",
+            "€ 2.500,00",
+            "€ 5.000,00"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-1692.jpg?v=1709995526",
+          "alt": null,
+          "width": 1418,
+          "height": 1418
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/img-1692.jpg?v=1709995526",
+      "description_html": "Please note: Online giftcards can only be redeemed online in our webshop"
+    }
+  ]
+}

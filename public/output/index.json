@@ -1,995 +1,1426 @@
 {
-  "scraped_at": "2026-05-22T15:54:40.096Z",
+  "scraped_at": "2026-05-25T19:03:36.763Z",
   "source": "https://arowonen.com",
+  "scrape_mode": "catalog",
   "brands": [
     {
-      "label": "Anissa Kermiche",
+      "label": "ANISSA KERMICHE",
       "handle": "anissa-kermiche",
       "url": "https://arowonen.com/collections/anissa-kermiche",
+      "shopify_product_count": 14,
       "product_count": 2,
       "file": "brands/anissa-kermiche.json"
     },
     {
-      "label": "Armani/Casa",
+      "label": "ARMANI/CASA",
       "handle": "armani-casa",
       "url": "https://arowonen.com/collections/armani-casa",
+      "shopify_product_count": 8,
       "product_count": 5,
       "file": "brands/armani-casa.json"
     },
     {
-      "label": "AROWONEN Exclusives",
-      "handle": "arowonen",
-      "url": "https://arowonen.com/collections/arowonen",
-      "product_count": 235,
-      "file": "brands/arowonen.json"
-    },
-    {
-      "label": "Arte",
+      "label": "ARTE",
       "handle": "arte",
       "url": "https://arowonen.com/collections/arte",
+      "shopify_product_count": 15,
       "product_count": 9,
       "file": "brands/arte.json"
     },
     {
-      "label": "Assouline",
+      "label": "ASSOULINE",
       "handle": "assouline",
       "url": "https://arowonen.com/collections/assouline",
+      "shopify_product_count": 450,
       "product_count": 250,
       "file": "brands/assouline.json"
     },
     {
-      "label": "Baccarat",
+      "label": "BACCARAT",
       "handle": "baccarat",
       "url": "https://arowonen.com/collections/baccarat",
+      "shopify_product_count": 141,
       "product_count": 78,
       "file": "brands/baccarat.json"
     },
     {
-      "label": "Baobab Collection",
+      "label": "BAOBAB COLLECTION",
       "handle": "baobab-collection",
       "url": "https://arowonen.com/collections/baobab-collection",
+      "shopify_product_count": 330,
       "product_count": 182,
       "file": "brands/baobab-collection.json"
     },
     {
-      "label": "Baxter Made in Italy",
+      "label": "BAXTER MADE IN ITALY",
       "handle": "baxter-made-in-italy",
       "url": "https://arowonen.com/collections/baxter-made-in-italy",
+      "shopify_product_count": 209,
       "product_count": 177,
       "file": "brands/baxter-made-in-italy.json"
     },
     {
-      "label": "Boca do Lobo",
+      "label": "BOCA DO LOBO",
       "handle": "boca-do-lobo",
       "url": "https://arowonen.com/collections/boca-do-lobo",
+      "shopify_product_count": 9,
       "product_count": 9,
       "file": "brands/boca-do-lobo.json"
     },
     {
-      "label": "Bosa Ceramics",
+      "label": "BOSA CERAMICS",
       "handle": "bosa",
       "url": "https://arowonen.com/collections/bosa",
+      "shopify_product_count": 49,
       "product_count": 45,
       "file": "brands/bosa.json"
     },
     {
-      "label": "Culti Milano",
+      "label": "CULTI MILANO",
       "handle": "culti-milano",
       "url": "https://arowonen.com/collections/culti-milano",
+      "shopify_product_count": 114,
       "product_count": 79,
       "file": "brands/culti-milano.json"
     },
     {
-      "label": "Dr. Vranjes Firenze",
+      "label": "DR. VRANJES FIRENZE",
       "handle": "dr-vranjes-firenze",
       "url": "https://arowonen.com/collections/dr-vranjes-firenze",
+      "shopify_product_count": 130,
       "product_count": 91,
       "file": "brands/dr-vranjes-firenze.json"
     },
     {
-      "label": "Eichholtz",
+      "label": "EICHHOLTZ",
       "handle": "eichholtz",
       "url": "https://arowonen.com/collections/eichholtz",
+      "shopify_product_count": 1648,
       "product_count": 948,
       "file": "brands/eichholtz.json"
     },
     {
-      "label": "Fendi Casa",
+      "label": "FENDI CASA",
       "handle": "fendi-casa",
       "url": "https://arowonen.com/collections/fendi-casa",
+      "shopify_product_count": 23,
       "product_count": 23,
       "file": "brands/fendi-casa.json"
     },
     {
-      "label": "Férire",
+      "label": "FÉRIRE",
       "handle": "ferire",
       "url": "https://arowonen.com/collections/ferire",
+      "shopify_product_count": 177,
       "product_count": 116,
       "file": "brands/ferire.json"
     },
     {
-      "label": "Flos",
+      "label": "FLOS",
       "handle": "flos",
       "url": "https://arowonen.com/collections/flos",
+      "shopify_product_count": 258,
       "product_count": 240,
       "file": "brands/flos.json"
     },
     {
-      "label": "Fornasetti",
+      "label": "FORNASETTI",
       "handle": "fornasetti",
       "url": "https://arowonen.com/collections/fornasetti",
+      "shopify_product_count": 41,
       "product_count": 40,
       "file": "brands/fornasetti.json"
     },
     {
-      "label": "Gaggenau",
+      "label": "GAGGENAU",
       "handle": "gaggenau",
       "url": "https://arowonen.com/collections/gaggenau",
+      "shopify_product_count": 0,
       "product_count": 0,
       "file": "brands/gaggenau.json"
     },
     {
-      "label": "Glas Italia",
+      "label": "GLAS ITALIA",
       "handle": "glas-italia",
       "url": "https://arowonen.com/collections/glas-italia",
+      "shopify_product_count": 8,
       "product_count": 4,
       "file": "brands/glas-italia.json"
     },
     {
-      "label": "Guaxs",
+      "label": "GUAXS",
       "handle": "guaxs",
       "url": "https://arowonen.com/collections/guaxs",
+      "shopify_product_count": 149,
       "product_count": 143,
       "file": "brands/guaxs.json"
     },
     {
-      "label": "Helle Mardahl",
+      "label": "HELLE MARDAHL",
       "handle": "helle-mardahl-studio",
       "url": "https://arowonen.com/collections/helle-mardahl-studio",
+      "shopify_product_count": 0,
       "product_count": 0,
       "file": "brands/helle-mardahl-studio.json"
     },
     {
-      "label": "Jonathan Adler",
+      "label": "JONATHAN ADLER",
       "handle": "jonathan-adler",
       "url": "https://arowonen.com/collections/jonathan-adler",
+      "shopify_product_count": 861,
       "product_count": 432,
       "file": "brands/jonathan-adler.json"
     },
     {
-      "label": "Leblon Delienne",
-      "handle": "disney",
-      "url": "https://arowonen.com/collections/disney",
-      "product_count": 173,
-      "file": "brands/disney.json"
-    },
-    {
-      "label": "L'Objet",
+      "label": "L'OBJET",
       "handle": "lobjet",
       "url": "https://arowonen.com/collections/lobjet",
+      "shopify_product_count": 832,
       "product_count": 565,
       "file": "brands/lobjet.json"
     },
     {
-      "label": "Linari",
+      "label": "LEBLON DELIENNE",
+      "handle": "disney",
+      "url": "https://arowonen.com/collections/disney",
+      "shopify_product_count": 302,
+      "product_count": 173,
+      "file": "brands/disney.json"
+    },
+    {
+      "label": "LINARI",
       "handle": "linari",
       "url": "https://arowonen.com/collections/linari",
+      "shopify_product_count": 15,
       "product_count": 5,
       "file": "brands/linari.json"
     },
     {
-      "label": "Missoni Home",
+      "label": "MISSONI HOME",
       "handle": "missoni-home",
       "url": "https://arowonen.com/collections/missoni-home",
+      "shopify_product_count": 6,
       "product_count": 6,
       "file": "brands/missoni-home.json"
     },
     {
-      "label": "Molteni&C",
+      "label": "MOLTENI&C",
       "handle": "molteni-c",
       "url": "https://arowonen.com/collections/molteni-c",
+      "shopify_product_count": 186,
       "product_count": 172,
       "file": "brands/molteni-c.json"
     },
     {
-      "label": "Pinetti",
+      "label": "PINETTI",
       "handle": "pinetti",
       "url": "https://arowonen.com/collections/pinetti",
+      "shopify_product_count": 21,
       "product_count": 4,
       "file": "brands/pinetti.json"
     },
     {
-      "label": "Reflections Copenhagen",
+      "label": "REFLECTIONS COPENHAGEN",
       "handle": "reflections-copenhagen",
       "url": "https://arowonen.com/collections/reflections-copenhagen",
+      "shopify_product_count": 197,
       "product_count": 188,
       "file": "brands/reflections-copenhagen.json"
     },
     {
-      "label": "Rizzoli",
+      "label": "RIZZOLI",
       "handle": "rizzoli",
       "url": "https://arowonen.com/collections/rizzoli",
+      "shopify_product_count": 7,
       "product_count": 4,
       "file": "brands/rizzoli.json"
     },
     {
-      "label": "Roberto Cavalli",
+      "label": "ROBERTO CAVALLI",
       "handle": "roberte-cavalli",
       "url": "https://arowonen.com/collections/roberte-cavalli",
+      "shopify_product_count": 12,
       "product_count": 0,
       "file": "brands/roberte-cavalli.json"
     },
     {
-      "label": "Seletti",
+      "label": "SELETTI",
       "handle": "seletti",
       "url": "https://arowonen.com/collections/seletti",
+      "shopify_product_count": 47,
       "product_count": 47,
       "file": "brands/seletti.json"
     },
     {
-      "label": "Skogsberg & Smart",
+      "label": "SKOGSBERG & SMART",
       "handle": "skogsberg-smart",
       "url": "https://arowonen.com/collections/skogsberg-smart",
+      "shopify_product_count": 112,
       "product_count": 106,
       "file": "brands/skogsberg-smart.json"
     },
     {
-      "label": "Studio Zar",
+      "label": "STUDIO ZAR",
       "handle": "studio-zar",
       "url": "https://arowonen.com/collections/studio-zar",
+      "shopify_product_count": 21,
       "product_count": 21,
       "file": "brands/studio-zar.json"
     },
     {
-      "label": "Taschen",
+      "label": "TASCHEN",
       "handle": "taschen",
       "url": "https://arowonen.com/collections/taschen",
+      "shopify_product_count": 79,
       "product_count": 9,
       "file": "brands/taschen.json"
     },
     {
-      "label": "Teckell",
+      "label": "TECKELL",
       "handle": "teckell",
       "url": "https://arowonen.com/collections/teckell",
+      "shopify_product_count": 13,
       "product_count": 13,
       "file": "brands/teckell.json"
     },
     {
-      "label": "TeNeues",
+      "label": "TENEUES",
       "handle": "teneues",
       "url": "https://arowonen.com/collections/teneues",
+      "shopify_product_count": 23,
       "product_count": 16,
       "file": "brands/teneues.json"
     },
     {
-      "label": "Tom Dixon",
+      "label": "TOM DIXON",
       "handle": "tom-dixon",
       "url": "https://arowonen.com/collections/tom-dixon",
+      "shopify_product_count": 72,
       "product_count": 71,
       "file": "brands/tom-dixon.json"
     },
     {
-      "label": "Transparent",
+      "label": "TRANSPARENT",
       "handle": "transparent",
       "url": "https://arowonen.com/collections/transparent",
+      "shopify_product_count": 28,
       "product_count": 28,
       "file": "brands/transparent.json"
     },
     {
-      "label": "Versace",
+      "label": "VERSACE",
       "handle": "versacehome",
       "url": "https://arowonen.com/collections/versacehome",
+      "shopify_product_count": 1,
       "product_count": 1,
       "file": "brands/versacehome.json"
     },
     {
-      "label": "Visionnaire Home Philosophy",
+      "label": "VISIONNAIRE HOME PHILOSOPHY",
       "handle": "visionnaire-home-philosophy",
       "url": "https://arowonen.com/collections/visionnaire-home-philosophy",
+      "shopify_product_count": 605,
       "product_count": 604,
       "file": "brands/visionnaire-home-philosophy.json"
     },
     {
-      "label": "Wolf 1834",
+      "label": "WOLF 1834",
       "handle": "wolf-1834",
       "url": "https://arowonen.com/collections/wolf-1834",
+      "shopify_product_count": 202,
       "product_count": 183,
       "file": "brands/wolf-1834.json"
     }
   ],
   "collections": [
     {
-      "label": "New Arrivals",
-      "handle": "new-arrivals-1",
-      "url": "https://arowonen.com/collections/new-arrivals-1",
-      "product_count": 519,
-      "file": "collections/new-arrivals-1.json"
-    },
-    {
-      "label": "Furniture (All)",
-      "handle": "furniture",
-      "url": "https://arowonen.com/collections/furniture",
-      "product_count": 722,
-      "file": "collections/furniture.json"
-    },
-    {
-      "label": "Bedroom",
-      "handle": "bedroom",
-      "url": "https://arowonen.com/collections/bedroom",
-      "product_count": 72,
-      "file": "collections/bedroom.json"
-    },
-    {
-      "label": "Headboards & Beds",
-      "handle": "beds",
-      "url": "https://arowonen.com/collections/beds",
-      "product_count": 33,
-      "file": "collections/beds.json"
-    },
-    {
-      "label": "Nightstands",
-      "handle": "night-stands",
-      "url": "https://arowonen.com/collections/night-stands",
-      "product_count": 40,
-      "file": "collections/night-stands.json"
-    },
-    {
-      "label": "Cabinets & Dressers",
-      "handle": "cabinets-dressers-chests",
-      "url": "https://arowonen.com/collections/cabinets-dressers-chests",
-      "product_count": 35,
-      "file": "collections/cabinets-dressers-chests.json"
-    },
-    {
-      "label": "Wardrobes & Walk in closets",
-      "handle": "closets",
-      "url": "https://arowonen.com/collections/closets",
-      "product_count": 15,
-      "file": "collections/closets.json"
-    },
-    {
-      "label": "Sofas | Ottomans",
-      "handle": "sofas",
-      "url": "https://arowonen.com/collections/sofas",
-      "product_count": 73,
-      "file": "collections/sofas.json"
-    },
-    {
-      "label": "Linear Sofas",
-      "handle": "linear-sofas",
-      "url": "https://arowonen.com/collections/linear-sofas",
-      "product_count": 24,
-      "file": "collections/linear-sofas.json"
-    },
-    {
-      "label": "Corner Sofas",
-      "handle": "corner-sofas",
-      "url": "https://arowonen.com/collections/corner-sofas",
-      "product_count": 19,
-      "file": "collections/corner-sofas.json"
-    },
-    {
-      "label": "Modular Sofas",
-      "handle": "modular-sofas",
-      "url": "https://arowonen.com/collections/modular-sofas",
-      "product_count": 40,
-      "file": "collections/modular-sofas.json"
-    },
-    {
-      "label": "Ottomans",
-      "handle": "ottomans",
-      "url": "https://arowonen.com/collections/ottomans",
-      "product_count": 12,
-      "file": "collections/ottomans.json"
-    },
-    {
-      "label": "Chaise Longues",
-      "handle": "chaise-longues",
-      "url": "https://arowonen.com/collections/chaise-longues",
-      "product_count": 7,
-      "file": "collections/chaise-longues.json"
-    },
-    {
-      "label": "Benches",
-      "handle": "benches",
-      "url": "https://arowonen.com/collections/benches",
-      "product_count": 23,
-      "file": "collections/benches.json"
-    },
-    {
-      "label": "Pouf",
-      "handle": "pouf",
-      "url": "https://arowonen.com/collections/pouf",
-      "product_count": 21,
-      "file": "collections/pouf.json"
-    },
-    {
-      "label": "Chairs (All)",
-      "handle": "chairs-arm-chairs",
-      "url": "https://arowonen.com/collections/chairs-arm-chairs",
-      "product_count": 170,
-      "file": "collections/chairs-arm-chairs.json"
-    },
-    {
-      "label": "Armchairs",
+      "label": "ARMCHAIRS",
       "handle": "armchairs",
       "url": "https://arowonen.com/collections/armchairs",
+      "shopify_product_count": 142,
       "product_count": 138,
+      "in_nav": true,
       "file": "collections/armchairs.json"
     },
     {
-      "label": "Dining Chairs",
-      "handle": "dining-chairs-bar-stools",
-      "url": "https://arowonen.com/collections/dining-chairs-bar-stools",
-      "product_count": 105,
-      "file": "collections/dining-chairs-bar-stools.json"
+      "label": "AROWONEN Exclusives",
+      "handle": "arowonen",
+      "url": "https://arowonen.com/collections/arowonen",
+      "shopify_product_count": 457,
+      "product_count": 235,
+      "in_nav": false,
+      "file": "collections/arowonen.json"
     },
     {
-      "label": "Office Chairs",
-      "handle": "office-chairs",
-      "url": "https://arowonen.com/collections/office-chairs",
-      "product_count": 6,
-      "file": "collections/office-chairs.json"
-    },
-    {
-      "label": "Bar- & Counterstools",
-      "handle": "bar-counterstools",
-      "url": "https://arowonen.com/collections/bar-counterstools",
-      "product_count": 13,
-      "file": "collections/bar-counterstools.json"
-    },
-    {
-      "label": "Tables (All)",
-      "handle": "tables-desks",
-      "url": "https://arowonen.com/collections/tables-desks",
-      "product_count": 232,
-      "file": "collections/tables-desks.json"
-    },
-    {
-      "label": "Coffee Tables",
-      "handle": "coffee-tables",
-      "url": "https://arowonen.com/collections/coffee-tables",
-      "product_count": 92,
-      "file": "collections/coffee-tables.json"
-    },
-    {
-      "label": "Side Tables",
-      "handle": "side-tables",
-      "url": "https://arowonen.com/collections/side-tables",
-      "product_count": 74,
-      "file": "collections/side-tables.json"
-    },
-    {
-      "label": "Dining Tables",
-      "handle": "dining-tables",
-      "url": "https://arowonen.com/collections/dining-tables",
-      "product_count": 63,
-      "file": "collections/dining-tables.json"
-    },
-    {
-      "label": "Console Tables",
-      "handle": "console-tables",
-      "url": "https://arowonen.com/collections/console-tables",
-      "product_count": 39,
-      "file": "collections/console-tables.json"
-    },
-    {
-      "label": "Vanities",
-      "handle": "vanity",
-      "url": "https://arowonen.com/collections/vanity",
-      "product_count": 8,
-      "file": "collections/vanity.json"
-    },
-    {
-      "label": "Desk",
-      "handle": "desk",
-      "url": "https://arowonen.com/collections/desk",
-      "product_count": 15,
-      "file": "collections/desk.json"
-    },
-    {
-      "label": "Living Systems & Bookshelves",
-      "handle": "living-systems-bookshelves",
-      "url": "https://arowonen.com/collections/living-systems-bookshelves",
-      "product_count": 8,
-      "file": "collections/living-systems-bookshelves.json"
-    },
-    {
-      "label": "Single Units",
-      "handle": "single-units",
-      "url": "https://arowonen.com/collections/single-units",
-      "product_count": 12,
-      "file": "collections/single-units.json"
-    },
-    {
-      "label": "Trolleys & Bars",
-      "handle": "trolleys-bars",
-      "url": "https://arowonen.com/collections/trolleys-bars",
-      "product_count": 14,
-      "file": "collections/trolleys-bars.json"
-    },
-    {
-      "label": "Leisure",
-      "handle": "leisure",
-      "url": "https://arowonen.com/collections/leisure",
-      "product_count": 11,
-      "file": "collections/leisure.json"
-    },
-    {
-      "label": "Rugs & Carpets",
-      "handle": "rugs-carpets",
-      "url": "https://arowonen.com/collections/rugs-carpets",
-      "product_count": 49,
-      "file": "collections/rugs-carpets.json"
-    },
-    {
-      "label": "Home Office",
-      "handle": "home-office",
-      "url": "https://arowonen.com/collections/home-office",
-      "product_count": 25,
-      "file": "collections/home-office.json"
-    },
-    {
-      "label": "Lighting (All)",
-      "handle": "lighting",
-      "url": "https://arowonen.com/collections/lighting",
-      "product_count": 605,
-      "file": "collections/lighting.json"
-    },
-    {
-      "label": "Chandeliers",
-      "handle": "lanterns-chandeliers",
-      "url": "https://arowonen.com/collections/lanterns-chandeliers",
-      "product_count": 106,
-      "file": "collections/lanterns-chandeliers.json"
-    },
-    {
-      "label": "Ceiling Lamps",
-      "handle": "ceiling-lamps",
-      "url": "https://arowonen.com/collections/ceiling-lamps",
-      "product_count": 56,
-      "file": "collections/ceiling-lamps.json"
-    },
-    {
-      "label": "Desk & Table Lamps",
-      "handle": "wall-lamps-ceiling-lamps",
-      "url": "https://arowonen.com/collections/wall-lamps-ceiling-lamps",
-      "product_count": 241,
-      "file": "collections/wall-lamps-ceiling-lamps.json"
-    },
-    {
-      "label": "Floor Lamps",
-      "handle": "floor-lamps",
-      "url": "https://arowonen.com/collections/floor-lamps",
-      "product_count": 47,
-      "file": "collections/floor-lamps.json"
-    },
-    {
-      "label": "Wall Lamps",
-      "handle": "table-lamps-floor-lamps",
-      "url": "https://arowonen.com/collections/table-lamps-floor-lamps",
-      "product_count": 85,
-      "file": "collections/table-lamps-floor-lamps.json"
-    },
-    {
-      "label": "Home Accessories (All)",
-      "handle": "decor-accessories",
-      "url": "https://arowonen.com/collections/decor-accessories",
-      "product_count": 1493,
-      "file": "collections/decor-accessories.json"
-    },
-    {
-      "label": "Candles & Home Fragrances",
-      "handle": "home-fragrance",
-      "url": "https://arowonen.com/collections/home-fragrance",
-      "product_count": 426,
-      "file": "collections/home-fragrance.json"
-    },
-    {
-      "label": "Candle & Tealight Holders",
-      "handle": "candle-holders-accessories",
-      "url": "https://arowonen.com/collections/candle-holders-accessories",
-      "product_count": 194,
-      "file": "collections/candle-holders-accessories.json"
-    },
-    {
-      "label": "Trays & Coasters",
-      "handle": "coasters",
-      "url": "https://arowonen.com/collections/coasters",
-      "product_count": 107,
-      "file": "collections/coasters.json"
-    },
-    {
-      "label": "Boxes",
-      "handle": "boxes",
-      "url": "https://arowonen.com/collections/boxes",
-      "product_count": 94,
-      "file": "collections/boxes.json"
-    },
-    {
-      "label": "Games",
-      "handle": "games",
-      "url": "https://arowonen.com/collections/games",
-      "product_count": 40,
-      "file": "collections/games.json"
-    },
-    {
-      "label": "Watch Accessories",
-      "handle": "watch-winders",
-      "url": "https://arowonen.com/collections/watch-winders",
-      "product_count": 183,
-      "file": "collections/watch-winders.json"
-    },
-    {
-      "label": "Objects",
-      "handle": "objects",
-      "url": "https://arowonen.com/collections/objects",
-      "product_count": 443,
-      "file": "collections/objects.json"
-    },
-    {
-      "label": "Picture Frames",
-      "handle": "picture-frames",
-      "url": "https://arowonen.com/collections/picture-frames",
-      "product_count": 94,
-      "file": "collections/picture-frames.json"
-    },
-    {
-      "label": "Bowls",
-      "handle": "bowls",
-      "url": "https://arowonen.com/collections/bowls",
-      "product_count": 214,
-      "file": "collections/bowls.json"
-    },
-    {
-      "label": "Coffee Table Books (All)",
-      "handle": "coffee-table-books-1",
-      "url": "https://arowonen.com/collections/coffee-table-books-1",
-      "product_count": 279,
-      "file": "collections/coffee-table-books-1.json"
-    },
-    {
-      "label": "The Travel Series",
-      "handle": "travel-series",
-      "url": "https://arowonen.com/collections/travel-series",
-      "product_count": 61,
-      "file": "collections/travel-series.json"
-    },
-    {
-      "label": "Design & Photography",
-      "handle": "design-architecture-1",
-      "url": "https://arowonen.com/collections/design-architecture-1",
-      "product_count": 103,
-      "file": "collections/design-architecture-1.json"
-    },
-    {
-      "label": "Fashion & Luxury Brands Books",
-      "handle": "fashion-luxury-brands-books",
-      "url": "https://arowonen.com/collections/fashion-luxury-brands-books",
-      "product_count": 53,
-      "file": "collections/fashion-luxury-brands-books.json"
-    },
-    {
-      "label": "Art & Architecture Books",
-      "handle": "design-architecture",
-      "url": "https://arowonen.com/collections/design-architecture",
-      "product_count": 35,
-      "file": "collections/design-architecture.json"
-    },
-    {
-      "label": "The Ultimate Collection",
-      "handle": "the-ultimate-collection",
-      "url": "https://arowonen.com/collections/the-ultimate-collection",
-      "product_count": 20,
-      "file": "collections/the-ultimate-collection.json"
-    },
-    {
-      "label": "Limited Editions",
-      "handle": "special-edditions",
-      "url": "https://arowonen.com/collections/special-edditions",
-      "product_count": 7,
-      "file": "collections/special-edditions.json"
-    },
-    {
-      "label": "Book Stands & Loupes",
-      "handle": "bookends-book-stands",
-      "url": "https://arowonen.com/collections/bookends-book-stands",
-      "product_count": 24,
-      "file": "collections/bookends-book-stands.json"
-    },
-    {
-      "label": "Art & Mirrors (All)",
-      "handle": "art-mirrors",
-      "url": "https://arowonen.com/collections/art-mirrors",
-      "product_count": 293,
-      "file": "collections/art-mirrors.json"
-    },
-    {
-      "label": "Art",
+      "label": "ART",
       "handle": "art",
       "url": "https://arowonen.com/collections/art",
+      "shopify_product_count": 275,
       "product_count": 224,
+      "in_nav": true,
       "file": "collections/art.json"
     },
     {
-      "label": "Mirrors",
-      "handle": "mirrors",
-      "url": "https://arowonen.com/collections/mirrors",
-      "product_count": 84,
-      "file": "collections/mirrors.json"
+      "label": "ART & ARCHITECTURE BOOKS",
+      "handle": "design-architecture",
+      "url": "https://arowonen.com/collections/design-architecture",
+      "shopify_product_count": 161,
+      "product_count": 35,
+      "in_nav": true,
+      "file": "collections/design-architecture.json"
     },
     {
-      "label": "Cushions & Home Textiles (All)",
-      "handle": "textiles",
-      "url": "https://arowonen.com/collections/textiles",
-      "product_count": 226,
-      "file": "collections/textiles.json"
+      "label": "ART & MIRRORS",
+      "handle": "art-mirrors",
+      "url": "https://arowonen.com/collections/art-mirrors",
+      "shopify_product_count": 352,
+      "product_count": 293,
+      "in_nav": true,
+      "file": "collections/art-mirrors.json"
     },
     {
-      "label": "Decorative Cushions",
-      "handle": "decorative-cushions-pillows",
-      "url": "https://arowonen.com/collections/decorative-cushions-pillows",
-      "product_count": 209,
-      "file": "collections/decorative-cushions-pillows.json"
+      "label": "BAOBAB ACCESSOIRES",
+      "handle": "baobab-accessoires",
+      "url": "https://arowonen.com/collections/baobab-accessoires",
+      "shopify_product_count": 15,
+      "product_count": 4,
+      "in_nav": false,
+      "file": "collections/baobab-accessoires.json"
     },
     {
-      "label": "Plaids",
-      "handle": "plaids",
-      "url": "https://arowonen.com/collections/plaids",
-      "product_count": 5,
-      "file": "collections/plaids.json"
+      "label": "BAOBAB CANDLES",
+      "handle": "baobab-candles",
+      "url": "https://arowonen.com/collections/baobab-candles",
+      "shopify_product_count": 103,
+      "product_count": 40,
+      "in_nav": false,
+      "file": "collections/baobab-candles.json"
     },
     {
-      "label": "Bedding",
+      "label": "BAOBAB DIFFUSERS",
+      "handle": "baobab-diffusers",
+      "url": "https://arowonen.com/collections/baobab-diffusers",
+      "shopify_product_count": 61,
+      "product_count": 37,
+      "in_nav": false,
+      "file": "collections/baobab-diffusers.json"
+    },
+    {
+      "label": "BAOBAB GIFTS",
+      "handle": "baobab-gifts",
+      "url": "https://arowonen.com/collections/baobab-gifts",
+      "shopify_product_count": 37,
+      "product_count": 31,
+      "in_nav": false,
+      "file": "collections/baobab-gifts.json"
+    },
+    {
+      "label": "BAOBAB TOTEMS",
+      "handle": "baobab-totems",
+      "url": "https://arowonen.com/collections/baobab-totems",
+      "shopify_product_count": 28,
+      "product_count": 17,
+      "in_nav": false,
+      "file": "collections/baobab-totems.json"
+    },
+    {
+      "label": "BAR & BARSTOOLS",
+      "handle": "bar-barstools",
+      "url": "https://arowonen.com/collections/bar-barstools",
+      "shopify_product_count": 15,
+      "product_count": 11,
+      "in_nav": false,
+      "file": "collections/bar-barstools.json"
+    },
+    {
+      "label": "BAR- & COUNTERSTOOLS",
+      "handle": "bar-counterstools",
+      "url": "https://arowonen.com/collections/bar-counterstools",
+      "shopify_product_count": 16,
+      "product_count": 13,
+      "in_nav": true,
+      "file": "collections/bar-counterstools.json"
+    },
+    {
+      "label": "BEDDING",
       "handle": "plaids-bedspreads",
       "url": "https://arowonen.com/collections/plaids-bedspreads",
+      "shopify_product_count": 15,
       "product_count": 14,
+      "in_nav": true,
       "file": "collections/plaids-bedspreads.json"
     },
     {
-      "label": "Wallpaper",
-      "handle": "wallpaper",
-      "url": "https://arowonen.com/collections/wallpaper",
-      "product_count": 22,
-      "file": "collections/wallpaper.json"
+      "label": "BEDROOM",
+      "handle": "bedroom",
+      "url": "https://arowonen.com/collections/bedroom",
+      "shopify_product_count": 81,
+      "product_count": 72,
+      "in_nav": true,
+      "file": "collections/bedroom.json"
     },
     {
-      "label": "Dining Essentials (All)",
+      "label": "BENCHES",
+      "handle": "benches",
+      "url": "https://arowonen.com/collections/benches",
+      "shopify_product_count": 23,
+      "product_count": 23,
+      "in_nav": true,
+      "file": "collections/benches.json"
+    },
+    {
+      "label": "BOOK STANDS & LOUPES",
+      "handle": "bookends-book-stands",
+      "url": "https://arowonen.com/collections/bookends-book-stands",
+      "shopify_product_count": 65,
+      "product_count": 24,
+      "in_nav": true,
+      "file": "collections/bookends-book-stands.json"
+    },
+    {
+      "label": "BOWLS",
+      "handle": "bowls",
+      "url": "https://arowonen.com/collections/bowls",
+      "shopify_product_count": 291,
+      "product_count": 214,
+      "in_nav": true,
+      "file": "collections/bowls.json"
+    },
+    {
+      "label": "BOXES",
+      "handle": "boxes",
+      "url": "https://arowonen.com/collections/boxes",
+      "shopify_product_count": 175,
+      "product_count": 94,
+      "in_nav": true,
+      "file": "collections/boxes.json"
+    },
+    {
+      "label": "CABINETS & DRESSERS",
+      "handle": "cabinets-dressers-chests",
+      "url": "https://arowonen.com/collections/cabinets-dressers-chests",
+      "shopify_product_count": 43,
+      "product_count": 35,
+      "in_nav": true,
+      "file": "collections/cabinets-dressers-chests.json"
+    },
+    {
+      "label": "CANDLE & TEALIGHT HOLDERS",
+      "handle": "candle-holders-accessories",
+      "url": "https://arowonen.com/collections/candle-holders-accessories",
+      "shopify_product_count": 268,
+      "product_count": 194,
+      "in_nav": true,
+      "file": "collections/candle-holders-accessories.json"
+    },
+    {
+      "label": "CANDLES & HOME FRAGRANCE",
+      "handle": "home-fragrance",
+      "url": "https://arowonen.com/collections/home-fragrance",
+      "shopify_product_count": 655,
+      "product_count": 426,
+      "in_nav": true,
+      "file": "collections/home-fragrance.json"
+    },
+    {
+      "label": "CARPETS & RUGS",
+      "handle": "rugs-carpets",
+      "url": "https://arowonen.com/collections/rugs-carpets",
+      "shopify_product_count": 68,
+      "product_count": 49,
+      "in_nav": true,
+      "file": "collections/rugs-carpets.json"
+    },
+    {
+      "label": "CEILING LAMPS",
+      "handle": "ceiling-lamps",
+      "url": "https://arowonen.com/collections/ceiling-lamps",
+      "shopify_product_count": 71,
+      "product_count": 56,
+      "in_nav": true,
+      "file": "collections/ceiling-lamps.json"
+    },
+    {
+      "label": "CHAIRS",
+      "handle": "chairs-arm-chairs",
+      "url": "https://arowonen.com/collections/chairs-arm-chairs",
+      "shopify_product_count": 206,
+      "product_count": 170,
+      "in_nav": true,
+      "file": "collections/chairs-arm-chairs.json"
+    },
+    {
+      "label": "CHAISE LONGUES",
+      "handle": "chaise-longues",
+      "url": "https://arowonen.com/collections/chaise-longues",
+      "shopify_product_count": 7,
+      "product_count": 7,
+      "in_nav": true,
+      "file": "collections/chaise-longues.json"
+    },
+    {
+      "label": "CHANDELIERS",
+      "handle": "lanterns-chandeliers",
+      "url": "https://arowonen.com/collections/lanterns-chandeliers",
+      "shopify_product_count": 137,
+      "product_count": 106,
+      "in_nav": true,
+      "file": "collections/lanterns-chandeliers.json"
+    },
+    {
+      "label": "COFFEE TABLE BOOKS",
+      "handle": "coffee-table-books-1",
+      "url": "https://arowonen.com/collections/coffee-table-books-1",
+      "shopify_product_count": 533,
+      "product_count": 279,
+      "in_nav": true,
+      "file": "collections/coffee-table-books-1.json"
+    },
+    {
+      "label": "COFFEE TABLES",
+      "handle": "coffee-tables",
+      "url": "https://arowonen.com/collections/coffee-tables",
+      "shopify_product_count": 95,
+      "product_count": 92,
+      "in_nav": true,
+      "file": "collections/coffee-tables.json"
+    },
+    {
+      "label": "CONSOLE TABLES",
+      "handle": "console-tables",
+      "url": "https://arowonen.com/collections/console-tables",
+      "shopify_product_count": 39,
+      "product_count": 39,
+      "in_nav": true,
+      "file": "collections/console-tables.json"
+    },
+    {
+      "label": "CORNER SOFAS",
+      "handle": "corner-sofas",
+      "url": "https://arowonen.com/collections/corner-sofas",
+      "shopify_product_count": 22,
+      "product_count": 19,
+      "in_nav": true,
+      "file": "collections/corner-sofas.json"
+    },
+    {
+      "label": "Crystal Décor",
+      "handle": "crystal-decor",
+      "url": "https://arowonen.com/collections/crystal-decor",
+      "shopify_product_count": 229,
+      "product_count": 228,
+      "in_nav": false,
+      "file": "collections/crystal-decor.json"
+    },
+    {
+      "label": "CUSHIONS & HOME TEXTILES",
+      "handle": "textiles",
+      "url": "https://arowonen.com/collections/textiles",
+      "shopify_product_count": 369,
+      "product_count": 226,
+      "in_nav": true,
+      "file": "collections/textiles.json"
+    },
+    {
+      "label": "DECORATIVE CUSHIONS",
+      "handle": "decorative-cushions-pillows",
+      "url": "https://arowonen.com/collections/decorative-cushions-pillows",
+      "shopify_product_count": 349,
+      "product_count": 209,
+      "in_nav": true,
+      "file": "collections/decorative-cushions-pillows.json"
+    },
+    {
+      "label": "DELIA SKIN MASTER",
+      "handle": "delia-skin-master",
+      "url": "https://arowonen.com/collections/delia-skin-master",
+      "shopify_product_count": 14,
+      "product_count": 8,
+      "in_nav": false,
+      "file": "collections/delia-skin-master.json"
+    },
+    {
+      "label": "DESIGN & PHOTOGRAPHY",
+      "handle": "design-architecture-1",
+      "url": "https://arowonen.com/collections/design-architecture-1",
+      "shopify_product_count": 173,
+      "product_count": 103,
+      "in_nav": true,
+      "file": "collections/design-architecture-1.json"
+    },
+    {
+      "label": "DESK",
+      "handle": "desk",
+      "url": "https://arowonen.com/collections/desk",
+      "shopify_product_count": 15,
+      "product_count": 15,
+      "in_nav": true,
+      "file": "collections/desk.json"
+    },
+    {
+      "label": "DESK & TABLE LAMPS",
+      "handle": "wall-lamps-ceiling-lamps",
+      "url": "https://arowonen.com/collections/wall-lamps-ceiling-lamps",
+      "shopify_product_count": 311,
+      "product_count": 241,
+      "in_nav": true,
+      "file": "collections/wall-lamps-ceiling-lamps.json"
+    },
+    {
+      "label": "DINING CHAIRS",
+      "handle": "dining-chairs-bar-stools",
+      "url": "https://arowonen.com/collections/dining-chairs-bar-stools",
+      "shopify_product_count": 119,
+      "product_count": 105,
+      "in_nav": true,
+      "file": "collections/dining-chairs-bar-stools.json"
+    },
+    {
+      "label": "DINING ESSENTIALS",
       "handle": "dining-serveware",
       "url": "https://arowonen.com/collections/dining-serveware",
+      "shopify_product_count": 892,
       "product_count": 505,
+      "in_nav": true,
       "file": "collections/dining-serveware.json"
     },
     {
-      "label": "Dinnerware",
+      "label": "DINING TABLES",
+      "handle": "dining-tables",
+      "url": "https://arowonen.com/collections/dining-tables",
+      "shopify_product_count": 66,
+      "product_count": 63,
+      "in_nav": true,
+      "file": "collections/dining-tables.json"
+    },
+    {
+      "label": "DINNERWARE",
       "handle": "dinnerware",
       "url": "https://arowonen.com/collections/dinnerware",
+      "shopify_product_count": 850,
       "product_count": 445,
+      "in_nav": true,
       "file": "collections/dinnerware.json"
     },
     {
-      "label": "Drinkware",
+      "label": "DRINKWARE",
       "handle": "drinkware",
       "url": "https://arowonen.com/collections/drinkware",
+      "shopify_product_count": 21,
       "product_count": 21,
+      "in_nav": true,
       "file": "collections/drinkware.json"
     },
     {
-      "label": "Tabletop Accents",
-      "handle": "tabletop-accents",
-      "url": "https://arowonen.com/collections/tabletop-accents",
-      "product_count": 35,
-      "file": "collections/tabletop-accents.json"
+      "label": "FASHION & LUXURY BRANDS",
+      "handle": "fashion-luxury-brands-books",
+      "url": "https://arowonen.com/collections/fashion-luxury-brands-books",
+      "shopify_product_count": 127,
+      "product_count": 53,
+      "in_nav": true,
+      "file": "collections/fashion-luxury-brands-books.json"
     },
     {
-      "label": "Trays",
-      "handle": "trays-servings",
-      "url": "https://arowonen.com/collections/trays-servings",
-      "product_count": 58,
-      "file": "collections/trays-servings.json"
+      "label": "FLOOR LAMPS",
+      "handle": "floor-lamps",
+      "url": "https://arowonen.com/collections/floor-lamps",
+      "shopify_product_count": 58,
+      "product_count": 47,
+      "in_nav": true,
+      "file": "collections/floor-lamps.json"
     },
     {
-      "label": "Scented Candles",
-      "handle": "scented-candles",
-      "url": "https://arowonen.com/collections/scented-candles",
-      "product_count": 154,
-      "file": "collections/scented-candles.json"
-    },
-    {
-      "label": "Room Sprays",
-      "handle": "home-sprays",
-      "url": "https://arowonen.com/collections/home-sprays",
-      "product_count": 45,
-      "file": "collections/home-sprays.json"
-    },
-    {
-      "label": "Totems & Diffusers",
-      "handle": "totems-diffusers",
-      "url": "https://arowonen.com/collections/totems-diffusers",
-      "product_count": 166,
-      "file": "collections/totems-diffusers.json"
-    },
-    {
-      "label": "Fragrance Accessories",
-      "handle": "fragrance-accessories",
-      "url": "https://arowonen.com/collections/fragrance-accessories",
-      "product_count": 131,
-      "file": "collections/fragrance-accessories.json"
-    },
-    {
-      "label": "Refills",
-      "handle": "refills",
-      "url": "https://arowonen.com/collections/refills",
-      "product_count": 40,
-      "file": "collections/refills.json"
-    },
-    {
-      "label": "Flowers & Vases (All)",
-      "handle": "flowers-vases",
-      "url": "https://arowonen.com/collections/flowers-vases",
-      "product_count": 431,
-      "file": "collections/flowers-vases.json"
-    },
-    {
-      "label": "Flowers & Plants",
+      "label": "FLOWERS & PLANTS",
       "handle": "artificial-flowers-plants",
       "url": "https://arowonen.com/collections/artificial-flowers-plants",
+      "shopify_product_count": 214,
       "product_count": 76,
+      "in_nav": true,
       "file": "collections/artificial-flowers-plants.json"
     },
     {
-      "label": "Vases",
-      "handle": "vases",
-      "url": "https://arowonen.com/collections/vases",
-      "product_count": 348,
-      "file": "collections/vases.json"
+      "label": "FLOWERS & VASES",
+      "handle": "flowers-vases",
+      "url": "https://arowonen.com/collections/flowers-vases",
+      "shopify_product_count": 685,
+      "product_count": 431,
+      "in_nav": true,
+      "file": "collections/flowers-vases.json"
     },
     {
-      "label": "Planters",
-      "handle": "pots-big-vases",
-      "url": "https://arowonen.com/collections/pots-big-vases",
-      "product_count": 27,
-      "file": "collections/pots-big-vases.json"
+      "label": "FRAGRANCE ACCESSORIES",
+      "handle": "fragrance-accessories",
+      "url": "https://arowonen.com/collections/fragrance-accessories",
+      "shopify_product_count": 194,
+      "product_count": 131,
+      "in_nav": true,
+      "file": "collections/fragrance-accessories.json"
     },
     {
-      "label": "Outdoor (All)",
+      "label": "FURNITURE",
+      "handle": "furniture",
+      "url": "https://arowonen.com/collections/furniture",
+      "shopify_product_count": 978,
+      "product_count": 722,
+      "in_nav": true,
+      "file": "collections/furniture.json"
+    },
+    {
+      "label": "GALLOTTI & RADICE",
+      "handle": "gallotti-radice",
+      "url": "https://arowonen.com/collections/gallotti-radice",
+      "shopify_product_count": 4,
+      "product_count": 2,
+      "in_nav": false,
+      "file": "collections/gallotti-radice.json"
+    },
+    {
+      "label": "GAMES",
+      "handle": "games",
+      "url": "https://arowonen.com/collections/games",
+      "shopify_product_count": 60,
+      "product_count": 40,
+      "in_nav": true,
+      "file": "collections/games.json"
+    },
+    {
+      "label": "GIFTCARD",
+      "handle": "giftcard",
+      "url": "https://arowonen.com/collections/giftcard",
+      "shopify_product_count": 1,
+      "product_count": 1,
+      "in_nav": false,
+      "file": "collections/giftcard.json"
+    },
+    {
+      "label": "HEADBOARDS & BEDS",
+      "handle": "beds",
+      "url": "https://arowonen.com/collections/beds",
+      "shopify_product_count": 40,
+      "product_count": 33,
+      "in_nav": true,
+      "file": "collections/beds.json"
+    },
+    {
+      "label": "HOME ACCESSORIES",
+      "handle": "decor-accessories",
+      "url": "https://arowonen.com/collections/decor-accessories",
+      "shopify_product_count": 2329,
+      "product_count": 1493,
+      "in_nav": true,
+      "file": "collections/decor-accessories.json"
+    },
+    {
+      "label": "HOME OFFICE",
+      "handle": "home-office",
+      "url": "https://arowonen.com/collections/home-office",
+      "shopify_product_count": 25,
+      "product_count": 25,
+      "in_nav": true,
+      "file": "collections/home-office.json"
+    },
+    {
+      "label": "LEISURE",
+      "handle": "leisure",
+      "url": "https://arowonen.com/collections/leisure",
+      "shopify_product_count": 11,
+      "product_count": 11,
+      "in_nav": true,
+      "file": "collections/leisure.json"
+    },
+    {
+      "label": "LIGHTING",
+      "handle": "lighting",
+      "url": "https://arowonen.com/collections/lighting",
+      "shopify_product_count": 716,
+      "product_count": 605,
+      "in_nav": true,
+      "file": "collections/lighting.json"
+    },
+    {
+      "label": "LIMITED EDITION",
+      "handle": "limited-edition",
+      "url": "https://arowonen.com/collections/limited-edition",
+      "shopify_product_count": 1,
+      "product_count": 0,
+      "in_nav": false,
+      "file": "collections/limited-edition.json"
+    },
+    {
+      "label": "LIMITED EDITIONS",
+      "handle": "special-edditions",
+      "url": "https://arowonen.com/collections/special-edditions",
+      "shopify_product_count": 10,
+      "product_count": 7,
+      "in_nav": true,
+      "file": "collections/special-edditions.json"
+    },
+    {
+      "label": "LINEAR SOFAS",
+      "handle": "linear-sofas",
+      "url": "https://arowonen.com/collections/linear-sofas",
+      "shopify_product_count": 24,
+      "product_count": 24,
+      "in_nav": true,
+      "file": "collections/linear-sofas.json"
+    },
+    {
+      "label": "LIVING SYSTEMS & BOOKSHELVES",
+      "handle": "living-systems-bookshelves",
+      "url": "https://arowonen.com/collections/living-systems-bookshelves",
+      "shopify_product_count": 8,
+      "product_count": 8,
+      "in_nav": true,
+      "file": "collections/living-systems-bookshelves.json"
+    },
+    {
+      "label": "LONDONART",
+      "handle": "londonart",
+      "url": "https://arowonen.com/collections/londonart",
+      "shopify_product_count": 2,
+      "product_count": 2,
+      "in_nav": false,
+      "file": "collections/londonart.json"
+    },
+    {
+      "label": "MIRRORS",
+      "handle": "mirrors",
+      "url": "https://arowonen.com/collections/mirrors",
+      "shopify_product_count": 120,
+      "product_count": 84,
+      "in_nav": true,
+      "file": "collections/mirrors.json"
+    },
+    {
+      "label": "MODULAR SOFAS",
+      "handle": "modular-sofas",
+      "url": "https://arowonen.com/collections/modular-sofas",
+      "shopify_product_count": 50,
+      "product_count": 40,
+      "in_nav": true,
+      "file": "collections/modular-sofas.json"
+    },
+    {
+      "label": "MOST SEARCHED FOR",
+      "handle": "most-searched-for",
+      "url": "https://arowonen.com/collections/most-searched-for",
+      "shopify_product_count": 53,
+      "product_count": 12,
+      "in_nav": false,
+      "file": "collections/most-searched-for.json"
+    },
+    {
+      "label": "NEW ARRIVALS",
+      "handle": "new-arrivals-1",
+      "url": "https://arowonen.com/collections/new-arrivals-1",
+      "shopify_product_count": 876,
+      "product_count": 519,
+      "in_nav": true,
+      "file": "collections/new-arrivals-1.json"
+    },
+    {
+      "label": "NIGHTSTANDS",
+      "handle": "night-stands",
+      "url": "https://arowonen.com/collections/night-stands",
+      "shopify_product_count": 49,
+      "product_count": 40,
+      "in_nav": true,
+      "file": "collections/night-stands.json"
+    },
+    {
+      "label": "NON-SALE Items",
+      "handle": "non-sale-items",
+      "url": "https://arowonen.com/collections/non-sale-items",
+      "shopify_product_count": 7900,
+      "product_count": 5328,
+      "in_nav": false,
+      "file": "collections/non-sale-items.json"
+    },
+    {
+      "label": "OBJECTS",
+      "handle": "objects",
+      "url": "https://arowonen.com/collections/objects",
+      "shopify_product_count": 705,
+      "product_count": 443,
+      "in_nav": true,
+      "file": "collections/objects.json"
+    },
+    {
+      "label": "OFFICE CHAIRS",
+      "handle": "office-chairs",
+      "url": "https://arowonen.com/collections/office-chairs",
+      "shopify_product_count": 6,
+      "product_count": 6,
+      "in_nav": true,
+      "file": "collections/office-chairs.json"
+    },
+    {
+      "label": "OTTOMANS",
+      "handle": "ottomans",
+      "url": "https://arowonen.com/collections/ottomans",
+      "shopify_product_count": 12,
+      "product_count": 12,
+      "in_nav": true,
+      "file": "collections/ottomans.json"
+    },
+    {
+      "label": "Our Best Sellers",
+      "handle": "our-best-sellers",
+      "url": "https://arowonen.com/collections/our-best-sellers",
+      "shopify_product_count": 783,
+      "product_count": 395,
+      "in_nav": false,
+      "file": "collections/our-best-sellers.json"
+    },
+    {
+      "label": "OUTDOOR ACCESSORIES",
+      "handle": "outdoor-accessories",
+      "url": "https://arowonen.com/collections/outdoor-accessories",
+      "shopify_product_count": 8,
+      "product_count": 2,
+      "in_nav": true,
+      "file": "collections/outdoor-accessories.json"
+    },
+    {
+      "label": "OUTDOOR ARM CHAIRS",
+      "handle": "outdoor-arm-chairs",
+      "url": "https://arowonen.com/collections/outdoor-arm-chairs",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-arm-chairs.json"
+    },
+    {
+      "label": "OUTDOOR BENCHES",
+      "handle": "outdoor-benches",
+      "url": "https://arowonen.com/collections/outdoor-benches",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-benches.json"
+    },
+    {
+      "label": "OUTDOOR CARPETS & RUGS",
+      "handle": "outdoor-carpets",
+      "url": "https://arowonen.com/collections/outdoor-carpets",
+      "shopify_product_count": 3,
+      "product_count": 3,
+      "in_nav": true,
+      "file": "collections/outdoor-carpets.json"
+    },
+    {
+      "label": "OUTDOOR CHAIRS",
+      "handle": "outdoor-chairs",
+      "url": "https://arowonen.com/collections/outdoor-chairs",
+      "shopify_product_count": 38,
+      "product_count": 31,
+      "in_nav": true,
+      "file": "collections/outdoor-chairs.json"
+    },
+    {
+      "label": "OUTDOOR COFFEE TABLE",
+      "handle": "outdoor-coffee-table",
+      "url": "https://arowonen.com/collections/outdoor-coffee-table",
+      "shopify_product_count": 24,
+      "product_count": 12,
+      "in_nav": true,
+      "file": "collections/outdoor-coffee-table.json"
+    },
+    {
+      "label": "OUTDOOR COLLECTION",
       "handle": "outdoor-collection",
       "url": "https://arowonen.com/collections/outdoor-collection",
+      "shopify_product_count": 142,
       "product_count": 101,
+      "in_nav": true,
       "file": "collections/outdoor-collection.json"
     },
     {
-      "label": "Outdoor Sofas",
-      "handle": "outdoor-sofas-daybeds",
-      "url": "https://arowonen.com/collections/outdoor-sofas-daybeds",
-      "product_count": 27,
-      "file": "collections/outdoor-sofas-daybeds.json"
+      "label": "Outdoor Corner  & Modular Sofas",
+      "handle": "outdoor-corner-sofas",
+      "url": "https://arowonen.com/collections/outdoor-corner-sofas",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-corner-sofas.json"
+    },
+    {
+      "label": "OUTDOOR DAYBEDS",
+      "handle": "outdoor-daybeds",
+      "url": "https://arowonen.com/collections/outdoor-daybeds",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-daybeds.json"
+    },
+    {
+      "label": "OUTDOOR DAYBEDS & SUNBEDS",
+      "handle": "outdoor-daybeds-sunbeds",
+      "url": "https://arowonen.com/collections/outdoor-daybeds-sunbeds",
+      "shopify_product_count": 8,
+      "product_count": 6,
+      "in_nav": true,
+      "file": "collections/outdoor-daybeds-sunbeds.json"
+    },
+    {
+      "label": "OUTDOOR DINING CHAIRS",
+      "handle": "outdoor-dining-chairs",
+      "url": "https://arowonen.com/collections/outdoor-dining-chairs",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-dining-chairs.json"
+    },
+    {
+      "label": "OUTDOOR DINING TABLES",
+      "handle": "outdoor-dining-tables",
+      "url": "https://arowonen.com/collections/outdoor-dining-tables",
+      "shopify_product_count": 7,
+      "product_count": 5,
+      "in_nav": true,
+      "file": "collections/outdoor-dining-tables.json"
+    },
+    {
+      "label": "OUTDOOR LIGHTING",
+      "handle": "outdoor-lighting",
+      "url": "https://arowonen.com/collections/outdoor-lighting",
+      "shopify_product_count": 0,
+      "product_count": 0,
+      "in_nav": true,
+      "file": "collections/outdoor-lighting.json"
     },
     {
       "label": "Outdoor Linear Sofas",
       "handle": "outdoor-linear-sofas",
       "url": "https://arowonen.com/collections/outdoor-linear-sofas",
+      "shopify_product_count": 1,
       "product_count": 1,
+      "in_nav": true,
       "file": "collections/outdoor-linear-sofas.json"
     },
     {
-      "label": "Outdoor Corner & Modular Sofas",
-      "handle": "outdoor-corner-sofas",
-      "url": "https://arowonen.com/collections/outdoor-corner-sofas",
-      "product_count": 0,
-      "file": "collections/outdoor-corner-sofas.json"
-    },
-    {
-      "label": "Outdoor Ottomans",
+      "label": "OUTDOOR OTTOMANS",
       "handle": "outdoor-ottomans",
       "url": "https://arowonen.com/collections/outdoor-ottomans",
+      "shopify_product_count": 0,
       "product_count": 0,
+      "in_nav": true,
       "file": "collections/outdoor-ottomans.json"
     },
     {
-      "label": "Outdoor Benches",
-      "handle": "outdoor-benches",
-      "url": "https://arowonen.com/collections/outdoor-benches",
-      "product_count": 0,
-      "file": "collections/outdoor-benches.json"
-    },
-    {
-      "label": "Outdoor Poufs",
+      "label": "OUTDOOR POUFS",
       "handle": "outdoor-poufs",
       "url": "https://arowonen.com/collections/outdoor-poufs",
+      "shopify_product_count": 0,
       "product_count": 0,
+      "in_nav": true,
       "file": "collections/outdoor-poufs.json"
     },
     {
-      "label": "Outdoor Daybeds & Sunbeds",
-      "handle": "outdoor-daybeds-sunbeds",
-      "url": "https://arowonen.com/collections/outdoor-daybeds-sunbeds",
-      "product_count": 6,
-      "file": "collections/outdoor-daybeds-sunbeds.json"
-    },
-    {
-      "label": "Outdoor Daybeds",
-      "handle": "outdoor-daybeds",
-      "url": "https://arowonen.com/collections/outdoor-daybeds",
-      "product_count": 0,
-      "file": "collections/outdoor-daybeds.json"
-    },
-    {
-      "label": "Outdoor Sunbeds",
-      "handle": "outdoor-sunbeds",
-      "url": "https://arowonen.com/collections/outdoor-sunbeds",
-      "product_count": 3,
-      "file": "collections/outdoor-sunbeds.json"
-    },
-    {
-      "label": "Outdoor Chairs (All)",
-      "handle": "outdoor-chairs",
-      "url": "https://arowonen.com/collections/outdoor-chairs",
-      "product_count": 31,
-      "file": "collections/outdoor-chairs.json"
-    },
-    {
-      "label": "Outdoor Dining Chairs",
-      "handle": "outdoor-dining-chairs",
-      "url": "https://arowonen.com/collections/outdoor-dining-chairs",
-      "product_count": 0,
-      "file": "collections/outdoor-dining-chairs.json"
-    },
-    {
-      "label": "Outdoor Armchairs",
-      "handle": "outdoor-arm-chairs",
-      "url": "https://arowonen.com/collections/outdoor-arm-chairs",
-      "product_count": 0,
-      "file": "collections/outdoor-arm-chairs.json"
-    },
-    {
-      "label": "Outdoor Tables (All)",
-      "handle": "outdoor-tables",
-      "url": "https://arowonen.com/collections/outdoor-tables",
-      "product_count": 3,
-      "file": "collections/outdoor-tables.json"
-    },
-    {
-      "label": "Outdoor Coffee Tables",
-      "handle": "outdoor-coffee-table",
-      "url": "https://arowonen.com/collections/outdoor-coffee-table",
-      "product_count": 12,
-      "file": "collections/outdoor-coffee-table.json"
-    },
-    {
-      "label": "Outdoor Side Tables",
+      "label": "OUTDOOR SIDE TABLES",
       "handle": "outdoor-side-tables",
       "url": "https://arowonen.com/collections/outdoor-side-tables",
+      "shopify_product_count": 0,
       "product_count": 0,
+      "in_nav": true,
       "file": "collections/outdoor-side-tables.json"
     },
     {
-      "label": "Outdoor Dining Tables",
-      "handle": "outdoor-dining-tables",
-      "url": "https://arowonen.com/collections/outdoor-dining-tables",
-      "product_count": 5,
-      "file": "collections/outdoor-dining-tables.json"
+      "label": "OUTDOOR SOFAS | DAYBEDS",
+      "handle": "outdoor-sofas-daybeds",
+      "url": "https://arowonen.com/collections/outdoor-sofas-daybeds",
+      "shopify_product_count": 42,
+      "product_count": 27,
+      "in_nav": true,
+      "file": "collections/outdoor-sofas-daybeds.json"
     },
     {
-      "label": "Outdoor Carpets & Rugs",
-      "handle": "outdoor-carpets",
-      "url": "https://arowonen.com/collections/outdoor-carpets",
+      "label": "OUTDOOR SUNBEDS",
+      "handle": "outdoor-sunbeds",
+      "url": "https://arowonen.com/collections/outdoor-sunbeds",
+      "shopify_product_count": 3,
       "product_count": 3,
-      "file": "collections/outdoor-carpets.json"
+      "in_nav": true,
+      "file": "collections/outdoor-sunbeds.json"
     },
     {
-      "label": "Outdoor Accessories",
-      "handle": "outdoor-accessories",
-      "url": "https://arowonen.com/collections/outdoor-accessories",
-      "product_count": 2,
-      "file": "collections/outdoor-accessories.json"
+      "label": "OUTDOOR TABLES",
+      "handle": "outdoor-tables",
+      "url": "https://arowonen.com/collections/outdoor-tables",
+      "shopify_product_count": 3,
+      "product_count": 3,
+      "in_nav": true,
+      "file": "collections/outdoor-tables.json"
     },
     {
-      "label": "Outdoor Lighting",
-      "handle": "outdoor-lighting",
-      "url": "https://arowonen.com/collections/outdoor-lighting",
+      "label": "PICTURE FRAMES",
+      "handle": "picture-frames",
+      "url": "https://arowonen.com/collections/picture-frames",
+      "shopify_product_count": 105,
+      "product_count": 94,
+      "in_nav": true,
+      "file": "collections/picture-frames.json"
+    },
+    {
+      "label": "PLAIDS",
+      "handle": "plaids",
+      "url": "https://arowonen.com/collections/plaids",
+      "shopify_product_count": 8,
+      "product_count": 5,
+      "in_nav": true,
+      "file": "collections/plaids.json"
+    },
+    {
+      "label": "PLANTERS",
+      "handle": "pots-big-vases",
+      "url": "https://arowonen.com/collections/pots-big-vases",
+      "shopify_product_count": 43,
+      "product_count": 27,
+      "in_nav": true,
+      "file": "collections/pots-big-vases.json"
+    },
+    {
+      "label": "POUF",
+      "handle": "pouf",
+      "url": "https://arowonen.com/collections/pouf",
+      "shopify_product_count": 22,
+      "product_count": 21,
+      "in_nav": true,
+      "file": "collections/pouf.json"
+    },
+    {
+      "label": "REFILLS",
+      "handle": "refills",
+      "url": "https://arowonen.com/collections/refills",
+      "shopify_product_count": 55,
+      "product_count": 40,
+      "in_nav": true,
+      "file": "collections/refills.json"
+    },
+    {
+      "label": "RON SIMPSON",
+      "handle": "ron-simpson",
+      "url": "https://arowonen.com/collections/ron-simpson",
+      "shopify_product_count": 1,
+      "product_count": 1,
+      "in_nav": false,
+      "file": "collections/ron-simpson.json"
+    },
+    {
+      "label": "ROOM SPRAYS",
+      "handle": "home-sprays",
+      "url": "https://arowonen.com/collections/home-sprays",
+      "shopify_product_count": 47,
+      "product_count": 45,
+      "in_nav": true,
+      "file": "collections/home-sprays.json"
+    },
+    {
+      "label": "SCENTED CANDLES",
+      "handle": "scented-candles",
+      "url": "https://arowonen.com/collections/scented-candles",
+      "shopify_product_count": 282,
+      "product_count": 154,
+      "in_nav": true,
+      "file": "collections/scented-candles.json"
+    },
+    {
+      "label": "Seasonal Decor",
+      "handle": "seasonal-decor",
+      "url": "https://arowonen.com/collections/seasonal-decor",
+      "shopify_product_count": 5,
       "product_count": 0,
-      "file": "collections/outdoor-lighting.json"
+      "in_nav": false,
+      "file": "collections/seasonal-decor.json"
+    },
+    {
+      "label": "SELMA OMARI",
+      "handle": "selma-omari",
+      "url": "https://arowonen.com/collections/selma-omari",
+      "shopify_product_count": 15,
+      "product_count": 12,
+      "in_nav": false,
+      "file": "collections/selma-omari.json"
+    },
+    {
+      "label": "SIDE TABLES",
+      "handle": "side-tables",
+      "url": "https://arowonen.com/collections/side-tables",
+      "shopify_product_count": 75,
+      "product_count": 74,
+      "in_nav": true,
+      "file": "collections/side-tables.json"
+    },
+    {
+      "label": "SINGLE UNITS",
+      "handle": "single-units",
+      "url": "https://arowonen.com/collections/single-units",
+      "shopify_product_count": 12,
+      "product_count": 12,
+      "in_nav": true,
+      "file": "collections/single-units.json"
+    },
+    {
+      "label": "SOFAS | OTTOMANS",
+      "handle": "sofas",
+      "url": "https://arowonen.com/collections/sofas",
+      "shopify_product_count": 81,
+      "product_count": 73,
+      "in_nav": true,
+      "file": "collections/sofas.json"
+    },
+    {
+      "label": "SPECIAL GIFTS",
+      "handle": "special-gifts-1",
+      "url": "https://arowonen.com/collections/special-gifts-1",
+      "shopify_product_count": 128,
+      "product_count": 116,
+      "in_nav": false,
+      "file": "collections/special-gifts-1.json"
+    },
+    {
+      "label": "STATEMENT ITEMS & SCULPTURES",
+      "handle": "objects-sculptures",
+      "url": "https://arowonen.com/collections/objects-sculptures",
+      "shopify_product_count": 88,
+      "product_count": 72,
+      "in_nav": false,
+      "file": "collections/objects-sculptures.json"
+    },
+    {
+      "label": "STOOLS & BENCHES",
+      "handle": "stools-benches",
+      "url": "https://arowonen.com/collections/stools-benches",
+      "shopify_product_count": 38,
+      "product_count": 19,
+      "in_nav": false,
+      "file": "collections/stools-benches.json"
+    },
+    {
+      "label": "TABLES",
+      "handle": "tables-desks",
+      "url": "https://arowonen.com/collections/tables-desks",
+      "shopify_product_count": 277,
+      "product_count": 232,
+      "in_nav": true,
+      "file": "collections/tables-desks.json"
+    },
+    {
+      "label": "TABLETOP ACCENTS",
+      "handle": "tabletop-accents",
+      "url": "https://arowonen.com/collections/tabletop-accents",
+      "shopify_product_count": 35,
+      "product_count": 35,
+      "in_nav": true,
+      "file": "collections/tabletop-accents.json"
+    },
+    {
+      "label": "THE TRAVEL SERIES",
+      "handle": "travel-series",
+      "url": "https://arowonen.com/collections/travel-series",
+      "shopify_product_count": 63,
+      "product_count": 61,
+      "in_nav": true,
+      "file": "collections/travel-series.json"
+    },
+    {
+      "label": "THE ULTIMATE COLLECTION",
+      "handle": "the-ultimate-collection",
+      "url": "https://arowonen.com/collections/the-ultimate-collection",
+      "shopify_product_count": 32,
+      "product_count": 20,
+      "in_nav": true,
+      "file": "collections/the-ultimate-collection.json"
+    },
+    {
+      "label": "TOTEMS & DIFFUSERS",
+      "handle": "totems-diffusers",
+      "url": "https://arowonen.com/collections/totems-diffusers",
+      "shopify_product_count": 232,
+      "product_count": 166,
+      "in_nav": true,
+      "file": "collections/totems-diffusers.json"
+    },
+    {
+      "label": "TRAYS",
+      "handle": "trays-servings",
+      "url": "https://arowonen.com/collections/trays-servings",
+      "shopify_product_count": 78,
+      "product_count": 58,
+      "in_nav": true,
+      "file": "collections/trays-servings.json"
+    },
+    {
+      "label": "TRAYS & COASTERS",
+      "handle": "coasters",
+      "url": "https://arowonen.com/collections/coasters",
+      "shopify_product_count": 148,
+      "product_count": 107,
+      "in_nav": true,
+      "file": "collections/coasters.json"
+    },
+    {
+      "label": "TROLLEYS & BARS",
+      "handle": "trolleys-bars",
+      "url": "https://arowonen.com/collections/trolleys-bars",
+      "shopify_product_count": 23,
+      "product_count": 14,
+      "in_nav": true,
+      "file": "collections/trolleys-bars.json"
+    },
+    {
+      "label": "VANITY",
+      "handle": "vanity",
+      "url": "https://arowonen.com/collections/vanity",
+      "shopify_product_count": 8,
+      "product_count": 8,
+      "in_nav": true,
+      "file": "collections/vanity.json"
+    },
+    {
+      "label": "VASES",
+      "handle": "vases",
+      "url": "https://arowonen.com/collections/vases",
+      "shopify_product_count": 464,
+      "product_count": 348,
+      "in_nav": true,
+      "file": "collections/vases.json"
+    },
+    {
+      "label": "WADROBES & WALK IN CLOSETS",
+      "handle": "closets",
+      "url": "https://arowonen.com/collections/closets",
+      "shopify_product_count": 15,
+      "product_count": 15,
+      "in_nav": true,
+      "file": "collections/closets.json"
+    },
+    {
+      "label": "WALL LAMPS",
+      "handle": "table-lamps-floor-lamps",
+      "url": "https://arowonen.com/collections/table-lamps-floor-lamps",
+      "shopify_product_count": 130,
+      "product_count": 85,
+      "in_nav": true,
+      "file": "collections/table-lamps-floor-lamps.json"
+    },
+    {
+      "label": "WALLPAPER",
+      "handle": "wallpaper",
+      "url": "https://arowonen.com/collections/wallpaper",
+      "shopify_product_count": 33,
+      "product_count": 22,
+      "in_nav": true,
+      "file": "collections/wallpaper.json"
+    },
+    {
+      "label": "WATCH ACCESSORIES",
+      "handle": "watch-winders",
+      "url": "https://arowonen.com/collections/watch-winders",
+      "shopify_product_count": 202,
+      "product_count": 183,
+      "in_nav": true,
+      "file": "collections/watch-winders.json"
     }
   ]
 }

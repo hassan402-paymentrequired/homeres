@@ -1,8 +1,9 @@
 {
   "handle": "trays-servings",
-  "label": "Trays",
+  "label": "TRAYS",
   "url": "https://arowonen.com/collections/trays-servings",
-  "scraped_at": "2026-05-22T15:58:57.197Z",
+  "scraped_at": "2026-05-25T19:10:12.681Z",
+  "shopify_product_count": 78,
   "product_count": 58,
   "products": [
     {
@@ -24,7 +25,7 @@
         "X-Mas"
       ],
       "created_at": "2026-02-21T16:33:32+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-21T16:58:26+01:00",
       "available": true,
       "price_min": 357,
@@ -79,7 +80,7 @@
         "TRAYS"
       ],
       "created_at": "2026-02-07T12:57:29+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-08T13:55:40+01:00",
       "available": true,
       "price_min": 245,
@@ -148,7 +149,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T13:15:40+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-11T21:54:14+01:00",
       "available": true,
       "price_min": 370,
@@ -224,7 +225,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T13:11:04+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-11T21:54:13+01:00",
       "available": true,
       "price_min": 410,
@@ -312,7 +313,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:47:26+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-11T21:54:12+01:00",
       "available": true,
       "price_min": 380,
@@ -394,7 +395,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:41:50+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-11T21:54:10+01:00",
       "available": true,
       "price_min": 380,
@@ -469,7 +470,7 @@
         "X-Mas"
       ],
       "created_at": "2026-01-24T12:35:45+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-02-11T21:54:09+01:00",
       "available": true,
       "price_min": 1180,
@@ -547,7 +548,7 @@
         "TRAYS"
       ],
       "created_at": "2025-10-12T08:57:12+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-10-18T10:46:40+02:00",
       "available": true,
       "price_min": 195,
@@ -640,7 +641,7 @@
         "X-Mas"
       ],
       "created_at": "2025-10-12T08:54:55+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-10-18T10:46:38+02:00",
       "available": true,
       "price_min": 195,
@@ -727,7 +728,7 @@
         "X-Mas"
       ],
       "created_at": "2025-10-12T08:52:31+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-10-18T10:46:35+02:00",
       "available": true,
       "price_min": 165,
@@ -811,7 +812,7 @@
         "TRAYS"
       ],
       "created_at": "2025-10-11T11:53:49+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-10-18T10:46:33+02:00",
       "available": true,
       "price_min": 165,
@@ -895,7 +896,7 @@
         "TRAYS"
       ],
       "created_at": "2025-09-05T13:32:28+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-09-17T19:36:44+02:00",
       "available": true,
       "price_min": 60,
@@ -976,7 +977,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-09-05T12:37:38+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-09-11T13:20:19+02:00",
       "available": true,
       "price_min": 357,
@@ -1047,7 +1048,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T14:55:27+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:25:52+02:00",
       "available": true,
       "price_min": 625,
@@ -1084,13 +1085,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB006b_1400x_ed9b38f8-4662-4fb4-b191-683fdeaa9dae.webp?v=1755781000",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life__0004_kb_A3_9_6k_1400x_4da43b7e-404c-4869-bf1c-15904402b21e.webp?v=1755781002",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life__0004_kb_A3_9_6k_1400x_4da43b7e-404c-4869-bf1c-15904402b21e.webp?v=1755781002",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB006b_1400x_ed9b38f8-4662-4fb4-b191-683fdeaa9dae.webp?v=1755781000",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -1112,7 +1113,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T14:53:29+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:25:49+02:00",
       "available": true,
       "price_min": 1450,
@@ -1171,7 +1172,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T14:50:45+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:25:47+02:00",
       "available": true,
       "price_min": 1450,
@@ -1208,13 +1209,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DE1001b_1400x_025b1343-753a-4c67-a390-efe1c3ec1e4e.webp?v=1755780719",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_dedale_02_1400x_489233ce-99b3-4d8c-9490-9f70cb1c0f10.webp?v=1755780719",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SoieBk_Breakfast_0040_1400x_69f37f85-e1ae-4c3a-ae44-682575ffa69b.webp?v=1755780719",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -1226,7 +1221,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SoieBk_Breakfast_0040_1400x_69f37f85-e1ae-4c3a-ae44-682575ffa69b.webp?v=1755780719",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DE1001b_1400x_025b1343-753a-4c67-a390-efe1c3ec1e4e.webp?v=1755780719",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_dedale_02_1400x_489233ce-99b3-4d8c-9490-9f70cb1c0f10.webp?v=1755780719",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -1248,7 +1249,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T14:40:21+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:25:44+02:00",
       "available": true,
       "price_min": 1275,
@@ -1313,7 +1314,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T12:32:03+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:25+02:00",
       "available": true,
       "price_min": 225,
@@ -1366,7 +1367,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T12:29:00+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:23+02:00",
       "available": true,
       "price_min": 145,
@@ -1419,7 +1420,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T12:17:49+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:17+02:00",
       "available": true,
       "price_min": 145,
@@ -1454,6 +1455,12 @@
           "alt": null,
           "width": 1400,
           "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_lapis_14_1400x_c3fd3e66-c5ff-49d6-9597-b3e384c22a07.webp?v=1779630985",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC117_1400x_7572ca9e-ef5e-4209-9144-fede706a07d3.webp?v=1755771397",
@@ -1472,7 +1479,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T12:15:50+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:15+02:00",
       "available": true,
       "price_min": 225,
@@ -1507,6 +1514,12 @@
           "alt": null,
           "width": 1400,
           "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_lapis_11_1400x_ba8962e3-163e-4079-958a-a8d3c89bd23b.webp?v=1779631046",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC114_1400x_c3578aa4-7fa3-4491-94ac-25e6291c03a1.webp?v=1755771546",
@@ -1525,7 +1538,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-21T12:09:21+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:10+02:00",
       "available": true,
       "price_min": 165,
@@ -1590,7 +1603,7 @@
         "TRAYS"
       ],
       "created_at": "2025-08-21T12:05:11+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:24:04+02:00",
       "available": true,
       "price_min": 250,
@@ -1656,7 +1669,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-18T14:19:56+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-26T13:20:57+02:00",
       "available": true,
       "price_min": 1825,
@@ -1734,7 +1747,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-09T10:07:28+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-12T12:25:14+02:00",
       "available": true,
       "price_min": 990,
@@ -1803,7 +1816,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T18:04:35+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-12T12:16:54+02:00",
       "available": true,
       "price_min": 1050,
@@ -1878,7 +1891,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T17:58:31+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-12T12:16:43+02:00",
       "available": true,
       "price_min": 490,
@@ -1950,7 +1963,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-02T15:03:22+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-02T15:07:21+02:00",
       "available": true,
       "price_min": 395,
@@ -2034,7 +2047,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-02T15:00:41+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-08-02T15:02:32+02:00",
       "available": true,
       "price_min": 395,
@@ -2125,7 +2138,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-04-11T16:56:40+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-04-11T16:58:46+02:00",
       "available": true,
       "price_min": 695,
@@ -2209,7 +2222,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-03-01T16:34:53+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-01T16:35:54+01:00",
       "available": true,
       "price_min": 109,
@@ -2287,7 +2300,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-03-01T16:31:08+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-01T16:34:00+01:00",
       "available": true,
       "price_min": 219,
@@ -2365,7 +2378,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-03-01T16:30:16+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-01T16:33:02+01:00",
       "available": true,
       "price_min": 165,
@@ -2441,7 +2454,7 @@
         "X-Mas"
       ],
       "created_at": "2024-11-10T13:57:39+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:31:24+01:00",
       "available": true,
       "price_min": 625,
@@ -2535,7 +2548,7 @@
         "X-Mas"
       ],
       "created_at": "2024-11-10T13:35:34+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:31:24+01:00",
       "available": true,
       "price_min": 514,
@@ -2629,7 +2642,7 @@
         "X-Mas"
       ],
       "created_at": "2024-11-10T13:15:11+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:31:25+01:00",
       "available": true,
       "price_min": 575,
@@ -2717,7 +2730,7 @@
         "X-Mas"
       ],
       "created_at": "2024-11-10T12:56:20+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:31:25+01:00",
       "available": true,
       "price_min": 506,
@@ -2795,7 +2808,7 @@
         "TRAYS"
       ],
       "created_at": "2024-10-24T18:24:15+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-09-10T16:14:09+02:00",
       "available": true,
       "price_min": 303,
@@ -2861,7 +2874,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-10-24T18:19:34+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-09-10T16:15:51+02:00",
       "available": true,
       "price_min": 117,
@@ -2926,7 +2939,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-10-18T13:41:42+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-21T14:31:50+02:00",
       "available": true,
       "price_min": 600,
@@ -2997,7 +3010,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-10-18T13:40:25+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-21T14:31:52+02:00",
       "available": true,
       "price_min": 930,
@@ -3061,7 +3074,7 @@
         "TRAYS"
       ],
       "created_at": "2024-06-29T15:43:27+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-06-29T15:44:47+02:00",
       "available": true,
       "price_min": 245,
@@ -3121,7 +3134,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:11:40+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-05T16:55:34+02:00",
       "available": true,
       "price_min": 550,
@@ -3175,7 +3188,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:10:13+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-05T16:55:53+02:00",
       "available": true,
       "price_min": 575,
@@ -3229,7 +3242,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:09:07+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-05T16:56:15+02:00",
       "available": true,
       "price_min": 230,
@@ -3283,7 +3296,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T13:50:07+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-06-05T16:56:46+02:00",
       "available": true,
       "price_min": 150,
@@ -3337,7 +3350,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-05-13T16:25:39+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-05-13T16:30:57+02:00",
       "available": true,
       "price_min": 395,
@@ -3368,32 +3381,38 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_0_1_1.webp?v=1715610517",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_0_1_1_9a8f4eeb-26d8-471e-985e-075e4880baaa.webp?v=1779547772",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_4_1_1.webp?v=1715610608",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_1_1_1.jpg?v=1779547773",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_2_1_1.webp?v=1715610608",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_3_1_1.jpg?v=1779547773",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_3_1_1.webp?v=1715610516",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_2_1_1.jpg?v=1779547773",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_4_1_1.jpg?v=1779547774",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_0_1_1.webp?v=1715610517",
-      "description_html": "<p class=\"text-special-sm\">Experience the timeless charm of Eichholtz's Tray Salvi Round, a signature piece that exudes sophistication.</p>\n<p class=\"text-special-sm\"><span>This round serving accessory, with its vintage brass finish and mirrored glass, is a testament to intricate detailing and superior craftsmanship. The Tray Salvi Round, whether used as a centrepiece or a serving tray, is more than just a decorative piece; it's a luxurious statement that elevates your living space with its captivating beauty.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<p><span class=\"dimension-value\">Ø 45 | H. 7 cm</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><meta charset=\"utf-8\"><span>General info: <meta charset=\"utf-8\">Vintage brass finish | mirror glass<br>Indoor/ outdoor: Indoor use/ dry locations only<meta charset=\"utf-8\"></span></p>\n</div>\n</div>"
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118238_0_1_1_9a8f4eeb-26d8-471e-985e-075e4880baaa.webp?v=1779547772",
+      "description_html": "<p class=\"text-special-sm\">Experience the timeless charm of Eichholtz's Tray Salvi Round, a signature piece that exudes sophistication.</p>\n<p class=\"text-special-sm\"><span>This round serving accessory, with its vintage brass finish and mirrored glass, is a testament to intricate detailing and superior craftsmanship. The Tray Salvi Round, whether used as a centrepiece or a serving tray, is more than just a decorative piece; it's a luxurious statement that elevates your living space with its captivating beauty.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><span class=\"dimension-value\">Ø 45 | H. 7 cm</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p><meta charset=\"utf-8\"><span>General info: <meta charset=\"utf-8\">Vintage brass finish | mirror glass<br>Indoor/ outdoor: Indoor use/ dry locations only<meta charset=\"utf-8\"></span></p>\n</div>\n</div>"
     },
     {
       "id": 9006622474572,
@@ -3409,7 +3428,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-05-10T16:06:58+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-05-10T16:12:16+02:00",
       "available": true,
       "price_min": 595,
@@ -3441,6 +3460,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118237_0_1_1.webp?v=1715350327",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118237_1_1_1.webp?v=1779549406",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -3487,7 +3512,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-05-10T15:55:49+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-05-10T16:02:49+02:00",
       "available": true,
       "price_min": 595,
@@ -3519,6 +3544,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118236_0_1_1.webp?v=1715349605",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118236_1_1_1.webp?v=1779549499",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -3559,7 +3590,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-04-08T12:30:13+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-04-08T12:33:28+02:00",
       "available": true,
       "price_min": 995,
@@ -3625,7 +3656,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-04-08T12:26:14+02:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2024-04-08T12:29:34+02:00",
       "available": true,
       "price_min": 495,
@@ -3662,6 +3693,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115720_1_1_1.webp?v=1712572108",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115720_3_1_1.webp?v=1712572108",
           "alt": null,
           "width": 1200,
@@ -3669,12 +3706,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115720_2_1_1.webp?v=1712572108",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115720_1_1_1.webp?v=1712572108",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -3697,7 +3728,7 @@
         "TRAYS"
       ],
       "created_at": "2024-03-16T16:07:27+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-01-11T13:21:20+01:00",
       "available": true,
       "price_min": 575,
@@ -3787,7 +3818,7 @@
         "TRAYS"
       ],
       "created_at": "2024-03-16T13:00:49+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-01-11T13:30:44+01:00",
       "available": true,
       "price_min": 575,
@@ -3868,7 +3899,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T17:03:39+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-01-31T15:10:59+01:00",
       "available": true,
       "price_min": 650,
@@ -3931,7 +3962,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:59:32+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:16:18+01:00",
       "available": true,
       "price_min": 880,
@@ -4000,7 +4031,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:54:48+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-01-31T15:10:38+01:00",
       "available": true,
       "price_min": 520,
@@ -4069,7 +4100,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:48:48+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2026-01-02T12:07:33+01:00",
       "available": true,
       "price_min": 670,
@@ -4144,7 +4175,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T16:36:25+01:00",
-      "updated_at": "2026-05-22T17:58:57+02:00",
+      "updated_at": "2026-05-25T21:10:12+02:00",
       "published_at": "2025-03-04T14:30:09+01:00",
       "available": true,
       "price_min": 650,

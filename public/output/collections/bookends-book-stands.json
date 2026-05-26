@@ -1,8 +1,9 @@
 {
   "handle": "bookends-book-stands",
-  "label": "Book Stands & Loupes",
+  "label": "BOOK STANDS & LOUPES",
   "url": "https://arowonen.com/collections/bookends-book-stands",
-  "scraped_at": "2026-05-22T15:58:27.300Z",
+  "scraped_at": "2026-05-25T19:05:46.479Z",
+  "shopify_product_count": 65,
   "product_count": 24,
   "products": [
     {
@@ -21,7 +22,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-02-21T15:08:32+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2026-02-21T15:30:41+01:00",
       "available": true,
       "price_min": 545,
@@ -117,7 +118,7 @@
         "OBJECTS"
       ],
       "created_at": "2026-02-17T13:40:35+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2026-02-20T14:29:26+01:00",
       "available": true,
       "price_min": 495,
@@ -177,7 +178,7 @@
         "OBJECTS"
       ],
       "created_at": "2026-02-17T13:04:41+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2026-02-20T14:29:14+01:00",
       "available": true,
       "price_min": 295,
@@ -264,7 +265,7 @@
         "BOOK STANDS & LOUPES"
       ],
       "created_at": "2025-09-05T18:45:09+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-09-17T19:54:47+02:00",
       "available": true,
       "price_min": 182,
@@ -337,7 +338,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-05T12:21:33+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-09-11T13:20:08+02:00",
       "available": true,
       "price_min": 470,
@@ -413,7 +414,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2025-08-21T11:53:23+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:58+02:00",
       "available": true,
       "price_min": 165,
@@ -489,7 +490,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2025-08-21T11:46:01+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:33+02:00",
       "available": true,
       "price_min": 795,
@@ -524,6 +525,18 @@
           "alt": null,
           "width": 1400,
           "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_DAC33_1_1400x_c97e377f-2788-49b8-9db7-6a6a3e94476e.webp?v=1779631256",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_DAC33_1400x_38b5e8d3-e9aa-45dd-b6e0-dcfe581bd901.webp?v=1779631257",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC33_1400x_78b8b209-ba5b-4447-8c36-b24e48fb254e.webp?v=1755769601",
@@ -541,7 +554,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2025-08-21T11:44:06+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:31+02:00",
       "available": true,
       "price_min": 300,
@@ -612,7 +625,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2025-08-21T11:42:35+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:28+02:00",
       "available": true,
       "price_min": 595,
@@ -671,7 +684,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2025-08-21T11:40:27+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:26+02:00",
       "available": true,
       "price_min": 595,
@@ -729,7 +742,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2025-08-21T11:37:55+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-26T13:23:24+02:00",
       "available": true,
       "price_min": 300,
@@ -805,7 +818,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2025-06-21T15:54:16+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-06-21T15:55:30+02:00",
       "available": true,
       "price_min": 515,
@@ -875,7 +888,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2024-07-12T17:40:23+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-01-20T11:49:40+01:00",
       "available": true,
       "price_min": 1500,
@@ -942,7 +955,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-07-12T17:13:48+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-01-25T10:29:22+01:00",
       "available": true,
       "price_min": 120,
@@ -1021,7 +1034,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-07-12T17:10:05+02:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2024-07-12T17:11:43+02:00",
       "available": true,
       "price_min": 120,
@@ -1088,7 +1101,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-19T12:52:36+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2024-03-19T12:55:01+01:00",
       "available": true,
       "price_min": 119,
@@ -1159,7 +1172,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-13T13:14:55+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-01-20T11:32:16+01:00",
       "available": true,
       "price_min": 225,
@@ -1224,7 +1237,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-13T13:06:41+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-01-20T11:30:24+01:00",
       "available": true,
       "price_min": 195,
@@ -1288,7 +1301,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2024-03-12T14:38:22+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-15T13:02:51+02:00",
       "available": true,
       "price_min": 515,
@@ -1365,7 +1378,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-12T12:59:19+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-21T11:58:52+02:00",
       "available": true,
       "price_min": 75,
@@ -1430,7 +1443,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-12T12:57:52+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-21T11:58:21+02:00",
       "available": true,
       "price_min": 225,
@@ -1501,7 +1514,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-12T12:54:41+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-21T12:15:04+02:00",
       "available": true,
       "price_min": 165,
@@ -1560,7 +1573,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-12T12:52:26+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-01-20T11:31:46+01:00",
       "available": true,
       "price_min": 160,
@@ -1612,7 +1625,7 @@
         "COFFEE TABLE BOOKS"
       ],
       "created_at": "2024-02-24T17:31:21+01:00",
-      "updated_at": "2026-05-22T17:58:27+02:00",
+      "updated_at": "2026-05-25T21:05:46+02:00",
       "published_at": "2025-08-21T11:27:05+02:00",
       "available": true,
       "price_min": 850,
@@ -1647,6 +1660,30 @@
           "alt": null,
           "width": 1800,
           "height": 1800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_DAC34_1_1400x_961b1fc0-49f2-4926-b7b6-11f701bc912f.webp?v=1779708281",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_DAC34_1400x_e0234c01-3ae6-49a4-ab76-e8aacab601e4.webp?v=1779708279",
+          "alt": null,
+          "width": 1400,
+          "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC34C_1400x_95a8d852-9b5d-46f3-8680-7b08a80e1292.webp?v=1779708279",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC34B_1400x_9b829872-d903-4ee6-bb2e-b8cc0c43c23c.webp?v=1779708280",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DAC34_1800x1800_f6f3869b-1e38-4fa8-bc97-1914c2f46e11.webp?v=1708792284",

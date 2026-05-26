@@ -1,8 +1,9 @@
 {
   "handle": "special-edditions",
-  "label": "Limited Editions",
+  "label": "LIMITED EDITIONS",
   "url": "https://arowonen.com/collections/special-edditions",
-  "scraped_at": "2026-05-22T15:58:26.014Z",
+  "scraped_at": "2026-05-25T19:07:47.318Z",
+  "shopify_product_count": 10,
   "product_count": 7,
   "products": [
     {
@@ -17,7 +18,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2025-08-27T17:26:14+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:28:37+02:00",
       "available": true,
       "price_min": 20000,
@@ -123,7 +124,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2025-08-27T17:21:09+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:21:55+02:00",
       "available": false,
       "price_min": 450,
@@ -175,7 +176,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2025-08-25T14:56:10+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:19:36+02:00",
       "available": true,
       "price_min": 250,
@@ -239,7 +240,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2024-04-04T13:44:16+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:32:58+02:00",
       "available": true,
       "price_min": 2000,
@@ -381,7 +382,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2024-04-04T13:33:53+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:32:30+02:00",
       "available": true,
       "price_min": 1250,
@@ -565,7 +566,7 @@
         "SPECIAL EDITIONS"
       ],
       "created_at": "2024-04-04T13:24:15+02:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-08-27T17:32:07+02:00",
       "available": true,
       "price_min": 1250,
@@ -752,7 +753,7 @@
         "The Ultimate Collection"
       ],
       "created_at": "2024-02-23T15:47:53+01:00",
-      "updated_at": "2026-05-22T17:58:26+02:00",
+      "updated_at": "2026-05-25T21:07:47+02:00",
       "published_at": "2025-01-25T10:29:11+01:00",
       "available": true,
       "price_min": 2500,

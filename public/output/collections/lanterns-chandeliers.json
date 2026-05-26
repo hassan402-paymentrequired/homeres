@@ -1,8 +1,9 @@
 {
   "handle": "lanterns-chandeliers",
-  "label": "Chandeliers",
+  "label": "CHANDELIERS",
   "url": "https://arowonen.com/collections/lanterns-chandeliers",
-  "scraped_at": "2026-05-22T15:57:26.268Z",
+  "scraped_at": "2026-05-25T19:06:06.920Z",
+  "shopify_product_count": 137,
   "product_count": 106,
   "products": [
     {
@@ -20,7 +21,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-02-07T13:03:09+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2026-02-08T13:55:41+01:00",
       "available": true,
       "price_min": 1195,
@@ -86,7 +87,7 @@
         "LIGHTING"
       ],
       "created_at": "2026-02-07T12:44:49+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2026-02-08T13:55:38+01:00",
       "available": true,
       "price_min": 2195,
@@ -146,7 +147,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-12-16T14:43:43+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-12-20T13:30:12+01:00",
       "available": true,
       "price_min": 19380,
@@ -200,7 +201,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-12-16T14:39:46+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-12-20T13:30:09+01:00",
       "available": true,
       "price_min": 10595,
@@ -254,7 +255,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-12-16T14:34:38+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-12-20T13:30:07+01:00",
       "available": true,
       "price_min": 5975,
@@ -314,7 +315,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-12-16T13:31:52+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-12-20T13:29:57+01:00",
       "available": true,
       "price_min": 455,
@@ -374,7 +375,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-12-16T13:27:21+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-12-20T13:29:54+01:00",
       "available": true,
       "price_min": 840,
@@ -434,7 +435,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-09-23T11:13:48+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-09-27T12:16:35+02:00",
       "available": true,
       "price_min": 1195,
@@ -518,7 +519,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-09-23T11:08:50+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-09-27T12:16:17+02:00",
       "available": true,
       "price_min": 1195,
@@ -614,7 +615,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-09-22T16:49:15+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-09-27T12:05:53+02:00",
       "available": true,
       "price_min": 1495,
@@ -696,7 +697,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:59:43+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T14:01:39+02:00",
       "available": true,
       "price_min": 795,
@@ -778,7 +779,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:56:26+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T13:59:18+02:00",
       "available": true,
       "price_min": 2995,
@@ -872,7 +873,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:49:41+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T13:55:44+02:00",
       "available": true,
       "price_min": 2495,
@@ -966,7 +967,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:46:32+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T13:48:26+02:00",
       "available": true,
       "price_min": 2795,
@@ -1060,7 +1061,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:39:39+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T13:46:08+02:00",
       "available": true,
       "price_min": 4995,
@@ -1160,7 +1161,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T13:19:59+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T13:38:55+02:00",
       "available": true,
       "price_min": 4995,
@@ -1248,7 +1249,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T12:34:25+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:40:37+02:00",
       "available": true,
       "price_min": 2995,
@@ -1342,7 +1343,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T12:30:25+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:33:40+02:00",
       "available": true,
       "price_min": 2795,
@@ -1430,7 +1431,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T12:27:09+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:29:34+02:00",
       "available": true,
       "price_min": 4495,
@@ -1524,7 +1525,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T12:24:17+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:26:34+02:00",
       "available": true,
       "price_min": 2495,
@@ -1618,7 +1619,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T12:04:11+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:10:42+02:00",
       "available": true,
       "price_min": 1995,
@@ -1700,7 +1701,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:58:11+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T12:02:26+02:00",
       "available": true,
       "price_min": 3995,
@@ -1800,7 +1801,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:50:36+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:56:31+02:00",
       "available": true,
       "price_min": 595,
@@ -1894,7 +1895,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:48:15+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:49:55+02:00",
       "available": true,
       "price_min": 1995,
@@ -1970,7 +1971,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:42:51+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:46:57+02:00",
       "available": true,
       "price_min": 4995,
@@ -2052,7 +2053,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:40:22+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:41:58+02:00",
       "available": true,
       "price_min": 995,
@@ -2134,7 +2135,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:36:49+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:39:42+02:00",
       "available": true,
       "price_min": 1495,
@@ -2222,7 +2223,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:33:56+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:36:15+02:00",
       "available": true,
       "price_min": 495,
@@ -2316,7 +2317,7 @@
         "LIGHTING"
       ],
       "created_at": "2025-08-02T11:05:12+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-08-02T11:08:23+02:00",
       "available": true,
       "price_min": 3995,
@@ -2399,7 +2400,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-13T11:36:32+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-13T11:38:16+02:00",
       "available": true,
       "price_min": 9995,
@@ -2488,7 +2489,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-13T10:41:07+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-13T10:42:50+02:00",
       "available": true,
       "price_min": 2795,
@@ -2559,7 +2560,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-13T10:37:21+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-13T10:38:49+02:00",
       "available": true,
       "price_min": 5995,
@@ -2642,7 +2643,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-13T10:31:29+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-13T10:33:04+02:00",
       "available": true,
       "price_min": 1795,
@@ -2707,7 +2708,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-11T17:45:18+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-11T17:47:10+02:00",
       "available": true,
       "price_min": 3795,
@@ -2796,7 +2797,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-11T17:41:13+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-11T17:42:37+02:00",
       "available": true,
       "price_min": 2195,
@@ -2867,7 +2868,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-11T17:38:20+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-11T17:39:52+02:00",
       "available": true,
       "price_min": 2795,
@@ -2944,7 +2945,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-11T17:35:28+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2025-04-11T17:36:47+02:00",
       "available": true,
       "price_min": 1995,
@@ -3026,7 +3027,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-16T16:40:20+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-16T16:42:18+02:00",
       "available": true,
       "price_min": 1995,
@@ -3102,7 +3103,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-16T16:38:33+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-16T16:40:12+02:00",
       "available": true,
       "price_min": 1995,
@@ -3178,7 +3179,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-16T16:32:18+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-16T16:35:02+02:00",
       "available": true,
       "price_min": 1795,
@@ -3209,37 +3210,43 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_0_1_1.webp?v=1715870015",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_2_1.jpg?v=1779544392",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_5_1_1.webp?v=1715870021",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_1_1.jpg?v=1779544391",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_2_1_1.webp?v=1715870021",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_0_1.jpg?v=1779544392",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_3_1_1.webp?v=1715870021",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_4_1.jpg?v=1779544392",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_4_1_1.webp?v=1715870021",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_3_1.jpg?v=1779544392",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_5_1.jpg?v=1779544392",
           "alt": null,
           "width": 1200,
           "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_0_1_1.webp?v=1715870015",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118497_2_1.jpg?v=1779544392",
       "description_html": "<div class=\"product attribute overview\">\n<div data-dynamic=\"short_description\" class=\"value\" itemprop=\"description\">\n<div class=\"product attribute overview\">\n<meta charset=\"utf-8\">\n<p class=\"text-special-sm\"><meta charset=\"utf-8\"><span>Immerse yourself in the world of luxury with the Eichholtz Varano Chandelier. This iconic piece, crafted from lustrous metal, showcases a vintage brass finish that exudes timeless elegance. The intricate design of the Varano Chandelier, coupled with its warm and inviting glow, transforms your living space into a haven of sophistication and style. With this Eichholtz piece, you're not just purchasing a lighting fixture, you're investing in a lifestyle of unparalleled elegance.</span></p>\n</div>\n</div>\n</div>\n<p><span><strong>Dimensions</strong></span></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 77 | H. 60 cm</span></li>\n</ul>\n</div>\n</div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specifications</span></strong><br></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<p>General info: <meta charset=\"utf-8\"><span>Vintage brass finish </span><br>Lamp holder: E14<br>Lamp holder qty: 10<br>Voltage: 220 - 240 Volt<br>Hanging Method: Chain<br>Length hanging method in cm: <meta charset=\"utf-8\"><span>200</span><br>Indoor/outdoor: Indoor use/dry locations only<br></p>\n</div>\n</div>"
     },
     {
@@ -3254,7 +3261,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-16T16:21:35+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-16T16:27:03+02:00",
       "available": true,
       "price_min": 2795,
@@ -3291,12 +3298,6 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118250_5_1_1.webp?v=1715869610",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118250_1_1_1.webp?v=1715869610",
           "alt": null,
           "width": 1200,
@@ -3310,6 +3311,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118250_3_1_1.webp?v=1715869610",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118250_5_1_1.webp?v=1715869610",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -3336,7 +3343,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T17:21:35+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T17:23:45+02:00",
       "available": true,
       "price_min": 2795,
@@ -3373,12 +3380,6 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118763_4_1_1.webp?v=1715613823",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118763_1_1_1.webp?v=1715613823",
           "alt": null,
           "width": 700,
@@ -3392,6 +3393,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118763_3_1_1.webp?v=1715613823",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118763_4_1_1.webp?v=1715613823",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3418,7 +3425,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T17:18:28+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T17:21:02+02:00",
       "available": true,
       "price_min": 2495,
@@ -3449,37 +3456,43 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_0_1_1.webp?v=1715613638",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_0_1_1_c604cf30-8f0f-4e58-abd3-f4e95b1d77ca.webp?v=1779546939",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_5_1_1.webp?v=1715613657",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_1_1_1.jpg?v=1779546941",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_2_1_1.webp?v=1715613657",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_3_1_1.jpg?v=1779546941",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_3_1_1.webp?v=1715613657",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_2_1_1.jpg?v=1779546940",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_4_1_1.webp?v=1715613657",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_5_1_1.jpg?v=1779546941",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_4_1_1.jpg?v=1779546941",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_0_1_1.webp?v=1715613638",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118259_0_1_1_c604cf30-8f0f-4e58-abd3-f4e95b1d77ca.webp?v=1779546939",
       "description_html": "<div class=\"product attribute overview\">\n<div class=\"value\" data-dynamic=\"short_description\" itemprop=\"description\">\n<div class=\"product attribute overview\">\n<meta charset=\"utf-8\">\n<p class=\"text-special-sm\">Introducing the Scapa Chandelier by Eichholtz, a luxurious centerpiece exquisitely crafted from a single piece of alabaster.</p>\n<p class=\"text-special-sm\"><span>The alabaster bowl, enclosed by a striking bronze highlight frame, transcends elegance for both modern and classic spaces.</span><span></span></p>\n</div>\n</div>\n</div>\n<p><span><strong>Dimensions</strong></span></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">Ø 49 | H. 60 cm</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specifications</span></strong><br></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<p>General info: <span>Bronze highlight finish | alabaster<br></span>Extra info: <meta charset=\"utf-8\"><span>Alabaster is a natural material, each piece differs in color, opacity and veining</span><br>Lamp holder: E14<br>Lamp holder qty: 3<br>Voltage: 220 - 240 Volt<br>Hanging Method: Chain<br>Length hanging method in cm: <meta charset=\"utf-8\"><span>150</span><br>Indoor/outdoor: Indoor use/dry locations only<br></p>\n</div>\n</div>"
     },
     {
@@ -3494,7 +3507,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T17:13:00+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T17:17:43+02:00",
       "available": true,
       "price_min": 3195,
@@ -3570,7 +3583,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T16:58:50+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T17:11:25+02:00",
       "available": true,
       "price_min": 4495,
@@ -3607,6 +3620,18 @@
           "height": 700
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_1_1_1.webp?v=1715613054",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_7_1_1.webp?v=1715613053",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_0_1_1.webp?v=1715613054",
           "alt": null,
           "width": 700,
@@ -3619,19 +3644,7 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_1_1_1.webp?v=1715613054",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_2_1_1.webp?v=1715613054",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118248_7_1_1.webp?v=1715613053",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3665,7 +3678,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T15:43:35+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T15:46:14+02:00",
       "available": true,
       "price_min": 1495,
@@ -3702,13 +3715,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_4_1_1.webp?v=1715607970",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_1_1_1.webp?v=1715607970",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_1_1_1.webp?v=1715607970",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_5_1_1.webp?v=1715607960",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3726,7 +3739,7 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_5_1_1.webp?v=1715607960",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118582_4_1_1.webp?v=1715607970",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3747,7 +3760,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-05-13T15:38:51+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-05-13T15:42:26+02:00",
       "available": true,
       "price_min": 2195,
@@ -3784,13 +3797,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118762_5_1_1.webp?v=1715607741",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118762_1_1_1_eb69bf6b-b9a1-431c-a675-c5b442680e9a.webp?v=1779549173",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118762_1_1_1.webp?v=1715607741",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118762_5_1_1.webp?v=1715607741",
           "alt": null,
           "width": 700,
           "height": 700
@@ -3829,7 +3842,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T16:31:51+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T16:35:47+02:00",
       "available": true,
       "price_min": 7995,
@@ -3866,13 +3879,19 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_3_1_1.webp?v=1712414109",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_1_1_1.webp?v=1712414109",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_2_1_1.webp?v=1712414109",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_3_1_1.webp?v=1712414109",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -3906,12 +3925,6 @@
           "alt": null,
           "width": 1200,
           "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_1_1_1.webp?v=1712414109",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117840_0_1_1.webp?v=1712414104",
@@ -3929,7 +3942,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T16:18:57+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T16:28:56+02:00",
       "available": true,
       "price_min": 3495,
@@ -3961,6 +3974,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117360_0_1_1.webp?v=1712413662",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117360_1_1_1.webp?v=1712413669",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4012,12 +4031,6 @@
           "alt": null,
           "width": 1200,
           "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117360_1_1_1.webp?v=1712413669",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117360_0_1_1.webp?v=1712413662",
@@ -4035,7 +4048,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T16:04:57+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T16:18:14+02:00",
       "available": true,
       "price_min": 3795,
@@ -4072,6 +4085,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116718_1_1_1.webp?v=1712413041",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116718_4_1_1.webp?v=1712413041",
           "alt": null,
           "width": 1200,
@@ -4085,12 +4104,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116718_3_1_1.webp?v=1712413041",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/116718_1_1_1.webp?v=1712413041",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4117,7 +4130,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T15:44:19+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T15:51:07+02:00",
       "available": true,
       "price_min": 1495,
@@ -4154,13 +4167,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117812_4_1_1.webp?v=1712411393",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117812_1_1_1.webp?v=1712411393",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117812_1_1_1.webp?v=1712411393",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117812_4_1_1.webp?v=1712411393",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4205,7 +4218,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T15:26:22+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T15:42:33+02:00",
       "available": true,
       "price_min": 1995,
@@ -4242,6 +4255,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115367_4_1_1.webp?v=1712410755",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115367_2_1_1.webp?v=1712410755",
           "alt": null,
           "width": 1200,
@@ -4249,12 +4268,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115367_3_1_1.webp?v=1712410755",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115367_4_1_1.webp?v=1712410755",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4275,7 +4288,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T15:17:05+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T15:23:34+02:00",
       "available": true,
       "price_min": 1995,
@@ -4312,6 +4325,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114542_1_1_1.webp?v=1712409615",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114542_4_1_1.webp?v=1712409615",
           "alt": null,
           "width": 1200,
@@ -4328,16 +4347,10 @@
           "alt": null,
           "width": 1200,
           "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114542_1_1_1.webp?v=1712409615",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114542_0_1_1.webp?v=1712409603",
-      "description_html": "<div class=\"product attribute overview\">\n<div data-dynamic=\"short_description\" class=\"value\" itemprop=\"description\">\n<div class=\"product attribute overview\">\n<div class=\"value\" itemprop=\"description\"></div>\n</div>\n</div>\n</div>\n<p class=\"text-special-sm\">Simple yet elegant in design, Chandelier Vincente is a perfect pendant lamp for modern and industrial interiors.</p>\n<p><span>The gunmetal finish fixture has a ring with a gold-coloured inside to reflect the light. Two free-form plates of bevelled clear glass feature a frosted centre that keeps the light bulb out of sight.</span></p>\n<p><span><strong>Dimensions</strong></span></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 43 | D. 11 | H. 58 cm</span></li>\n</ul>\n</div>\n</div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specifications</span></strong><br></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\" x-show=\"dimension === 'cm'\">\n<p>General info: Gunmetal finish | gold finish | bevelled glass<br>Lamp holder: E14<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Hanging Method: Pipe<br>Length hanging method in cm: 30+50+70 cm pipe<br>Length hanging method in inch: 11.81+19.69+27.56 pipe<br>Indoor/outdoor: Indoor use/dry locations only<br></p>\n</div>\n</div>"
+      "description_html": "<div class=\"product attribute overview\">\n<div data-dynamic=\"short_description\" class=\"value\" itemprop=\"description\">\n<div class=\"product attribute overview\">\n<div class=\"value\" itemprop=\"description\"><br></div>\n</div>\n</div>\n</div>\n<p class=\"text-special-sm\">Simple yet elegant in design, Chandelier Vincente is a perfect pendant lamp for modern and industrial interiors.</p>\n<p><span>The gunmetal finish fixture has a ring with a gold-coloured inside to reflect the light. Two free-form plates of bevelled clear glass feature a frosted centre that keeps the light bulb out of sight.</span></p>\n<p><span><strong>Dimensions</strong></span></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 43 | D. 11 | H. 58 cm</span></li>\n</ul>\n</div>\n</div>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"><span class=\"dimension-value\">Specifications</span></strong><br></p>\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p>General info: Gunmetal finish | gold finish | bevelled glass<br>Lamp holder: E14<br>Lamp holder qty: 1<br>Voltage: 220 - 240 Volt<br>Hanging Method: Pipe<br>Length hanging method in cm: 30+50+70 cm pipe<br>Length hanging method in inch: 11.81+19.69+27.56 pipe<br>Indoor/outdoor: Indoor use/dry locations only<br></p>\n</div>\n</div>"
     },
     {
       "id": 8953521242444,
@@ -4351,7 +4364,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T15:03:13+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T15:15:49+02:00",
       "available": true,
       "price_min": 1795,
@@ -4388,6 +4401,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115009_1_1_1.webp?v=1712409291",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115009_4_1_1.webp?v=1712409291",
           "alt": null,
           "width": 1200,
@@ -4401,12 +4420,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115009_3_1_1.webp?v=1712409291",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115009_1_1_1.webp?v=1712409291",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4427,7 +4440,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:53:40+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T15:01:21+02:00",
       "available": true,
       "price_min": 2495,
@@ -4464,13 +4477,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115133_2_1_1.webp?v=1712408365",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115133_1_1_1.webp?v=1712408365",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115133_1_1_1.webp?v=1712408365",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115133_2_1_1.webp?v=1712408365",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4503,7 +4516,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:47:06+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T14:52:16+02:00",
       "available": true,
       "price_min": 5995,
@@ -4579,7 +4592,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:41:16+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T14:46:18+02:00",
       "available": true,
       "price_min": 3195,
@@ -4649,7 +4662,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:28:20+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T14:40:45+02:00",
       "available": true,
       "price_min": 5995,
@@ -4686,6 +4699,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117048_1_1_1.webp?v=1712407199",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117048_5_1_1.webp?v=1712407199",
           "alt": null,
           "width": 1200,
@@ -4708,12 +4727,6 @@
           "alt": null,
           "width": 1200,
           "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117048_1_1_1.webp?v=1712407199",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117048_0_1_1.webp?v=1712407187",
@@ -4731,7 +4744,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:09:26+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T14:13:49+02:00",
       "available": true,
       "price_min": 3195,
@@ -4768,13 +4781,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114679_2_1_1.webp?v=1712405562",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114679_1_1_1.webp?v=1712405562",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114679_1_1_1.webp?v=1712405562",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114679_2_1_1.webp?v=1712405562",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -4795,7 +4808,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T14:00:56+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T14:08:19+02:00",
       "available": true,
       "price_min": 2995,
@@ -4877,7 +4890,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T13:53:20+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T13:59:20+02:00",
       "available": true,
       "price_min": 3995,
@@ -4959,7 +4972,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T13:38:17+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T13:45:05+02:00",
       "available": true,
       "price_min": 3495,
@@ -4996,6 +5009,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115366_1_1_1.webp?v=1712403813",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115366_2_1_1.webp?v=1712405692",
           "alt": null,
           "width": 1200,
@@ -5009,12 +5028,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115366_4_1_1.webp?v=1712403813",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115366_1_1_1.webp?v=1712403813",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5035,7 +5048,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T13:33:08+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T13:37:23+02:00",
       "available": true,
       "price_min": 3195,
@@ -5099,7 +5112,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T13:24:35+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T13:31:07+02:00",
       "available": true,
       "price_min": 5495,
@@ -5136,12 +5149,6 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117364_4_1_1.webp?v=1712402933",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117364_1_1_1.webp?v=1712402933",
           "alt": null,
           "width": 1200,
@@ -5155,6 +5162,12 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117364_3_1_1.webp?v=1712402933",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117364_4_1_1.webp?v=1712402933",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5175,7 +5188,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T12:29:47+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T12:34:59+02:00",
       "available": true,
       "price_min": 1995,
@@ -5212,19 +5225,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_2_1_1.webp?v=1712399629",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_5_1_1.webp?v=1712399633",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_3_1_1.webp?v=1712399633",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_1_1_1.webp?v=1712399633",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5236,7 +5237,19 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_1_1_1.webp?v=1712399633",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_2_1_1.webp?v=1712399629",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_3_1_1.webp?v=1712399633",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/115078_5_1_1.webp?v=1712399633",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -5257,7 +5270,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-06T12:23:44+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-06T12:28:43+02:00",
       "available": true,
       "price_min": 2195,
@@ -5317,7 +5330,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:22:03+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:24:19+02:00",
       "available": true,
       "price_min": 462,
@@ -5395,7 +5408,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:19:41+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:21:13+02:00",
       "available": true,
       "price_min": 1752,
@@ -5467,7 +5480,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:16:35+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:18:53+02:00",
       "available": true,
       "price_min": 8106,
@@ -5545,7 +5558,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:12:57+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:15:44+02:00",
       "available": true,
       "price_min": 7025,
@@ -5653,7 +5666,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:10:43+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:11:38+02:00",
       "available": true,
       "price_min": 1254,
@@ -5719,7 +5732,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:08:25+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:10:16+02:00",
       "available": true,
       "price_min": 1254,
@@ -5785,7 +5798,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:04:00+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:05:55+02:00",
       "available": true,
       "price_min": 5975,
@@ -5893,7 +5906,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T16:00:07+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T16:03:07+02:00",
       "available": true,
       "price_min": 5975,
@@ -6013,7 +6026,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:53:43+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:56:35+02:00",
       "available": true,
       "price_min": 5975,
@@ -6115,7 +6128,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:51:24+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:52:34+02:00",
       "available": true,
       "price_min": 5514,
@@ -6169,7 +6182,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:50:22+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:50:43+02:00",
       "available": true,
       "price_min": 5970,
@@ -6235,7 +6248,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:48:37+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:49:20+02:00",
       "available": true,
       "price_min": 5970,
@@ -6295,7 +6308,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:45:57+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:47:29+02:00",
       "available": true,
       "price_min": 5970,
@@ -6354,7 +6367,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:43:56+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:49:06+02:00",
       "available": true,
       "price_min": 995,
@@ -6432,7 +6445,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:43:46+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:44:15+02:00",
       "available": true,
       "price_min": 17295,
@@ -6486,7 +6499,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:41:54+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:42:54+02:00",
       "available": true,
       "price_min": 17295,
@@ -6546,7 +6559,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:39:41+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:41:22+02:00",
       "available": true,
       "price_min": 17295,
@@ -6606,7 +6619,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:33:01+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:34:02+02:00",
       "available": true,
       "price_min": 5100,
@@ -6672,7 +6685,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:31:16+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:31:38+02:00",
       "available": true,
       "price_min": 5100,
@@ -6732,7 +6745,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:28:08+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:29:26+02:00",
       "available": true,
       "price_min": 5100,
@@ -6790,7 +6803,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:25:22+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:27:33+02:00",
       "available": true,
       "price_min": 5100,
@@ -6850,7 +6863,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:22:14+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:22:50+02:00",
       "available": true,
       "price_min": 3730,
@@ -6916,7 +6929,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:19:52+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:20:40+02:00",
       "available": true,
       "price_min": 3730,
@@ -6976,7 +6989,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:15:59+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:17:09+02:00",
       "available": true,
       "price_min": 3730,
@@ -7036,7 +7049,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:13:25+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:15:14+02:00",
       "available": true,
       "price_min": 3730,
@@ -7102,7 +7115,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:08:52+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:09:37+02:00",
       "available": true,
       "price_min": 1335,
@@ -7168,7 +7181,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:07:10+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:08:29+02:00",
       "available": true,
       "price_min": 1335,
@@ -7234,7 +7247,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:03:41+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:06:29+02:00",
       "available": true,
       "price_min": 1335,
@@ -7300,7 +7313,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:02:15+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:02:58+02:00",
       "available": true,
       "price_min": 900,
@@ -7360,7 +7373,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T15:00:18+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T15:01:21+02:00",
       "available": true,
       "price_min": 900,
@@ -7432,7 +7445,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T14:58:40+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T14:59:58+02:00",
       "available": true,
       "price_min": 900,
@@ -7504,7 +7517,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-04-04T14:50:30+02:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-04-04T14:57:44+02:00",
       "available": true,
       "price_min": 900,
@@ -7582,7 +7595,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:35:35+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:37:28+01:00",
       "available": true,
       "price_min": 10595,
@@ -7648,7 +7661,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:34:28+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:35:13+01:00",
       "available": true,
       "price_min": 10595,
@@ -7714,7 +7727,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:32:54+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:33:49+01:00",
       "available": true,
       "price_min": 10595,
@@ -7780,7 +7793,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:26:50+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:32:22+01:00",
       "available": true,
       "price_min": 10595,
@@ -7870,7 +7883,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:23:34+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:26:00+01:00",
       "available": true,
       "price_min": 5975,
@@ -7978,7 +7991,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:21:07+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:22:59+01:00",
       "available": true,
       "price_min": 5975,
@@ -8080,7 +8093,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:18:13+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:20:26+01:00",
       "available": true,
       "price_min": 5975,
@@ -8200,7 +8213,7 @@
         "LIGHTING"
       ],
       "created_at": "2024-03-05T16:10:18+01:00",
-      "updated_at": "2026-05-22T17:57:26+02:00",
+      "updated_at": "2026-05-25T21:06:06+02:00",
       "published_at": "2024-03-05T16:15:44+01:00",
       "available": true,
       "price_min": 5975,

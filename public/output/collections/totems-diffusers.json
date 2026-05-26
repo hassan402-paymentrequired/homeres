@@ -1,8 +1,9 @@
 {
   "handle": "totems-diffusers",
-  "label": "Totems & Diffusers",
+  "label": "TOTEMS & DIFFUSERS",
   "url": "https://arowonen.com/collections/totems-diffusers",
-  "scraped_at": "2026-05-22T15:59:02.797Z",
+  "scraped_at": "2026-05-25T19:10:11.419Z",
+  "shopify_product_count": 232,
   "product_count": 166,
   "products": [
     {
@@ -28,7 +29,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-03-06T18:41:35+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-03-08T18:09:55+01:00",
       "available": true,
       "price_min": 135,
@@ -104,7 +105,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-03-06T18:35:41+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-03-08T18:09:54+01:00",
       "available": true,
       "price_min": 135,
@@ -180,7 +181,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-03-06T18:33:08+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-03-08T18:09:52+01:00",
       "available": true,
       "price_min": 135,
@@ -256,7 +257,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-03-06T18:30:48+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-03-08T18:09:50+01:00",
       "available": true,
       "price_min": 135,
@@ -326,7 +327,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-01-06T17:13:36+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-01-06T17:14:51+01:00",
       "available": true,
       "price_min": 135,
@@ -402,7 +403,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-01-06T17:09:54+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-01-06T17:11:10+01:00",
       "available": true,
       "price_min": 135,
@@ -478,7 +479,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2026-01-06T17:06:10+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2026-01-06T17:07:32+01:00",
       "available": true,
       "price_min": 135,
@@ -542,7 +543,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-11-23T13:16:30+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-11-23T13:17:12+01:00",
       "available": true,
       "price_min": 99,
@@ -594,7 +595,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-11-23T13:14:18+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-11-23T13:15:30+01:00",
       "available": true,
       "price_min": 99,
@@ -646,7 +647,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-11-23T13:13:22+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-11-23T13:13:24+01:00",
       "available": true,
       "price_min": 99,
@@ -710,7 +711,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-18T14:02:05+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-21T13:15:31+02:00",
       "available": true,
       "price_min": 135,
@@ -780,7 +781,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-18T13:59:09+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-21T13:15:13+02:00",
       "available": true,
       "price_min": 135,
@@ -850,7 +851,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-18T13:56:32+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-21T13:15:01+02:00",
       "available": true,
       "price_min": 135,
@@ -926,7 +927,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-04T13:29:35+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-04T14:07:20+02:00",
       "available": true,
       "price_min": 130,
@@ -1002,7 +1003,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-04T13:19:59+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-04T14:07:16+02:00",
       "available": true,
       "price_min": 130,
@@ -1074,7 +1075,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T16:48:13+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-05T16:30:23+02:00",
       "available": true,
       "price_min": 210,
@@ -1147,7 +1148,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T16:14:27+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-05T16:32:44+02:00",
       "available": true,
       "price_min": 250,
@@ -1226,7 +1227,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T14:22:31+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-05T16:32:30+02:00",
       "available": true,
       "price_min": 210,
@@ -1297,7 +1298,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T13:51:13+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:59:49+02:00",
       "available": true,
       "price_min": 90,
@@ -1380,7 +1381,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T13:46:37+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:59:24+02:00",
       "available": true,
       "price_min": 90,
@@ -1463,7 +1464,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T13:42:52+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:59:11+02:00",
       "available": true,
       "price_min": 90,
@@ -1546,7 +1547,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T13:37:23+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:58:59+02:00",
       "available": true,
       "price_min": 90,
@@ -1629,7 +1630,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T13:20:14+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:58:48+02:00",
       "available": true,
       "price_min": 90,
@@ -1712,7 +1713,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T12:54:52+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:58:23+02:00",
       "available": true,
       "price_min": 90,
@@ -1831,7 +1832,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T12:40:26+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:57:38+02:00",
       "available": true,
       "price_min": 90,
@@ -1950,7 +1951,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T12:32:13+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:57:13+02:00",
       "available": true,
       "price_min": 90,
@@ -2069,7 +2070,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T11:58:22+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:56:57+02:00",
       "available": true,
       "price_min": 90,
@@ -2188,7 +2189,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T11:50:09+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:56:38+02:00",
       "available": true,
       "price_min": 90,
@@ -2289,7 +2290,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T11:22:41+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:54:27+02:00",
       "available": true,
       "price_min": 90,
@@ -2408,7 +2409,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-30T11:13:30+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-09-07T15:56:11+02:00",
       "available": true,
       "price_min": 90,
@@ -2527,7 +2528,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:54:13+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:22+02:00",
       "available": true,
       "price_min": 90,
@@ -2658,7 +2659,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:47:54+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:19+02:00",
       "available": true,
       "price_min": 90,
@@ -2789,7 +2790,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:41:23+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:16+02:00",
       "available": true,
       "price_min": 90,
@@ -2920,7 +2921,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:32:22+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:13+02:00",
       "available": true,
       "price_min": 90,
@@ -3051,7 +3052,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:17:36+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:10+02:00",
       "available": true,
       "price_min": 90,
@@ -3182,7 +3183,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T11:11:15+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:06+02:00",
       "available": true,
       "price_min": 90,
@@ -3313,7 +3314,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T10:59:39+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:01+02:00",
       "available": true,
       "price_min": 90,
@@ -3438,7 +3439,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T10:51:25+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:58+02:00",
       "available": true,
       "price_min": 90,
@@ -3569,7 +3570,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T10:40:43+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:57+02:00",
       "available": true,
       "price_min": 90,
@@ -3703,7 +3704,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-28T10:31:18+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:20:05+02:00",
       "available": true,
       "price_min": 100,
@@ -3810,7 +3811,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T10:26:27+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:55+02:00",
       "available": true,
       "price_min": 100,
@@ -3920,7 +3921,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-28T10:17:49+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:54+02:00",
       "available": true,
       "price_min": 100,
@@ -4027,7 +4028,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T10:00:58+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:52+02:00",
       "available": true,
       "price_min": 90,
@@ -4110,7 +4111,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T09:37:49+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:19:49+02:00",
       "available": true,
       "price_min": 100,
@@ -4217,7 +4218,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-28T09:25:45+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-28T16:14:15+02:00",
       "available": true,
       "price_min": 100,
@@ -4334,7 +4335,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T15:08:38+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:41+02:00",
       "available": true,
       "price_min": 180,
@@ -4451,7 +4452,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T15:02:03+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:39+02:00",
       "available": true,
       "price_min": 180,
@@ -4568,7 +4569,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T14:53:58+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:31+02:00",
       "available": true,
       "price_min": 130,
@@ -4643,7 +4644,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T14:43:00+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:19+02:00",
       "available": true,
       "price_min": 180,
@@ -4760,7 +4761,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T12:13:03+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:16+02:00",
       "available": true,
       "price_min": 69,
@@ -4835,7 +4836,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T12:10:29+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:14+02:00",
       "available": true,
       "price_min": 135,
@@ -4910,7 +4911,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T12:06:15+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:11+02:00",
       "available": true,
       "price_min": 165,
@@ -5033,7 +5034,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T12:00:37+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:09+02:00",
       "available": true,
       "price_min": 69,
@@ -5108,7 +5109,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T11:53:11+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:06+02:00",
       "available": true,
       "price_min": 69,
@@ -5183,7 +5184,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T11:50:14+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:33:04+02:00",
       "available": true,
       "price_min": 135,
@@ -5264,7 +5265,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T11:28:05+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:16+02:00",
       "available": true,
       "price_min": 165,
@@ -5381,7 +5382,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T11:15:34+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:22+02:00",
       "available": true,
       "price_min": 69,
@@ -5456,7 +5457,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T10:37:37+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:20+02:00",
       "available": true,
       "price_min": 69,
@@ -5531,7 +5532,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T10:33:29+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:16+02:00",
       "available": true,
       "price_min": 69,
@@ -5606,7 +5607,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T10:28:45+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:09+02:00",
       "available": true,
       "price_min": 69,
@@ -5681,7 +5682,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T10:25:56+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:32:05+02:00",
       "available": true,
       "price_min": 69,
@@ -5756,7 +5757,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T10:06:57+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:31:54+02:00",
       "available": true,
       "price_min": 69,
@@ -5831,7 +5832,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T09:54:34+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:16:53+02:00",
       "available": true,
       "price_min": 69,
@@ -5906,7 +5907,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T09:49:07+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:16:11+02:00",
       "available": true,
       "price_min": 69,
@@ -5981,7 +5982,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-24T09:44:46+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:14:25+02:00",
       "available": true,
       "price_min": 69,
@@ -6045,7 +6046,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-21T15:19:56+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:26:01+02:00",
       "available": true,
       "price_min": 215,
@@ -6082,16 +6083,16 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5003b_1400x_8c103537-e700-4617-bd59-1e783f0218af.webp?v=1755782449",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/ApothecaryCote_0774_1000x_c4acd6fb-fa67-4360-821a-f0ffe74ba2d7.webp?v=1755782450",
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5003b_1400x_8c103537-e700-4617-bd59-1e783f0218af.webp?v=1755782449",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5003a_1400x_fb84ab42-299c-401a-abea-616e862adec4.webp?v=1755782450",
@@ -6112,7 +6113,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-19T16:48:11+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:40:39+02:00",
       "available": true,
       "price_min": 70,
@@ -6191,7 +6192,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-19T16:37:47+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:40:33+02:00",
       "available": true,
       "price_min": 70,
@@ -6264,7 +6265,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-19T12:53:15+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:40:13+02:00",
       "available": true,
       "price_min": 84,
@@ -6337,7 +6338,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-18T11:50:23+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:40:05+02:00",
       "available": true,
       "price_min": 66,
@@ -6409,7 +6410,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-18T11:27:29+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:40:02+02:00",
       "available": true,
       "price_min": 62,
@@ -6517,7 +6518,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-17T19:10:26+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:39:58+02:00",
       "available": true,
       "price_min": 64,
@@ -6636,7 +6637,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-17T18:14:40+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:38:47+02:00",
       "available": true,
       "price_min": 84,
@@ -6706,7 +6707,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-17T17:42:27+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:36:31+02:00",
       "available": true,
       "price_min": 78,
@@ -6819,7 +6820,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-17T17:31:46+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:34:05+02:00",
       "available": true,
       "price_min": 70,
@@ -6891,7 +6892,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-17T16:59:33+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T13:33:50+02:00",
       "available": true,
       "price_min": 64,
@@ -7028,7 +7029,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-08-15T17:11:30+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T12:36:11+02:00",
       "available": true,
       "price_min": 275,
@@ -7065,6 +7066,18 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052j_1400x_631591ea-d19f-4015-bd23-8fbdeb17d6f6.webp?v=1755270842",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052g_1400x_1a902a00-4e62-41fa-b0be-5357f109bfd6.webp?v=1755270842",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052b_1400x_dccd90d2-406c-40bf-986a-6433edcf762b.webp?v=1755270843",
           "alt": null,
           "width": 1400,
@@ -7083,19 +7096,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052g_1400x_1a902a00-4e62-41fa-b0be-5357f109bfd6.webp?v=1755270842",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052h_1400x_fda15328-9aab-4de1-9c52-285746034a87.webp?v=1755270842",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/AP5052j_1400x_631591ea-d19f-4015-bd23-8fbdeb17d6f6.webp?v=1755270842",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -7131,7 +7132,7 @@
         "VASES"
       ],
       "created_at": "2025-08-09T10:02:46+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-12T12:24:55+02:00",
       "available": true,
       "price_min": 480,
@@ -7208,7 +7209,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-24T11:35:26+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-24T11:38:25+02:00",
       "available": true,
       "price_min": 119,
@@ -7285,7 +7286,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-24T10:49:04+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-24T10:51:14+02:00",
       "available": true,
       "price_min": 63,
@@ -7392,7 +7393,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-24T10:43:49+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-24T10:48:02+02:00",
       "available": true,
       "price_min": 63,
@@ -7499,7 +7500,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T18:27:19+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T18:29:47+02:00",
       "available": true,
       "price_min": 63,
@@ -7606,7 +7607,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T18:06:03+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T18:09:34+02:00",
       "available": true,
       "price_min": 63,
@@ -7713,7 +7714,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T18:01:15+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T18:05:23+02:00",
       "available": true,
       "price_min": 63,
@@ -7820,7 +7821,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T17:52:06+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T17:55:07+02:00",
       "available": true,
       "price_min": 63,
@@ -7927,7 +7928,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T17:47:02+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T17:49:01+02:00",
       "available": true,
       "price_min": 63,
@@ -8034,7 +8035,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T16:37:33+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T16:40:40+02:00",
       "available": true,
       "price_min": 63,
@@ -8141,7 +8142,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T16:27:57+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T16:31:32+02:00",
       "available": true,
       "price_min": 63,
@@ -8248,7 +8249,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T16:21:41+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T16:26:38+02:00",
       "available": true,
       "price_min": 63,
@@ -8355,7 +8356,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-05-23T16:11:22+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-23T16:18:49+02:00",
       "available": true,
       "price_min": 63,
@@ -8472,7 +8473,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-08-09T11:24:11+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-08-09T11:28:16+02:00",
       "available": true,
       "price_min": 405,
@@ -8557,7 +8558,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T14:22:12+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T14:22:59+02:00",
       "available": true,
       "price_min": 70,
@@ -8630,7 +8631,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T14:20:12+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T14:21:10+02:00",
       "available": true,
       "price_min": 70,
@@ -8703,7 +8704,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T14:12:00+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T14:13:20+02:00",
       "available": true,
       "price_min": 70,
@@ -8775,7 +8776,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T13:34:12+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T13:35:34+02:00",
       "available": true,
       "price_min": 114,
@@ -8842,7 +8843,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T12:50:33+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T12:51:27+02:00",
       "available": true,
       "price_min": 70,
@@ -8915,7 +8916,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T12:42:59+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T12:44:06+02:00",
       "available": true,
       "price_min": 70,
@@ -8988,7 +8989,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T11:34:44+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T11:35:52+02:00",
       "available": true,
       "price_min": 70,
@@ -9061,7 +9062,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T11:20:54+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T11:22:24+02:00",
       "available": true,
       "price_min": 70,
@@ -9134,7 +9135,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T11:07:55+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T11:09:14+02:00",
       "available": true,
       "price_min": 84,
@@ -9207,7 +9208,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T11:01:10+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T11:02:56+02:00",
       "available": true,
       "price_min": 70,
@@ -9280,7 +9281,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T10:55:38+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T10:56:55+02:00",
       "available": true,
       "price_min": 70,
@@ -9353,7 +9354,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-29T10:51:11+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-29T10:53:11+02:00",
       "available": true,
       "price_min": 70,
@@ -9425,7 +9426,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:41:49+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-28T15:42:46+02:00",
       "available": true,
       "price_min": 210,
@@ -9509,7 +9510,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:18:23+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-28T15:25:32+02:00",
       "available": true,
       "price_min": 250,
@@ -9581,7 +9582,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:16:16+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-06-28T15:17:41+02:00",
       "available": true,
       "price_min": 210,
@@ -9651,7 +9652,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-08T11:22:46+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-06-10T17:29:33+02:00",
       "available": true,
       "price_min": 675,
@@ -9727,7 +9728,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-08T11:01:28+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-06-10T17:29:43+02:00",
       "available": true,
       "price_min": 675,
@@ -9803,7 +9804,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-08T10:10:10+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-06-10T17:29:55+02:00",
       "available": true,
       "price_min": 250,
@@ -9875,7 +9876,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:35:22+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-05-10T20:37:19+02:00",
       "available": true,
       "price_min": 210,
@@ -9965,7 +9966,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:29:54+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-05-10T20:32:18+02:00",
       "available": true,
       "price_min": 250,
@@ -10049,7 +10050,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:24:52+02:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-05-10T20:28:03+02:00",
       "available": true,
       "price_min": 250,
@@ -10133,7 +10134,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:59:18+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T18:01:56+01:00",
       "available": true,
       "price_min": 78,
@@ -10259,7 +10260,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:57:06+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:58:47+01:00",
       "available": true,
       "price_min": 78,
@@ -10397,7 +10398,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:54:38+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:56:14+01:00",
       "available": true,
       "price_min": 78,
@@ -10535,7 +10536,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:51:29+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:53:55+01:00",
       "available": true,
       "price_min": 120,
@@ -10661,7 +10662,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:48:39+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:50:36+01:00",
       "available": true,
       "price_min": 64,
@@ -10805,7 +10806,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:40:29+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:42:09+01:00",
       "available": true,
       "price_min": 64,
@@ -10949,7 +10950,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:37:33+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:39:29+01:00",
       "available": true,
       "price_min": 96,
@@ -11057,7 +11058,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:34:19+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:36:38+01:00",
       "available": true,
       "price_min": 64,
@@ -11201,7 +11202,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:31:39+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:33:29+01:00",
       "available": true,
       "price_min": 62,
@@ -11339,7 +11340,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:29:23+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:31:00+01:00",
       "available": true,
       "price_min": 62,
@@ -11429,7 +11430,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:25:12+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:27:39+01:00",
       "available": true,
       "price_min": 64,
@@ -11573,7 +11574,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:21:49+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:23:54+01:00",
       "available": true,
       "price_min": 62,
@@ -11681,7 +11682,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T17:00:39+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T17:03:36+01:00",
       "available": true,
       "price_min": 64,
@@ -11825,7 +11826,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T16:55:09+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T16:57:55+01:00",
       "available": true,
       "price_min": 64,
@@ -11945,7 +11946,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T16:45:41+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T16:48:57+01:00",
       "available": true,
       "price_min": 64,
@@ -12089,7 +12090,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T16:40:20+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T16:43:17+01:00",
       "available": true,
       "price_min": 64,
@@ -12216,7 +12217,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T16:13:54+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T16:16:48+01:00",
       "available": true,
       "price_min": 64,
@@ -12355,7 +12356,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T16:07:29+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T16:10:09+01:00",
       "available": true,
       "price_min": 78,
@@ -12499,7 +12500,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T15:48:48+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T15:52:15+01:00",
       "available": true,
       "price_min": 64,
@@ -12643,7 +12644,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T15:41:58+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T15:45:30+01:00",
       "available": true,
       "price_min": 64,
@@ -12787,7 +12788,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T15:35:50+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T15:39:14+01:00",
       "available": true,
       "price_min": 64,
@@ -12919,7 +12920,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T15:32:24+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T15:34:02+01:00",
       "available": true,
       "price_min": 78,
@@ -13057,7 +13058,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-03-26T15:07:05+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-03-26T15:10:37+01:00",
       "available": true,
       "price_min": 64,
@@ -13194,7 +13195,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-28T14:56:56+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-28T15:00:41+01:00",
       "available": true,
       "price_min": 63,
@@ -13301,7 +13302,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-28T14:45:25+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-28T14:54:50+01:00",
       "available": true,
       "price_min": 63,
@@ -13408,7 +13409,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-28T14:38:51+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-28T16:18:43+01:00",
       "available": true,
       "price_min": 63,
@@ -13515,7 +13516,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-28T14:30:52+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-28T14:36:34+01:00",
       "available": true,
       "price_min": 200,
@@ -13574,7 +13575,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-28T13:25:14+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-28T15:03:24+01:00",
       "available": true,
       "price_min": 105,
@@ -13664,7 +13665,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T13:07:12+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T13:25:21+01:00",
       "available": true,
       "price_min": 78,
@@ -13827,7 +13828,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T12:56:13+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T13:05:56+01:00",
       "available": true,
       "price_min": 78,
@@ -14010,7 +14011,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T12:16:32+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T12:17:27+01:00",
       "available": true,
       "price_min": 130,
@@ -14079,7 +14080,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T12:14:49+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:53:30+02:00",
       "available": true,
       "price_min": 130,
@@ -14148,7 +14149,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T12:08:15+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-17T15:17:13+02:00",
       "available": true,
       "price_min": 130,
@@ -14218,7 +14219,7 @@
         "VDAY"
       ],
       "created_at": "2024-02-24T11:52:44+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T12:03:52+01:00",
       "available": true,
       "price_min": 135,
@@ -14287,7 +14288,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:50:33+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:52:10+01:00",
       "available": true,
       "price_min": 135,
@@ -14357,7 +14358,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:47:43+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:49:45+01:00",
       "available": true,
       "price_min": 135,
@@ -14417,7 +14418,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:30:11+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T12:51:04+01:00",
       "available": true,
       "price_min": 64,
@@ -14606,7 +14607,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:13:27+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:14:34+01:00",
       "available": true,
       "price_min": 130,
@@ -14675,7 +14676,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:07:40+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:08:52+01:00",
       "available": true,
       "price_min": 130,
@@ -14748,7 +14749,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-24T11:05:03+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:06:00+01:00",
       "available": true,
       "price_min": 130,
@@ -14818,7 +14819,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T11:01:29+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:03:02+01:00",
       "available": true,
       "price_min": 130,
@@ -14878,7 +14879,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T10:59:25+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T11:27:49+01:00",
       "available": true,
       "price_min": 64,
@@ -15017,7 +15018,7 @@
         "VDAY"
       ],
       "created_at": "2024-02-24T10:40:26+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T10:40:26+01:00",
       "available": true,
       "price_min": 64,
@@ -15188,7 +15189,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T10:33:14+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T10:35:20+01:00",
       "available": true,
       "price_min": 180,
@@ -15299,7 +15300,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T10:15:30+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T10:30:24+01:00",
       "available": true,
       "price_min": 180,
@@ -15410,7 +15411,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T10:10:47+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-05-17T12:22:49+02:00",
       "available": true,
       "price_min": 180,
@@ -15521,7 +15522,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T10:01:16+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T10:04:41+01:00",
       "available": true,
       "price_min": 405,
@@ -15620,7 +15621,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T09:57:31+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2025-08-26T16:53:29+02:00",
       "available": true,
       "price_min": 180,
@@ -15735,7 +15736,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-24T09:53:10+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T09:56:31+01:00",
       "available": true,
       "price_min": 165,
@@ -15846,7 +15847,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-24T09:50:16+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-24T09:52:32+01:00",
       "available": true,
       "price_min": 165,
@@ -15952,7 +15953,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-23T22:40:48+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-23T22:43:52+01:00",
       "available": true,
       "price_min": 165,
@@ -16063,7 +16064,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-23T22:38:47+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-23T22:40:14+01:00",
       "available": true,
       "price_min": 180,
@@ -16174,7 +16175,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-23T22:29:54+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-23T22:37:48+01:00",
       "available": true,
       "price_min": 405,
@@ -16267,7 +16268,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-02-23T22:23:32+01:00",
-      "updated_at": "2026-05-22T17:59:02+02:00",
+      "updated_at": "2026-05-25T21:10:10+02:00",
       "published_at": "2024-02-23T22:23:32+01:00",
       "available": true,
       "price_min": 180,

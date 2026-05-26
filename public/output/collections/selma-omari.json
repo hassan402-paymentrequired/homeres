@@ -1,0 +1,1445 @@
+{
+  "handle": "selma-omari",
+  "label": "SELMA OMARI",
+  "url": "https://arowonen.com/collections/selma-omari",
+  "scraped_at": "2026-05-25T19:09:54.151Z",
+  "shopify_product_count": 15,
+  "product_count": 12,
+  "products": [
+    {
+      "id": 15379664765260,
+      "title": "Decorative Cushion - Cornelius - Almond White",
+      "handle": "decorative-cushion-cornelius-almond-white-1",
+      "url": "https://arowonen.com/products/decorative-cushion-cornelius-almond-white-1",
+      "vendor": "FÉRIRE",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "DECORATIVE CUSHIONS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-19T15:22:12+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2025-11-19T15:23:13+01:00",
+      "available": true,
+      "price_min": 69,
+      "price_max": 129,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 5,
+      "variants": [
+        {
+          "id": 55982858174796,
+          "title": "30x45 cm / Almond White",
+          "sku": null,
+          "price": "69.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "30x45 cm",
+          "option2": "Almond White",
+          "option3": null
+        },
+        {
+          "id": 55982858207564,
+          "title": "45x45 cm / Almond White",
+          "sku": null,
+          "price": "79.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "45x45 cm",
+          "option2": "Almond White",
+          "option3": null
+        },
+        {
+          "id": 55982858240332,
+          "title": "50x50 cm / Almond White",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "50x50 cm",
+          "option2": "Almond White",
+          "option3": null
+        },
+        {
+          "id": 55982858273100,
+          "title": "40x60 cm / Almond White",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40x60 cm",
+          "option2": "Almond White",
+          "option3": null
+        },
+        {
+          "id": 55982858305868,
+          "title": "60 x 60 cm / Almond White",
+          "sku": null,
+          "price": "129.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "60 x 60 cm",
+          "option2": "Almond White",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "30x45 cm",
+            "45x45 cm",
+            "50x50 cm",
+            "40x60 cm",
+            "60 x 60 cm"
+          ]
+        },
+        {
+          "name": "Kleur",
+          "values": [
+            "Almond White"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9587.jpg?v=1763562163",
+          "alt": null,
+          "width": 5411,
+          "height": 3785
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9602.jpg?v=1763562171",
+          "alt": null,
+          "width": 6016,
+          "height": 4016
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9587.jpg?v=1763562163",
+      "description_html": "<span>Discover the sophistication of Férire: an emblem of exclusive refinement and style. The handcrafted cushions epitomize timeless elegance, crafted with rare and premium materials. From silk to velvet, each cushion is a masterpiece in itself. Illuminate your interior with the subtle to bold designs. Férire - where craftsmanship and aesthetics converge for an unforgettable experience.  </span>"
+    },
+    {
+      "id": 15372253593932,
+      "title": "Decorative Cushion - Lena - Pearl White",
+      "handle": "decorative-cushion-lena-pearl-white-1",
+      "url": "https://arowonen.com/products/decorative-cushion-lena-pearl-white-1",
+      "vendor": "FÉRIRE",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "DECORATIVE CUSHIONS",
+        "just dropped in",
+        "Just launched in the online store",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-16T15:51:34+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2025-11-16T15:52:50+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 5,
+      "variants": [
+        {
+          "id": 55956221133132,
+          "title": "30x45 cm / Pearl White",
+          "sku": null,
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "30x45 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 55956221165900,
+          "title": "45x45 cm / Pearl White",
+          "sku": null,
+          "price": "69.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "45x45 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 55956221198668,
+          "title": "50x50 cm / Pearl White",
+          "sku": null,
+          "price": "79.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "50x50 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 55956221231436,
+          "title": "40x60 cm / Pearl White",
+          "sku": null,
+          "price": "79.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40x60 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 55956221264204,
+          "title": "60 x 60 cm / Pearl White",
+          "sku": null,
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "60 x 60 cm",
+          "option2": "Pearl White",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "30x45 cm",
+            "45x45 cm",
+            "50x50 cm",
+            "40x60 cm",
+            "60 x 60 cm"
+          ]
+        },
+        {
+          "name": "Kleur",
+          "values": [
+            "Pearl White"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9557.jpg?v=1763304774",
+          "alt": null,
+          "width": 5627,
+          "height": 3756
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9607.jpg?v=1763304774",
+          "alt": null,
+          "width": 6016,
+          "height": 4016
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/JPG_277d06c9-49ec-46fa-883d-da743dda508b.jpg?v=1763646314",
+          "alt": null,
+          "width": 5650,
+          "height": 4016
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_0116_a1d6faf5-eace-4c28-bf3c-bb43d793d887.jpg?v=1763646379",
+          "alt": null,
+          "width": 5735,
+          "height": 4016
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_9557.jpg?v=1763304774",
+      "description_html": "<span>Discover the sophistication of Férire: an emblem of exclusive refinement and style. The handcrafted cushions epitomize timeless elegance, crafted with rare and premium materials. From silk to velvet, each cushion is a masterpiece in itself. Illuminate your interior with the subtle to bold designs. Férire - where craftsmanship and aesthetics converge for an unforgettable experience.  </span>"
+    },
+    {
+      "id": 8891573666124,
+      "title": "Book - Virgil Abloh. Nike. ICONS",
+      "handle": "book-virgil-abloh-nike-icons",
+      "url": "https://arowonen.com/products/book-virgil-abloh-nike-icons",
+      "vendor": "TASCHEN",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "DESIGN & PHOTOGRAPHY",
+        "FASHION & LUXURY BRANDS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-04T11:32:07+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-03-04T11:32:50+01:00",
+      "available": true,
+      "price_min": 60,
+      "price_max": 60,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47774380982604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "60.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/virgil_abloh_nike_va_gb_3d_rgb_kdi_08018_2206081104_id_1342237.png-640x737.jpg?v=1709548368",
+          "alt": null,
+          "width": 640,
+          "height": 737
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_02_2101111556_id_1342416.jpg?v=1709548401",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_03_2101111556_id_1342425.jpg?v=1709548403",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_04_2101111556_id_1342434.jpg?v=1709548402",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_05_2101111557_id_1342443.jpg?v=1709548401",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_06_2101111557_id_1342452.jpg?v=1709548400",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/va_abloh_nike_07_2101111558_id_1342461.jpg?v=1709548402",
+          "alt": null,
+          "width": 1640,
+          "height": 1327
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/virgil_abloh_nike_va_gb_3d_rgb_kdi_08018_2206081104_id_1342237.png-640x737.jpg?v=1709548368",
+      "description_html": "<p>Bringing together all the greats—from <strong>Air Jordan 1</strong> to <strong>Air Presto</strong>—<strong>Nike and Virgil Abloh reinvent sneaker culture</strong> with the collaborative project The Ten and redesign 10 sneaker icons. <strong>Experience engineering ingenuity and Abloh’s investigative design process</strong>: each shoe is a piece of industrial design, a readymade sculpture, and a wearable all at once. The artful <strong>Swiss binding</strong> <strong>showcases an open spine</strong>, reflecting Abloh’s deconstructive vocabulary and disclosing the production of <em>ICONS</em>.</p>\n<p><span class=\"product-detail-information__book-details\"><span>Hardcover, Swiss binding with open spine, </span><span data-testid=\"book-details--dimensions\">25.5 x 29.7 cm, </span><span data-testid=\"book-details--weight\">2.09 kg, </span><span>352 pages</span></span></p>\n<div class=\"read-more__biography--book-edition\">\n<p class=\"read-more__biography--book-isbn\">ISBN<span> </span>978-3-8365-8509-5</p>\n<span class=\"edition-selection__single-edition\">Edition: English</span>\n</div>"
+    },
+    {
+      "id": 8888207933772,
+      "title": "Decorative Cushion - Hester Satin - Pearl White",
+      "handle": "decorative-cushion-hester-satin-pearl-white",
+      "url": "https://arowonen.com/products/decorative-cushion-hester-satin-pearl-white",
+      "vendor": "FÉRIRE",
+      "product_type": "",
+      "tags": [
+        "CUSHIONS & HOME TEXTILES",
+        "DECORATIVE CUSHIONS",
+        "just dropped in",
+        "Just launched in the online store"
+      ],
+      "created_at": "2024-03-02T10:45:20+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2025-01-24T18:26:22+01:00",
+      "available": true,
+      "price_min": 59,
+      "price_max": 99,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 5,
+      "variants": [
+        {
+          "id": 47764956774732,
+          "title": "30x45 cm / Pearl White",
+          "sku": "",
+          "price": "59.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "30x45 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 47764956807500,
+          "title": "45x45 cm / Pearl White",
+          "sku": "",
+          "price": "69.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "45x45 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 47764956840268,
+          "title": "50x50 cm / Pearl White",
+          "sku": "",
+          "price": "79.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "50x50 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 47764956873036,
+          "title": "40x60 cm / Pearl White",
+          "sku": "",
+          "price": "79.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "40x60 cm",
+          "option2": "Pearl White",
+          "option3": null
+        },
+        {
+          "id": 47764956905804,
+          "title": "60 x 60 cm / Pearl White",
+          "sku": "",
+          "price": "99.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "60 x 60 cm",
+          "option2": "Pearl White",
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "30x45 cm",
+            "45x45 cm",
+            "50x50 cm",
+            "40x60 cm",
+            "60 x 60 cm"
+          ]
+        },
+        {
+          "name": "Kleur",
+          "values": [
+            "Pearl White"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-30.jpg?v=1709372843",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-31.jpg?v=1709372843",
+          "alt": null,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/phonto-30.jpg?v=1709372843",
+      "description_html": "<span>Discover the sophistication of Férire: an emblem of exclusive refinement and style. The handcrafted cushions epitomize timeless elegance, crafted with rare and premium materials. From silk to velvet, each cushion is a masterpiece in itself. Illuminate your interior with the subtle to bold designs. Férire - where craftsmanship and aesthetics converge for an unforgettable experience.  </span>"
+    },
+    {
+      "id": 8878907982156,
+      "title": "Mickey Welcome - Chromed - Silver Small",
+      "handle": "disney-mickey-welcome-chromed-silver",
+      "url": "https://arowonen.com/products/disney-mickey-welcome-chromed-silver",
+      "vendor": "LEBLON DELIENNE",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "OBJECTS"
+      ],
+      "created_at": "2024-02-25T15:28:28+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-25T15:35:02+01:00",
+      "available": true,
+      "price_min": 328,
+      "price_max": 328,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47742025498956,
+          "title": "Default Title",
+          "sku": null,
+          "price": "328.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/234545.jpg?v=1708871620",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/567.png?v=1708871625",
+          "alt": null,
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/234545.jpg?v=1708871620",
+      "description_html": "<p>Mickey Mouse is a universal icon of pop culture !</p>\n<p>Since its creation in 1928, the public is conquered by this enthusiastic, dynamic, courageous and daring character.</p>\n<p>Dimensions of the piece : Height 30 cm, Depth 12,5 cm, Width 18,5 cm<span>.</span></p>"
+    },
+    {
+      "id": 8877123240268,
+      "title": "Totem - Sand Siloli",
+      "handle": "totem-sand-siloli",
+      "url": "https://arowonen.com/products/totem-sand-siloli",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB TOTEMS",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "TOTEMS & DIFFUSERS"
+      ],
+      "created_at": "2024-02-24T10:33:14+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-24T10:35:20+01:00",
+      "available": true,
+      "price_min": 180,
+      "price_max": 790,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 3,
+      "variants": [
+        {
+          "id": 47737430212940,
+          "title": "250 ML",
+          "sku": null,
+          "price": "180.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "250 ML",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737430245708,
+          "title": "2 LITER",
+          "sku": null,
+          "price": "405.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "2 LITER",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47737430278476,
+          "title": "5 LITER",
+          "sku": null,
+          "price": "790.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "5 LITER",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "250 ML",
+            "2 LITER",
+            "5 LITER"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-24om10.33.50.png?v=1708767250",
+          "alt": null,
+          "width": 938,
+          "height": 1406
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/LIFESTYLE_2023_0052.webp?v=1708767281",
+          "alt": null,
+          "width": 3403,
+          "height": 5105
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM0_25L_ws.webp?v=1708767280",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM2L_ws.webp?v=1708767281",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SandSiloli-TOTEM5L_ws.webp?v=1708767281",
+          "alt": null,
+          "width": 4104,
+          "height": 5472
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Scherm_afbeelding2024-02-24om10.33.50.png?v=1708767250",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p><span>The Totem Siloli diffuser, available in 2 and 5 liters, is finished with a brown and beige handmade ceramic stopper that matches the colors of the glass. It claims its place in an interior as a unique and refillable decorative object.</span><br></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><strong>FRAGRANCE<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The dry woody fragrance of cedar and tonka bean takes us to the wide-open spaces of an equatorial climate, with a touch of lime to give this fragrance an unusual fresh-ness. The sophistication of the olfactory materials is in perfect harmony with that of the glass, striking a beautiful balance between decorative and perfumed object.</span></p>"
+    },
+    {
+      "id": 8876157174092,
+      "title": "Candle - Sand Siloli",
+      "handle": "candle-sand-siloli",
+      "url": "https://arowonen.com/products/candle-sand-siloli",
+      "vendor": "BAOBAB COLLECTION",
+      "product_type": "",
+      "tags": [
+        "BABAB",
+        "Babobab",
+        "BAOBAB",
+        "BAOBAB CANDLES",
+        "BAOBAP",
+        "BAOBOB",
+        "BOABAB",
+        "BOABUB",
+        "BOBAB",
+        "CANDLES & HOME FRAGRANCE",
+        "just dropped in",
+        "Just launched in the online store",
+        "SCENTED CANDLES"
+      ],
+      "created_at": "2024-02-23T19:27:57+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-23T19:30:25+01:00",
+      "available": true,
+      "price_min": 117,
+      "price_max": 645,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 4,
+      "variants": [
+        {
+          "id": 47735321985356,
+          "title": "MAX 10 cm",
+          "sku": null,
+          "price": "117.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 10 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735322018124,
+          "title": "MAX 16 cm",
+          "sku": null,
+          "price": "168.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 16 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735322050892,
+          "title": "MAX 24 cm",
+          "sku": null,
+          "price": "330.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 24 cm",
+          "option2": null,
+          "option3": null
+        },
+        {
+          "id": 47735322083660,
+          "title": "MAX 35 cm",
+          "sku": null,
+          "price": "645.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "MAX 35 cm",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Grootte",
+          "values": [
+            "MAX 10 cm",
+            "MAX 16 cm",
+            "MAX 24 cm",
+            "MAX 35 cm"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198501928_scentedcandles_siloli_grappe.webp?v=1708712994",
+          "alt": null,
+          "width": 1050,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SILOLICANDLERE.webp?v=1708712994",
+          "alt": null,
+          "width": 2981,
+          "height": 4472
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198501928_scentedcandles_siloli_max10.webp?v=1708712994",
+          "alt": null,
+          "width": 3648,
+          "height": 4864
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198501959_scentedcandles_siloli_max16.webp?v=1708712994",
+          "alt": null,
+          "width": 3648,
+          "height": 4864
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198501980_scentedcandles_siloli_max24.webp?v=1708712994",
+          "alt": null,
+          "width": 3648,
+          "height": 4864
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198502000_scentedcandles_siloli_max35.webp?v=1708712994",
+          "alt": null,
+          "width": 3648,
+          "height": 4864
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5415198501928_scentedcandles_siloli_grappe.webp?v=1708712994",
+      "description_html": "<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<div class=\"accordion__wrapper\">\n<div data-accordion-body=\"\" id=\"description-main\" class=\"accordion__body\">\n<div data-truncated-holder=\"\" class=\"accordion-content__holder accordion-content__holder--truncate\">\n<div class=\"accordion-content__inner\">\n<div data-truncated-content=\"accordion-content__entry--truncate\" class=\"accordion-content__entry\">\n<p>The hand-blown glasses of the Siloli candle showcase shades of beige and brown on which horizontal lines are formed with small organic and random specks. Each glass is unique, as the sandy color dissolves in the material according to the glass blower’s breath. </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion__wrapper\"><br></div>\n<p><span><strong>FRAGRANCE<br></strong></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">The dry woody fragrance of cedar and tonka bean takes us to the wide-open spaces of an equatorial climate, with a touch of lime to give this fragrance an unusual fresh-ness. The sophistication of the olfactory materials is in perfect harmony with that of the glass, striking a beautiful balance between decorative and perfumed object.</span></p>\n<p><br></p>\n<p><strong>USE</strong><br>Always let the candle burn until its surface is totally liquid. This step can be long, especially during the very first burn. Once the wax is totally liquid, you can let the candle burn for a maximum of one hour. The layer of liquid wax should never exceed one centimeter in height. Never exceed the maximum burning time indicated on the instruction label, nor let it burn to the end. Systematically keep a centimeter of wax at the bottom.<br></p>\n<p><br></p>"
+    },
+    {
+      "id": 8875549327692,
+      "title": "Book - Tuscany Marvel",
+      "handle": "book-tuscany-marvel",
+      "url": "https://arowonen.com/products/book-tuscany-marvel",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-23T13:01:39+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-23T13:07:43+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47733855945036,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tuscany-marvel-assouline-1.webp?v=1708690056",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tuscany-marvel-assouline-3.webp?v=1708690056",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tuscany-marvel-assouline-2.webp?v=1708690056",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_05.webp?v=1708690056",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_06.webp?v=1708690056",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_07.webp?v=1708690048",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_01.webp?v=1708690045",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_08.webp?v=1708690045",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_02.webp?v=1708690047",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_09.webp?v=1708690047",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tuscany_marvel_desktop.webp?v=1708690046",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_03.webp?v=1708690045",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Tuscany-Marvel-Spread_04.webp?v=1708690046",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/tuscany-marvel-assouline-1.webp?v=1708690056",
+      "description_html": "<div class=\"product-details__detail-list-item\">\n<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<p>The Italian region of Tuscany is a feast for all senses. A creative incubator that has cultivated art and architecture for eras including Etruscan, Roman, Renaissance and modern times. Timeworn churches, once stops on nineteenth-century Grand Tours, stand tall in the towns’ piazzas. Rolling hills of wheat and colorful olive groves, that inspire authentic Tuscan cuisine, are dotted with villas built by the prestigious Medici family. The Tyrrhenian Sea extends off its coast, lapping the shore of Elba, the island where the emperor Napoleon was exiled. Quaint villages, historic towns and bustling cities are scattered across its landscape, which is almost as varied as the communities themselves. From annual horse races at Piazza del Campo, and the centuries-old winemaking traditions of the Chianti region to the city of Pisa, an ancient Maritime Republic known for the youthful spirit of its Scuola Normale Superiore and Leaning Tower alike, Tuscany is the place of dreams, where thousands come to relive its history and take in the beauty of a region.</p>\n<p>In the fashion world, Ferragamo, Gucci and Pucci all have ties to Florence and its endless inspiration. However, what truly defines Tuscany is its timelessness. Masterpieces from centuries past still lure immense crowds. Brunelleschi’s dome in Florence never fails to strike onlookers with awe.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\"><br></div>\n<div class=\"product-details__detail-list-item\">\n<p class=\"p1\"><strong>PAGE COUNT</strong><br>312 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>May 2021<br><strong>DIMENSIONS</strong><br>W 25 x L 33 x D 4 cm<br><strong>COVER MATERIALS</strong><br>Linen Hardcover<br><strong>ISBN</strong><br>9781649800015<br><strong>WEIGHT</strong><br>2.72 kg<br><strong>AUTHOR</strong><br>Text by Cesare Cunaccia</p>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8875447058764,
+      "title": "Book - Monte Carlo",
+      "handle": "book-monte-carlo",
+      "url": "https://arowonen.com/products/book-monte-carlo",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-23T11:50:01+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-23T11:59:53+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47733636694348,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/monte-carlo-assouline-1.webp?v=1708685976",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/monte-carlo-assouline-3.jpg?v=1708685976",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/monte-carlo-assouline-2.webp?v=1708685976",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_05_7f9bc3fa-8f00-4d3d-b9a7-ab3b008ff9d3.webp?v=1708685976",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_06_0fb02ff0-89f5-4c11-baec-bc6a8a994a68.webp?v=1708685967",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_07_20dd583e-90d5-4d1d-91cb-ad04554583d9.webp?v=1708685967",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_01_66c72c41-57bd-4880-ae9c-25f9e64185c4.webp?v=1708685863",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_08_d5efcc2c-2a07-41f4-a7cc-edd0168affff.webp?v=1708685864",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_02_0d9770d0-d5d5-4e30-ac36-1bd29b39dd8e.webp?v=1708685863",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_09_1bebda17-01d7-4323-884d-a766ae847184.webp?v=1708685863",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MonteCarlo_PDP_Desktop.webp?v=1708685864",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_03_ba8be1d5-9ec5-4440-b0eb-07dc309be04b.webp?v=1708685863",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Monte-Carlo-Spread_04_e80d0bf3-afc9-4b70-b86d-41fc79319395.webp?v=1708685865",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/monte-carlo-assouline-1.webp?v=1708685976",
+      "description_html": "<div class=\"product-details__detail-list-item\">\n<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<p>A treasure trove of glitz and glamour awaits on an exclusive two-mile coastline along the Mediterranean Sea. High-rollers, professional athletes and international stars flock to Monaco in droves. Although packed with flashy sports cars, luxury apartments, super-yachts and unlimited entertainment, this rocky promontory does not lack for culture and history. The sovereign family ensures that the principality’s distinguished heritage is preserved and appreciated. And its over-the-top opulence is merely equal to its charm. The newly designed Foster + Partners Yacht Club de Monaco stands in stark contrast to the monumental baroque building housing the Musée Océanographique de Monaco. The Nouveau Musée National de Monaco, which showcases the latest in contemporary art, is a complete 180 compared to the Prince’s Palace of Monaco, which dates to the twelfth century. Yet it all exists harmoniously within two hundred hectares of land.</p>\n<p>The list of Monaco regulars reads like the guest list to the ultimate private party: Charles Leclerc, Grace Kelly, Sir Roger Moore, Tyra Banks, Frank Sinatra, Rudolf Nureyev, Bjorn Borg and Ringo Starr, to name a few. Whether enticed by the top-tier competitions (Monaco Grand Prix, Rolex Monte-Carlo Masters), can’t-miss events (Ballets de Monte-Carlo, Monaco National Day), iconic Société des Bains de Mer properties (Monte Carlo Casino, Hôtel de Paris Monte Carlo, Monte-Carlo Beach) or Michelin-star restaurants (LeLouis XV, Rampoldi, Pavyllon Monte-Carlo), the world’s celebrities continue to return again and again. With exclusive images from the palace archives and a foreword by Prince Albert II of Monaco,<span> </span><em>Monte Carlo</em><span> </span>offers readers a front-row seat with VIP access to the jewel of the French Riviera.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\"><br></div>\n<div class=\"product-details__detail-list-item\">\n<p class=\"p1\"><strong>PAGE COUNT</strong><br>296 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 250<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>March 2023<br><strong>DIMENSIONS</strong><br>W 25 x L 33 x D 3 cm<br><strong>COVER MATERIALS</strong><br>Silk Hardcover<br><strong data-mce-fragment=\"1\">ISBN</strong><br>9781649802002<br><strong>WEIGHT</strong><br>2.5 kg<br><strong>AUTHOR</strong><br>Text by Ségolène Cazenave Manara</p>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8875439685964,
+      "title": "Book - Miami Beach",
+      "handle": "book-miami-beach",
+      "url": "https://arowonen.com/products/book-miami-beach",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-23T11:42:28+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2025-01-25T10:17:55+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47733622374732,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/miami-beach-assouline-1.webp?v=1708685297",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/miami-beach-assouline-3.webp?v=1708685297",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/miami-beach-assouline-2.webp?v=1708685297",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_13.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_14.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_05.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_06.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_07.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_15.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_08.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_16.webp?v=1708685297",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_01.webp?v=1708685270",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_09.webp?v=1708685271",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_02.webp?v=1708685272",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_10.webp?v=1708685270",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/miami_beach_desktop.webp?v=1708685272",
+          "alt": null,
+          "width": 1646,
+          "height": 1098
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_03.webp?v=1708685272",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_11.webp?v=1708685270",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_04.webp?v=1708685269",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Miami-Beach-Spread_12.webp?v=1708685272",
+          "alt": null,
+          "width": 1646,
+          "height": 1097
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/miami-beach-assouline-1.webp?v=1708685297",
+      "description_html": "<div class=\"product-details__detail-list-item\">\n<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<p>Considered by many as the country’s most dynamic, fastest growing and sexiest city, Miami is more popular than ever before. Yet, it is a city that doesn’t merely change but evolves, never rewriting the past, just adding to its illustrious heritage. And this is the real beauty of Miami. The chic Surf Club and the vibrant Faena Hotel did not replace the emblematic Raleigh of the 1940s nor the Ritz Carlton of the 50s, rather they complement them. Classics like Joe’s Stone Crab continue to serve their signature fare to sell-out crowds each night, as new establishments attract with name chefs. The iconic art deco architecture remains on full display as the modern Herzog &amp; de Meuron-designed Perez Art Museum stands in stark contrast. Replete with arts and culture year round from the international art at The Bass to the street art of Wynwood Walls, each December, the city is taken over by the global cultural elite for Art Basel Miami Beach, a fair that attracts over 80,000 visitors who turn out for the momentous art, such as Maurizio Cattelan’s show stopping “Comedian”, and the exuberant festivities hosted each evening.</p>\n<p>Well-known for its nightlife, pleasure is a focal point of Miami life at all times. Yachts and recreational boats line its marinas, lively beaches offer front row seats to a parade of bronzed revelers, and bladers and bikers coast along its beach front promenades. Miami has become the hub for everything chic, fiery and colorful.<span> </span><i>Miami Beach</i><span> </span>takes the readers on a tour of this bold and wonderous metropolis.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\">\n<div class=\"product-details__detail-list-item\"><br></div>\n<div class=\"product-details__detail-list-item\">\n<p class=\"p1\"><strong>PAGE COUNT</strong><br>304 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>October 2020<br><strong>DIMENSIONS</strong><br>W 25 x L 33 x D 4 cm<br><strong>COVER MATERIALS</strong><br>Linen Hardcover<br><strong>ISBN</strong><br>882664395247<br><strong>WEIGHT</strong><br>2.998 kg<br><strong>AUTHOR</strong><br>Horacio Silva</p>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8874567926092,
+      "title": "Book - Capri Dolce Vita",
+      "handle": "book-capri-dolce-vita",
+      "url": "https://arowonen.com/products/book-capri-dolce-vita",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-22T22:42:22+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-22T22:46:59+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47731845890380,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/capri-dolce-vita-assouline-1.jpg?v=1708638405",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/capri-dolce-vita-assouline-3.jpg?v=1708638405",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/capri-dolce-vita-assouline-2.webp?v=1708638405",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/capri_dolce_vita_desktop_614bed88-184b-450c-ae50-f38a85bce251.webp?v=1708638404",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri_Dolce_Vita_Spread-13.webp?v=1708638404",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_01.webp?v=1708638393",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_03.webp?v=1708638395",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_04.webp?v=1708638394",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_05.webp?v=1708638394",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_06.webp?v=1708638392",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_07.webp?v=1708638393",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_08.webp?v=1708638394",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_09.webp?v=1708638392",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Capri-Dolce-Vita-Spread_12.webp?v=1708638392",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/capri-dolce-vita-assouline-1.jpg?v=1708638405",
+      "description_html": "<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<div class=\"accordion\">\n<div class=\"accordion__content js-accordion-content motion open\">\n<div class=\"product-accordion__content\">\n<div class=\"js-product-content-long p\">\n<p>Capri, a resort island dating back to the height of the Roman Empire, has long been an extraordinary destination full of ancient charm. Cherished by everyone from physician Axel Munthe, who recommended its clean air to his patients as a cure for bronchitis; to film director Jean-Luc Godard as the setting for his 1963 film Contempt; to literary icons, celebrities, poets, and the jet set, Capri boasts a rich Mediterranean spirit and style that encompasses a wealth of beauty, from gardens to villas to caves to the people walking in the lively Piazzetta, where cars are prohibited and the island’s playful attitude runs rampant.<span> </span><em>Capri Dolce Vita</em><span> </span>is a look at this fabled corner of the world through the ages and a celebration of paradise on earth.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"accordion\"><br></div>\n<div class=\"product-details__detail-list-item\">\n<strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">PAGE COUNT</span></strong><br>\n</div>\n<div class=\"product-details__detail-list-item\">\n<p class=\"product-details__detail-list-item\">272 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br>Over 200<br><strong>LANGUAGE</strong><br>English<br><strong>RELEASED ON</strong><br>May 2019<br><strong>DIMENSIONS</strong><br>W 25 x L 33 x D 3 cm<br><strong>COVER MATERIALS<br></strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Linen hardcover<br></span><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">ISBN<br></strong>9781614287834<br><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"></strong><strong>WEIGHT</strong><br>2.6 kg<br><br></p>\n<section class=\"sustainability\">\n<div class=\"sustainability__inner\">\n<div class=\"sustainability__title\"><br></div>\n</div>\n</section>\n<p class=\"product-details__detail-list-item\"><br></p>\n</div>"
+    },
+    {
+      "id": 8874506355020,
+      "title": "Book - Sicily Honor",
+      "handle": "book-sicily-honor",
+      "url": "https://arowonen.com/products/book-sicily-honor",
+      "vendor": "ASSOULINE",
+      "product_type": "",
+      "tags": [
+        "COFFEE TABLE BOOKS",
+        "just dropped in",
+        "Just launched in the online store",
+        "THE TRAVEL SERIES"
+      ],
+      "created_at": "2024-02-22T21:25:02+01:00",
+      "updated_at": "2026-05-25T21:09:54+02:00",
+      "published_at": "2024-02-22T21:31:03+01:00",
+      "available": true,
+      "price_min": 105,
+      "price_max": 105,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47731681067340,
+          "title": "Default Title",
+          "sku": null,
+          "price": "105.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1.webp?v=1708633842",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2.webp?v=1708633844",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/3.webp?v=1708633845",
+          "alt": null,
+          "width": 1500,
+          "height": 1875
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/4.webp?v=1708633843",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/5.webp?v=1708633842",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/6.webp?v=1708633843",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/7.webp?v=1708633843",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/8.webp?v=1708633842",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/9.webp?v=1708633844",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/10.webp?v=1708633842",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/11.webp?v=1708633842",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/13.webp?v=1708633856",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/14.webp?v=1708633856",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/15.webp?v=1708633856",
+          "alt": null,
+          "width": 1946,
+          "height": 1297
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/12.webp?v=1708633856",
+          "alt": null,
+          "width": 1946,
+          "height": 1061
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/1.webp?v=1708633842",
+      "description_html": "<p>Explore the enchanting island of Sicily, known for its rich history, passion, and cultural diversity. From ancient legends to modern films, Sicily's influence is palpable and deeply ingrained in its past and present. Discover the authentic charm and luxury amenities of Villa Sant'Andrea and Grand Hotel Timeo, two properties located in Taormina with breathtaking views of the Mediterranean. Grand Hotel Timeo boasts a prime location near an ancient Greek theater and the extraordinary Mount Etna.</p>\n<div class=\"product-details__detail-list-item\">\n<p class=\"h6\"><strong>PAGE COUNT</strong><br>304 pages<br><strong>NUMBER OF ILLUSTRATIONS</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Over 200<br></span><strong>LANGUAGE</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">English<br></span><strong>RELEASED ON</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">June 2023<br></span><strong>DIMENSIONS</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">W 25 x L 33 x D 4 cm<br></span><strong>COVER MATERIALS</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Linen Hardcover<br></span><strong>ISBN</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">9781649802170<br></span><strong>WEIGHT</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">2.99 kg<br></span><strong>AUTHOR</strong><br><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Gianni Riotta</span></p>\n</div>"
+    }
+  ]
+}

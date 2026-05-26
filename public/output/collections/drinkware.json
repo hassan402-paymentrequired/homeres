@@ -1,8 +1,9 @@
 {
   "handle": "drinkware",
-  "label": "Drinkware",
+  "label": "DRINKWARE",
   "url": "https://arowonen.com/collections/drinkware",
-  "scraped_at": "2026-05-22T15:58:54.484Z",
+  "scraped_at": "2026-05-25T19:06:40.203Z",
+  "shopify_product_count": 21,
   "product_count": 21,
   "products": [
     {
@@ -17,7 +18,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-17T12:17:53+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T13:19:25+02:00",
       "available": true,
       "price_min": 230,
@@ -111,7 +112,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-17T12:08:31+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T13:19:21+02:00",
       "available": true,
       "price_min": 230,
@@ -205,7 +206,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-17T12:03:34+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T13:19:18+02:00",
       "available": true,
       "price_min": 230,
@@ -293,7 +294,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-17T11:58:55+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T13:16:59+02:00",
       "available": true,
       "price_min": 230,
@@ -388,7 +389,7 @@
         "MUGS"
       ],
       "created_at": "2025-08-15T15:06:25+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T12:25:51+02:00",
       "available": true,
       "price_min": 145,
@@ -425,6 +426,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mug_lapis_0218_1400x_59551085-c464-461b-aa72-c96f5ea956a4.webp?v=1755263331",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104b_1400x_a0c3867f-3a9f-47d2-a8ad-783bc78834ef.webp?v=1755263331",
           "alt": null,
           "width": 1400,
@@ -432,12 +439,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH104c_1400x_9e80c710-9886-4d9a-9286-28ac36fee546.webp?v=1755263331",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mug_lapis_0218_1400x_59551085-c464-461b-aa72-c96f5ea956a4.webp?v=1755263331",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -483,7 +484,7 @@
         "MUGS"
       ],
       "created_at": "2025-08-15T15:02:25+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T12:25:32+02:00",
       "available": true,
       "price_min": 145,
@@ -520,6 +521,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0593_1400x_ec8bb86e-85a6-4d57-afc7-7508a7ebc312.webp?v=1755263158",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH105b_1400x_cc78141b-e771-47d2-9f04-773847cd3570.webp?v=1755263158",
           "alt": null,
           "width": 1400,
@@ -533,12 +540,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_28ea8445-abcb-4a4c-b124-9e36f6d2ee47.webp?v=1755263158",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0593_1400x_ec8bb86e-85a6-4d57-afc7-7508a7ebc312.webp?v=1755263158",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -584,7 +585,7 @@
         "MUGS"
       ],
       "created_at": "2025-08-15T14:23:09+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-26T12:24:27+02:00",
       "available": true,
       "price_min": 290,
@@ -621,13 +622,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110b_1400x_f5447dde-07ae-406f-99be-af15946222da.webp?v=1755260947",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_34288739-6a9b-48b5-86a0-de4e8e89709e.webp?v=1755260947",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_mugs_0451_1400x_34288739-6a9b-48b5-86a0-de4e8e89709e.webp?v=1755260947",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH110b_1400x_f5447dde-07ae-406f-99be-af15946222da.webp?v=1755260947",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -672,7 +673,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-10T09:40:13+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T13:35:44+02:00",
       "available": true,
       "price_min": 420,
@@ -748,7 +749,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-10T09:37:20+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T13:35:09+02:00",
       "available": true,
       "price_min": 180,
@@ -824,7 +825,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-10T09:34:35+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T13:34:43+02:00",
       "available": true,
       "price_min": 180,
@@ -900,7 +901,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-10T09:31:55+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T13:34:00+02:00",
       "available": true,
       "price_min": 130,
@@ -976,7 +977,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-10T09:29:06+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T13:33:30+02:00",
       "available": true,
       "price_min": 130,
@@ -1046,7 +1047,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:45:59+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:28:13+02:00",
       "available": true,
       "price_min": 570,
@@ -1116,7 +1117,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:43:34+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:27:51+02:00",
       "available": true,
       "price_min": 570,
@@ -1192,7 +1193,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:36:00+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:27:32+02:00",
       "available": true,
       "price_min": 570,
@@ -1268,7 +1269,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:33:21+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:27:09+02:00",
       "available": true,
       "price_min": 530,
@@ -1344,7 +1345,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:30:35+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:26:50+02:00",
       "available": true,
       "price_min": 530,
@@ -1420,7 +1421,7 @@
         "DRINKWARE"
       ],
       "created_at": "2025-08-09T10:26:53+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:25:35+02:00",
       "available": true,
       "price_min": 530,
@@ -1498,7 +1499,7 @@
         "Glasses"
       ],
       "created_at": "2025-08-08T17:51:47+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:16:21+02:00",
       "available": true,
       "price_min": 460,
@@ -1579,7 +1580,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T17:46:29+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:14:53+02:00",
       "available": true,
       "price_min": 580,
@@ -1648,7 +1649,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T17:39:49+02:00",
-      "updated_at": "2026-05-22T17:58:54+02:00",
+      "updated_at": "2026-05-25T21:06:40+02:00",
       "published_at": "2025-08-12T12:14:10+02:00",
       "available": true,
       "price_min": 580,

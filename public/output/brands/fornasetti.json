@@ -1,8 +1,9 @@
 {
   "handle": "fornasetti",
-  "label": "Fornasetti",
+  "label": "FORNASETTI",
   "url": "https://arowonen.com/collections/fornasetti",
-  "scraped_at": "2026-05-22T15:55:25.798Z",
+  "scraped_at": "2026-05-25T19:04:12.241Z",
+  "shopify_product_count": 41,
   "product_count": 40,
   "products": [
     {
@@ -19,7 +20,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:19:38+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:47+02:00",
       "available": true,
       "price_min": 185,
@@ -91,7 +92,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:51:14+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:30:24+02:00",
       "available": true,
       "price_min": 185,
@@ -169,7 +170,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T16:48:13+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:30:23+02:00",
       "available": true,
       "price_min": 210,
@@ -241,7 +242,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:43:59+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:30:21+02:00",
       "available": true,
       "price_min": 950,
@@ -319,7 +320,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:40:58+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:30:19+02:00",
       "available": true,
       "price_min": 170,
@@ -397,7 +398,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:38:19+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:30:15+02:00",
       "available": true,
       "price_min": 185,
@@ -469,7 +470,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:33:48+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:56+02:00",
       "available": true,
       "price_min": 430,
@@ -535,7 +536,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:30:13+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:53+02:00",
       "available": true,
       "price_min": 250,
@@ -607,7 +608,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:22:08+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:50+02:00",
       "available": true,
       "price_min": 550,
@@ -686,7 +687,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T16:14:27+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:44+02:00",
       "available": true,
       "price_min": 250,
@@ -764,7 +765,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:09:43+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:41+02:00",
       "available": true,
       "price_min": 185,
@@ -836,7 +837,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T16:04:45+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:39+02:00",
       "available": true,
       "price_min": 185,
@@ -908,7 +909,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T15:02:15+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:36+02:00",
       "available": true,
       "price_min": 350,
@@ -974,7 +975,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-09-01T14:33:55+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:33+02:00",
       "available": true,
       "price_min": 230,
@@ -1071,7 +1072,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T14:22:31+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:30+02:00",
       "available": true,
       "price_min": 210,
@@ -1143,7 +1144,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-31T17:55:24+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:27+02:00",
       "available": true,
       "price_min": 430,
@@ -1221,7 +1222,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2025-08-31T17:49:11+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2025-09-05T16:32:24+02:00",
       "available": true,
       "price_min": 250,
@@ -1293,7 +1294,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:50:09+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T16:53:15+02:00",
       "available": true,
       "price_min": 95,
@@ -1359,7 +1360,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:46:55+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T16:48:05+02:00",
       "available": true,
       "price_min": 80,
@@ -1431,7 +1432,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:09:58+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T16:11:47+02:00",
       "available": true,
       "price_min": 250,
@@ -1515,7 +1516,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T16:03:00+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T16:04:11+02:00",
       "available": true,
       "price_min": 350,
@@ -1593,7 +1594,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:53:24+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:56:14+02:00",
       "available": true,
       "price_min": 230,
@@ -1665,7 +1666,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:49:13+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:52:12+02:00",
       "available": true,
       "price_min": 300,
@@ -1737,7 +1738,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:45:29+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:47:48+02:00",
       "available": true,
       "price_min": 950,
@@ -1851,7 +1852,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:41:49+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:42:46+02:00",
       "available": true,
       "price_min": 210,
@@ -1935,7 +1936,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:35:12+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:37:21+02:00",
       "available": true,
       "price_min": 430,
@@ -2007,7 +2008,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:32:44+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:34:25+02:00",
       "available": true,
       "price_min": 230,
@@ -2073,7 +2074,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:27:22+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:31:29+02:00",
       "available": true,
       "price_min": 950,
@@ -2169,7 +2170,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:18:23+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:25:32+02:00",
       "available": true,
       "price_min": 250,
@@ -2241,7 +2242,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-06-28T15:16:16+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:17:41+02:00",
       "available": true,
       "price_min": 210,
@@ -2313,7 +2314,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:11:09+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:14:43+02:00",
       "available": true,
       "price_min": 290,
@@ -2386,7 +2387,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-06-28T15:04:37+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-06-28T15:09:09+02:00",
       "available": true,
       "price_min": 1900,
@@ -2458,7 +2459,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:35:22+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:37:19+02:00",
       "available": true,
       "price_min": 210,
@@ -2548,7 +2549,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:29:54+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:32:18+02:00",
       "available": true,
       "price_min": 250,
@@ -2632,7 +2633,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2024-05-10T20:24:52+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:28:03+02:00",
       "available": true,
       "price_min": 250,
@@ -2716,7 +2717,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:18:04+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:20:15+02:00",
       "available": true,
       "price_min": 290,
@@ -2800,7 +2801,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:07:34+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:09:43+02:00",
       "available": true,
       "price_min": 290,
@@ -2878,7 +2879,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T20:03:29+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:05:35+02:00",
       "available": true,
       "price_min": 250,
@@ -2962,7 +2963,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T19:55:46+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T20:01:24+02:00",
       "available": true,
       "price_min": 550,
@@ -3040,7 +3041,7 @@
         "SCENTED CANDLES"
       ],
       "created_at": "2024-05-10T19:42:15+02:00",
-      "updated_at": "2026-05-22T17:55:25+02:00",
+      "updated_at": "2026-05-25T21:04:12+02:00",
       "published_at": "2024-05-10T19:48:02+02:00",
       "available": true,
       "price_min": 490,

@@ -1,8 +1,9 @@
 {
   "handle": "dinnerware",
-  "label": "Dinnerware",
+  "label": "DINNERWARE",
   "url": "https://arowonen.com/collections/dinnerware",
-  "scraped_at": "2026-05-22T15:58:53.176Z",
+  "scraped_at": "2026-05-25T19:06:38.984Z",
+  "shopify_product_count": 850,
   "product_count": 445,
   "products": [
     {
@@ -17,7 +18,7 @@
         "DINNERWARE"
       ],
       "created_at": "2026-05-06T12:50:55+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2026-05-06T12:52:44+02:00",
       "available": true,
       "price_min": 220,
@@ -72,7 +73,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-02-21T14:28:48+01:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2026-02-21T14:28:48+01:00",
       "available": true,
       "price_min": 321,
@@ -153,7 +154,7 @@
         "TABLETOP ACCENTS"
       ],
       "created_at": "2025-09-12T15:22:17+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:41:23+02:00",
       "available": true,
       "price_min": 454,
@@ -249,7 +250,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-12T14:30:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:39:35+02:00",
       "available": true,
       "price_min": 42,
@@ -333,7 +334,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-12T14:23:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:39:20+02:00",
       "available": true,
       "price_min": 42,
@@ -402,7 +403,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T14:17:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:39:03+02:00",
       "available": true,
       "price_min": 272,
@@ -501,7 +502,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T14:14:54+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:37:15+02:00",
       "available": true,
       "price_min": 236,
@@ -612,7 +613,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T14:11:22+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:36:58+02:00",
       "available": true,
       "price_min": 232,
@@ -687,7 +688,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T14:07:54+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:36:46+02:00",
       "available": true,
       "price_min": 272,
@@ -804,7 +805,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T13:46:53+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:36:16+02:00",
       "available": true,
       "price_min": 256,
@@ -885,7 +886,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T13:44:46+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:32:12+02:00",
       "available": true,
       "price_min": 232,
@@ -972,7 +973,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-12T13:42:19+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-09-21T14:31:39+02:00",
       "available": true,
       "price_min": 268,
@@ -1054,7 +1055,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-21T12:39:08+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:24:31+02:00",
       "available": true,
       "price_min": 165,
@@ -1124,7 +1125,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-21T12:36:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:24:28+02:00",
       "available": true,
       "price_min": 50,
@@ -1176,7 +1177,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T14:52:04+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:21:05+02:00",
       "available": true,
       "price_min": 435,
@@ -1213,13 +1214,25 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB210a_1400x_8d3d88a1-5d4a-49fe-8bf3-6dcad9f68a73.webp?v=1755521655",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB200a_1400x_240bfab9-e976-4d95-8487-1fd4e4a43288.webp?v=1755521655",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB200a_1400x_240bfab9-e976-4d95-8487-1fd4e4a43288.webp?v=1755521655",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas-mojave-soup-plate-white-gold-l-objet-3_900x_de7eee0d-22fd-47a2-824b-519215bd3aca.webp?v=1755521655",
+          "alt": null,
+          "width": 900,
+          "height": 900
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas-mojave-desert-charger-white-gold-l-objet-3_1400x_0d8c27a6-1198-4077-8ad7-a628ad9f7f0a.webp?v=1755521655",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB210a_1400x_8d3d88a1-5d4a-49fe-8bf3-6dcad9f68a73.webp?v=1755521655",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -1235,18 +1248,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas-mojave-desert-charger-white-gold-l-objet-3_1400x_0d8c27a6-1198-4077-8ad7-a628ad9f7f0a.webp?v=1755521655",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas-mojave-soup-plate-white-gold-l-objet-3_900x_de7eee0d-22fd-47a2-824b-519215bd3aca.webp?v=1755521655",
-          "alt": null,
-          "width": 900,
-          "height": 900
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_HaasMojave_HB200_1400x_e5593780-9418-4f2d-b923-699a93cac7d4.webp?v=1755521626",
@@ -1276,7 +1277,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T14:49:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:21:03+02:00",
       "available": true,
       "price_min": 245,
@@ -1319,6 +1320,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_096_1400x_684f303f-8c5f-4541-ae5a-48450b9de863.webp?v=1755521504",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_HaasMojave_HB110a_1400x_1e449a06-4396-44db-b6c1-06d025a0ff57.webp?v=1755521504",
           "alt": null,
           "width": 1400,
@@ -1326,12 +1333,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_HaasMojave_HB100a_1400x_312778f8-2cb0-4493-9bf5-3ccae2b773ba.webp?v=1755521504",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_096_1400x_684f303f-8c5f-4541-ae5a-48450b9de863.webp?v=1755521504",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -1358,7 +1359,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T14:41:57+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:21:00+02:00",
       "available": true,
       "price_min": 552,
@@ -1442,7 +1443,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2025-08-18T14:19:56+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:57+02:00",
       "available": true,
       "price_min": 1825,
@@ -1519,7 +1520,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-08-18T14:09:37+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:55+02:00",
       "available": true,
       "price_min": 36,
@@ -1590,7 +1591,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-08-18T13:59:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:52+02:00",
       "available": true,
       "price_min": 70,
@@ -1661,7 +1662,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T13:54:11+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:49+02:00",
       "available": true,
       "price_min": 115,
@@ -1732,7 +1733,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T13:49:55+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:46+02:00",
       "available": true,
       "price_min": 68,
@@ -1796,7 +1797,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T13:43:03+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:43+02:00",
       "available": true,
       "price_min": 110,
@@ -1878,7 +1879,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T13:31:33+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:40+02:00",
       "available": true,
       "price_min": 58,
@@ -1948,7 +1949,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:47:13+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:37+02:00",
       "available": true,
       "price_min": 115,
@@ -2024,7 +2025,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:45:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:34+02:00",
       "available": true,
       "price_min": 58,
@@ -2094,7 +2095,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:32:12+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:31+02:00",
       "available": true,
       "price_min": 130,
@@ -2164,7 +2165,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:28:54+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:29+02:00",
       "available": true,
       "price_min": 175,
@@ -2234,7 +2235,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:17:08+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:25+02:00",
       "available": true,
       "price_min": 315,
@@ -2298,7 +2299,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T11:10:44+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:23+02:00",
       "available": true,
       "price_min": 250,
@@ -2369,7 +2370,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T10:57:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:20+02:00",
       "available": true,
       "price_min": 1900,
@@ -2406,6 +2407,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_035_1400x_b81da267-a1fc-4d4f-9d5e-aa2168d1c543.webp?v=1755507565",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB269b_1400x_18c2eca3-3bff-4317-a36f-5177600a0e2d.webp?v=1755507565",
           "alt": null,
           "width": 1400,
@@ -2428,12 +2435,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_035_1400x_b81da267-a1fc-4d4f-9d5e-aa2168d1c543.webp?v=1755507565",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB269a_1400x_11b54cfe-353d-4bac-85bf-8b8870e33a36.webp?v=1755507564",
@@ -2452,7 +2453,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T10:32:17+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:17+02:00",
       "available": true,
       "price_min": 975,
@@ -2489,6 +2490,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_034_1400x_1555f6ed-bc2c-4541-8684-638ddff4041c.webp?v=1755506118",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB268b_1400x_0295e8ed-3053-4f77-92f4-f56536c9984a.webp?v=1755506117",
           "alt": null,
           "width": 1400,
@@ -2511,12 +2518,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_034_1400x_1555f6ed-bc2c-4541-8684-638ddff4041c.webp?v=1755506118",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB268a_1400x_f98d11c5-462d-4cc8-b34f-0f32dbb49fc2.webp?v=1755506117",
@@ -2535,7 +2536,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T10:29:11+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:14+02:00",
       "available": true,
       "price_min": 550,
@@ -2572,6 +2573,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_103_1400x_bee84c58-256a-4417-b7d8-130d82247dae.webp?v=1755505861",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB267b_1400x_7b6ffe4e-91ba-49de-af6a-6be248ff349d.webp?v=1755505861",
           "alt": null,
           "width": 1400,
@@ -2591,12 +2598,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_099_1400x_50a43f8e-dbf3-4dcb-9888-b24a2e7fd2e7.webp?v=1755505861",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_haas_dining_103_1400x_bee84c58-256a-4417-b7d8-130d82247dae.webp?v=1755505861",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -2624,7 +2625,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-18T10:24:30+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:20:11+02:00",
       "available": true,
       "price_min": 250,
@@ -2688,7 +2689,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T14:21:54+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:43+02:00",
       "available": true,
       "price_min": 195,
@@ -2758,7 +2759,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T13:29:14+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:40+02:00",
       "available": false,
       "price_min": 575,
@@ -2846,7 +2847,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T13:06:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:38+02:00",
       "available": true,
       "price_min": 325,
@@ -2877,7 +2878,7 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pentagon_Silo_B_1400x_34814947-1121-4fe7-95b9-36d560d2c37b.webp?v=1755428810",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4850a_1400x_8884f6a0-5ee1-44d8-89b4-6cc670a17d66.webp?v=1755428808",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -2889,7 +2890,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4850a_1400x_8884f6a0-5ee1-44d8-89b4-6cc670a17d66.webp?v=1755428808",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pentagon_Silo_B_1400x_34814947-1121-4fe7-95b9-36d560d2c37b.webp?v=1755428810",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -2901,7 +2902,7 @@
           "height": 1400
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Pentagon_Silo_B_1400x_34814947-1121-4fe7-95b9-36d560d2c37b.webp?v=1755428810",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4850a_1400x_8884f6a0-5ee1-44d8-89b4-6cc670a17d66.webp?v=1755428808",
       "description_html": "<p><meta charset=\"utf-8\"><span>Handcrafted with meticulous attention to detail, featuring pentagon facets and gold-platted brass details. One of the pairs is fully adorned with malachite facets, a celebrated classic brand pattern. The other is an elegant combination of semi-precious stones, including Malachite, Lapis, Onyx, Tiger-eye, Jade, and Red Agate.</span></p>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS</strong></div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"Product__QuickNav hidden-pocket Product__QuickNav__InfoImages\">\n<div class=\"Product__QuickNavWrapper\">\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">2 x 2 in (5 x 5 cm)</li>\n<li class=\"material_meta\">24k Gold Plated Metal|Malachite Stone</li>\n<li id=\"Coo_meta\">China</li>\n<li id=\"or_meta\">Dust with a soft cloth. If necessary, handwash with a mild, non-citrus dish soap and dry with a soft cloth.</li>\n</ul>\n</div>\n</div>\n<!---->"
     },
     {
@@ -2916,7 +2917,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T12:52:28+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:35+02:00",
       "available": true,
       "price_min": 425,
@@ -2947,7 +2948,7 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851b_1400x_47a7034f-16df-4d16-8565-4938007da2a7.webp?v=1755428688",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851a_1400x_fc2e5e52-d8db-4b25-a2c5-b7ec81db5777.webp?v=1755428688",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -2959,7 +2960,7 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851a_1400x_fc2e5e52-d8db-4b25-a2c5-b7ec81db5777.webp?v=1755428688",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851b_1400x_47a7034f-16df-4d16-8565-4938007da2a7.webp?v=1755428688",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -2971,7 +2972,7 @@
           "height": 1400
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851b_1400x_47a7034f-16df-4d16-8565-4938007da2a7.webp?v=1755428688",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP4851a_1400x_fc2e5e52-d8db-4b25-a2c5-b7ec81db5777.webp?v=1755428688",
       "description_html": "<p><meta charset=\"utf-8\"><span>Handcrafted with meticulous attention to detail, featuring pentagon facets and gold-platted brass details. One of the pairs is fully adorned with malachite facets, a celebrated classic brand pattern. The other is an elegant combination of semi-precious stones, including Malachite, Lapis, Onyx, Tiger-eye, Jade, and Red Agate.</span></p>\n<div class=\"Product__Aside\">\n<span id=\"ProductAside\" class=\"Anchor\"></span>\n<div class=\"Product__Tabs\">\n<div class=\"Collapsible Collapsible--large\">\n<div class=\"Collapsible__Inner\">\n<div class=\"Collapsible__Content\">\n<div class=\"Rte\">\n<div class=\"acc-panel-inner\">\n<div class=\"details-panel-section\">\n<div class=\"sub-heading\"><strong>DETAILS</strong></div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"Product__QuickNav hidden-pocket Product__QuickNav__InfoImages\">\n<div class=\"Product__QuickNavWrapper\">\n<meta charset=\"utf-8\">\n<ul id=\"variant_details\">\n<li id=\"size_meta\">2 x 2 in (5 x 5 cm)</li>\n<li class=\"material_meta\">24k Gold Plated Metal|Malachite Stone</li>\n<li id=\"Coo_meta\">China</li>\n<li id=\"or_meta\">Dust with a soft cloth. If necessary, handwash with a mild, non-citrus dish soap and dry with a soft cloth.</li>\n</ul>\n</div>\n</div>\n<!---->"
     },
     {
@@ -2986,7 +2987,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T12:45:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:32+02:00",
       "available": true,
       "price_min": 375,
@@ -3050,7 +3051,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T12:28:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:19:27+02:00",
       "available": true,
       "price_min": 1200,
@@ -3103,7 +3104,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:54:49+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:16:45+02:00",
       "available": true,
       "price_min": 90,
@@ -3140,6 +3141,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0429b_1400x_0a3f8ac0-e007-42e8-88c9-44a20cd7d245.webp?v=1755424563",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA764a_1400x_c82033d8-4fc6-44c1-b9f0-0b7b6b8dfb67.webp?v=1755424587",
           "alt": null,
           "width": 1400,
@@ -3147,12 +3154,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_12_049b_new_1400x_c0ce6f37-cabf-4059-9625-ef9f3d9ec948.webp?v=1755424587",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0429b_1400x_0a3f8ac0-e007-42e8-88c9-44a20cd7d245.webp?v=1755424563",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3174,7 +3175,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:53:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:13:51+02:00",
       "available": true,
       "price_min": 175,
@@ -3211,13 +3212,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA765a_1400x_52aeecba-6430-47bb-8691-c2bc6de5f409.webp?v=1755424470",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_12_049b_new_1400x_c0ce6f37-cabf-4059-9625-ef9f3d9ec948.webp?v=1755424587",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_12_049b_new_1400x_c0ce6f37-cabf-4059-9625-ef9f3d9ec948.webp?v=1755424587",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA765a_1400x_52aeecba-6430-47bb-8691-c2bc6de5f409.webp?v=1755424470",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3239,7 +3240,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:51:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:09:00+02:00",
       "available": true,
       "price_min": 175,
@@ -3310,7 +3311,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:49:19+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:08:42+02:00",
       "available": true,
       "price_min": 90,
@@ -3381,7 +3382,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:44:53+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:06:43+02:00",
       "available": true,
       "price_min": 90,
@@ -3446,7 +3447,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:42:09+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:36+02:00",
       "available": true,
       "price_min": 175,
@@ -3483,13 +3484,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA665A_1400x_cfc6f4d6-430d-45d7-a504-0481eb01d81a.webp?v=1755423816",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0429b_1400x_21238b1b-26e0-4a61-a69d-464ebf0ea4a9.webp?v=1755424125",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0429b_1400x_21238b1b-26e0-4a61-a69d-464ebf0ea4a9.webp?v=1755424125",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA665A_1400x_cfc6f4d6-430d-45d7-a504-0481eb01d81a.webp?v=1755423816",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3511,7 +3512,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:38:45+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:33+02:00",
       "available": true,
       "price_min": 90,
@@ -3576,7 +3577,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:36:22+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:31+02:00",
       "available": true,
       "price_min": 175,
@@ -3641,7 +3642,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:20:08+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:29+02:00",
       "available": true,
       "price_min": 90,
@@ -3712,7 +3713,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T11:01:30+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:26+02:00",
       "available": true,
       "price_min": 175,
@@ -3783,7 +3784,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:55:03+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:23+02:00",
       "available": true,
       "price_min": 140,
@@ -3820,6 +3821,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_05_082_new_1400x_d6f29f49-acab-410e-8fc5-191baed06c65.webp?v=1755420999",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA771b_1400x_211d53c0-59e0-499c-a080-136bffaf959c.webp?v=1755420999",
           "alt": null,
           "width": 1400,
@@ -3827,12 +3834,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_05_022_new_1400x_d0e70565-e8d7-4b34-a80c-30776780bca8.webp?v=1755420999",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_05_082_new_1400x_d6f29f49-acab-410e-8fc5-191baed06c65.webp?v=1755420999",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3854,7 +3855,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:52:33+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:21+02:00",
       "available": true,
       "price_min": 175,
@@ -3891,6 +3892,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_038b_1400x_e4eacce4-31bc-4fdd-a9f3-3ee1a5dad0aa.webp?v=1755420887",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TA772b_1400x_ae198b74-0ca2-4357-ae8f-65b3a345d5e1.webp?v=1755420887",
           "alt": null,
           "width": 1400,
@@ -3903,19 +3910,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0057_1400x_59576a33-d0d7-44e0-80c5-756004556056.webp?v=1755420887",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/leopard_pink_16_036_r1_1400x_7259e17f-a5dc-43d8-8253-f59ba8a28b38.webp?v=1755420887",
           "alt": null,
           "width": 1400,
           "height": 2100
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_038b_1400x_e4eacce4-31bc-4fdd-a9f3-3ee1a5dad0aa.webp?v=1755420887",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_terra_0057_1400x_59576a33-d0d7-44e0-80c5-756004556056.webp?v=1755420887",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -3937,7 +3938,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:49:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:18+02:00",
       "available": true,
       "price_min": 175,
@@ -4008,7 +4009,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:47:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:16+02:00",
       "available": true,
       "price_min": 140,
@@ -4079,7 +4080,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:24:42+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:13+02:00",
       "available": true,
       "price_min": 140,
@@ -4150,7 +4151,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:21:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:11+02:00",
       "available": true,
       "price_min": 165,
@@ -4221,7 +4222,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:18:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:09+02:00",
       "available": true,
       "price_min": 175,
@@ -4292,7 +4293,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T10:16:45+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:07+02:00",
       "available": true,
       "price_min": 140,
@@ -4363,7 +4364,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:41:31+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:04+02:00",
       "available": true,
       "price_min": 55,
@@ -4434,7 +4435,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:39:43+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:02+02:00",
       "available": true,
       "price_min": 55,
@@ -4505,7 +4506,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:37:52+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:04:00+02:00",
       "available": true,
       "price_min": 55,
@@ -4576,7 +4577,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:36:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:59+02:00",
       "available": true,
       "price_min": 55,
@@ -4647,7 +4648,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:33:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:55+02:00",
       "available": true,
       "price_min": 50,
@@ -4717,7 +4718,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:31:21+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:49+02:00",
       "available": true,
       "price_min": 50,
@@ -4799,7 +4800,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:29:56+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:48+02:00",
       "available": true,
       "price_min": 50,
@@ -4863,7 +4864,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:28:13+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:46+02:00",
       "available": true,
       "price_min": 50,
@@ -4939,7 +4940,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:26:24+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:44+02:00",
       "available": true,
       "price_min": 50,
@@ -5009,7 +5010,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-17T09:24:12+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T13:03:41+02:00",
       "available": true,
       "price_min": 46,
@@ -5079,7 +5080,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-16T08:53:15+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:49:19+02:00",
       "available": true,
       "price_min": 510,
@@ -5137,7 +5138,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T17:03:03+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:35:09+02:00",
       "available": true,
       "price_min": 895,
@@ -5237,7 +5238,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T15:26:23+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:34:53+02:00",
       "available": true,
       "price_min": 90,
@@ -5269,6 +5270,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH101a_1400x_28f07b7b-9644-452b-a7ff-85117b90a0de.webp?v=1755264545",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0582_1400x_40f16465-dba4-4014-9910-5c58031c79d7.webp?v=1755264545",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5310,12 +5317,6 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_teastory_0582_1400x_40f16465-dba4-4014-9910-5c58031c79d7.webp?v=1755264545",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH100g_1400x_bb7442ea-c56c-4768-a217-3fbddfe1558c.webp?v=1755264545",
           "alt": null,
           "width": 1400,
@@ -5343,7 +5344,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T15:22:21+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:33:03+02:00",
       "available": true,
       "price_min": 90,
@@ -5437,7 +5438,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T15:17:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:32:43+02:00",
       "available": true,
       "price_min": 90,
@@ -5474,6 +5475,18 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH100e_1400x_a24c7468-e8a5-478a-a953-4ff38cfdb28a.webp?v=1755264015",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_plates_RH100_0089_1400x_cb6ca40e-d6b3-4950-8db7-298309dd6ca6.webp?v=1755264094",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH100c_1400x_e278721a-05da-4805-92b8-ae44d7b301bd.webp?v=1755264094",
           "alt": null,
           "width": 1400,
@@ -5486,12 +5499,6 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_plates_RH100_0089_1400x_cb6ca40e-d6b3-4950-8db7-298309dd6ca6.webp?v=1755264094",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_plates_trio_0103_1400x_1c8a682a-aa77-47ea-a6a1-8963623ea1cf.webp?v=1755264094",
           "alt": null,
           "width": 1400,
@@ -5499,12 +5506,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH100-101-102_group_1400x_bec4af9e-8ff1-499b-b4ef-8886b6f3bb6c.webp?v=1755264094",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH100e_1400x_a24c7468-e8a5-478a-a953-4ff38cfdb28a.webp?v=1755264015",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5531,7 +5532,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T15:13:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:28:42+02:00",
       "available": true,
       "price_min": 800,
@@ -5568,6 +5569,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_ribbonplate_RH106_0221_1400x_2031568f-06b6-46a2-b307-6919428ad156.webp?v=1755263764",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH106c_1400x_d572093a-ed6e-4942-9c15-92c2a3e251df.webp?v=1755263764",
           "alt": null,
           "width": 1400,
@@ -5587,12 +5594,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_ribbonplate_RH106_0184_1400x_3e37ff4e-0733-4e12-a7cf-e9685956e18c.webp?v=1755263764",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_ribbonplate_RH106_0221_1400x_2031568f-06b6-46a2-b307-6919428ad156.webp?v=1755263764",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5625,7 +5626,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T15:10:37+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:28:26+02:00",
       "available": true,
       "price_min": 800,
@@ -5713,7 +5714,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T14:57:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:25:16+02:00",
       "available": true,
       "price_min": 750,
@@ -5750,6 +5751,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_bowl_RH107_0062-2_1400x_b521f56f-0e83-4a18-899a-ade198664847.webp?v=1755262855",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH108a_1400x_b1385e12-5c7f-4817-87f2-bd61a22000f8.webp?v=1755262855",
           "alt": null,
           "width": 1400,
@@ -5757,12 +5764,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH108b_1400x_46b54c9e-4d80-46e7-b563-eeb48005b9b2.webp?v=1755262855",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_bowl_RH107_0062-2_1400x_b521f56f-0e83-4a18-899a-ade198664847.webp?v=1755262855",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5801,7 +5802,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T14:52:28+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:24:42+02:00",
       "available": true,
       "price_min": 630,
@@ -5838,6 +5839,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_bowl_RH107_0062_1400x_2f5eec2d-66f3-403e-8508-216e07f83653.webp?v=1755262640",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH107a_1400x_a9708f6b-00b1-4c74-8597-332aa92886d5.webp?v=1755262640",
           "alt": null,
           "width": 1400,
@@ -5845,12 +5852,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/RH107b_1400x_22338532-2202-49e3-accb-aa1411cb8f3b.webp?v=1755262640",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_ruan2025_bowl_RH107_0062_1400x_2f5eec2d-66f3-403e-8508-216e07f83653.webp?v=1755262640",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -5889,7 +5890,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T14:02:04+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:22:38+02:00",
       "available": true,
       "price_min": 250,
@@ -5926,6 +5927,12 @@
           "height": 1400
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/garden_image_10_1400x_aa1fa435-61a3-4b1d-98dc-e0d0193654c5.webp?v=1755259423",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU42b_1400x_bffbb04a-9651-4d04-84f2-3bf18c755f18.webp?v=1755259422",
           "alt": null,
           "width": 1400,
@@ -5948,12 +5955,6 @@
           "alt": null,
           "width": 1400,
           "height": 1400
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/garden_image_10_1400x_aa1fa435-61a3-4b1d-98dc-e0d0193654c5.webp?v=1755259423",
-          "alt": null,
-          "width": 1400,
-          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU42a_1400x_320337b8-5c3c-4678-bdb2-8ad05d60047d.webp?v=1755259422",
@@ -5971,7 +5972,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:58:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:22:23+02:00",
       "available": true,
       "price_min": 250,
@@ -6014,13 +6015,13 @@
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU44c_1400x_5b1cb663-ae44-46d0-a38e-1e1492fa6d06.webp?v=1755259203",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU44d_1400x_8ce8f60b-1c26-49ab-8b15-3efefdd50001.webp?v=1755259203",
           "alt": null,
           "width": 1400,
           "height": 1400
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU44d_1400x_8ce8f60b-1c26-49ab-8b15-3efefdd50001.webp?v=1755259203",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/CU44c_1400x_5b1cb663-ae44-46d0-a38e-1e1492fa6d06.webp?v=1755259203",
           "alt": null,
           "width": 1400,
           "height": 1400
@@ -6053,7 +6054,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:54:31+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:19:52+02:00",
       "available": true,
       "price_min": 250,
@@ -6135,7 +6136,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:50:05+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:19:34+02:00",
       "available": true,
       "price_min": 350,
@@ -6229,7 +6230,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:45:26+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:19:10+02:00",
       "available": true,
       "price_min": 230,
@@ -6311,7 +6312,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:40:57+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:16:38+02:00",
       "available": true,
       "price_min": 560,
@@ -6387,7 +6388,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:37:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:16:26+02:00",
       "available": true,
       "price_min": 195,
@@ -6457,7 +6458,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T13:32:17+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:15:58+02:00",
       "available": true,
       "price_min": 325,
@@ -6524,7 +6525,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-15T12:21:38+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:08:18+02:00",
       "available": true,
       "price_min": 90,
@@ -6594,7 +6595,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T12:19:39+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:06:31+02:00",
       "available": true,
       "price_min": 90,
@@ -6664,7 +6665,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T12:16:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T12:06:21+02:00",
       "available": true,
       "price_min": 90,
@@ -6734,7 +6735,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-15T12:07:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-26T11:59:44+02:00",
       "available": true,
       "price_min": 90,
@@ -6810,7 +6811,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:27:12+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:44:25+02:00",
       "available": true,
       "price_min": 330,
@@ -6868,7 +6869,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:24:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:44:10+02:00",
       "available": true,
       "price_min": 330,
@@ -6944,7 +6945,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:22:12+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:43:52+02:00",
       "available": true,
       "price_min": 260,
@@ -7032,7 +7033,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:15:31+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:42:07+02:00",
       "available": true,
       "price_min": 260,
@@ -7126,7 +7127,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:13:57+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:41:43+02:00",
       "available": true,
       "price_min": 240,
@@ -7184,7 +7185,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:11:41+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:41:23+02:00",
       "available": true,
       "price_min": 240,
@@ -7242,7 +7243,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:09:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:40:50+02:00",
       "available": true,
       "price_min": 280,
@@ -7301,7 +7302,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:06:33+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:40:31+02:00",
       "available": true,
       "price_min": 280,
@@ -7365,7 +7366,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T10:03:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:39:58+02:00",
       "available": true,
       "price_min": 250,
@@ -7441,7 +7442,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-08-10T09:58:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T13:39:40+02:00",
       "available": true,
       "price_min": 250,
@@ -7508,7 +7509,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-08-08T18:27:12+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T12:18:00+02:00",
       "available": true,
       "price_min": 320,
@@ -7586,7 +7587,7 @@
         "TABLETOP ACCENTS"
       ],
       "created_at": "2025-08-08T18:12:30+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T12:17:26+02:00",
       "available": true,
       "price_min": 560,
@@ -7664,7 +7665,7 @@
         "Glasses"
       ],
       "created_at": "2025-08-08T17:51:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T12:16:21+02:00",
       "available": true,
       "price_min": 460,
@@ -7745,7 +7746,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T17:46:29+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T12:14:53+02:00",
       "available": true,
       "price_min": 580,
@@ -7814,7 +7815,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-08T17:39:49+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-08-12T12:14:10+02:00",
       "available": true,
       "price_min": 580,
@@ -7891,7 +7892,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-28T15:33:38+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-28T15:34:24+02:00",
       "available": true,
       "price_min": 20,
@@ -7956,7 +7957,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-28T15:31:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-28T15:32:19+02:00",
       "available": true,
       "price_min": 72,
@@ -8033,7 +8034,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-28T15:07:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-28T15:08:21+02:00",
       "available": true,
       "price_min": 126,
@@ -8092,7 +8093,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-28T15:04:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-28T15:05:14+02:00",
       "available": true,
       "price_min": 147,
@@ -8151,7 +8152,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-06-28T15:02:29+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-28T15:03:18+02:00",
       "available": true,
       "price_min": 82,
@@ -8209,7 +8210,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-06-21T16:06:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T16:07:18+02:00",
       "available": true,
       "price_min": 250,
@@ -8246,6 +8247,12 @@
           "height": 1600
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BO10g_1800x1800_15f04daa-3844-4702-bbf2-fae50da46598.webp?v=1750514835",
+          "alt": null,
+          "width": 1800,
+          "height": 1800
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BO10b_1800x1800_7b179986-c2d8-4188-82b3-766e1dcf38a6.webp?v=1750514834",
           "alt": null,
           "width": 1800,
@@ -8268,12 +8275,6 @@
           "alt": null,
           "width": 1800,
           "height": 1800
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BO10g_1800x1800_15f04daa-3844-4702-bbf2-fae50da46598.webp?v=1750514835",
-          "alt": null,
-          "width": 1800,
-          "height": 1800
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/BO10a_1600x_097d4d6b-5792-49a3-8e32-8473927408e7.webp?v=1750514834",
@@ -8291,7 +8292,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-06-21T16:03:59+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T16:05:19+02:00",
       "available": true,
       "price_min": 250,
@@ -8379,7 +8380,7 @@
         "DINNERWARE"
       ],
       "created_at": "2025-06-21T15:51:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T15:52:46+02:00",
       "available": true,
       "price_min": 360,
@@ -8476,7 +8477,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-06-21T14:53:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:55:20+02:00",
       "available": true,
       "price_min": 910,
@@ -8543,7 +8544,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-06-21T14:52:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:53:13+02:00",
       "available": true,
       "price_min": 1580,
@@ -8616,7 +8617,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-06-21T14:49:21+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:50:25+02:00",
       "available": true,
       "price_min": 350,
@@ -8692,7 +8693,7 @@
         "X-Mas"
       ],
       "created_at": "2025-06-21T14:47:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:48:23+02:00",
       "available": true,
       "price_min": 980,
@@ -8763,7 +8764,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-03-21T15:58:40+01:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-21T16:00:00+01:00",
       "available": true,
       "price_min": 132,
@@ -8816,7 +8817,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-03-21T15:56:11+01:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-21T15:57:59+01:00",
       "available": true,
       "price_min": 147,
@@ -8887,7 +8888,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-03-21T15:50:32+01:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-21T15:52:48+01:00",
       "available": true,
       "price_min": 236,
@@ -8952,7 +8953,7 @@
         "X-Mas"
       ],
       "created_at": "2025-01-04T17:40:06+01:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-04T17:42:08+01:00",
       "available": true,
       "price_min": 1800,
@@ -9013,7 +9014,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-10-18T13:20:32+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:02:26+01:00",
       "available": true,
       "price_min": 620,
@@ -9068,7 +9069,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-10-18T13:17:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:02:26+01:00",
       "available": true,
       "price_min": 620,
@@ -9129,7 +9130,7 @@
         "X-Mas"
       ],
       "created_at": "2024-09-15T16:09:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:21:10+02:00",
       "available": true,
       "price_min": 1500,
@@ -9164,6 +9165,12 @@
           "alt": null,
           "width": 800,
           "height": 800
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fern_Silo_G_1400x_8a20ccbf-a4f1-4c78-827a-62e659cbb2f8.webp?v=1779701993",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FR107e_800x_5966493b-4cfc-486f-a69e-eb5df4c3d6d5.webp?v=1726409407",
@@ -9214,7 +9221,7 @@
         "X-Mas"
       ],
       "created_at": "2024-09-15T16:06:54+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:21:44+02:00",
       "available": true,
       "price_min": 750,
@@ -9251,6 +9258,12 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Fern_Silo_E_1400x_e1bd242f-84bf-42b5-a24b-e49881c242b8.webp?v=1779702100",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/FR100c_800x_e1119273-a20c-4821-90fc-3383d86dc122.webp?v=1726409273",
           "alt": null,
           "width": 800,
@@ -9278,7 +9291,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T16:58:04+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:22:31+02:00",
       "available": true,
       "price_min": 41,
@@ -9337,7 +9350,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T16:52:26+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:22:53+02:00",
       "available": true,
       "price_min": 140,
@@ -9402,7 +9415,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T16:48:13+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:23:23+02:00",
       "available": true,
       "price_min": 34,
@@ -9467,7 +9480,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T16:39:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:24:22+02:00",
       "available": true,
       "price_min": 58,
@@ -9532,7 +9545,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-09-06T16:34:34+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:14:25+01:00",
       "available": true,
       "price_min": 46,
@@ -9596,7 +9609,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T16:15:17+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:25:24+02:00",
       "available": true,
       "price_min": 34,
@@ -9661,7 +9674,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T15:15:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:30:27+02:00",
       "available": true,
       "price_min": 67,
@@ -9725,7 +9738,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T15:13:24+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:32:32+02:00",
       "available": true,
       "price_min": 50,
@@ -9789,7 +9802,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-09-06T15:10:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:34:29+02:00",
       "available": true,
       "price_min": 50,
@@ -9855,7 +9868,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-15T17:58:41+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-11T13:57:26+01:00",
       "available": true,
       "price_min": 208,
@@ -9957,7 +9970,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-15T17:36:52+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-11T13:08:59+01:00",
       "available": true,
       "price_min": 424,
@@ -10035,7 +10048,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-15T16:52:21+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-11T13:46:12+01:00",
       "available": true,
       "price_min": 909,
@@ -10113,7 +10126,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-15T16:44:40+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-11T13:45:03+01:00",
       "available": true,
       "price_min": 393,
@@ -10216,7 +10229,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-08-09T19:30:52+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:05:52+01:00",
       "available": true,
       "price_min": 730,
@@ -10274,7 +10287,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T16:43:17+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:55+02:00",
       "available": true,
       "price_min": 320,
@@ -10344,7 +10357,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T16:41:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:57+02:00",
       "available": true,
       "price_min": 410,
@@ -10432,7 +10445,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T16:36:51+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:57+02:00",
       "available": true,
       "price_min": 410,
@@ -10511,7 +10524,7 @@
         "X-Mas"
       ],
       "created_at": "2024-08-09T16:34:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:57+02:00",
       "available": true,
       "price_min": 320,
@@ -10611,7 +10624,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T16:32:30+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:57+02:00",
       "available": true,
       "price_min": 320,
@@ -10675,7 +10688,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T15:55:40+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:59+02:00",
       "available": true,
       "price_min": 370,
@@ -10745,7 +10758,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-08-09T15:52:15+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:31:59+02:00",
       "available": true,
       "price_min": 370,
@@ -10811,7 +10824,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-09T12:40:49+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:32:00+02:00",
       "available": true,
       "price_min": 420,
@@ -10883,7 +10896,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-09T12:03:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:32:02+02:00",
       "available": true,
       "price_min": 420,
@@ -10956,7 +10969,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-08-09T11:59:55+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:04:19+01:00",
       "available": true,
       "price_min": 840,
@@ -11017,7 +11030,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-08-09T11:56:57+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:04:19+01:00",
       "available": true,
       "price_min": 590,
@@ -11084,7 +11097,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-08-09T11:45:24+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:04:19+01:00",
       "available": true,
       "price_min": 510,
@@ -11174,7 +11187,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-09T11:39:08+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:32:02+02:00",
       "available": true,
       "price_min": 650,
@@ -11240,7 +11253,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-08-09T11:32:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-21T14:32:02+02:00",
       "available": true,
       "price_min": 520,
@@ -11313,7 +11326,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-08-09T10:55:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-04T14:05:51+01:00",
       "available": true,
       "price_min": 320,
@@ -11383,7 +11396,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-08-02T16:22:23+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-11T14:29:44+01:00",
       "available": true,
       "price_min": 36,
@@ -11443,7 +11456,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-07-14T13:51:15+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-01-20T11:50:05+01:00",
       "available": true,
       "price_min": 375,
@@ -11522,7 +11535,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-29T18:44:26+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:45:55+02:00",
       "available": true,
       "price_min": 500,
@@ -11584,7 +11597,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-29T18:39:11+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:40:37+02:00",
       "available": true,
       "price_min": 230,
@@ -11646,7 +11659,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-29T18:36:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:37:20+02:00",
       "available": true,
       "price_min": 360,
@@ -11715,7 +11728,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-29T18:33:56+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:35:17+02:00",
       "available": true,
       "price_min": 220,
@@ -11778,7 +11791,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-29T18:30:50+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:32:27+02:00",
       "available": true,
       "price_min": 190,
@@ -11845,7 +11858,7 @@
         "X-Mas"
       ],
       "created_at": "2024-06-29T18:26:19+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:27:52+02:00",
       "available": true,
       "price_min": 350,
@@ -11909,7 +11922,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T18:24:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:25:24+02:00",
       "available": true,
       "price_min": 620,
@@ -11976,7 +11989,7 @@
         "X-Mas"
       ],
       "created_at": "2024-06-29T18:19:38+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T18:21:04+02:00",
       "available": true,
       "price_min": 490,
@@ -12040,7 +12053,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T17:55:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T17:59:13+02:00",
       "available": true,
       "price_min": 590,
@@ -12101,7 +12114,7 @@
         "X-Mas"
       ],
       "created_at": "2024-06-29T17:50:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T17:51:57+02:00",
       "available": true,
       "price_min": 430,
@@ -12165,7 +12178,7 @@
         "X-Mas"
       ],
       "created_at": "2024-06-29T17:30:13+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T17:31:51+02:00",
       "available": true,
       "price_min": 260,
@@ -12232,7 +12245,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-06-29T17:11:49+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T17:14:06+02:00",
       "available": true,
       "price_min": 160,
@@ -12303,7 +12316,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-06-29T16:36:59+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:37:39+02:00",
       "available": true,
       "price_min": 58,
@@ -12368,7 +12381,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-06-29T16:36:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:36:47+02:00",
       "available": true,
       "price_min": 58,
@@ -12433,7 +12446,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2024-06-29T16:34:34+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:35:43+02:00",
       "available": true,
       "price_min": 58,
@@ -12497,7 +12510,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:29:24+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:30:00+02:00",
       "available": true,
       "price_min": 80,
@@ -12555,7 +12568,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:28:29+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:29:11+02:00",
       "available": true,
       "price_min": 80,
@@ -12613,7 +12626,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:26:14+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:27:11+02:00",
       "available": true,
       "price_min": 80,
@@ -12672,7 +12685,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-29T16:22:43+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:23:18+02:00",
       "available": true,
       "price_min": 50,
@@ -12731,7 +12744,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-29T16:21:39+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:22:19+02:00",
       "available": true,
       "price_min": 50,
@@ -12790,7 +12803,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-29T16:20:41+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:21:25+02:00",
       "available": true,
       "price_min": 50,
@@ -12848,7 +12861,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:10:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:11:45+02:00",
       "available": true,
       "price_min": 92,
@@ -12900,7 +12913,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:08:22+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:08:43+02:00",
       "available": true,
       "price_min": 92,
@@ -12952,7 +12965,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T16:04:48+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T16:07:00+02:00",
       "available": true,
       "price_min": 92,
@@ -13004,7 +13017,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:57:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:59:32+02:00",
       "available": true,
       "price_min": 82,
@@ -13080,7 +13093,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:53:57+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:55:11+02:00",
       "available": true,
       "price_min": 52,
@@ -13138,7 +13151,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:50:56+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:51:31+02:00",
       "available": true,
       "price_min": 52,
@@ -13196,7 +13209,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:49:28+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:50:37+02:00",
       "available": true,
       "price_min": 52,
@@ -13254,7 +13267,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:39:09+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:39:52+02:00",
       "available": true,
       "price_min": 49,
@@ -13324,7 +13337,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:37:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:38:43+02:00",
       "available": true,
       "price_min": 49,
@@ -13400,7 +13413,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:32:14+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:34:50+02:00",
       "available": true,
       "price_min": 49,
@@ -13470,7 +13483,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:17:24+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:18:21+02:00",
       "available": true,
       "price_min": 30,
@@ -13540,7 +13553,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:16:08+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:17:05+02:00",
       "available": true,
       "price_min": 30,
@@ -13616,7 +13629,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-29T15:15:39+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2024-06-29T15:15:39+02:00",
       "available": true,
       "price_min": 30,
@@ -13687,7 +13700,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T16:26:53+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:51:33+02:00",
       "available": true,
       "price_min": 175,
@@ -13758,7 +13771,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T16:17:53+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:53:11+02:00",
       "available": true,
       "price_min": 140,
@@ -13829,7 +13842,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:56:51+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:55:07+02:00",
       "available": true,
       "price_min": 55,
@@ -13894,7 +13907,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:54:05+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:56:21+02:00",
       "available": true,
       "price_min": 55,
@@ -13959,7 +13972,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:53:34+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:56:52+02:00",
       "available": true,
       "price_min": 55,
@@ -14018,7 +14031,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:52:38+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:57:23+02:00",
       "available": true,
       "price_min": 55,
@@ -14083,7 +14096,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:51:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:57:49+02:00",
       "available": true,
       "price_min": 55,
@@ -14148,7 +14161,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:49:44+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:58:36+02:00",
       "available": true,
       "price_min": 75,
@@ -14219,7 +14232,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:48:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:58:56+02:00",
       "available": true,
       "price_min": 75,
@@ -14284,7 +14297,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:46:45+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:59:12+02:00",
       "available": true,
       "price_min": 75,
@@ -14349,7 +14362,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:44:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T13:59:27+02:00",
       "available": true,
       "price_min": 75,
@@ -14414,7 +14427,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-16T15:25:27+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-05T12:05:44+01:00",
       "available": true,
       "price_min": 36,
@@ -14479,7 +14492,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-16T15:22:34+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-05T12:05:44+01:00",
       "available": true,
       "price_min": 36,
@@ -14544,7 +14557,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-16T15:20:55+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-05T12:05:44+01:00",
       "available": true,
       "price_min": 36,
@@ -14608,7 +14621,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T15:10:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-05T12:05:43+01:00",
       "available": true,
       "price_min": 36,
@@ -14673,7 +14686,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-16T15:08:45+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-03-05T12:05:43+01:00",
       "available": true,
       "price_min": 36,
@@ -14737,7 +14750,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:57:21+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:01:54+02:00",
       "available": true,
       "price_min": 55,
@@ -14813,7 +14826,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:51:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:02:37+02:00",
       "available": true,
       "price_min": 55,
@@ -14889,7 +14902,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:48:29+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:02:52+02:00",
       "available": true,
       "price_min": 55,
@@ -14959,7 +14972,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:41:19+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:03:19+02:00",
       "available": true,
       "price_min": 55,
@@ -15035,7 +15048,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:39:10+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:03:38+02:00",
       "available": true,
       "price_min": 55,
@@ -15111,7 +15124,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:31:10+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:04:45+02:00",
       "available": true,
       "price_min": 2440,
@@ -15163,7 +15176,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:29:52+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:05:07+02:00",
       "available": true,
       "price_min": 2440,
@@ -15215,7 +15228,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:26:58+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:05:35+02:00",
       "available": true,
       "price_min": 653,
@@ -15267,7 +15280,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-16T14:19:51+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T14:05:54+02:00",
       "available": true,
       "price_min": 392,
@@ -15321,7 +15334,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:11:40+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T16:55:34+02:00",
       "available": true,
       "price_min": 550,
@@ -15375,7 +15388,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:10:13+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T16:55:53+02:00",
       "available": true,
       "price_min": 575,
@@ -15429,7 +15442,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T14:09:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T16:56:15+02:00",
       "available": true,
       "price_min": 230,
@@ -15483,7 +15496,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-16T13:50:07+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T16:56:46+02:00",
       "available": true,
       "price_min": 150,
@@ -15535,7 +15548,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:12:06+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T16:57:47+02:00",
       "available": true,
       "price_min": 925,
@@ -15587,7 +15600,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:11:26+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T17:02:43+02:00",
       "available": true,
       "price_min": 1100,
@@ -15639,7 +15652,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:10:28+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T17:03:27+02:00",
       "available": true,
       "price_min": 410,
@@ -15691,7 +15704,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:09:09+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T17:03:56+02:00",
       "available": true,
       "price_min": 260,
@@ -15744,7 +15757,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:07:15+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-05T17:04:41+02:00",
       "available": true,
       "price_min": 1000,
@@ -15797,7 +15810,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:06:15+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T15:56:53+02:00",
       "available": true,
       "price_min": 950,
@@ -15850,7 +15863,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T17:05:36+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T15:57:13+02:00",
       "available": true,
       "price_min": 560,
@@ -15903,7 +15916,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:59:44+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T15:57:32+02:00",
       "available": true,
       "price_min": 360,
@@ -15955,7 +15968,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:58:02+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T15:59:18+02:00",
       "available": true,
       "price_min": 910,
@@ -16007,7 +16020,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:56:59+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:00:21+02:00",
       "available": true,
       "price_min": 950,
@@ -16059,7 +16072,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:56:30+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:02:28+02:00",
       "available": true,
       "price_min": 410,
@@ -16111,7 +16124,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:55:32+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:02:43+02:00",
       "available": true,
       "price_min": 230,
@@ -16163,7 +16176,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:54:22+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:03:14+02:00",
       "available": true,
       "price_min": 1000,
@@ -16215,7 +16228,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:53:29+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:03:32+02:00",
       "available": true,
       "price_min": 650,
@@ -16267,7 +16280,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:52:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:03:55+02:00",
       "available": true,
       "price_min": 1050,
@@ -16319,7 +16332,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:51:34+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:04:15+02:00",
       "available": true,
       "price_min": 675,
@@ -16371,7 +16384,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:50:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:04:32+02:00",
       "available": true,
       "price_min": 550,
@@ -16423,7 +16436,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:49:16+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:05:01+02:00",
       "available": true,
       "price_min": 210,
@@ -16475,7 +16488,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:47:18+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:05:32+02:00",
       "available": true,
       "price_min": 725,
@@ -16527,7 +16540,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:41:43+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:05:49+02:00",
       "available": true,
       "price_min": 225,
@@ -16580,7 +16593,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:39:11+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:08:17+02:00",
       "available": true,
       "price_min": 290,
@@ -16633,7 +16646,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:38:00+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:08:46+02:00",
       "available": true,
       "price_min": 450,
@@ -16686,7 +16699,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:36:23+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:09:02+02:00",
       "available": true,
       "price_min": 2000,
@@ -16739,7 +16752,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:35:11+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:09:58+02:00",
       "available": true,
       "price_min": 300,
@@ -16792,7 +16805,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:34:01+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:10:40+02:00",
       "available": true,
       "price_min": 460,
@@ -16845,7 +16858,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:32:47+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:12:15+02:00",
       "available": true,
       "price_min": 2100,
@@ -16898,7 +16911,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:31:55+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:14:25+02:00",
       "available": true,
       "price_min": 86,
@@ -16951,7 +16964,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:30:36+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:14:41+02:00",
       "available": true,
       "price_min": 130,
@@ -17004,7 +17017,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:21:19+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:14:57+02:00",
       "available": true,
       "price_min": 635,
@@ -17057,7 +17070,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:20:39+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:15:19+02:00",
       "available": true,
       "price_min": 50,
@@ -17110,7 +17123,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:18:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:15:36+02:00",
       "available": true,
       "price_min": 80,
@@ -17163,7 +17176,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:17:20+02:00",
-      "updated_at": "2026-05-22T17:58:51+02:00",
+      "updated_at": "2026-05-25T21:06:37+02:00",
       "published_at": "2025-06-10T16:15:50+02:00",
       "available": true,
       "price_min": 465,
@@ -17216,7 +17229,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:11:24+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:17:29+02:00",
       "available": true,
       "price_min": 350,
@@ -17269,7 +17282,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:10:40+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:17:46+02:00",
       "available": true,
       "price_min": 360,
@@ -17322,7 +17335,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:09:38+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:18:07+02:00",
       "available": true,
       "price_min": 95,
@@ -17375,7 +17388,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:08:34+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:18:24+02:00",
       "available": true,
       "price_min": 68,
@@ -17428,7 +17441,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T16:07:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:43+01:00",
       "available": true,
       "price_min": 265,
@@ -17481,7 +17494,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T16:06:40+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:43+01:00",
       "available": true,
       "price_min": 275,
@@ -17534,7 +17547,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T16:05:05+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:41+01:00",
       "available": true,
       "price_min": 62,
@@ -17593,7 +17606,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T16:04:02+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:41+01:00",
       "available": true,
       "price_min": 36,
@@ -17651,7 +17664,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:01:33+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:20:19+02:00",
       "available": true,
       "price_min": 350,
@@ -17703,7 +17716,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T16:00:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:20:52+02:00",
       "available": true,
       "price_min": 360,
@@ -17755,7 +17768,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T15:55:19+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:21:34+02:00",
       "available": true,
       "price_min": 85,
@@ -17807,7 +17820,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T15:53:28+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:21:50+02:00",
       "available": true,
       "price_min": 58,
@@ -17866,7 +17879,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T15:51:03+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:23+01:00",
       "available": true,
       "price_min": 350,
@@ -17919,7 +17932,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T15:49:09+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:23+01:00",
       "available": true,
       "price_min": 360,
@@ -17972,7 +17985,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T15:47:50+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:23+01:00",
       "available": true,
       "price_min": 84,
@@ -18031,7 +18044,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-13T15:46:30+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:23+01:00",
       "available": true,
       "price_min": 50,
@@ -18095,7 +18108,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T15:27:13+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:24:46+02:00",
       "available": true,
       "price_min": 425,
@@ -18147,7 +18160,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T15:26:19+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:25:03+02:00",
       "available": true,
       "price_min": 450,
@@ -18199,7 +18212,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T15:20:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:25:23+02:00",
       "available": true,
       "price_min": 95,
@@ -18257,7 +18270,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T11:25:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:31:14+02:00",
       "available": true,
       "price_min": 58,
@@ -18321,7 +18334,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T11:23:30+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:31:47+02:00",
       "available": true,
       "price_min": 730,
@@ -18373,7 +18386,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T11:22:38+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:32:14+02:00",
       "available": true,
       "price_min": 800,
@@ -18425,7 +18438,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T11:20:53+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:34:29+02:00",
       "available": true,
       "price_min": 230,
@@ -18477,7 +18490,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-13T11:18:59+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:36:35+02:00",
       "available": true,
       "price_min": 130,
@@ -18542,7 +18555,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T17:19:10+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-01T16:08:25+02:00",
       "available": true,
       "price_min": 575,
@@ -18625,7 +18638,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T17:15:53+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:50:53+02:00",
       "available": true,
       "price_min": 700,
@@ -18702,7 +18715,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:56:21+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:52:47+02:00",
       "available": true,
       "price_min": 900,
@@ -18767,7 +18780,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:52:37+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-01T16:04:46+02:00",
       "available": true,
       "price_min": 1650,
@@ -18837,7 +18850,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:48:38+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:54:09+02:00",
       "available": true,
       "price_min": 210,
@@ -18901,7 +18914,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:46:00+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:54:22+02:00",
       "available": true,
       "price_min": 415,
@@ -18971,7 +18984,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:43:57+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:54:44+02:00",
       "available": true,
       "price_min": 550,
@@ -19035,7 +19048,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:40:39+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:54:58+02:00",
       "available": true,
       "price_min": 825,
@@ -19106,7 +19119,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T16:01:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:57:03+02:00",
       "available": true,
       "price_min": 330,
@@ -19165,7 +19178,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T15:59:47+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:57:19+02:00",
       "available": true,
       "price_min": 380,
@@ -19224,7 +19237,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T15:50:44+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:57:41+02:00",
       "available": true,
       "price_min": 435,
@@ -19294,7 +19307,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T15:35:41+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T16:58:16+02:00",
       "available": true,
       "price_min": 125,
@@ -19365,7 +19378,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T15:20:50+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:21+01:00",
       "available": true,
       "price_min": 50,
@@ -19436,7 +19449,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T15:17:47+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:21+01:00",
       "available": true,
       "price_min": 75,
@@ -19507,7 +19520,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T14:56:09+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:41+01:00",
       "available": true,
       "price_min": 36,
@@ -19578,7 +19591,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-06-08T14:52:19+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:05:41+01:00",
       "available": true,
       "price_min": 55,
@@ -19648,7 +19661,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T14:48:20+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:01:20+02:00",
       "available": true,
       "price_min": 58,
@@ -19718,7 +19731,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T14:44:52+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:23:11+02:00",
       "available": true,
       "price_min": 75,
@@ -19789,7 +19802,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T13:58:12+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:23:28+02:00",
       "available": true,
       "price_min": 68,
@@ -19848,7 +19861,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T13:46:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:24:36+02:00",
       "available": true,
       "price_min": 80,
@@ -19906,7 +19919,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T12:09:02+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:26:00+02:00",
       "available": true,
       "price_min": 55,
@@ -19976,7 +19989,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T12:01:23+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:27:48+02:00",
       "available": true,
       "price_min": 80,
@@ -20046,7 +20059,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-08T11:51:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-10T17:28:17+02:00",
       "available": true,
       "price_min": 250,
@@ -20118,7 +20131,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-06-06T16:50:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:42:18+01:00",
       "available": true,
       "price_min": 250,
@@ -20176,7 +20189,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T15:33:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:32:17+02:00",
       "available": true,
       "price_min": 160,
@@ -20246,7 +20259,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T15:10:13+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:23:13+02:00",
       "available": true,
       "price_min": 350,
@@ -20283,6 +20296,24 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1653_1400x_6d8ae0ba-caf1-450b-8d9b-8ed642762f25.webp?v=1779702817",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1665_1400x_6f1124d4-9d61-4dad-92fc-fd2e4823b733.webp?v=1779702817",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1641_1400x_f2dc0345-9429-4e1b-b25c-7efd6ba049db.webp?v=1779702817",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP5110b_800x_29c86938-6872-4ef2-82bf-2d2d8bee4432.webp?v=1717679440",
           "alt": null,
           "width": 800,
@@ -20304,7 +20335,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T15:09:04+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:22:18+02:00",
       "available": true,
       "price_min": 350,
@@ -20341,6 +20372,18 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0502_1400x_bb747c08-3a84-41fd-9789-d269643c997a.webp?v=1779702897",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0526_1400x_50e0779e-ddb1-4994-9bb1-f208a3b7035f.webp?v=1779702897",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SP5111b_800x_4e2d5463-9f37-48bb-9cd5-1031579a9c71.webp?v=1717679372",
           "alt": null,
           "width": 800,
@@ -20362,7 +20405,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T14:52:12+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:28:16+02:00",
       "available": false,
       "price_min": 385,
@@ -20450,7 +20493,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T14:35:25+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T14:00:42+02:00",
       "available": true,
       "price_min": 195,
@@ -20514,7 +20557,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-06-06T14:26:45+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T14:01:14+02:00",
       "available": true,
       "price_min": 195,
@@ -20591,7 +20634,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-06-04T15:05:44+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:21:08+02:00",
       "available": true,
       "price_min": 225,
@@ -20626,6 +20669,24 @@
           "alt": null,
           "width": 1600,
           "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1901_1400x_e1cfb138-fbda-4af0-b8e3-a9e054890976.webp?v=1779703406",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NJ4811b_1400x_7b134417-f516-4339-b7f6-c169ac40303c.webp?v=1779703415",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1904_1400x_d0e1ac24-45fc-4b05-847a-00cd5e0e5391.jpg?v=1779703406",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NJ4811a_1600x_f649da5b-de98-4976-b0c3-ea08507cde44.webp?v=1717506388",
@@ -20643,7 +20704,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:47:48+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:55:37+02:00",
       "available": true,
       "price_min": 225,
@@ -20695,7 +20756,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:46:36+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:55:00+02:00",
       "available": true,
       "price_min": 250,
@@ -20747,7 +20808,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:42:40+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:48:27+02:00",
       "available": true,
       "price_min": 295,
@@ -20811,7 +20872,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:41:40+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:47:55+02:00",
       "available": true,
       "price_min": 295,
@@ -20848,13 +20909,13 @@
           "height": 800
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_spicejewels_04_800x_3890f42b-5184-4555-b689-6d58c560f94c.webp?v=1716478937",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_chinesespoon_10_800x_05dd1c19-130e-46af-bdfe-2e626ac52d0f.webp?v=1716478937",
           "alt": null,
           "width": 800,
           "height": 800
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_chinesespoon_10_800x_05dd1c19-130e-46af-bdfe-2e626ac52d0f.webp?v=1716478937",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_spicejewels_04_800x_3890f42b-5184-4555-b689-6d58c560f94c.webp?v=1716478937",
           "alt": null,
           "width": 800,
           "height": 800
@@ -20882,7 +20943,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T17:39:06+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:20:21+01:00",
       "available": true,
       "price_min": 250,
@@ -20919,10 +20980,16 @@
           "height": 800
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_lapis_04_800x_4a9b2504-3a5d-4f10-8b1a-35fc8c7a3481.webp?v=1716478763",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_NJ1002_NP253_CU40_1400x_37e7ffb5-298d-4d61-8ab3-68e66ef6c644.webp?v=1779704591",
           "alt": null,
-          "width": 800,
-          "height": 800
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Venise_CU40_1400x_b4099e65-a8f4-421e-bcb5-3b03001e0889.webp?v=1779704590",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_lapis_02_800x_084a6af1-8f07-40eb-b354-bc799ad66caa.webp?v=1716478763",
@@ -20946,7 +21013,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:34:31+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:46:54+02:00",
       "available": true,
       "price_min": 325,
@@ -20998,7 +21065,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:21:02+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:52:11+02:00",
       "available": true,
       "price_min": 100,
@@ -21050,7 +21117,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:18:33+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:53:40+02:00",
       "available": true,
       "price_min": 210,
@@ -21085,6 +21152,18 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life__Swan_SC3001_1400x_e2a2ce54-550a-4cef-887e-55dc53ac1b3d.webp?v=1779704855",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life__Swan_SC3001_SC3000_1400x_60da6251-03ec-47a7-9889-a88af63794d1.webp?v=1779704854",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SC3001_1000x_14a55f63-9ce7-443f-aeb8-18333a797f0e.webp?v=1716477542",
@@ -21102,7 +21181,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:17:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:54:11+02:00",
       "available": true,
       "price_min": 210,
@@ -21137,6 +21216,18 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_aegeanperleewhite_swan_sq_1400x_a6438dbb-2e1f-49b9-b30f-d5e516efea6e.webp?v=1779704925",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_holiday24_FR107_1400x_b79e0e20-efc3-4a0f-8d97-f076ba2085ad.webp?v=1779704926",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SC3000_1000x_4800bf53-0cea-4c85-a627-4e00fed673c3.webp?v=1716477458",
@@ -21155,7 +21246,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:15:50+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:56:22+02:00",
       "available": true,
       "price_min": 1100,
@@ -21190,6 +21281,18 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_swan_06_1400x_1b681644-199f-4fe4-bb5a-06b814b6ffbe.webp?v=1779705004",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/swan-bowl-medium-white-l-objet-2_1400x_6c08f443-5305-4940-a274-7f3dc9f67015.webp?v=1779705003",
+          "alt": null,
+          "width": 1400,
+          "height": 1200
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SW2001_1000x_1df42e1e-88b7-47ab-9757-0186d5b0526a.webp?v=1716477358",
@@ -21208,7 +21311,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:15:01+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:56:57+02:00",
       "available": true,
       "price_min": 385,
@@ -21243,6 +21346,12 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_Swan_SW1001_1400x_f400f2cb-9e0d-4e50-97f6-875c1e91120c.webp?v=1779705099",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SW1001_1000x_c198d045-193c-4c87-babc-f4d72349c6e5.webp?v=1716477314",
@@ -21261,7 +21370,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:13:40+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:57:28+02:00",
       "available": true,
       "price_min": 385,
@@ -21296,6 +21405,18 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_swan_02_1400x_66365a12-a825-41ad-abf3-b1dde7435dac.webp?v=1779705167",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/collect_gifts_forher_sq_1400x_44b4dde9-95cc-4ffc-9237-1fae141e07d8.webp?v=1779705166",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SW1000_1000x_b16ccb54-9ca2-456f-bad0-2a50ba9fd29a.webp?v=1716477227",
@@ -21314,7 +21435,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T17:12:16+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:58:03+02:00",
       "available": true,
       "price_min": 1100,
@@ -21349,6 +21470,18 @@
           "alt": null,
           "width": 1000,
           "height": 1000
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_holiday_Swan_Venise_Terra_Fern_1400x_97d9a6dd-7bc1-4623-91c9-27d73ec10db9.webp?v=1779705230",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life__Swan_1400x_aead79b7-63e7-4488-b13f-ff4ad822186e.webp?v=1779705228",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SW2000_1000x_8933bfb8-c24a-4ef1-8823-7ab33601d8cc.webp?v=1716477175",
@@ -21367,7 +21500,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:40:46+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:38+01:00",
       "available": true,
       "price_min": 350,
@@ -21420,7 +21553,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:37:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:38+01:00",
       "available": true,
       "price_min": 325,
@@ -21479,7 +21612,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:34:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:39+01:00",
       "available": true,
       "price_min": 295,
@@ -21532,7 +21665,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:23:01+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:39+01:00",
       "available": true,
       "price_min": 225,
@@ -21615,7 +21748,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:21:44+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:37+01:00",
       "available": true,
       "price_min": 265,
@@ -21698,7 +21831,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:19:46+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:37+01:00",
       "available": true,
       "price_min": 265,
@@ -21787,7 +21920,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:18:01+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:37+01:00",
       "available": true,
       "price_min": 265,
@@ -21852,7 +21985,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T16:15:16+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:16:37+01:00",
       "available": true,
       "price_min": 265,
@@ -21922,7 +22055,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T16:02:59+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T10:20:49+02:00",
       "available": true,
       "price_min": 525,
@@ -22010,7 +22143,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T16:01:44+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T11:43:18+02:00",
       "available": true,
       "price_min": 320,
@@ -22068,7 +22201,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T16:00:06+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T11:59:20+02:00",
       "available": true,
       "price_min": 105,
@@ -22126,7 +22259,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:59:23+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T11:54:17+02:00",
       "available": true,
       "price_min": 50,
@@ -22184,7 +22317,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:57:29+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T11:37:08+02:00",
       "available": true,
       "price_min": 45,
@@ -22242,7 +22375,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:47:52+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T14:33:29+02:00",
       "available": true,
       "price_min": 810,
@@ -22312,7 +22445,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:46:52+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T14:34:55+02:00",
       "available": true,
       "price_min": 65,
@@ -22370,7 +22503,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:45:20+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T14:36:29+02:00",
       "available": true,
       "price_min": 135,
@@ -22434,7 +22567,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:43:00+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T14:17:04+02:00",
       "available": true,
       "price_min": 36,
@@ -22492,7 +22625,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:42:09+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-18T14:17:55+02:00",
       "available": true,
       "price_min": 70,
@@ -22562,7 +22695,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:40:30+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:59:08+02:00",
       "available": true,
       "price_min": 50,
@@ -22626,7 +22759,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:39:37+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:58:50+02:00",
       "available": true,
       "price_min": 50,
@@ -22690,7 +22823,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:38:48+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:59:39+02:00",
       "available": true,
       "price_min": 50,
@@ -22748,7 +22881,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:38:10+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:59:23+02:00",
       "available": true,
       "price_min": 50,
@@ -22806,7 +22939,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:37:34+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:59:55+02:00",
       "available": true,
       "price_min": 50,
@@ -22870,7 +23003,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:35:18+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-22T11:09:39+02:00",
       "available": true,
       "price_min": 295,
@@ -22958,7 +23091,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:33:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-22T11:08:46+02:00",
       "available": true,
       "price_min": 295,
@@ -23040,7 +23173,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:28:42+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:46:01+02:00",
       "available": true,
       "price_min": 250,
@@ -23092,7 +23225,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:25:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:45:27+02:00",
       "available": true,
       "price_min": 250,
@@ -23145,7 +23278,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:19:07+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-19T13:44:19+02:00",
       "available": true,
       "price_min": 630,
@@ -23210,7 +23343,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:17:48+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:06:12+02:00",
       "available": true,
       "price_min": 36,
@@ -23275,7 +23408,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:17:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:06:36+02:00",
       "available": true,
       "price_min": 36,
@@ -23340,7 +23473,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:16:09+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:05:34+02:00",
       "available": true,
       "price_min": 36,
@@ -23405,7 +23538,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:15:38+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:05:53+02:00",
       "available": true,
       "price_min": 36,
@@ -23470,7 +23603,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:14:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:05:14+02:00",
       "available": true,
       "price_min": 36,
@@ -23534,7 +23667,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:12:58+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:54:00+02:00",
       "available": true,
       "price_min": 32,
@@ -23599,7 +23732,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:12:31+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:53:09+02:00",
       "available": true,
       "price_min": 32,
@@ -23664,7 +23797,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:11:31+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:54:24+02:00",
       "available": true,
       "price_min": 32,
@@ -23729,7 +23862,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:10:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:53:37+02:00",
       "available": true,
       "price_min": 32,
@@ -23794,7 +23927,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:08:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T09:51:33+02:00",
       "available": true,
       "price_min": 32,
@@ -23858,7 +23991,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:00:47+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:01:01+02:00",
       "available": true,
       "price_min": 50,
@@ -23922,7 +24055,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T15:00:03+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:01:18+02:00",
       "available": true,
       "price_min": 50,
@@ -23986,7 +24119,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T14:58:25+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:01:53+02:00",
       "available": true,
       "price_min": 50,
@@ -24050,7 +24183,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T14:57:11+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:00:40+02:00",
       "available": true,
       "price_min": 50,
@@ -24114,7 +24247,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T14:55:02+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T10:01:35+02:00",
       "available": true,
       "price_min": 50,
@@ -24178,7 +24311,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T14:50:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:49:40+02:00",
       "available": true,
       "price_min": 295,
@@ -24236,7 +24369,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T13:39:12+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:27:15+02:00",
       "available": true,
       "price_min": 450,
@@ -24306,7 +24439,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-05-23T13:38:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:26:41+02:00",
       "available": true,
       "price_min": 450,
@@ -24383,7 +24516,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-05-23T13:36:26+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-05T12:18:10+01:00",
       "available": true,
       "price_min": 450,
@@ -24454,7 +24587,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-23T13:34:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:44:25+02:00",
       "available": true,
       "price_min": 325,
@@ -24507,7 +24640,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:59:35+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:23:55+02:00",
       "available": true,
       "price_min": 225,
@@ -24544,6 +24677,18 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0526_1400x_50e0779e-ddb1-4994-9bb1-f208a3b7035f.webp?v=1779702897",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_0591_1400x_5f9c116c-5ee2-4106-8383-c04a00fd20ab.webp?v=1779705876",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NJ5111b_800x_992b7655-3ab9-4230-9609-6c51f4d8cd2d.webp?v=1716393620",
           "alt": null,
           "width": 800,
@@ -24572,7 +24717,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:58:13+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:24:28+02:00",
       "available": true,
       "price_min": 225,
@@ -24609,6 +24754,18 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1665_1400x_def83ec2-092d-4ed3-888a-7f0ea64a57b6.webp?v=1779706483",
+          "alt": null,
+          "width": 1400,
+          "height": 1960
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/life_sp2024_1656_1400x_2bffea2a-bf00-49bb-bd84-2de48f5e50d0.webp?v=1779706452",
+          "alt": null,
+          "width": 1400,
+          "height": 1400
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/NJ5110b_800x_a55cc8d1-b10d-4f5b-b472-2f2ac57f8315.webp?v=1716393549",
           "alt": null,
           "width": 800,
@@ -24631,7 +24788,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:50:32+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:50:23+02:00",
       "available": true,
       "price_min": 275,
@@ -24684,7 +24841,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:48:30+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:37:13+02:00",
       "available": true,
       "price_min": 275,
@@ -24737,7 +24894,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:47:26+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:37:56+02:00",
       "available": true,
       "price_min": 275,
@@ -24790,7 +24947,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:46:13+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:38:40+02:00",
       "available": true,
       "price_min": 225,
@@ -24855,7 +25012,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:44:20+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:39:33+02:00",
       "available": true,
       "price_min": 225,
@@ -24926,7 +25083,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:42:31+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:42:50+02:00",
       "available": true,
       "price_min": 250,
@@ -24985,7 +25142,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:40:44+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:43:25+02:00",
       "available": true,
       "price_min": 250,
@@ -25044,7 +25201,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:36:55+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:35:09+02:00",
       "available": true,
       "price_min": 225,
@@ -25109,7 +25266,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:35:24+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:35:55+02:00",
       "available": true,
       "price_min": 225,
@@ -25162,7 +25319,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:34:20+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:41:12+02:00",
       "available": true,
       "price_min": 225,
@@ -25227,7 +25384,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:32:20+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:41:59+02:00",
       "available": true,
       "price_min": 225,
@@ -25292,7 +25449,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:28:15+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:33:19+02:00",
       "available": true,
       "price_min": 225,
@@ -25369,7 +25526,7 @@
         "L'OBJET"
       ],
       "created_at": "2024-05-22T17:26:18+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-08-17T13:34:04+02:00",
       "available": true,
       "price_min": 225,
@@ -25439,7 +25596,7 @@
         "X-Mas"
       ],
       "created_at": "2024-05-18T15:11:18+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:12:58+01:00",
       "available": true,
       "price_min": 79,
@@ -25524,7 +25681,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-05-17T14:30:13+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:30:13+01:00",
       "available": true,
       "price_min": 42,
@@ -25596,7 +25753,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-05-09T16:05:48+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-05-09T16:07:12+02:00",
       "available": true,
       "price_min": 295,
@@ -25668,7 +25825,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-07T12:25:33+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-07T12:29:38+02:00",
       "available": true,
       "price_min": 250,
@@ -25746,7 +25903,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-07T12:22:16+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-07T12:25:02+02:00",
       "available": true,
       "price_min": 295,
@@ -25824,7 +25981,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-05T12:19:25+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-05T12:21:32+02:00",
       "available": true,
       "price_min": 295,
@@ -25861,13 +26018,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_3_1_1.webp?v=1712312485",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_4_1_1.webp?v=1712312485",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_1_1_1.webp?v=1712312485",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -25879,7 +26030,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_1_1_1.webp?v=1712312485",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_3_1_1.webp?v=1712312485",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118235_4_1_1.webp?v=1712312485",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -25902,7 +26059,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-05T12:13:11+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-05T12:18:58+02:00",
       "available": true,
       "price_min": 295,
@@ -25939,6 +26096,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118037_1_1_1.webp?v=1712312252",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118037_3_1_1.webp?v=1712312252",
           "alt": null,
           "width": 1200,
@@ -25952,12 +26115,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118037_2_1_1.webp?v=1712312252",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118037_1_1_1.webp?v=1712312252",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -25980,7 +26137,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-05T12:08:41+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-05T12:12:43+02:00",
       "available": true,
       "price_min": 245,
@@ -26017,6 +26174,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117983_1_1_1.webp?v=1712311843",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117983_3_1_1.webp?v=1712311843",
           "alt": null,
           "width": 1200,
@@ -26030,12 +26193,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117983_4_1_1.webp?v=1712311843",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117983_1_1_1.webp?v=1712311843",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -26058,7 +26215,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-05T11:49:45+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-05T11:53:27+02:00",
       "available": true,
       "price_min": 295,
@@ -26095,6 +26252,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117748_1_1_1.webp?v=1712310796",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117748_4_1_2.webp?v=1712310796",
           "alt": null,
           "width": 1200,
@@ -26108,12 +26271,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117748_3_1_2.webp?v=1712310796",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117748_1_1_1.webp?v=1712310796",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -26136,7 +26293,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-04-05T11:44:08+02:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-04-05T11:44:08+02:00",
       "available": true,
       "price_min": 195,
@@ -26197,7 +26354,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-29T14:14:14+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:10:34+01:00",
       "available": true,
       "price_min": 480,
@@ -26267,7 +26424,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-29T14:11:09+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:11:24+01:00",
       "available": true,
       "price_min": 910,
@@ -26331,7 +26488,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-29T14:06:54+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:11:02+01:00",
       "available": true,
       "price_min": 910,
@@ -26389,7 +26546,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-03-27T10:34:46+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-27T10:37:08+01:00",
       "available": true,
       "price_min": 390,
@@ -26449,7 +26606,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-21T14:02:11+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:41:01+01:00",
       "available": true,
       "price_min": 298,
@@ -26533,7 +26690,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-21T13:59:08+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:41:27+01:00",
       "available": true,
       "price_min": 303,
@@ -26619,7 +26776,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-21T13:56:06+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:42:20+01:00",
       "available": true,
       "price_min": 212,
@@ -26755,7 +26912,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-20T13:21:03+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:14:34+01:00",
       "available": true,
       "price_min": 36,
@@ -26837,7 +26994,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-20T13:07:20+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T12:24:18+01:00",
       "available": true,
       "price_min": 157,
@@ -26901,7 +27058,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-20T13:04:15+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:16:57+01:00",
       "available": true,
       "price_min": 286,
@@ -27002,7 +27159,7 @@
         "OBJECTS"
       ],
       "created_at": "2024-03-16T16:31:41+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:18:32+01:00",
       "available": true,
       "price_min": 179,
@@ -27073,7 +27230,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-15T17:09:16+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:46:43+01:00",
       "available": true,
       "price_min": 860,
@@ -27110,6 +27267,12 @@
           "height": 800
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB5.jpg?v=1710519037",
+          "alt": null,
+          "width": 800,
+          "height": 603
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB4.jpg?v=1710519035",
           "alt": null,
           "width": 800,
@@ -27126,12 +27289,6 @@
           "alt": null,
           "width": 800,
           "height": 800
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB5.jpg?v=1710519037",
-          "alt": null,
-          "width": 800,
-          "height": 603
         }
       ],
       "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/KB1.jpg?v=1710519030",
@@ -27151,7 +27308,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-03-13T13:19:52+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:30:06+01:00",
       "available": true,
       "price_min": 250,
@@ -27211,7 +27368,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-03-12T12:48:34+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:43:49+01:00",
       "available": true,
       "price_min": 250,
@@ -27271,7 +27428,7 @@
         "TRAYS & COASTERS"
       ],
       "created_at": "2024-03-12T12:31:55+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:29:37+01:00",
       "available": true,
       "price_min": 250,
@@ -27330,7 +27487,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-10T14:42:10+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:16:20+01:00",
       "available": true,
       "price_min": 360,
@@ -27401,7 +27558,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-10T14:23:52+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:35:38+01:00",
       "available": true,
       "price_min": 695,
@@ -27438,13 +27595,13 @@
           "height": 1600
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB901b_1600x_6c23531d-a9d8-499c-8774-d8323e7c655a.webp?v=1710077110",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_24_013_1_1600x_c28a2b25-875b-40f7-9259-8e2a55d8e4a7.webp?v=1710077111",
           "alt": null,
           "width": 1600,
           "height": 1600
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_24_013_1_1600x_c28a2b25-875b-40f7-9259-8e2a55d8e4a7.webp?v=1710077111",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB901b_1600x_6c23531d-a9d8-499c-8774-d8323e7c655a.webp?v=1710077110",
           "alt": null,
           "width": 1600,
           "height": 1600
@@ -27472,7 +27629,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-10T14:19:54+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:16:18+01:00",
       "available": true,
       "price_min": 695,
@@ -27509,13 +27666,13 @@
           "height": 1600
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB902b_1600x_047e24cb-a880-4338-834b-c8faa6991144.webp?v=1710076872",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_24_017_1_1600x_f2c18293-b3f1-4896-8446-7295df32845f.webp?v=1710076871",
           "alt": null,
           "width": 1600,
           "height": 1600
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Haas_Hero_24_017_1_1600x_f2c18293-b3f1-4896-8446-7295df32845f.webp?v=1710076871",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB902b_1600x_047e24cb-a880-4338-834b-c8faa6991144.webp?v=1710076872",
           "alt": null,
           "width": 1600,
           "height": 1600
@@ -27549,7 +27706,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-10T14:15:26+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:16:18+01:00",
       "available": true,
       "price_min": 1500,
@@ -27586,6 +27743,18 @@
           "height": 1600
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas2_11_0512_1600x_86af6813-ecc5-4b40-aeaf-9b41ca449f6d.webp?v=1710076584",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas2_11_0519_sb2_cr02_1600x_b54910b3-3c89-4d54-b80a-8f1fcf8b215a.webp?v=1710076583",
+          "alt": null,
+          "width": 1600,
+          "height": 1600
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/HB931c_1600x_81ae9e94-81b5-46a6-9950-f9d7e78da058.webp?v=1710076584",
           "alt": null,
           "width": 1600,
@@ -27599,18 +27768,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas2_11_0501_sb_1600x_303ec971-c148-4c1a-bc5f-01c6a5a3cb07.webp?v=1710076583",
-          "alt": null,
-          "width": 1600,
-          "height": 1600
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas2_11_0512_1600x_86af6813-ecc5-4b40-aeaf-9b41ca449f6d.webp?v=1710076584",
-          "alt": null,
-          "width": 1600,
-          "height": 1600
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/haas2_11_0519_sb2_cr02_1600x_b54910b3-3c89-4d54-b80a-8f1fcf8b215a.webp?v=1710076583",
           "alt": null,
           "width": 1600,
           "height": 1600
@@ -27632,7 +27789,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-10T14:11:50+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:16:18+01:00",
       "available": true,
       "price_min": 995,
@@ -27702,7 +27859,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-09T16:10:04+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:11:00+01:00",
       "available": true,
       "price_min": 357,
@@ -27786,7 +27943,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-09T15:59:22+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T13:40:13+01:00",
       "available": true,
       "price_min": 841,
@@ -27864,7 +28021,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-09T15:56:01+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:14:16+01:00",
       "available": true,
       "price_min": 179,
@@ -27942,7 +28099,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-09T15:33:19+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:14:37+01:00",
       "available": true,
       "price_min": 179,
@@ -28015,7 +28172,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-09T15:26:58+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:05:33+01:00",
       "available": true,
       "price_min": 103,
@@ -28081,7 +28238,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-03-05T16:37:06+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-20T14:47:33+02:00",
       "available": true,
       "price_min": 150,
@@ -28144,7 +28301,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-05T16:31:28+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-05T16:34:46+01:00",
       "available": true,
       "price_min": 4200,
@@ -28213,7 +28370,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-05T16:28:41+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T15:02:13+01:00",
       "available": true,
       "price_min": 3200,
@@ -28283,7 +28440,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-04T15:51:13+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-04T15:52:55+01:00",
       "available": true,
       "price_min": 990,
@@ -28350,7 +28507,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T12:59:49+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-20T14:38:40+02:00",
       "available": true,
       "price_min": 320,
@@ -28417,7 +28574,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T12:53:05+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-04T12:56:58+01:00",
       "available": true,
       "price_min": 420,
@@ -28484,7 +28641,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T12:40:25+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-04T12:47:33+01:00",
       "available": true,
       "price_min": 510,
@@ -28551,7 +28708,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-04T12:22:23+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-04T12:37:56+01:00",
       "available": true,
       "price_min": 350,
@@ -28615,7 +28772,7 @@
         "DINNERWARE"
       ],
       "created_at": "2024-03-04T12:10:23+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-03T19:38:28+01:00",
       "available": true,
       "price_min": 220,
@@ -28682,7 +28839,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-04T10:45:29+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:05:51+01:00",
       "available": true,
       "price_min": 930,
@@ -28755,7 +28912,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-04T10:05:34+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:05:51+01:00",
       "available": true,
       "price_min": 320,
@@ -28825,7 +28982,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-03T16:33:26+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:09:21+01:00",
       "available": true,
       "price_min": 590,
@@ -28895,7 +29052,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-03T16:31:32+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:06:16+01:00",
       "available": true,
       "price_min": 780,
@@ -28965,7 +29122,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-03T16:29:15+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:09:44+01:00",
       "available": true,
       "price_min": 900,
@@ -29032,7 +29189,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-03T16:26:02+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:08:41+01:00",
       "available": true,
       "price_min": 480,
@@ -29102,7 +29259,7 @@
         "X-Mas"
       ],
       "created_at": "2024-03-03T16:23:54+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:10:28+01:00",
       "available": true,
       "price_min": 920,
@@ -29169,7 +29326,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T15:34:36+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-03-03T15:41:25+01:00",
       "available": true,
       "price_min": 290,
@@ -29233,7 +29390,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T17:14:10+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T12:05:03+01:00",
       "available": true,
       "price_min": 1780,
@@ -29300,7 +29457,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-28T17:09:14+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-03-04T14:05:51+01:00",
       "available": true,
       "price_min": 780,
@@ -29369,7 +29526,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-28T15:51:17+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-21T14:32:19+02:00",
       "available": true,
       "price_min": 1160,
@@ -29441,7 +29598,7 @@
         "HOME ACCESSORIES"
       ],
       "created_at": "2024-02-28T13:25:48+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:31:02+01:00",
       "available": true,
       "price_min": 61,
@@ -29500,7 +29657,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-24T17:34:53+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-20T11:34:02+01:00",
       "available": true,
       "price_min": 425,
@@ -29566,7 +29723,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-24T16:33:44+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-20T14:26:31+02:00",
       "available": true,
       "price_min": 390,
@@ -29627,7 +29784,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-24T16:30:40+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-02-24T16:32:46+01:00",
       "available": true,
       "price_min": 290,
@@ -29688,7 +29845,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-24T15:56:46+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-02-24T15:58:35+01:00",
       "available": true,
       "price_min": 260,
@@ -29749,7 +29906,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-02-24T15:42:43+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-02-24T15:42:43+01:00",
       "available": true,
       "price_min": 430,
@@ -29813,7 +29970,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-24T14:08:07+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-06-20T14:35:59+02:00",
       "available": true,
       "price_min": 950,
@@ -29877,7 +30034,7 @@
         "X-Mas"
       ],
       "created_at": "2024-02-24T14:06:37+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2024-02-24T14:06:37+01:00",
       "available": true,
       "price_min": 990,
@@ -29945,7 +30102,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-23T16:17:45+01:00",
-      "updated_at": "2026-05-22T17:58:53+02:00",
+      "updated_at": "2026-05-25T21:06:38+02:00",
       "published_at": "2025-01-11T14:18:05+01:00",
       "available": true,
       "price_min": 103,

@@ -8,17 +8,6 @@ use App\Services\CategoryBannerSync;
 
 final class LandingCollectionsBuilder
 {
-    /**
-     * Curated storefront categories for the home page grid (correct DB handles).
-     * Visual assets are kept from the original landing design.
-     *
-     * @var list<array{
-     *     handle: string,
-     *     label: string,
-     *     image: string,
-     *     alt: string,
-     * }>
-     */
     private const CURATED = [
         [
             'handle' => 'decor-accessories',
@@ -29,19 +18,19 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'home-fragrance',
             'label' => 'Home Fragrances',
-            'image' => '/assets/images/Baobab Rainforest Amazonia max 10.jpg',
+            'image' => '/assets/images/Baobab collection Gentlemen max16.jpg',
             'alt' => 'Luxury candles and home fragrance collection',
         ],
         [
-            'handle' => 'objects',
-            'label' => 'Home Accessories',
-            'image' => '/assets/images/Globo tray 2.jpg',
-            'alt' => 'Decorative bowls, trays, cushions, and accessories',
+            'handle' => 'coffee-table-books-1',
+            'label' => 'Books',
+            'image' => '/assets/images/Book-1.jpg',
+            'alt' => 'Coffee table books — design, travel, art, and luxury editions',
         ],
         [
             'handle' => 'furniture',
             'label' => 'Furniture',
-            'image' => '/assets/images/Trolley Bellini.jpg',
+            'image' => '/assets/images/banners/RNI-Films-IMG-A063D280-72CF-4163-B202-E9F064D4A550.jpg',
             'alt' => 'Designer furniture including sofas, tables, and storage',
         ],
         [
@@ -50,12 +39,6 @@ final class LandingCollectionsBuilder
             'image' => '/assets/images/Golden Chandelier-1.jpg',
             'alt' => 'Statement lighting including chandeliers and floor lamps',
         ],
-        // [
-        //     'handle' => 'flowers-vases',
-        //     'label' => 'Flowers & Vases',
-        //     'image' => '/assets/images/banners/RNI-Films-IMG-17222E29-7C9D-4AA4-B607-37D6B87427D0.JPG',
-        //     'alt' => 'Floral arrangements, vases, and botanical decor',
-        // ],
     ];
 
     public function __construct(
@@ -63,16 +46,6 @@ final class LandingCollectionsBuilder
         private CategoryBannerSync $categoryBanner,
     ) {}
 
-    /**
-     * @return list<array{
-     *     id: string,
-     *     name: string,
-     *     slug: string,
-     *     image: string,
-     *     alt: string,
-     *     productCount: int,
-     * }>
-     */
     public function build(): array
     {
         $categories = Category::query()

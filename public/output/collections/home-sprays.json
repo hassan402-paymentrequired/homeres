@@ -1,8 +1,9 @@
 {
   "handle": "home-sprays",
-  "label": "Room Sprays",
+  "label": "ROOM SPRAYS",
   "url": "https://arowonen.com/collections/home-sprays",
-  "scraped_at": "2026-05-22T15:59:00.732Z",
+  "scraped_at": "2026-05-25T19:09:49.617Z",
+  "shopify_product_count": 47,
   "product_count": 45,
   "products": [
     {
@@ -19,7 +20,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:10:42+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:11:02+02:00",
       "available": true,
       "price_min": 36,
@@ -73,7 +74,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:41:12+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:36+02:00",
       "available": true,
       "price_min": 38,
@@ -126,7 +127,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-17T17:38:45+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:35:36+02:00",
       "available": true,
       "price_min": 54,
@@ -185,7 +186,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:27:11+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:28:02+02:00",
       "available": true,
       "price_min": 38,
@@ -239,7 +240,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T13:59:40+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:00:53+02:00",
       "available": true,
       "price_min": 54,
@@ -293,7 +294,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T13:49:30+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T13:49:30+02:00",
       "available": true,
       "price_min": 38,
@@ -345,7 +346,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-11-23T13:09:28+01:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-11-23T13:10:32+01:00",
       "available": true,
       "price_min": 47,
@@ -397,7 +398,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-11-23T13:07:58+01:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-11-23T13:08:00+01:00",
       "available": true,
       "price_min": 47,
@@ -452,7 +453,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T16:14:27+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-09-05T16:32:44+02:00",
       "available": true,
       "price_min": 250,
@@ -531,7 +532,7 @@
         "TOTEMS & DIFFUSERS"
       ],
       "created_at": "2025-09-01T14:22:31+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-09-05T16:32:30+02:00",
       "available": true,
       "price_min": 210,
@@ -603,7 +604,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T17:00:24+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:44+02:00",
       "available": true,
       "price_min": 54,
@@ -657,7 +658,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:56:20+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:41+02:00",
       "available": true,
       "price_min": 38,
@@ -711,7 +712,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:27:59+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:31+02:00",
       "available": true,
       "price_min": 38,
@@ -765,7 +766,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:22:26+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:28+02:00",
       "available": true,
       "price_min": 38,
@@ -819,7 +820,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:18:41+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:26+02:00",
       "available": true,
       "price_min": 54,
@@ -873,7 +874,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T16:08:56+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:23+02:00",
       "available": true,
       "price_min": 54,
@@ -927,7 +928,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-19T13:01:35+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:40:16+02:00",
       "available": true,
       "price_min": 54,
@@ -980,7 +981,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-08-17T16:53:35+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-08-26T13:33:33+02:00",
       "available": true,
       "price_min": 38,
@@ -1033,7 +1034,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:28:22+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:29:14+02:00",
       "available": true,
       "price_min": 38,
@@ -1086,7 +1087,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:25:28+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:26:48+02:00",
       "available": true,
       "price_min": 38,
@@ -1139,7 +1140,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:13:10+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:24:03+02:00",
       "available": true,
       "price_min": 38,
@@ -1192,7 +1193,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:10:54+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:11:38+02:00",
       "available": true,
       "price_min": 38,
@@ -1245,7 +1246,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T18:08:57+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T18:10:22+02:00",
       "available": true,
       "price_min": 38,
@@ -1298,7 +1299,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T16:58:59+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T17:00:00+02:00",
       "available": true,
       "price_min": 38,
@@ -1351,7 +1352,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T16:56:43+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T16:58:21+02:00",
       "available": true,
       "price_min": 38,
@@ -1404,7 +1405,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T16:53:29+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T16:55:44+02:00",
       "available": true,
       "price_min": 38,
@@ -1457,7 +1458,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-26T16:51:39+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-26T16:52:51+02:00",
       "available": true,
       "price_min": 38,
@@ -1510,7 +1511,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-24T14:13:16+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-24T14:14:21+02:00",
       "available": true,
       "price_min": 38,
@@ -1563,7 +1564,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-24T12:36:57+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-24T12:38:03+02:00",
       "available": true,
       "price_min": 38,
@@ -1616,7 +1617,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-24T11:27:42+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-24T11:28:44+02:00",
       "available": true,
       "price_min": 38,
@@ -1670,7 +1671,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:11:46+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:12:13+02:00",
       "available": true,
       "price_min": 54,
@@ -1724,7 +1725,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:09:11+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:10:04+02:00",
       "available": true,
       "price_min": 38,
@@ -1778,7 +1779,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:07:29+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:07:57+02:00",
       "available": true,
       "price_min": 38,
@@ -1832,7 +1833,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:05:51+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:07:06+02:00",
       "available": true,
       "price_min": 38,
@@ -1887,7 +1888,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:27:38+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:28:24+02:00",
       "available": true,
       "price_min": 54,
@@ -1942,7 +1943,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:14:07+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:18:31+02:00",
       "available": true,
       "price_min": 54,
@@ -1996,7 +1997,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:12:41+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:13:07+02:00",
       "available": true,
       "price_min": 36,
@@ -2050,7 +2051,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:07:44+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:08:47+02:00",
       "available": true,
       "price_min": 38,
@@ -2105,7 +2106,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:05:29+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:06:27+02:00",
       "available": true,
       "price_min": 38,
@@ -2159,7 +2160,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:03:27+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:04:52+02:00",
       "available": true,
       "price_min": 38,
@@ -2213,7 +2214,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T14:01:40+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T14:02:30+02:00",
       "available": true,
       "price_min": 38,
@@ -2267,7 +2268,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T13:56:29+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T13:57:13+02:00",
       "available": true,
       "price_min": 38,
@@ -2321,7 +2322,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2024-06-28T15:12:52+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2024-06-28T15:13:23+02:00",
       "available": true,
       "price_min": 38,
@@ -2374,7 +2375,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-24T11:18:07+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-24T11:20:45+02:00",
       "available": true,
       "price_min": 38,
@@ -2427,7 +2428,7 @@
         "ROOM SPRAYS"
       ],
       "created_at": "2025-05-24T11:05:50+02:00",
-      "updated_at": "2026-05-22T17:59:00+02:00",
+      "updated_at": "2026-05-25T21:09:49+02:00",
       "published_at": "2025-05-24T11:16:22+02:00",
       "available": true,
       "price_min": 38,

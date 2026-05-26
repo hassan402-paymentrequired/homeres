@@ -1,0 +1,83 @@
+{
+  "handle": "ron-simpson",
+  "label": "RON SIMPSON",
+  "url": "https://arowonen.com/collections/ron-simpson",
+  "scraped_at": "2026-05-25T19:09:48.163Z",
+  "shopify_product_count": 1,
+  "product_count": 1,
+  "products": [
+    {
+      "id": 8879768011084,
+      "title": "Black Transparent Speaker",
+      "handle": "transparent-speaker-black",
+      "url": "https://arowonen.com/products/transparent-speaker-black",
+      "vendor": "TRANSPARENT",
+      "product_type": "",
+      "tags": [
+        "HOME ACCESSORIES",
+        "just dropped in",
+        "Just launched in the online store",
+        "OBJECTS",
+        "STATEMENT ITEMS & SCULPTURES"
+      ],
+      "created_at": "2024-02-26T12:48:38+01:00",
+      "updated_at": "2026-05-25T21:09:48+02:00",
+      "published_at": "2024-02-26T13:01:08+01:00",
+      "available": true,
+      "price_min": 1100,
+      "price_max": 1100,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47744426934604,
+          "title": "Default Title",
+          "sku": "",
+          "price": "1100.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Front-01_w1000.webp?v=1708948670",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Left-01_w1000.webp?v=1708948672",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Rear-01_w1000.webp?v=1708948673",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Accessories-01_w1000.webp?v=1708948674",
+          "alt": null,
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/TS-B-Front-01_w1000.webp?v=1708948670",
+      "description_html": "<div>The Transparent Speaker, a revolutionary speaker that offers a truly transparent sound experience. Designed with simplicity and elegance in mind, this speaker features a unique transparent design that blends seamlessly into any room while providing an unmatched audio experience. Made with aluminium and tempered glass, this 11 kg speaker is a statement piece that commands attention in any home.<br>\n</div>\n<div>\n<div>\n<div>\n<p><br></p>\n</div>\n</div>\n</div>\n<div>\n<div>\n<strong>CONNECTIVITY</strong>\n<div>- The Transparent Speaker comes with Bluetooth 5.0 connection<br>- Connect two speakers using True wireless and play both simultaneously<br>- Connect multiple devices with the Wi-Fi Module.</div>\n<div>\n<strong>DESIGN</strong><br>\n</div>\n</div>\n<div>- Dimensions:</div>\n</div>\n<div>\n<div>Height: 33,3 cm / 13 in<br>Width: 43,1 cm / 16.9 in<br>Depth: 11,8 cm / 4.6 in<br>- Weight: 11 kg<br>- Materials: Aluminium and tempered glass<br>- Color: Black<br>- Front Controls: Volume, bass and treble<br>- Line in: 2 x 3,5mm (front and back)</div>\n<div>\n<strong>SOUND</strong>\n<div>- L/R Drivers: 2 × 3’’ (Full Range)<br>- Woofer: 1 × 6.5’’<br>- Amplifier: Class D built-in (active)<br>- Rated power: 100-120W<br>- Sealed Cabinet Volume: 10,2 l<br>- Frequency Response: 35 Hz - 20 kHz ±5dB<br>- High Quality Digital Signal Processing (DSP)<br>- Recommended room size: ≈ 70 kvm</div>\n<div class=\"content\">\n<div>\n<strong>WHAT'S IN THE BOX?</strong>\n<div>- White cotton gloves<br>- Long and short audio cables<br>- Power cables (mains and USB)<br>- Wall Mount: Brackets and screws included<br>- User manual</div>\n</div>\n<div class=\"collapsed-block grid-interactive\"><br></div>\n</div>\n</div>\n</div>"
+    }
+  ]
+}

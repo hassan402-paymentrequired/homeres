@@ -1,8 +1,9 @@
 {
   "handle": "outdoor-sofas-daybeds",
-  "label": "Outdoor Sofas",
+  "label": "OUTDOOR SOFAS | DAYBEDS",
   "url": "https://arowonen.com/collections/outdoor-sofas-daybeds",
-  "scraped_at": "2026-05-22T15:59:20.263Z",
+  "scraped_at": "2026-05-25T19:09:36.772Z",
+  "shopify_product_count": 42,
   "product_count": 27,
   "products": [
     {
@@ -18,7 +19,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2026-04-28T16:20:18+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2026-05-01T19:57:20+02:00",
       "available": true,
       "price_min": 3495,
@@ -107,7 +108,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2026-04-28T14:38:34+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2026-05-01T19:57:11+02:00",
       "available": true,
       "price_min": 2995,
@@ -193,7 +194,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2026-02-07T19:04:34+01:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2026-02-08T13:56:09+01:00",
       "available": true,
       "price_min": 6995,
@@ -290,7 +291,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2025-10-05T15:08:41+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-10-18T10:49:24+02:00",
       "available": true,
       "price_min": 4495,
@@ -393,7 +394,7 @@
         "Paola Navone"
       ],
       "created_at": "2025-08-06T11:53:56+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T15:48:21+02:00",
       "available": true,
       "price_min": 0,
@@ -472,7 +473,7 @@
         "Paola Navone"
       ],
       "created_at": "2025-08-06T11:48:47+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T15:47:44+02:00",
       "available": true,
       "price_min": 0,
@@ -526,7 +527,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2025-08-06T15:44:21+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T16:56:12+02:00",
       "available": true,
       "price_min": 0,
@@ -601,7 +602,7 @@
         "Studiopepe"
       ],
       "created_at": "2025-08-05T19:06:05+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T15:41:10+02:00",
       "available": true,
       "price_min": 0,
@@ -675,7 +676,7 @@
         "OUTDOOR SUNBEDS"
       ],
       "created_at": "2025-08-06T14:37:54+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T16:55:57+02:00",
       "available": true,
       "price_min": 0,
@@ -731,7 +732,7 @@
         "Roberto Lazzeroni"
       ],
       "created_at": "2025-08-04T15:55:06+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T13:29:31+02:00",
       "available": true,
       "price_min": 0,
@@ -797,7 +798,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2025-08-04T12:23:11+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T12:47:30+02:00",
       "available": true,
       "price_min": 0,
@@ -870,7 +871,7 @@
         "Studiopepe"
       ],
       "created_at": "2025-08-06T11:11:50+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T15:41:40+02:00",
       "available": true,
       "price_min": 0,
@@ -962,7 +963,7 @@
         "Paola Navone"
       ],
       "created_at": "2025-08-04T11:22:34+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T16:43:38+02:00",
       "available": true,
       "price_min": 0,
@@ -1054,7 +1055,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-04T11:17:31+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T16:28:49+02:00",
       "available": true,
       "price_min": 0,
@@ -1145,7 +1146,7 @@
         "Paola Navone"
       ],
       "created_at": "2025-08-03T13:37:44+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T13:49:00+02:00",
       "available": true,
       "price_min": 0,
@@ -1230,7 +1231,7 @@
         "Paola Navone"
       ],
       "created_at": "2025-08-03T13:33:49+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T13:47:07+02:00",
       "available": true,
       "price_min": 0,
@@ -1308,7 +1309,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-05T11:44:39+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T12:13:28+02:00",
       "available": true,
       "price_min": 2150,
@@ -1399,7 +1400,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-05T11:37:01+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T12:12:18+02:00",
       "available": true,
       "price_min": 3110,
@@ -1490,7 +1491,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-05T11:30:41+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T12:10:32+02:00",
       "available": true,
       "price_min": 0,
@@ -1562,7 +1563,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-05T11:06:13+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T12:03:46+02:00",
       "available": true,
       "price_min": 0,
@@ -1675,7 +1676,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T12:10:03+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T11:52:57+02:00",
       "available": true,
       "price_min": 0,
@@ -1736,7 +1737,7 @@
         "Roberto Lazzeroni"
       ],
       "created_at": "2025-08-04T17:00:31+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T13:30:29+02:00",
       "available": true,
       "price_min": 0,
@@ -1838,7 +1839,7 @@
         "Outdoor sofa"
       ],
       "created_at": "2025-08-04T14:09:44+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-06T13:21:26+02:00",
       "available": true,
       "price_min": 0,
@@ -1923,7 +1924,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T09:58:53+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T11:34:11+02:00",
       "available": true,
       "price_min": 0,
@@ -2002,7 +2003,7 @@
         "Yabu Pushelberg"
       ],
       "created_at": "2025-08-04T09:52:33+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T11:33:58+02:00",
       "available": true,
       "price_min": 0,
@@ -2135,7 +2136,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T09:45:11+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T11:33:10+02:00",
       "available": true,
       "price_min": 0,
@@ -2226,7 +2227,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T09:26:36+02:00",
-      "updated_at": "2026-05-22T17:59:20+02:00",
+      "updated_at": "2026-05-25T21:09:32+02:00",
       "published_at": "2025-08-05T11:32:41+02:00",
       "available": true,
       "price_min": 0,

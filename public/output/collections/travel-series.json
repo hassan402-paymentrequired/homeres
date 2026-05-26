@@ -1,8 +1,9 @@
 {
   "handle": "travel-series",
-  "label": "The Travel Series",
+  "label": "THE TRAVEL SERIES",
   "url": "https://arowonen.com/collections/travel-series",
-  "scraped_at": "2026-05-22T15:58:18.142Z",
+  "scraped_at": "2026-05-25T19:10:08.326Z",
+  "shopify_product_count": 63,
   "product_count": 61,
   "products": [
     {
@@ -20,7 +21,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2026-04-10T16:39:04+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2026-04-10T16:41:21+02:00",
       "available": true,
       "price_min": 105,
@@ -141,7 +142,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-12-15T17:09:34+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-12-15T17:32:52+01:00",
       "available": true,
       "price_min": 105,
@@ -274,7 +275,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-12-15T16:48:44+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-12-15T16:54:54+01:00",
       "available": true,
       "price_min": 105,
@@ -393,7 +394,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-09-18T13:01:44+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-09-21T13:12:42+02:00",
       "available": true,
       "price_min": 105,
@@ -507,7 +508,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-08-24T14:35:53+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-08-26T17:41:57+02:00",
       "available": true,
       "price_min": 105,
@@ -640,7 +641,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-07-04T16:19:34+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-07-04T16:22:08+02:00",
       "available": true,
       "price_min": 105,
@@ -749,7 +750,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-06-16T13:14:16+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-06-16T13:15:56+02:00",
       "available": true,
       "price_min": 105,
@@ -864,7 +865,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-06-12T15:03:03+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-06-12T15:07:42+02:00",
       "available": true,
       "price_min": 105,
@@ -997,7 +998,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-05-06T15:22:27+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-05-06T15:24:43+02:00",
       "available": true,
       "price_min": 105,
@@ -1112,7 +1113,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2025-01-24T17:03:00+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-24T17:05:41+01:00",
       "available": true,
       "price_min": 105,
@@ -1251,7 +1252,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-12-26T15:51:01+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-12-26T15:55:16+01:00",
       "available": true,
       "price_min": 105,
@@ -1366,7 +1367,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-12-26T15:47:24+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-12-26T15:49:43+01:00",
       "available": true,
       "price_min": 105,
@@ -1481,7 +1482,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-11-19T16:33:32+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-11-19T16:35:38+01:00",
       "available": true,
       "price_min": 105,
@@ -1590,7 +1591,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-11-03T15:51:54+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-11-03T15:53:58+01:00",
       "available": true,
       "price_min": 105,
@@ -1710,7 +1711,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-08-14T11:24:00+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-08-14T11:28:57+02:00",
       "available": true,
       "price_min": 105,
@@ -1824,7 +1825,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-05-24T17:21:27+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-05-17T12:20:27+02:00",
       "available": true,
       "price_min": 105,
@@ -1968,7 +1969,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-05-10T19:18:29+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-05-10T19:22:52+02:00",
       "available": true,
       "price_min": 105,
@@ -2088,7 +2089,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-05-10T11:04:33+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-05-10T11:09:12+02:00",
       "available": true,
       "price_min": 105,
@@ -2304,7 +2305,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-04-02T14:59:53+02:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-04-02T15:02:37+02:00",
       "available": true,
       "price_min": 105,
@@ -2442,7 +2443,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-03-29T12:35:38+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-03-29T12:41:31+01:00",
       "available": true,
       "price_min": 105,
@@ -2562,7 +2563,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T13:01:39+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T13:07:43+01:00",
       "available": true,
       "price_min": 105,
@@ -2688,7 +2689,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T12:52:41+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T13:01:05+01:00",
       "available": true,
       "price_min": 105,
@@ -2814,7 +2815,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T12:38:44+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T12:46:37+01:00",
       "available": true,
       "price_min": 105,
@@ -2940,7 +2941,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T12:29:57+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-03T20:22:06+01:00",
       "available": true,
       "price_min": 105,
@@ -3072,7 +3073,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T12:22:07+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:29:17+01:00",
       "available": true,
       "price_min": 105,
@@ -3180,7 +3181,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T12:13:01+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:57+01:00",
       "available": true,
       "price_min": 105,
@@ -3312,7 +3313,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T11:50:01+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T11:59:53+01:00",
       "available": true,
       "price_min": 105,
@@ -3438,7 +3439,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T11:42:28+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:55+01:00",
       "available": true,
       "price_min": 105,
@@ -3606,7 +3607,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T11:33:51+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:55+01:00",
       "available": true,
       "price_min": 105,
@@ -3757,7 +3758,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T11:24:58+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T11:32:17+01:00",
       "available": true,
       "price_min": 105,
@@ -3901,7 +3902,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T11:16:56+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T11:24:25+01:00",
       "available": true,
       "price_min": 105,
@@ -4033,7 +4034,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:57:32+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T11:09:16+01:00",
       "available": true,
       "price_min": 105,
@@ -4165,7 +4166,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:56:49+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:59:28+01:00",
       "available": true,
       "price_min": 105,
@@ -4303,7 +4304,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:52:38+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:56:16+01:00",
       "available": true,
       "price_min": 105,
@@ -4447,7 +4448,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:48:24+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:51:12+01:00",
       "available": true,
       "price_min": 105,
@@ -4579,7 +4580,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:45:19+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:47:50+01:00",
       "available": true,
       "price_min": 105,
@@ -4699,7 +4700,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:41:05+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:44:44+01:00",
       "available": true,
       "price_min": 105,
@@ -4831,7 +4832,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:37:00+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:40:33+01:00",
       "available": true,
       "price_min": 105,
@@ -4963,7 +4964,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:33:35+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:36:10+01:00",
       "available": true,
       "price_min": 105,
@@ -5071,7 +5072,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:32:06+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:56:58+01:00",
       "available": true,
       "price_min": 105,
@@ -5197,7 +5198,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:14:29+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-23T10:32:50+01:00",
       "available": true,
       "price_min": 105,
@@ -5335,7 +5336,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-23T10:08:35+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:48+01:00",
       "available": true,
       "price_min": 105,
@@ -5467,7 +5468,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:42:22+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T22:46:59+01:00",
       "available": true,
       "price_min": 105,
@@ -5599,7 +5600,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:37:59+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:48+01:00",
       "available": true,
       "price_min": 105,
@@ -5731,7 +5732,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:24:24+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T22:26:54+01:00",
       "available": true,
       "price_min": 105,
@@ -5863,7 +5864,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:18:15+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T22:22:53+01:00",
       "available": true,
       "price_min": 105,
@@ -6013,7 +6014,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:10:25+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:17:46+01:00",
       "available": true,
       "price_min": 105,
@@ -6139,7 +6140,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T22:04:33+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T22:08:49+01:00",
       "available": true,
       "price_min": 105,
@@ -6259,7 +6260,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:56:43+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T22:01:48+01:00",
       "available": true,
       "price_min": 105,
@@ -6385,7 +6386,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:47:57+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:07:23+01:00",
       "available": true,
       "price_min": 105,
@@ -6511,7 +6512,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:41:04+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T21:45:56+01:00",
       "available": true,
       "price_min": 105,
@@ -6643,7 +6644,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:36:18+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T21:38:59+01:00",
       "available": true,
       "price_min": 105,
@@ -6775,7 +6776,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:25:02+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T21:31:03+01:00",
       "available": true,
       "price_min": 105,
@@ -6914,7 +6915,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:16:36+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T21:21:57+01:00",
       "available": true,
       "price_min": 105,
@@ -7046,7 +7047,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T21:08:56+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:29:11+01:00",
       "available": true,
       "price_min": 105,
@@ -7178,7 +7179,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T20:57:24+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T21:06:58+01:00",
       "available": true,
       "price_min": 105,
@@ -7334,7 +7335,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T17:22:25+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2025-01-25T10:29:11+01:00",
       "available": true,
       "price_min": 105,
@@ -7472,7 +7473,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T16:53:40+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T17:03:20+01:00",
       "available": true,
       "price_min": 105,
@@ -7598,7 +7599,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T16:33:15+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T16:48:30+01:00",
       "available": true,
       "price_min": 105,
@@ -7730,7 +7731,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T16:01:39+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T16:04:11+01:00",
       "available": true,
       "price_min": 105,
@@ -7856,7 +7857,7 @@
         "THE TRAVEL SERIES"
       ],
       "created_at": "2024-02-22T14:49:47+01:00",
-      "updated_at": "2026-05-22T17:58:18+02:00",
+      "updated_at": "2026-05-25T21:10:08+02:00",
       "published_at": "2024-02-22T14:49:47+01:00",
       "available": true,
       "price_min": 105,

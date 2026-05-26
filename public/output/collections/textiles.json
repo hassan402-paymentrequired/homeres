@@ -1,8 +1,9 @@
 {
   "handle": "textiles",
-  "label": "Cushions & Home Textiles (All)",
+  "label": "CUSHIONS & HOME TEXTILES",
   "url": "https://arowonen.com/collections/textiles",
-  "scraped_at": "2026-05-22T15:58:37.096Z",
+  "scraped_at": "2026-05-25T19:06:20.026Z",
+  "shopify_product_count": 369,
   "product_count": 226,
   "products": [
     {
@@ -23,7 +24,7 @@
         "X-Mas"
       ],
       "created_at": "2026-05-06T12:23:01+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-05-06T12:28:31+02:00",
       "available": true,
       "price_min": 59,
@@ -141,7 +142,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T15:17:02+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:19:43+02:00",
       "available": true,
       "price_min": 69,
@@ -259,7 +260,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:58:11+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-05-06T12:27:50+02:00",
       "available": true,
       "price_min": 69,
@@ -377,7 +378,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:54:52+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:11:55+02:00",
       "available": true,
       "price_min": 69,
@@ -495,7 +496,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:50:03+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:11:20+02:00",
       "available": true,
       "price_min": 69,
@@ -613,7 +614,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:47:10+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-05-06T12:26:20+02:00",
       "available": true,
       "price_min": 69,
@@ -737,7 +738,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:45:04+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:10:00+02:00",
       "available": true,
       "price_min": 69,
@@ -855,7 +856,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:41:39+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:09:34+02:00",
       "available": true,
       "price_min": 59,
@@ -973,7 +974,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:23:02+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:08:59+02:00",
       "available": true,
       "price_min": 69,
@@ -1097,7 +1098,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:15:45+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-28T11:09:25+02:00",
       "available": true,
       "price_min": 59,
@@ -1215,7 +1216,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:11:06+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:07:34+02:00",
       "available": true,
       "price_min": 59,
@@ -1333,7 +1334,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T14:06:55+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-05-06T12:14:04+02:00",
       "available": true,
       "price_min": 69,
@@ -1457,7 +1458,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T13:27:56+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-05-06T12:11:37+02:00",
       "available": true,
       "price_min": 59,
@@ -1575,7 +1576,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T13:00:20+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:05:50+02:00",
       "available": true,
       "price_min": 69,
@@ -1693,7 +1694,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T12:47:43+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:04:00+02:00",
       "available": true,
       "price_min": 69,
@@ -1811,7 +1812,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T12:43:06+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:03:22+02:00",
       "available": true,
       "price_min": 89,
@@ -1935,7 +1936,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-22T12:38:34+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T15:02:34+02:00",
       "available": true,
       "price_min": 69,
@@ -2053,7 +2054,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T16:50:49+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:34:43+02:00",
       "available": true,
       "price_min": 69,
@@ -2171,7 +2172,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T16:46:48+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:34:24+02:00",
       "available": true,
       "price_min": 69,
@@ -2289,7 +2290,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T16:14:00+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:34:08+02:00",
       "available": true,
       "price_min": 69,
@@ -2407,7 +2408,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T16:04:36+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:33:53+02:00",
       "available": true,
       "price_min": 59,
@@ -2525,7 +2526,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T15:49:52+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:33:35+02:00",
       "available": true,
       "price_min": 69,
@@ -2643,7 +2644,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T15:45:33+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:33:14+02:00",
       "available": true,
       "price_min": 69,
@@ -2761,7 +2762,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T15:40:15+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:32:58+02:00",
       "available": true,
       "price_min": 59,
@@ -2879,7 +2880,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T15:31:34+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:32:14+02:00",
       "available": true,
       "price_min": 69,
@@ -2997,7 +2998,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T15:20:07+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:31:56+02:00",
       "available": true,
       "price_min": 69,
@@ -3115,7 +3116,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T14:47:57+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-22T14:21:28+02:00",
       "available": true,
       "price_min": 69,
@@ -3233,7 +3234,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T14:43:25+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:31:17+02:00",
       "available": true,
       "price_min": 69,
@@ -3351,7 +3352,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T13:49:30+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:30:28+02:00",
       "available": true,
       "price_min": 89,
@@ -3469,7 +3470,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T13:32:42+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:29:53+02:00",
       "available": true,
       "price_min": 69,
@@ -3587,7 +3588,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T12:48:20+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:29:32+02:00",
       "available": true,
       "price_min": 69,
@@ -3705,7 +3706,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T12:41:30+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:29:12+02:00",
       "available": true,
       "price_min": 79,
@@ -3823,7 +3824,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T12:18:23+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:28:54+02:00",
       "available": true,
       "price_min": 89,
@@ -3941,7 +3942,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T12:07:27+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:28:33+02:00",
       "available": true,
       "price_min": 59,
@@ -4059,7 +4060,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T11:30:44+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:40:47+02:00",
       "available": true,
       "price_min": 89,
@@ -4177,7 +4178,7 @@
         "X-Mas"
       ],
       "created_at": "2026-04-16T10:48:59+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2026-04-17T10:35:56+02:00",
       "available": true,
       "price_min": 69,
@@ -4291,7 +4292,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2025-12-20T17:02:47+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-12-20T17:02:48+01:00",
       "available": true,
       "price_min": 199,
@@ -4367,7 +4368,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-25T15:08:54+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-25T15:09:32+01:00",
       "available": true,
       "price_min": 69,
@@ -4491,7 +4492,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-25T15:05:37+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-25T15:06:04+01:00",
       "available": true,
       "price_min": 69,
@@ -4591,7 +4592,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-20T15:20:50+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-20T15:26:50+01:00",
       "available": true,
       "price_min": 59,
@@ -4712,7 +4713,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T17:44:57+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T17:46:01+01:00",
       "available": true,
       "price_min": 79,
@@ -4833,7 +4834,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T17:10:25+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T17:11:36+01:00",
       "available": true,
       "price_min": 89,
@@ -4960,7 +4961,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T16:58:59+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T17:00:14+01:00",
       "available": true,
       "price_min": 69,
@@ -5078,7 +5079,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-19T16:54:47+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:55:50+01:00",
       "available": true,
       "price_min": 89,
@@ -5199,7 +5200,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T16:45:52+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:48:02+01:00",
       "available": true,
       "price_min": 69,
@@ -5317,7 +5318,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-19T16:39:02+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:42:19+01:00",
       "available": true,
       "price_min": 59,
@@ -5438,7 +5439,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T16:33:15+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:35:58+01:00",
       "available": true,
       "price_min": 69,
@@ -5559,7 +5560,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T16:15:31+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:16:17+01:00",
       "available": true,
       "price_min": 79,
@@ -5692,7 +5693,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T16:09:07+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T16:11:13+01:00",
       "available": true,
       "price_min": 59,
@@ -5819,7 +5820,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:52:30+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:55:41+01:00",
       "available": true,
       "price_min": 69,
@@ -5934,7 +5935,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:49:07+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:50:10+01:00",
       "available": true,
       "price_min": 69,
@@ -6049,7 +6050,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:44:46+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:45:50+01:00",
       "available": true,
       "price_min": 59,
@@ -6176,7 +6177,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:37:05+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:38:08+01:00",
       "available": true,
       "price_min": 59,
@@ -6291,7 +6292,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:30:37+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:33:10+01:00",
       "available": true,
       "price_min": 59,
@@ -6409,7 +6410,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-19T15:26:26+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:28:38+01:00",
       "available": true,
       "price_min": 59,
@@ -6530,7 +6531,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:22:12+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:23:13+01:00",
       "available": true,
       "price_min": 69,
@@ -6645,7 +6646,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-19T15:12:55+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T15:20:37+01:00",
       "available": true,
       "price_min": 59,
@@ -6763,7 +6764,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-19T14:43:42+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-19T14:45:40+01:00",
       "available": true,
       "price_min": 59,
@@ -6884,7 +6885,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T16:24:08+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T16:25:00+01:00",
       "available": true,
       "price_min": 59,
@@ -7005,7 +7006,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T16:05:03+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T16:22:49+01:00",
       "available": true,
       "price_min": 69,
@@ -7105,7 +7106,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T16:02:40+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T16:03:31+01:00",
       "available": true,
       "price_min": 59,
@@ -7226,7 +7227,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:55:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:57:00+01:00",
       "available": true,
       "price_min": 59,
@@ -7341,7 +7342,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:51:34+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:52:50+01:00",
       "available": true,
       "price_min": 59,
@@ -7468,7 +7469,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:45:38+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:48:04+01:00",
       "available": true,
       "price_min": 79,
@@ -7583,7 +7584,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:34:13+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:35:44+01:00",
       "available": true,
       "price_min": 59,
@@ -7704,7 +7705,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:25:38+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:27:04+01:00",
       "available": true,
       "price_min": 59,
@@ -7817,7 +7818,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:19:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:20:16+01:00",
       "available": true,
       "price_min": 69,
@@ -7944,7 +7945,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T15:09:29+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:12:01+01:00",
       "available": true,
       "price_min": 79,
@@ -8044,7 +8045,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T15:04:07+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T15:06:28+01:00",
       "available": true,
       "price_min": 89,
@@ -8165,7 +8166,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T14:52:08+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T14:53:06+01:00",
       "available": true,
       "price_min": 59,
@@ -8286,7 +8287,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T14:21:21+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T14:25:05+01:00",
       "available": true,
       "price_min": 59,
@@ -8413,7 +8414,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T14:11:12+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T14:12:14+01:00",
       "available": true,
       "price_min": 79,
@@ -8486,7 +8487,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T13:41:26+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:42:08+01:00",
       "available": true,
       "price_min": 59,
@@ -8607,7 +8608,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T13:22:53+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:23:35+01:00",
       "available": true,
       "price_min": 59,
@@ -8731,7 +8732,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T13:18:41+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:20:25+01:00",
       "available": true,
       "price_min": 79,
@@ -8852,7 +8853,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T13:11:29+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:12:20+01:00",
       "available": true,
       "price_min": 49,
@@ -8976,7 +8977,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T13:06:00+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:07:57+01:00",
       "available": true,
       "price_min": 69,
@@ -9100,7 +9101,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T12:59:45+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T13:00:54+01:00",
       "available": true,
       "price_min": 49,
@@ -9221,7 +9222,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T12:53:19+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T12:54:32+01:00",
       "available": true,
       "price_min": 59,
@@ -9348,7 +9349,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-16T12:49:13+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T12:50:43+01:00",
       "available": true,
       "price_min": 79,
@@ -9472,7 +9473,7 @@
         "X-Mas"
       ],
       "created_at": "2025-11-16T12:41:56+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-11-16T12:42:29+01:00",
       "available": true,
       "price_min": 59,
@@ -9599,7 +9600,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-10-12T09:13:11+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-10-18T10:46:48+02:00",
       "available": true,
       "price_min": 195,
@@ -9678,7 +9679,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-10-12T09:07:37+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-10-18T10:46:46+02:00",
       "available": true,
       "price_min": 175,
@@ -9756,7 +9757,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:36:48+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:38:50+02:00",
       "available": true,
       "price_min": 95,
@@ -9816,7 +9817,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:34:58+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:38:33+02:00",
       "available": true,
       "price_min": 95,
@@ -9882,7 +9883,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:32:41+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:38:18+02:00",
       "available": true,
       "price_min": 95,
@@ -9948,7 +9949,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:27:52+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:37:17+02:00",
       "available": true,
       "price_min": 95,
@@ -10014,7 +10015,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:26:03+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:36:58+02:00",
       "available": true,
       "price_min": 95,
@@ -10074,7 +10075,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-23T12:21:05+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T13:35:40+02:00",
       "available": true,
       "price_min": 95,
@@ -10142,7 +10143,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-22T17:19:57+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T12:08:57+02:00",
       "available": true,
       "price_min": 145,
@@ -10222,7 +10223,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-22T17:15:15+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-27T12:06:20+02:00",
       "available": true,
       "price_min": 145,
@@ -10286,7 +10287,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T17:40:38+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:52:32+02:00",
       "available": true,
       "price_min": 151,
@@ -10344,7 +10345,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T17:03:19+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:50:04+02:00",
       "available": true,
       "price_min": 182,
@@ -10426,7 +10427,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T17:01:24+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:50:00+02:00",
       "available": true,
       "price_min": 182,
@@ -10508,7 +10509,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T16:06:08+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:58+02:00",
       "available": true,
       "price_min": 236,
@@ -10590,7 +10591,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T16:00:10+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:56+02:00",
       "available": true,
       "price_min": 212,
@@ -10672,7 +10673,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:58:09+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:53+02:00",
       "available": true,
       "price_min": 151,
@@ -10748,7 +10749,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:56:18+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:51+02:00",
       "available": true,
       "price_min": 236,
@@ -10812,7 +10813,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:53:16+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:48+02:00",
       "available": true,
       "price_min": 182,
@@ -10882,7 +10883,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:50:23+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:46+02:00",
       "available": true,
       "price_min": 303,
@@ -10952,7 +10953,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:45:52+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:43+02:00",
       "available": true,
       "price_min": 212,
@@ -11022,7 +11023,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:43:36+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:41+02:00",
       "available": true,
       "price_min": 200,
@@ -11086,7 +11087,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:41:22+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:38+02:00",
       "available": true,
       "price_min": 200,
@@ -11150,7 +11151,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:39:04+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:36+02:00",
       "available": true,
       "price_min": 157,
@@ -11226,7 +11227,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:37:26+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:33+02:00",
       "available": true,
       "price_min": 157,
@@ -11296,7 +11297,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:35:36+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:30+02:00",
       "available": true,
       "price_min": 212,
@@ -11366,7 +11367,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:33:30+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:28+02:00",
       "available": true,
       "price_min": 145,
@@ -11448,7 +11449,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:31:11+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:25+02:00",
       "available": true,
       "price_min": 169,
@@ -11518,7 +11519,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:23:54+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:23+02:00",
       "available": true,
       "price_min": 151,
@@ -11582,7 +11583,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:21:29+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:20+02:00",
       "available": true,
       "price_min": 151,
@@ -11646,7 +11647,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:18:43+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:17+02:00",
       "available": true,
       "price_min": 151,
@@ -11710,7 +11711,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:16:06+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:15+02:00",
       "available": true,
       "price_min": 119,
@@ -11780,7 +11781,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:12:49+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:09+02:00",
       "available": true,
       "price_min": 119,
@@ -11862,7 +11863,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:07:24+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:05+02:00",
       "available": true,
       "price_min": 411,
@@ -11980,7 +11981,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T15:04:03+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:49:02+02:00",
       "available": true,
       "price_min": 286,
@@ -12056,7 +12057,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:57:05+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:59+02:00",
       "available": true,
       "price_min": 212,
@@ -12168,7 +12169,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:51:55+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:57+02:00",
       "available": true,
       "price_min": 236,
@@ -12292,7 +12293,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:46:46+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:54+02:00",
       "available": true,
       "price_min": 182,
@@ -12416,7 +12417,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:22:02+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:51+02:00",
       "available": true,
       "price_min": 236,
@@ -12540,7 +12541,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:20:20+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:50+02:00",
       "available": true,
       "price_min": 236,
@@ -12616,7 +12617,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:18:58+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:48+02:00",
       "available": true,
       "price_min": 236,
@@ -12668,7 +12669,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:07:29+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:46+02:00",
       "available": true,
       "price_min": 236,
@@ -12756,7 +12757,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:05:40+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:48:43+02:00",
       "available": true,
       "price_min": 200,
@@ -12820,7 +12821,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:03:02+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:24+02:00",
       "available": true,
       "price_min": 119,
@@ -12878,7 +12879,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T14:01:04+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:22+02:00",
       "available": true,
       "price_min": 212,
@@ -12960,7 +12961,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T13:59:11+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:19+02:00",
       "available": true,
       "price_min": 303,
@@ -13036,7 +13037,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:43:23+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:17+02:00",
       "available": true,
       "price_min": 240,
@@ -13118,7 +13119,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:35:08+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:15+02:00",
       "available": true,
       "price_min": 405,
@@ -13200,7 +13201,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:33:14+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:12+02:00",
       "available": true,
       "price_min": 405,
@@ -13276,7 +13277,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:30:09+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:10+02:00",
       "available": true,
       "price_min": 411,
@@ -13346,7 +13347,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:28:26+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:08+02:00",
       "available": true,
       "price_min": 315,
@@ -13428,7 +13429,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:25:27+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:05+02:00",
       "available": true,
       "price_min": 309,
@@ -13492,7 +13493,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:23:37+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:46:00+02:00",
       "available": true,
       "price_min": 290,
@@ -13562,7 +13563,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:21:44+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:57+02:00",
       "available": true,
       "price_min": 212,
@@ -13632,7 +13633,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:20:00+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:54+02:00",
       "available": true,
       "price_min": 117,
@@ -13708,7 +13709,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T11:18:09+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:53+02:00",
       "available": true,
       "price_min": 163,
@@ -13787,7 +13788,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-13T10:48:15+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:50+02:00",
       "available": true,
       "price_min": 163,
@@ -13854,7 +13855,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-13T10:45:53+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:47+02:00",
       "available": true,
       "price_min": 268,
@@ -13927,7 +13928,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-13T10:43:58+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:45+02:00",
       "available": true,
       "price_min": 182,
@@ -14000,7 +14001,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-13T10:42:15+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:43+02:00",
       "available": true,
       "price_min": 182,
@@ -14076,7 +14077,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:39:20+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:41+02:00",
       "available": true,
       "price_min": 357,
@@ -14158,7 +14159,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:37:04+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:39+02:00",
       "available": true,
       "price_min": 424,
@@ -14246,7 +14247,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:35:02+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:36+02:00",
       "available": true,
       "price_min": 381,
@@ -14322,7 +14323,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:31:06+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:34+02:00",
       "available": true,
       "price_min": 417,
@@ -14398,7 +14399,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:29:04+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:31+02:00",
       "available": true,
       "price_min": 424,
@@ -14474,7 +14475,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:26:11+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:29+02:00",
       "available": true,
       "price_min": 357,
@@ -14556,7 +14557,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:18:26+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:27+02:00",
       "available": true,
       "price_min": 113,
@@ -14644,7 +14645,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:16:09+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:24+02:00",
       "available": true,
       "price_min": 139,
@@ -14738,7 +14739,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:14:25+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:22+02:00",
       "available": true,
       "price_min": 157,
@@ -14832,7 +14833,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:12:35+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:19+02:00",
       "available": true,
       "price_min": 157,
@@ -14914,7 +14915,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:10:40+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:17+02:00",
       "available": true,
       "price_min": 161,
@@ -14996,7 +14997,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:08:24+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:15+02:00",
       "available": true,
       "price_min": 175,
@@ -15078,7 +15079,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:06:12+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:13+02:00",
       "available": true,
       "price_min": 117,
@@ -15148,7 +15149,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:04:21+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:07+02:00",
       "available": true,
       "price_min": 119,
@@ -15218,7 +15219,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:02:34+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:04+02:00",
       "available": true,
       "price_min": 117,
@@ -15288,7 +15289,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T10:00:39+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:45:02+02:00",
       "available": true,
       "price_min": 149,
@@ -15358,7 +15359,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:58:39+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:59+02:00",
       "available": true,
       "price_min": 161,
@@ -15428,7 +15429,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:56:43+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:57+02:00",
       "available": true,
       "price_min": 179,
@@ -15498,7 +15499,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:55:00+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:55+02:00",
       "available": true,
       "price_min": 182,
@@ -15568,7 +15569,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:53:06+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:54+02:00",
       "available": true,
       "price_min": 157,
@@ -15638,7 +15639,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:51:15+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:52+02:00",
       "available": true,
       "price_min": 145,
@@ -15708,7 +15709,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:47:22+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T14:44:50+02:00",
       "available": true,
       "price_min": 155,
@@ -15787,7 +15788,7 @@
         "X-Mas"
       ],
       "created_at": "2025-09-13T09:45:36+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:30:40+02:00",
       "available": true,
       "price_min": 155,
@@ -15863,7 +15864,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:43:50+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:30:16+02:00",
       "available": true,
       "price_min": 208,
@@ -15939,7 +15940,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:38:58+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:29:01+02:00",
       "available": true,
       "price_min": 145,
@@ -16015,7 +16016,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:36:20+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:26:14+02:00",
       "available": true,
       "price_min": 145,
@@ -16091,7 +16092,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:34:48+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:24:04+02:00",
       "available": true,
       "price_min": 236,
@@ -16161,7 +16162,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:32:47+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:23:48+02:00",
       "available": true,
       "price_min": 224,
@@ -16231,7 +16232,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T09:30:36+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:23:39+02:00",
       "available": true,
       "price_min": 236,
@@ -16301,7 +16302,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T08:53:16+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:23:29+02:00",
       "available": true,
       "price_min": 357,
@@ -16371,7 +16372,7 @@
         "DECORATIVE CUSHIONS"
       ],
       "created_at": "2025-09-13T08:50:26+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-21T13:23:19+02:00",
       "available": true,
       "price_min": 357,
@@ -16444,7 +16445,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-03T16:12:47+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-09-03T16:19:10+02:00",
       "available": true,
       "price_min": 79,
@@ -16541,7 +16542,7 @@
         "Matteo Thun/antonio Rodriguez"
       ],
       "created_at": "2025-08-03T14:18:47+02:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-08-05T14:04:28+02:00",
       "available": true,
       "price_min": 0,
@@ -16620,7 +16621,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T17:12:06+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T17:13:17+01:00",
       "available": true,
       "price_min": 79,
@@ -16687,7 +16688,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T17:03:43+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T17:05:25+01:00",
       "available": true,
       "price_min": 79,
@@ -16778,7 +16779,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T16:51:03+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T16:52:17+01:00",
       "available": true,
       "price_min": 69,
@@ -16857,7 +16858,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T16:16:28+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T16:21:35+01:00",
       "available": true,
       "price_min": 69,
@@ -16948,7 +16949,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T15:23:16+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T15:25:38+01:00",
       "available": true,
       "price_min": 79,
@@ -17039,7 +17040,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T14:52:48+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T15:11:59+01:00",
       "available": true,
       "price_min": 69,
@@ -17130,7 +17131,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T14:35:33+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T14:41:12+01:00",
       "available": true,
       "price_min": 69,
@@ -17221,7 +17222,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T14:10:11+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T14:13:50+01:00",
       "available": true,
       "price_min": 69,
@@ -17312,7 +17313,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T13:49:10+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T14:08:39+01:00",
       "available": true,
       "price_min": 69,
@@ -17415,7 +17416,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T13:35:27+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T13:48:02+01:00",
       "available": true,
       "price_min": 59,
@@ -17518,7 +17519,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-01-17T13:29:44+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-17T13:31:55+01:00",
       "available": true,
       "price_min": 69,
@@ -17610,7 +17611,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-11-26T17:20:07+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-11T13:22:19+01:00",
       "available": true,
       "price_min": 405,
@@ -17682,7 +17683,7 @@
         "PLAIDS"
       ],
       "created_at": "2024-03-17T16:53:48+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T16:54:04+01:00",
       "available": true,
       "price_min": 2999,
@@ -17748,7 +17749,7 @@
         "PLAIDS"
       ],
       "created_at": "2024-03-17T16:52:21+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T16:52:59+01:00",
       "available": true,
       "price_min": 2999,
@@ -17814,7 +17815,7 @@
         "PLAIDS"
       ],
       "created_at": "2024-03-17T16:51:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T16:51:59+01:00",
       "available": true,
       "price_min": 2999,
@@ -17880,7 +17881,7 @@
         "PLAIDS"
       ],
       "created_at": "2024-03-17T16:46:54+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T16:46:54+01:00",
       "available": true,
       "price_min": 2999,
@@ -17946,7 +17947,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:28:44+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:29:27+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18054,7 +18055,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:26:15+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:27:34+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18156,7 +18157,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:25:03+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:25:45+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18264,7 +18265,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:24:25+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:24:44+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18372,7 +18373,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:23:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:23:37+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18480,7 +18481,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:21:54+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:22:41+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18588,7 +18589,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T14:15:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T14:17:21+01:00",
       "available": true,
       "price_min": 47.95,
@@ -18696,7 +18697,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:51:26+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:52:04+01:00",
       "available": true,
       "price_min": 49.95,
@@ -18798,7 +18799,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:42:35+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:47:15+01:00",
       "available": true,
       "price_min": 49.95,
@@ -18900,7 +18901,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:31:56+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:32:41+01:00",
       "available": true,
       "price_min": 49.95,
@@ -19002,7 +19003,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:12:04+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:13:33+01:00",
       "available": true,
       "price_min": 49.95,
@@ -19098,7 +19099,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:09:48+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:11:13+01:00",
       "available": true,
       "price_min": 49.95,
@@ -19200,7 +19201,7 @@
         "PLAIDS & BEDDING"
       ],
       "created_at": "2024-03-17T13:02:09+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2024-03-17T13:08:14+01:00",
       "available": true,
       "price_min": 49.95,
@@ -19302,7 +19303,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T14:15:04+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:57:45+02:00",
       "available": true,
       "price_min": 79,
@@ -19422,7 +19423,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T14:09:56+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:57:43+02:00",
       "available": true,
       "price_min": 79,
@@ -19542,7 +19543,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T13:52:02+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-12T12:22:17+01:00",
       "available": true,
       "price_min": 69,
@@ -19669,7 +19670,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-03T13:41:37+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:37:19+01:00",
       "available": true,
       "price_min": 69,
@@ -19790,7 +19791,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-03T13:39:34+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-03-04T14:50:22+01:00",
       "available": true,
       "price_min": 69,
@@ -19910,7 +19911,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T13:22:27+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:43+02:00",
       "available": true,
       "price_min": 69,
@@ -20042,7 +20043,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T13:20:04+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-12T12:18:12+01:00",
       "available": true,
       "price_min": 69,
@@ -20157,7 +20158,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-03T13:11:00+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-03-04T14:51:10+01:00",
       "available": true,
       "price_min": 69,
@@ -20277,7 +20278,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T13:02:31+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:41+02:00",
       "available": true,
       "price_min": 69,
@@ -20403,7 +20404,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T12:40:33+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:41+02:00",
       "available": true,
       "price_min": 69,
@@ -20535,7 +20536,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-03T12:33:11+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:41+02:00",
       "available": true,
       "price_min": 69,
@@ -20661,7 +20662,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T15:30:22+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:17:21+01:00",
       "available": true,
       "price_min": 69,
@@ -20787,7 +20788,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T15:09:34+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:39+02:00",
       "available": true,
       "price_min": 69,
@@ -20907,7 +20908,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T14:06:49+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:40+02:00",
       "available": true,
       "price_min": 69,
@@ -21027,7 +21028,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T14:02:36+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:39+02:00",
       "available": true,
       "price_min": 69,
@@ -21153,7 +21154,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T11:27:23+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:38+02:00",
       "available": true,
       "price_min": 59,
@@ -21273,7 +21274,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T10:59:33+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:54:38+02:00",
       "available": true,
       "price_min": 59,
@@ -21387,7 +21388,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T10:45:20+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:26:22+01:00",
       "available": true,
       "price_min": 59,
@@ -21501,7 +21502,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T10:43:17+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:24:34+01:00",
       "available": true,
       "price_min": 59,
@@ -21615,7 +21616,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T10:39:33+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:24:44+01:00",
       "available": true,
       "price_min": 59,
@@ -21729,7 +21730,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-02T10:17:58+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-24T18:28:31+01:00",
       "available": true,
       "price_min": 49,
@@ -21837,7 +21838,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-01T20:49:26+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-05-17T15:56:21+02:00",
       "available": true,
       "price_min": 49,
@@ -21951,7 +21952,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-03-01T20:45:38+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-04-29T17:46:00+02:00",
       "available": true,
       "price_min": 49,
@@ -22066,7 +22067,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-02-23T17:30:35+01:00",
-      "updated_at": "2026-05-22T17:58:37+02:00",
+      "updated_at": "2026-05-25T21:06:19+02:00",
       "published_at": "2025-01-12T12:19:30+01:00",
       "available": true,
       "price_min": 49,

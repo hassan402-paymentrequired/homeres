@@ -1,8 +1,9 @@
 {
   "handle": "art-mirrors",
-  "label": "Art & Mirrors (All)",
+  "label": "ART & MIRRORS",
   "url": "https://arowonen.com/collections/art-mirrors",
-  "scraped_at": "2026-05-22T15:58:31.215Z",
+  "scraped_at": "2026-05-25T19:05:32.759Z",
+  "shopify_product_count": 352,
   "product_count": 293,
   "products": [
     {
@@ -19,7 +20,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-09-22T11:11:57+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T11:21:09+02:00",
       "available": true,
       "price_min": 1495,
@@ -103,7 +104,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-21T14:47:17+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T10:44:04+02:00",
       "available": true,
       "price_min": 1195,
@@ -188,7 +189,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-21T14:22:05+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T10:43:14+02:00",
       "available": true,
       "price_min": 2495,
@@ -243,7 +244,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-21T13:52:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T10:42:53+02:00",
       "available": true,
       "price_min": 2495,
@@ -298,7 +299,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-21T13:48:55+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T10:42:11+02:00",
       "available": true,
       "price_min": 2495,
@@ -365,7 +366,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-09-21T13:41:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-27T10:41:41+02:00",
       "available": true,
       "price_min": 2495,
@@ -429,7 +430,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T10:33:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:31:41+02:00",
       "available": true,
       "price_min": 1204,
@@ -517,7 +518,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T10:30:33+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:31:09+02:00",
       "available": true,
       "price_min": 1204,
@@ -599,7 +600,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T10:01:23+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:29:36+02:00",
       "available": true,
       "price_min": 599,
@@ -741,7 +742,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T09:44:20+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:27:17+02:00",
       "available": true,
       "price_min": 470,
@@ -829,7 +830,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T09:42:23+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:26:40+02:00",
       "available": true,
       "price_min": 708,
@@ -893,7 +894,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-06T09:40:11+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T20:26:22+02:00",
       "available": true,
       "price_min": 589,
@@ -957,7 +958,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-05T18:41:00+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T19:54:05+02:00",
       "available": true,
       "price_min": 599,
@@ -1027,7 +1028,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-09-05T18:38:40+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T19:53:27+02:00",
       "available": true,
       "price_min": 599,
@@ -1093,7 +1094,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-05T12:56:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T19:34:49+02:00",
       "available": true,
       "price_min": 1204,
@@ -1171,7 +1172,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-05T12:53:04+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-17T19:34:36+02:00",
       "available": true,
       "price_min": 478,
@@ -1243,7 +1244,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-04T09:57:14+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-05T16:31:28+02:00",
       "available": true,
       "price_min": 1694,
@@ -1315,7 +1316,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-04T09:54:36+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-05T16:31:26+02:00",
       "available": true,
       "price_min": 1904,
@@ -1381,7 +1382,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-04T09:52:03+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-05T16:31:23+02:00",
       "available": true,
       "price_min": 2178,
@@ -1453,7 +1454,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-04T09:48:35+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-05T16:31:20+02:00",
       "available": true,
       "price_min": 2178,
@@ -1519,7 +1520,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2025-09-04T09:43:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-05T16:31:17+02:00",
       "available": true,
       "price_min": 2293,
@@ -1589,7 +1590,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T09:06:02+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:29:49+02:00",
       "available": true,
       "price_min": 500,
@@ -1665,7 +1666,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T09:04:02+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:29:34+02:00",
       "available": true,
       "price_min": 590,
@@ -1741,7 +1742,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T09:02:00+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:29:18+02:00",
       "available": true,
       "price_min": 1240,
@@ -1793,7 +1794,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T08:59:28+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:29:03+02:00",
       "available": true,
       "price_min": 1120,
@@ -1863,7 +1864,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T08:56:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:22:33+02:00",
       "available": true,
       "price_min": 1120,
@@ -1933,7 +1934,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T08:54:40+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:20:46+02:00",
       "available": true,
       "price_min": 1290,
@@ -2006,7 +2007,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-10T08:52:22+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:19:20+02:00",
       "available": true,
       "price_min": 790,
@@ -2085,7 +2086,7 @@
         "X-Mas"
       ],
       "created_at": "2025-08-10T08:49:56+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:18:14+02:00",
       "available": true,
       "price_min": 1090,
@@ -2149,7 +2150,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-10T08:47:54+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:17:04+02:00",
       "available": true,
       "price_min": 1090,
@@ -2213,7 +2214,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T14:13:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:16:05+02:00",
       "available": true,
       "price_min": 750,
@@ -2277,7 +2278,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T14:10:55+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:14:24+02:00",
       "available": true,
       "price_min": 920,
@@ -2341,7 +2342,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T14:07:54+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:13:14+02:00",
       "available": true,
       "price_min": 920,
@@ -2405,7 +2406,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T14:04:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:11:58+02:00",
       "available": true,
       "price_min": 590,
@@ -2469,7 +2470,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T13:58:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:09:05+02:00",
       "available": true,
       "price_min": 880,
@@ -2528,7 +2529,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-09T13:43:07+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-12T13:07:04+02:00",
       "available": true,
       "price_min": 610,
@@ -2586,7 +2587,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-08-02T14:13:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-08-02T14:20:58+02:00",
       "available": true,
       "price_min": 1495,
@@ -2674,7 +2675,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:50:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:51:59+02:00",
       "available": true,
       "price_min": 0,
@@ -2738,7 +2739,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:50:11+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:50:35+02:00",
       "available": true,
       "price_min": 0,
@@ -2790,7 +2791,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:47:03+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:47:33+02:00",
       "available": true,
       "price_min": 0,
@@ -2848,7 +2849,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:44:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:46:47+02:00",
       "available": true,
       "price_min": 0,
@@ -2900,7 +2901,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:41:19+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:41:41+02:00",
       "available": true,
       "price_min": 0,
@@ -2952,7 +2953,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:39:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:40:55+02:00",
       "available": true,
       "price_min": 0,
@@ -3004,7 +3005,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:37:03+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:38:35+02:00",
       "available": true,
       "price_min": 0,
@@ -3068,7 +3069,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:35:49+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:36:50+02:00",
       "available": true,
       "price_min": 0,
@@ -3132,7 +3133,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:33:41+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:35:33+02:00",
       "available": true,
       "price_min": 0,
@@ -3190,7 +3191,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T12:32:47+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:33:16+02:00",
       "available": true,
       "price_min": 0,
@@ -3248,7 +3249,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:49:28+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T12:03:36+02:00",
       "available": true,
       "price_min": 0,
@@ -3312,7 +3313,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:43:16+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:47:27+02:00",
       "available": true,
       "price_min": 0,
@@ -3370,7 +3371,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:37:15+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:41:03+02:00",
       "available": true,
       "price_min": 0,
@@ -3428,7 +3429,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:34:15+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:36:45+02:00",
       "available": true,
       "price_min": 0,
@@ -3486,7 +3487,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:27:11+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:29:20+02:00",
       "available": true,
       "price_min": 0,
@@ -3550,7 +3551,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:22:12+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:26:32+02:00",
       "available": true,
       "price_min": 0,
@@ -3608,7 +3609,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:20:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:21:38+02:00",
       "available": true,
       "price_min": 0,
@@ -3666,7 +3667,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:17:00+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:19:27+02:00",
       "available": true,
       "price_min": 0,
@@ -3736,7 +3737,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:14:23+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:16:37+02:00",
       "available": true,
       "price_min": 0,
@@ -3812,7 +3813,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:10:21+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:14:01+02:00",
       "available": true,
       "price_min": 0,
@@ -3876,7 +3877,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:07:06+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:08:13+02:00",
       "available": true,
       "price_min": 0,
@@ -3940,7 +3941,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T11:03:20+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T11:04:28+02:00",
       "available": true,
       "price_min": 0,
@@ -4016,7 +4017,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:58:26+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:59:45+02:00",
       "available": true,
       "price_min": 0,
@@ -4068,7 +4069,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:54:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:58:08+02:00",
       "available": true,
       "price_min": 0,
@@ -4126,7 +4127,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:50:23+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:51:36+02:00",
       "available": true,
       "price_min": 0,
@@ -4196,7 +4197,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:48:04+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:50:06+02:00",
       "available": true,
       "price_min": 0,
@@ -4254,7 +4255,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:45:17+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:47:35+02:00",
       "available": true,
       "price_min": 0,
@@ -4318,7 +4319,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:42:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:42:38+02:00",
       "available": true,
       "price_min": 0,
@@ -4370,7 +4371,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:40:28+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:41:04+02:00",
       "available": true,
       "price_min": 0,
@@ -4422,7 +4423,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-30T10:39:36+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:40:07+02:00",
       "available": true,
       "price_min": 0,
@@ -4480,7 +4481,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:55:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-30T10:39:11+02:00",
       "available": true,
       "price_min": 0,
@@ -4550,7 +4551,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:53:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:53:34+02:00",
       "available": true,
       "price_min": 0,
@@ -4608,7 +4609,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:51:07+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:52:16+02:00",
       "available": true,
       "price_min": 0,
@@ -4666,7 +4667,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:49:05+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:50:42+02:00",
       "available": true,
       "price_min": 0,
@@ -4730,7 +4731,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:45:59+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:46:29+02:00",
       "available": true,
       "price_min": 0,
@@ -4788,7 +4789,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:34:41+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:43:10+02:00",
       "available": true,
       "price_min": 0,
@@ -4840,7 +4841,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:30:19+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:32:27+02:00",
       "available": true,
       "price_min": 0,
@@ -4904,7 +4905,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:29:27+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:29:59+02:00",
       "available": true,
       "price_min": 0,
@@ -4956,7 +4957,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:28:06+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:28:41+02:00",
       "available": true,
       "price_min": 0,
@@ -5014,7 +5015,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:23:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:24:25+02:00",
       "available": true,
       "price_min": 0,
@@ -5072,7 +5073,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T17:22:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:23:31+02:00",
       "available": true,
       "price_min": 0,
@@ -5124,7 +5125,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T16:57:14+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T17:22:29+02:00",
       "available": true,
       "price_min": 0,
@@ -5176,7 +5177,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T16:56:27+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T16:56:57+02:00",
       "available": true,
       "price_min": 0,
@@ -5234,7 +5235,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T16:55:28+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T16:56:00+02:00",
       "available": true,
       "price_min": 0,
@@ -5292,7 +5293,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-29T16:54:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-29T16:55:02+02:00",
       "available": true,
       "price_min": 0,
@@ -5356,7 +5357,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:23:05+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:23:49+02:00",
       "available": true,
       "price_min": 0,
@@ -5414,7 +5415,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:21:54+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:22:49+02:00",
       "available": true,
       "price_min": 0,
@@ -5472,7 +5473,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:20:56+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:26:12+02:00",
       "available": true,
       "price_min": 0,
@@ -5542,7 +5543,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:17:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:18:19+02:00",
       "available": true,
       "price_min": 0,
@@ -5600,7 +5601,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:16:40+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:17:12+02:00",
       "available": true,
       "price_min": 0,
@@ -5652,7 +5653,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:15:33+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:16:25+02:00",
       "available": true,
       "price_min": 0,
@@ -5716,7 +5717,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:13:45+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:14:49+02:00",
       "available": true,
       "price_min": 0,
@@ -5768,7 +5769,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:12:21+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:13:27+02:00",
       "available": true,
       "price_min": 0,
@@ -5820,7 +5821,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:10:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:12:00+02:00",
       "available": true,
       "price_min": 0,
@@ -5884,7 +5885,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:08:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:10:15+02:00",
       "available": true,
       "price_min": 0,
@@ -5948,7 +5949,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:07:19+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:08:08+02:00",
       "available": true,
       "price_min": 0,
@@ -6006,7 +6007,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:05:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:06:59+02:00",
       "available": true,
       "price_min": 0,
@@ -6076,7 +6077,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:04:35+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:27:30+02:00",
       "available": true,
       "price_min": 0,
@@ -6128,7 +6129,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:03:51+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:04:17+02:00",
       "available": true,
       "price_min": 0,
@@ -6180,7 +6181,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:03:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:03:31+02:00",
       "available": true,
       "price_min": 0,
@@ -6238,7 +6239,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:02:06+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:02:50+02:00",
       "available": true,
       "price_min": 0,
@@ -6296,7 +6297,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T17:01:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:01:51+02:00",
       "available": true,
       "price_min": 0,
@@ -6354,7 +6355,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:59:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T17:00:02+02:00",
       "available": true,
       "price_min": 0,
@@ -6406,7 +6407,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:58:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:59:00+02:00",
       "available": true,
       "price_min": 0,
@@ -6470,7 +6471,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:57:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:57:39+02:00",
       "available": true,
       "price_min": 0,
@@ -6528,7 +6529,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:56:14+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:56:46+02:00",
       "available": true,
       "price_min": 0,
@@ -6586,7 +6587,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:54:20+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:55:48+02:00",
       "available": true,
       "price_min": 0,
@@ -6644,7 +6645,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:53:38+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:54:04+02:00",
       "available": true,
       "price_min": 0,
@@ -6696,7 +6697,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:52:08+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:53:21+02:00",
       "available": true,
       "price_min": 0,
@@ -6760,7 +6761,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:49:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:50:43+02:00",
       "available": true,
       "price_min": 0,
@@ -6824,7 +6825,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:47:33+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:48:08+02:00",
       "available": true,
       "price_min": 0,
@@ -6882,7 +6883,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:46:54+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:47:20+02:00",
       "available": true,
       "price_min": 0,
@@ -6934,7 +6935,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:42:49+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:46:41+02:00",
       "available": true,
       "price_min": 0,
@@ -6992,7 +6993,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:40:55+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:41:56+02:00",
       "available": true,
       "price_min": 0,
@@ -7050,7 +7051,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:39:14+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:40:37+02:00",
       "available": true,
       "price_min": 0,
@@ -7114,7 +7115,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:37:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:38:54+02:00",
       "available": true,
       "price_min": 0,
@@ -7172,7 +7173,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:34:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:35:14+02:00",
       "available": true,
       "price_min": 0,
@@ -7224,7 +7225,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:29:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:30:48+02:00",
       "available": true,
       "price_min": 0,
@@ -7282,7 +7283,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:20:38+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:24:40+02:00",
       "available": true,
       "price_min": 0,
@@ -7334,7 +7335,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T16:14:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:19:10+02:00",
       "available": true,
       "price_min": 0,
@@ -7398,7 +7399,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:53:35+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T16:13:03+02:00",
       "available": true,
       "price_min": 0,
@@ -7462,7 +7463,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:48:56+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:49:32+02:00",
       "available": true,
       "price_min": 0,
@@ -7526,7 +7527,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:48:10+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:48:44+02:00",
       "available": true,
       "price_min": 0,
@@ -7578,7 +7579,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:46:38+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:47:45+02:00",
       "available": true,
       "price_min": 0,
@@ -7642,7 +7643,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:45:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:46:24+02:00",
       "available": true,
       "price_min": 0,
@@ -7700,7 +7701,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:45:10+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:45:35+02:00",
       "available": true,
       "price_min": 0,
@@ -7758,7 +7759,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:42:34+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:43:08+02:00",
       "available": true,
       "price_min": 0,
@@ -7816,7 +7817,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:37:43+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:38:22+02:00",
       "available": true,
       "price_min": 0,
@@ -7874,7 +7875,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:36:14+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:36:43+02:00",
       "available": true,
       "price_min": 0,
@@ -7926,7 +7927,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:35:07+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:35:57+02:00",
       "available": true,
       "price_min": 0,
@@ -7978,7 +7979,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:27:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:29:51+02:00",
       "available": true,
       "price_min": 0,
@@ -8030,7 +8031,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:26:55+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:27:28+02:00",
       "available": true,
       "price_min": 0,
@@ -8088,7 +8089,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:24:46+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:25:58+02:00",
       "available": true,
       "price_min": 0,
@@ -8140,7 +8141,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:24:09+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:24:32+02:00",
       "available": true,
       "price_min": 0,
@@ -8192,7 +8193,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:21:49+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:23:29+02:00",
       "available": true,
       "price_min": 0,
@@ -8256,7 +8257,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:20:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:21:30+02:00",
       "available": true,
       "price_min": 0,
@@ -8320,7 +8321,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:19:59+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:20:40+02:00",
       "available": true,
       "price_min": 0,
@@ -8372,7 +8373,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:19:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:19:48+02:00",
       "available": true,
       "price_min": 0,
@@ -8424,7 +8425,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:18:34+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:19:14+02:00",
       "available": true,
       "price_min": 0,
@@ -8482,7 +8483,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T15:17:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T15:18:19+02:00",
       "available": true,
       "price_min": 0,
@@ -8534,7 +8535,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:57:02+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:57:26+02:00",
       "available": true,
       "price_min": 0,
@@ -8586,7 +8587,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:56:02+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:56:50+02:00",
       "available": true,
       "price_min": 0,
@@ -8644,7 +8645,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:44:39+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:45:51+02:00",
       "available": true,
       "price_min": 0,
@@ -8702,7 +8703,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:44:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:44:24+02:00",
       "available": true,
       "price_min": 0,
@@ -8754,7 +8755,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:43:08+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:43:45+02:00",
       "available": true,
       "price_min": 0,
@@ -8812,7 +8813,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:41:45+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:42:04+02:00",
       "available": true,
       "price_min": 0,
@@ -8864,7 +8865,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:41:03+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:41:24+02:00",
       "available": true,
       "price_min": 0,
@@ -8916,7 +8917,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:40:21+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:40:50+02:00",
       "available": true,
       "price_min": 0,
@@ -8980,7 +8981,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:39:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:40:07+02:00",
       "available": true,
       "price_min": 0,
@@ -9038,7 +9039,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:38:20+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:38:52+02:00",
       "available": true,
       "price_min": 0,
@@ -9096,7 +9097,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:37:38+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:38:02+02:00",
       "available": true,
       "price_min": 0,
@@ -9148,7 +9149,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:36:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:36:54+02:00",
       "available": true,
       "price_min": 0,
@@ -9200,7 +9201,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:35:22+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:36:12+02:00",
       "available": true,
       "price_min": 0,
@@ -9258,7 +9259,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:34:02+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:34:51+02:00",
       "available": true,
       "price_min": 0,
@@ -9316,7 +9317,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:32:49+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:33:24+02:00",
       "available": true,
       "price_min": 0,
@@ -9374,7 +9375,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:32:03+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:32:34+02:00",
       "available": true,
       "price_min": 0,
@@ -9426,7 +9427,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:28:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:29:09+02:00",
       "available": true,
       "price_min": 0,
@@ -9484,7 +9485,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:27:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:28:12+02:00",
       "available": true,
       "price_min": 0,
@@ -9542,7 +9543,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:26:39+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:27:11+02:00",
       "available": true,
       "price_min": 0,
@@ -9600,7 +9601,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:25:20+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:26:25+02:00",
       "available": true,
       "price_min": 0,
@@ -9658,7 +9659,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:24:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:25:04+02:00",
       "available": true,
       "price_min": 0,
@@ -9716,7 +9717,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:23:16+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:24:23+02:00",
       "available": true,
       "price_min": 0,
@@ -9780,7 +9781,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:22:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:23:01+02:00",
       "available": true,
       "price_min": 0,
@@ -9838,7 +9839,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:20:47+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:22:19+02:00",
       "available": true,
       "price_min": 0,
@@ -9902,7 +9903,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:20:10+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-31T13:53:49+02:00",
       "available": true,
       "price_min": 0,
@@ -9954,7 +9955,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:19:34+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-31T13:53:39+02:00",
       "available": true,
       "price_min": 0,
@@ -10006,7 +10007,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:17:22+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:19:19+02:00",
       "available": true,
       "price_min": 0,
@@ -10064,7 +10065,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:14:26+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:16:31+02:00",
       "available": true,
       "price_min": 0,
@@ -10116,7 +10117,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:13:37+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:14:05+02:00",
       "available": true,
       "price_min": 0,
@@ -10168,7 +10169,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:12:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:13:22+02:00",
       "available": true,
       "price_min": 0,
@@ -10226,7 +10227,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:11:07+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:11:30+02:00",
       "available": true,
       "price_min": 0,
@@ -10278,7 +10279,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:09:41+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:10:45+02:00",
       "available": true,
       "price_min": 0,
@@ -10330,7 +10331,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:06:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:07:12+02:00",
       "available": true,
       "price_min": 0,
@@ -10388,7 +10389,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:04:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:05:40+02:00",
       "available": true,
       "price_min": 0,
@@ -10446,7 +10447,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:03:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:04:13+02:00",
       "available": true,
       "price_min": 0,
@@ -10504,7 +10505,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:02:40+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:03:14+02:00",
       "available": true,
       "price_min": 0,
@@ -10568,7 +10569,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:01:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:02:19+02:00",
       "available": true,
       "price_min": 0,
@@ -10626,7 +10627,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T14:00:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T14:01:00+02:00",
       "available": true,
       "price_min": 0,
@@ -10684,7 +10685,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:59:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:59:58+02:00",
       "available": true,
       "price_min": 0,
@@ -10742,7 +10743,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:57:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:58:57+02:00",
       "available": true,
       "price_min": 0,
@@ -10800,7 +10801,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:55:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:57:06+02:00",
       "available": true,
       "price_min": 0,
@@ -10864,7 +10865,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:54:18+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:54:43+02:00",
       "available": true,
       "price_min": 0,
@@ -10916,7 +10917,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:52:57+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-31T13:53:20+02:00",
       "available": true,
       "price_min": 0,
@@ -10998,7 +10999,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:50:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:51:50+02:00",
       "available": true,
       "price_min": 0,
@@ -11074,7 +11075,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:49:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:50:35+02:00",
       "available": true,
       "price_min": 0,
@@ -11132,7 +11133,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:48:34+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:48:52+02:00",
       "available": true,
       "price_min": 0,
@@ -11184,7 +11185,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:45:43+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:46:27+02:00",
       "available": true,
       "price_min": 0,
@@ -11236,7 +11237,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:45:05+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:45:17+02:00",
       "available": true,
       "price_min": 0,
@@ -11288,7 +11289,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:37:18+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:37:51+02:00",
       "available": true,
       "price_min": 0,
@@ -11340,7 +11341,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:35:23+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:36:06+02:00",
       "available": true,
       "price_min": 0,
@@ -11392,7 +11393,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:34:34+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:35:01+02:00",
       "available": true,
       "price_min": 0,
@@ -11450,7 +11451,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:33:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:34:19+02:00",
       "available": true,
       "price_min": 0,
@@ -11508,7 +11509,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:04:52+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:32:49+02:00",
       "available": true,
       "price_min": 0,
@@ -11566,7 +11567,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:03:56+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:04:34+02:00",
       "available": true,
       "price_min": 0,
@@ -11624,7 +11625,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:03:09+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:03:44+02:00",
       "available": true,
       "price_min": 0,
@@ -11682,7 +11683,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:02:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:02:53+02:00",
       "available": true,
       "price_min": 0,
@@ -11740,7 +11741,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T13:01:08+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:02:05+02:00",
       "available": true,
       "price_min": 0,
@@ -11804,7 +11805,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:59:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T13:00:27+02:00",
       "available": true,
       "price_min": 0,
@@ -11862,7 +11863,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:58:31+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:59:03+02:00",
       "available": true,
       "price_min": 0,
@@ -11920,7 +11921,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:56:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:57:21+02:00",
       "available": true,
       "price_min": 0,
@@ -11978,7 +11979,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:55:24+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:56:12+02:00",
       "available": true,
       "price_min": 0,
@@ -12036,7 +12037,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:53:07+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:54:20+02:00",
       "available": true,
       "price_min": 0,
@@ -12094,7 +12095,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:49:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:50:19+02:00",
       "available": true,
       "price_min": 0,
@@ -12152,7 +12153,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:07:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:29:16+02:00",
       "available": true,
       "price_min": 0,
@@ -12210,7 +12211,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:05:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:07:03+02:00",
       "available": true,
       "price_min": 0,
@@ -12268,7 +12269,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:03:33+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:05:06+02:00",
       "available": true,
       "price_min": 0,
@@ -12320,7 +12321,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T12:00:00+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T12:00:53+02:00",
       "available": true,
       "price_min": 0,
@@ -12378,7 +12379,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:58:49+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:59:27+02:00",
       "available": true,
       "price_min": 0,
@@ -12436,7 +12437,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:57:51+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:58:25+02:00",
       "available": true,
       "price_min": 0,
@@ -12488,7 +12489,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:44:06+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:51:03+02:00",
       "available": true,
       "price_min": 0,
@@ -12558,7 +12559,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:42:56+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:43:26+02:00",
       "available": true,
       "price_min": 0,
@@ -12616,7 +12617,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:41:45+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:42:24+02:00",
       "available": true,
       "price_min": 0,
@@ -12692,7 +12693,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:40:43+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:41:29+02:00",
       "available": true,
       "price_min": 0,
@@ -12750,7 +12751,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:38:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:39:04+02:00",
       "available": true,
       "price_min": 0,
@@ -12820,7 +12821,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:37:04+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:37:50+02:00",
       "available": true,
       "price_min": 0,
@@ -12884,7 +12885,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:35:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:36:25+02:00",
       "available": true,
       "price_min": 0,
@@ -12960,7 +12961,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:34:41+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:35:06+02:00",
       "available": true,
       "price_min": 0,
@@ -13012,7 +13013,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:33:15+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:33:29+02:00",
       "available": true,
       "price_min": 0,
@@ -13064,7 +13065,7 @@
         "ART & MIRRORS"
       ],
       "created_at": "2025-07-24T11:32:25+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-24T11:32:54+02:00",
       "available": true,
       "price_min": 0,
@@ -13123,7 +13124,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:56:12+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:56:47+02:00",
       "available": true,
       "price_min": 0,
@@ -13194,7 +13195,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:55:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:55:29+02:00",
       "available": true,
       "price_min": 0,
@@ -13247,7 +13248,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:54:11+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:54:37+02:00",
       "available": true,
       "price_min": 0,
@@ -13306,7 +13307,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:49:04+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:49:59+02:00",
       "available": true,
       "price_min": 0,
@@ -13383,7 +13384,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:48:13+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:48:36+02:00",
       "available": true,
       "price_min": 0,
@@ -13442,7 +13443,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:47:18+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:47:57+02:00",
       "available": true,
       "price_min": 0,
@@ -13525,7 +13526,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:46:29+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:46:40+02:00",
       "available": true,
       "price_min": 0,
@@ -13578,7 +13579,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:45:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:46:01+02:00",
       "available": true,
       "price_min": 0,
@@ -13637,7 +13638,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:39:42+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:45:17+02:00",
       "available": true,
       "price_min": 0,
@@ -13690,7 +13691,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:37:54+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:39:23+02:00",
       "available": true,
       "price_min": 0,
@@ -13761,7 +13762,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:36:32+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:37:11+02:00",
       "available": true,
       "price_min": 0,
@@ -13820,7 +13821,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:29:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:33:13+02:00",
       "available": true,
       "price_min": 0,
@@ -13897,7 +13898,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:28:19+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:29:26+02:00",
       "available": true,
       "price_min": 0,
@@ -13968,7 +13969,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:18:27+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:21:43+02:00",
       "available": true,
       "price_min": 0,
@@ -14111,7 +14112,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:16:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:18:01+02:00",
       "available": true,
       "price_min": 0,
@@ -14188,7 +14189,7 @@
         "MIRRORS"
       ],
       "created_at": "2025-07-23T15:12:04+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-07-23T15:15:55+02:00",
       "available": true,
       "price_min": 0,
@@ -14268,7 +14269,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-05-26T18:52:41+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-05-26T18:53:40+02:00",
       "available": true,
       "price_min": 559,
@@ -14336,7 +14337,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2025-05-26T18:45:15+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-05-26T18:47:57+02:00",
       "available": true,
       "price_min": 219,
@@ -14407,7 +14408,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-04-09T14:18:18+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-04-09T14:18:18+02:00",
       "available": true,
       "price_min": 1995,
@@ -14497,7 +14498,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-11-03T15:08:55+01:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-09-10T16:30:07+02:00",
       "available": true,
       "price_min": 1150,
@@ -14585,7 +14586,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-10-18T13:12:51+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-03-04T14:02:26+01:00",
       "available": true,
       "price_min": 880,
@@ -14651,7 +14652,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-09-13T16:42:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-09-13T16:45:01+02:00",
       "available": true,
       "price_min": 2888,
@@ -14729,7 +14730,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-09-13T16:24:50+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-09-13T16:26:39+02:00",
       "available": true,
       "price_min": 5865,
@@ -14801,7 +14802,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-09-13T16:23:22+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-09-13T16:24:06+02:00",
       "available": true,
       "price_min": 3100,
@@ -14861,7 +14862,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-09-13T16:14:40+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-09-13T16:22:47+02:00",
       "available": true,
       "price_min": 2925,
@@ -14925,7 +14926,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-08-08T15:27:30+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-06-21T14:32:07+02:00",
       "available": true,
       "price_min": 1940,
@@ -15013,7 +15014,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-08-08T15:14:27+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2025-06-21T14:32:07+02:00",
       "available": true,
       "price_min": 1940,
@@ -15089,7 +15090,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-13T17:32:53+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-13T17:35:31+02:00",
       "available": true,
       "price_min": 1695,
@@ -15126,13 +15127,13 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118253_3_1_1.webp?v=1715614527",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118253_1_1_1.webp?v=1715614527",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118253_1_1_1.webp?v=1715614527",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118253_3_1_1.webp?v=1715614527",
           "alt": null,
           "width": 700,
           "height": 700
@@ -15159,7 +15160,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-13T17:29:44+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-13T17:32:32+02:00",
       "available": true,
       "price_min": 995,
@@ -15196,25 +15197,25 @@
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_4_1_1.webp?v=1715614358",
-          "alt": null,
-          "width": 700,
-          "height": 700
-        },
-        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_1_1_1.webp?v=1715614358",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_3_1_1.webp?v=1715614358",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_0_1_1.webp?v=1715614358",
           "alt": null,
           "width": 700,
           "height": 700
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_0_1_1.webp?v=1715614358",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_4_1_1.webp?v=1715614358",
+          "alt": null,
+          "width": 700,
+          "height": 700
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118319_3_1_1.webp?v=1715614358",
           "alt": null,
           "width": 700,
           "height": 700
@@ -15241,7 +15242,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-10T14:58:01+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-10T15:48:32+02:00",
       "available": true,
       "price_min": 3195,
@@ -15273,6 +15274,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118425_0_1_1.webp?v=1715348887",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118653_1_1_1.webp?v=1779548993",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -15311,7 +15318,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-10T14:53:47+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-10T14:56:21+02:00",
       "available": true,
       "price_min": 3195,
@@ -15343,6 +15350,12 @@
       "images": [
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118311_0_1_1.webp?v=1715345769",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118311_1_1_1.webp?v=1779549992",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -15382,7 +15395,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-10T14:45:46+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-10T14:49:39+02:00",
       "available": true,
       "price_min": 695,
@@ -15459,7 +15472,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-10T14:43:18+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-10T14:45:30+02:00",
       "available": true,
       "price_min": 695,
@@ -15530,7 +15543,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-09T15:58:12+02:00",
-      "updated_at": "2026-05-22T17:58:29+02:00",
+      "updated_at": "2026-05-25T21:05:30+02:00",
       "published_at": "2024-05-09T16:01:09+02:00",
       "available": true,
       "price_min": 1795,
@@ -15561,25 +15574,31 @@
       ],
       "images": [
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_0_1_1.webp?v=1715263241",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_0_1_1.jpg?v=1779551689",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_3_1_1.webp?v=1715263246",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_1_1_1.jpg?v=1779551689",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_2_1_1.webp?v=1715263246",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_3_1_1.jpg?v=1779551689",
           "alt": null,
-          "width": 700,
-          "height": 700
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_2_1_1.jpg?v=1779551689",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
         }
       ],
-      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_0_1_1.webp?v=1715263241",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/118074_0_1_1.jpg?v=1779551689",
       "description_html": "<p class=\"text-special-sm\">Elevate your living space with the Eichholtz Rodion Mirror, exuding a timeless sophistication that complements any interior design.</p>\n<p class=\"text-special-sm\" data-mce-fragment=\"1\"><span>Its bronze finish and metal construction capture the essence of luxury furnishing, while the artisan craftsmanship ensures an exclusive addition to your collection. Discover the perfect balance of iconic style and durability in this signature Eichholtz piece for your living room or bedroom.</span><br><meta charset=\"utf-8\"></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\"></ul>\n<ul class=\"dimensions-list\"></ul>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">L. 220 | W. 80 | D. 3 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: <span>Bronze finish</span><br>Hanging Method: <span>French cleat, horizontal &amp; vertical</span><br>Indoor/outdoor: Indoor use/dry locations only<br></p>"
     },
     {
@@ -15595,7 +15614,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-09T15:54:34+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-05-09T15:57:39+02:00",
       "available": true,
       "price_min": 995,
@@ -15678,7 +15697,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-08T17:43:38+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-05-08T17:47:13+02:00",
       "available": true,
       "price_min": 495,
@@ -15754,7 +15773,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-05-08T17:21:46+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-05-08T17:25:16+02:00",
       "available": true,
       "price_min": 2495,
@@ -15826,7 +15845,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-14T16:44:53+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:31+01:00",
       "available": true,
       "price_min": 799,
@@ -15910,7 +15929,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-14T13:20:15+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:16+01:00",
       "available": true,
       "price_min": 559,
@@ -15994,7 +16013,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-14T13:11:42+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:15+01:00",
       "available": true,
       "price_min": 1129,
@@ -16102,7 +16121,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-14T12:57:52+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:14+01:00",
       "available": true,
       "price_min": 399,
@@ -16192,7 +16211,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-14T12:39:57+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:11+01:00",
       "available": true,
       "price_min": 819,
@@ -16276,7 +16295,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-13T15:01:58+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:02+01:00",
       "available": true,
       "price_min": 779,
@@ -16384,7 +16403,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-13T14:38:00+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:03:00+01:00",
       "available": true,
       "price_min": 1319,
@@ -16480,7 +16499,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-13T12:09:17+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:04:28+01:00",
       "available": true,
       "price_min": 2299,
@@ -16582,7 +16601,7 @@
         "Just launched in the online store"
       ],
       "created_at": "2024-04-13T11:43:58+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2025-03-29T13:04:24+01:00",
       "available": true,
       "price_min": 1379,
@@ -16665,7 +16684,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T13:26:10+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T13:30:03+02:00",
       "available": true,
       "price_min": 1495,
@@ -16730,7 +16749,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T13:20:35+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T13:24:25+02:00",
       "available": true,
       "price_min": 895,
@@ -16767,6 +16786,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117699_1_1_1.webp?v=1712229858",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117699_4_1_1.webp?v=1712229858",
           "alt": null,
           "width": 1200,
@@ -16780,12 +16805,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117699_3_1_1.webp?v=1712229858",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117699_1_1_1.webp?v=1712229858",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -16807,7 +16826,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T13:16:04+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T13:19:28+02:00",
       "available": true,
       "price_min": 895,
@@ -16844,6 +16863,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117990_1_1_1.webp?v=1712229506",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117990_4_1_1.webp?v=1712229506",
           "alt": null,
           "width": 1200,
@@ -16857,12 +16882,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117990_3_1_1.webp?v=1712229506",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117990_1_1_1.webp?v=1712229506",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -16884,7 +16903,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T13:09:23+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T13:14:00+02:00",
       "available": true,
       "price_min": 995,
@@ -16921,13 +16940,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117674_4_1_1.webp?v=1712229274",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117674_1_1_1.webp?v=1712229274",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117674_1_1_1.webp?v=1712229274",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117674_4_1_1.webp?v=1712229274",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -16961,7 +16980,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T13:01:44+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T13:07:39+02:00",
       "available": true,
       "price_min": 995,
@@ -16998,13 +17017,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117991_4_1_1.webp?v=1712228807",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117991_1_1_1.webp?v=1712228807",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117991_1_1_1.webp?v=1712228807",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117991_4_1_1.webp?v=1712228807",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -17038,7 +17057,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:56:20+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:59:35+02:00",
       "available": true,
       "price_min": 2795,
@@ -17109,7 +17128,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:52:19+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:55:28+02:00",
       "available": true,
       "price_min": 1995,
@@ -17180,7 +17199,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:39:05+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:41:33+02:00",
       "available": true,
       "price_min": 595,
@@ -17251,7 +17270,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:34:12+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:36:26+02:00",
       "available": true,
       "price_min": 1195,
@@ -17316,7 +17335,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:30:32+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:32:53+02:00",
       "available": true,
       "price_min": 2495,
@@ -17387,7 +17406,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:26:43+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:29:39+02:00",
       "available": true,
       "price_min": 695,
@@ -17424,13 +17443,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117697_3_1_1.webp?v=1712226544",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117697_1_1_1.webp?v=1712226544",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117697_1_1_1.webp?v=1712226544",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117697_3_1_1.webp?v=1712226544",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -17458,7 +17477,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-04-04T12:22:58+02:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-04-04T12:22:58+02:00",
       "available": true,
       "price_min": 895,
@@ -17495,13 +17514,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117698_3_1_1.webp?v=1712226182",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117698_1_1_1.webp?v=1712226183",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117698_1_1_1.webp?v=1712226183",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117698_3_1_1.webp?v=1712226182",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -17528,7 +17547,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T12:12:19+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T12:13:42+01:00",
       "available": true,
       "price_min": 2195,
@@ -17592,7 +17611,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T12:10:19+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T12:12:04+01:00",
       "available": true,
       "price_min": 1795,
@@ -17662,7 +17681,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:55:30+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T12:00:42+01:00",
       "available": true,
       "price_min": 895,
@@ -17732,7 +17751,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:50:43+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:53:07+01:00",
       "available": true,
       "price_min": 1195,
@@ -17802,7 +17821,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:39:54+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:42:25+01:00",
       "available": true,
       "price_min": 995,
@@ -17872,7 +17891,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:37:31+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:39:20+01:00",
       "available": true,
       "price_min": 1495,
@@ -17942,7 +17961,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:35:26+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:37:00+01:00",
       "available": true,
       "price_min": 1495,
@@ -18006,7 +18025,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:31:12+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:33:11+01:00",
       "available": true,
       "price_min": 1195,
@@ -18070,7 +18089,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:28:24+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:30:32+01:00",
       "available": true,
       "price_min": 1495,
@@ -18134,7 +18153,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:24:34+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:28:05+01:00",
       "available": true,
       "price_min": 795,
@@ -18198,7 +18217,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:21:03+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:21:40+01:00",
       "available": true,
       "price_min": 995,
@@ -18268,7 +18287,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T11:16:11+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T11:18:36+01:00",
       "available": true,
       "price_min": 995,
@@ -18332,7 +18351,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T10:54:43+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T10:57:18+01:00",
       "available": true,
       "price_min": 395,
@@ -18402,7 +18421,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T10:52:40+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T10:54:10+01:00",
       "available": true,
       "price_min": 2195,
@@ -18466,7 +18485,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T10:49:30+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T10:52:10+01:00",
       "available": true,
       "price_min": 2195,
@@ -18530,7 +18549,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-27T10:42:09+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-27T10:48:28+01:00",
       "available": true,
       "price_min": 2495,
@@ -18603,7 +18622,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-09T14:02:48+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-09T14:02:48+01:00",
       "available": true,
       "price_min": 219,
@@ -18676,7 +18695,7 @@
         "RAMADAN GIFTS"
       ],
       "created_at": "2024-03-08T14:09:34+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-08T14:09:33+01:00",
       "available": true,
       "price_min": 699,
@@ -18740,7 +18759,7 @@
         "MIRRORS"
       ],
       "created_at": "2024-03-05T13:27:58+01:00",
-      "updated_at": "2026-05-22T17:58:31+02:00",
+      "updated_at": "2026-05-25T21:05:32+02:00",
       "published_at": "2024-03-05T13:35:57+01:00",
       "available": true,
       "price_min": 2179,

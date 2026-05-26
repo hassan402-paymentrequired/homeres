@@ -1,8 +1,9 @@
 {
   "handle": "home-office",
-  "label": "Home Office",
+  "label": "HOME OFFICE",
   "url": "https://arowonen.com/collections/home-office",
-  "scraped_at": "2026-05-22T15:57:15.800Z",
+  "scraped_at": "2026-05-25T19:07:38.354Z",
+  "shopify_product_count": 25,
   "product_count": 25,
   "products": [
     {
@@ -17,7 +18,7 @@
         "Matteo Nunziati"
       ],
       "created_at": "2025-08-07T15:11:22+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-09-05T14:55:17+02:00",
       "available": true,
       "price_min": 6885,
@@ -87,7 +88,7 @@
         "HOME OFFICE"
       ],
       "created_at": "2025-08-07T15:00:54+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-09-09T14:16:30+02:00",
       "available": true,
       "price_min": 5370,
@@ -193,7 +194,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-07T14:54:47+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-09-09T14:24:02+02:00",
       "available": true,
       "price_min": 5440,
@@ -287,7 +288,7 @@
         "Studio Klass"
       ],
       "created_at": "2025-08-07T14:29:13+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-09-09T14:35:59+02:00",
       "available": true,
       "price_min": 0,
@@ -387,7 +388,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-04-04T17:18:45+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2024-04-04T17:21:37+02:00",
       "available": true,
       "price_min": 2995,
@@ -424,7 +425,19 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_1_1_1.webp?v=1712244041",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_6_1_1.webp?v=1712244041",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_5_1_1.webp?v=1712244041",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -443,18 +456,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_4_1_1.webp?v=1712244041",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_5_1_1.webp?v=1712244041",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117387_1_1_1.webp?v=1712244041",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -481,7 +482,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-08-02T14:43:58+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-08-02T14:46:16+02:00",
       "available": true,
       "price_min": 2995,
@@ -569,7 +570,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:49:49+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:53:21+02:00",
       "available": true,
       "price_min": 0,
@@ -663,7 +664,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:48:31+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:49:19+02:00",
       "available": true,
       "price_min": 0,
@@ -733,7 +734,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:46:50+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:48:01+02:00",
       "available": true,
       "price_min": 0,
@@ -833,7 +834,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-04-04T16:58:43+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2024-04-04T17:01:44+02:00",
       "available": true,
       "price_min": 3195,
@@ -909,7 +910,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:43:10+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:44:51+02:00",
       "available": true,
       "price_min": 0,
@@ -991,7 +992,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:45:05+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:46:04+02:00",
       "available": true,
       "price_min": 0,
@@ -1085,7 +1086,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:34:50+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:36:54+02:00",
       "available": true,
       "price_min": 0,
@@ -1233,7 +1234,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:29:06+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:32:16+02:00",
       "available": true,
       "price_min": 0,
@@ -1393,7 +1394,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:26:28+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:28:12+02:00",
       "available": true,
       "price_min": 0,
@@ -1499,7 +1500,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:39:14+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:40:44+02:00",
       "available": true,
       "price_min": 0,
@@ -1599,7 +1600,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:17:58+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:25:44+02:00",
       "available": true,
       "price_min": 0,
@@ -1699,7 +1700,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2025-07-22T16:11:18+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-22T16:13:56+02:00",
       "available": true,
       "price_min": 0,
@@ -1806,7 +1807,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:43:20+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:43:53+02:00",
       "available": true,
       "price_min": 0,
@@ -1871,7 +1872,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:44:21+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:49:53+02:00",
       "available": true,
       "price_min": 0,
@@ -1954,7 +1955,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:37:12+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:42:57+02:00",
       "available": true,
       "price_min": 0,
@@ -2067,7 +2068,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:30:42+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:33:32+02:00",
       "available": true,
       "price_min": 0,
@@ -2180,7 +2181,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:27:39+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:28:49+02:00",
       "available": true,
       "price_min": 0,
@@ -2251,7 +2252,7 @@
         "OFFICE CHAIRS"
       ],
       "created_at": "2025-07-29T16:26:22+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2025-07-29T16:27:13+02:00",
       "available": true,
       "price_min": 0,
@@ -2327,7 +2328,7 @@
         "TABLES & DESKS"
       ],
       "created_at": "2024-04-04T16:57:42+02:00",
-      "updated_at": "2026-05-22T17:57:15+02:00",
+      "updated_at": "2026-05-25T21:07:38+02:00",
       "published_at": "2024-04-04T16:57:42+02:00",
       "available": true,
       "price_min": 3995,
@@ -2364,7 +2365,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_4_1_1.webp?v=1712242668",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_5_1_1.webp?v=1712242666",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -2382,19 +2383,7 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_1_1_1.webp?v=1712242666",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_5_1_1.webp?v=1712242666",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_6_1_1.webp?v=1712242667",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114207_4_1_1.webp?v=1712242668",
           "alt": null,
           "width": 1200,
           "height": 1200

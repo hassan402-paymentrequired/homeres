@@ -1,8 +1,9 @@
 {
   "handle": "chaise-longues",
-  "label": "Chaise Longues",
+  "label": "CHAISE LONGUES",
   "url": "https://arowonen.com/collections/chaise-longues",
-  "scraped_at": "2026-05-22T15:56:45.467Z",
+  "scraped_at": "2026-05-25T19:06:05.508Z",
+  "shopify_product_count": 7,
   "product_count": 7,
   "products": [
     {
@@ -19,7 +20,7 @@
         "SOFAS"
       ],
       "created_at": "2025-08-04T12:17:03+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-08-06T12:46:34+02:00",
       "available": true,
       "price_min": 0,
@@ -83,7 +84,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:27:49+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:30:00+02:00",
       "available": true,
       "price_min": 0,
@@ -147,7 +148,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:23:45+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:25:35+02:00",
       "available": true,
       "price_min": 0,
@@ -229,7 +230,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:20:18+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:23:00+02:00",
       "available": true,
       "price_min": 0,
@@ -299,7 +300,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:18:43+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:19:58+02:00",
       "available": true,
       "price_min": 0,
@@ -399,7 +400,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:17:53+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:18:28+02:00",
       "available": true,
       "price_min": 0,
@@ -457,7 +458,7 @@
         "SOFAS"
       ],
       "created_at": "2025-07-22T17:11:49+02:00",
-      "updated_at": "2026-05-22T17:56:45+02:00",
+      "updated_at": "2026-05-25T21:06:05+02:00",
       "published_at": "2025-07-22T17:14:06+02:00",
       "available": true,
       "price_min": 0,

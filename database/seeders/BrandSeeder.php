@@ -23,18 +23,35 @@ class BrandSeeder extends Seeder
         $sort = 0;
 
         foreach ($index['brands'] ?? [] as $entry) {
-            Brand::query()->firstOrCreate(
-                ['handle' => $entry['handle']],
-                [
-                    'name' => $entry['label'],
-                    'description' => null,
-                    'sort_order' => $sort++,
-                    'is_active' => true,
-                    'show_in_nav' => true,
-                ],
-            );
+            $this->upsertBrand($entry['handle'], $entry['label'], $sort++);
+        }
+
+        foreach (File::glob(public_path('output/brands/*.json')) ?: [] as $file) {
+            /** @var array{handle?: string, label?: string} $payload */
+            $payload = json_decode(File::get($file), true, flags: JSON_THROW_ON_ERROR);
+            $handle = (string) ($payload['handle'] ?? '');
+
+            if ($handle === '' || Brand::query()->where('handle', $handle)->exists()) {
+                continue;
+            }
+
+            $this->upsertBrand($handle, (string) ($payload['label'] ?? $handle), $sort++);
         }
 
         app(BrandNavGroupService::class)->seedGroups();
+    }
+
+    private function upsertBrand(string $handle, string $name, int $sortOrder): void
+    {
+        Brand::query()->firstOrCreate(
+            ['handle' => $handle],
+            [
+                'name' => $name,
+                'description' => null,
+                'sort_order' => $sortOrder,
+                'is_active' => true,
+                'show_in_nav' => true,
+            ],
+        );
     }
 }

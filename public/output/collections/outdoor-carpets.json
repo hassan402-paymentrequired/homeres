@@ -1,8 +1,9 @@
 {
   "handle": "outdoor-carpets",
-  "label": "Outdoor Carpets & Rugs",
+  "label": "OUTDOOR CARPETS & RUGS",
   "url": "https://arowonen.com/collections/outdoor-carpets",
-  "scraped_at": "2026-05-22T15:59:39.705Z",
+  "scraped_at": "2026-05-25T19:09:13.935Z",
+  "shopify_product_count": 3,
   "product_count": 3,
   "products": [
     {
@@ -18,7 +19,7 @@
         "OUTDOOR RUGS"
       ],
       "created_at": "2025-08-05T12:22:48+02:00",
-      "updated_at": "2026-05-22T17:59:39+02:00",
+      "updated_at": "2026-05-25T21:09:13+02:00",
       "published_at": "2025-08-06T17:54:56+02:00",
       "available": true,
       "price_min": 4165,
@@ -159,7 +160,7 @@
         "OUTDOOR RUGS"
       ],
       "created_at": "2025-08-05T12:13:48+02:00",
-      "updated_at": "2026-05-22T17:59:39+02:00",
+      "updated_at": "2026-05-25T21:09:13+02:00",
       "published_at": "2025-08-06T17:54:12+02:00",
       "available": true,
       "price_min": 5130,
@@ -324,7 +325,7 @@
         "RUGS & CARPETS"
       ],
       "created_at": "2025-08-05T11:51:49+02:00",
-      "updated_at": "2026-05-22T17:59:39+02:00",
+      "updated_at": "2026-05-25T21:09:13+02:00",
       "published_at": "2025-08-06T17:53:58+02:00",
       "available": true,
       "price_min": 0,

@@ -1,8 +1,9 @@
 {
   "handle": "outdoor-coffee-table",
-  "label": "Outdoor Coffee Tables",
+  "label": "OUTDOOR COFFEE TABLE",
   "url": "https://arowonen.com/collections/outdoor-coffee-table",
-  "scraped_at": "2026-05-22T15:59:36.157Z",
+  "scraped_at": "2026-05-25T19:09:18.425Z",
+  "shopify_product_count": 24,
   "product_count": 12,
   "products": [
     {
@@ -20,7 +21,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2026-04-28T16:28:36+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2026-05-01T19:57:22+02:00",
       "available": true,
       "price_min": 1495,
@@ -105,7 +106,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2026-04-28T14:36:13+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2026-05-01T19:56:28+02:00",
       "available": true,
       "price_min": 1495,
@@ -191,7 +192,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2026-02-07T19:25:43+01:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2026-02-08T13:56:11+01:00",
       "available": true,
       "price_min": 2495,
@@ -271,7 +272,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2026-02-07T17:02:24+01:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2026-02-08T13:55:59+01:00",
       "available": true,
       "price_min": 1795,
@@ -356,7 +357,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2025-10-09T10:19:47+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-10-18T10:50:17+02:00",
       "available": true,
       "price_min": 1495,
@@ -447,7 +448,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2025-10-09T10:17:00+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-10-18T10:50:12+02:00",
       "available": true,
       "price_min": 3495,
@@ -538,7 +539,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2025-10-09T10:08:01+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-10-18T10:50:06+02:00",
       "available": true,
       "price_min": 1495,
@@ -627,7 +628,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T10:53:43+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-08-05T11:36:21+02:00",
       "available": true,
       "price_min": 0,
@@ -705,7 +706,7 @@
         "Yabu Pushelberg"
       ],
       "created_at": "2025-08-04T11:23:28+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-08-05T11:42:20+02:00",
       "available": true,
       "price_min": 0,
@@ -806,7 +807,7 @@
         "Outdoor coffee Table"
       ],
       "created_at": "2025-08-04T11:18:20+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-08-05T11:42:01+02:00",
       "available": true,
       "price_min": 2005,
@@ -901,7 +902,7 @@
         "Ron Gilad"
       ],
       "created_at": "2025-08-04T11:12:46+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-08-05T11:41:37+02:00",
       "available": true,
       "price_min": 0,
@@ -984,7 +985,7 @@
         "Vincent Van Duysen"
       ],
       "created_at": "2025-08-04T11:05:34+02:00",
-      "updated_at": "2026-05-22T17:59:36+02:00",
+      "updated_at": "2026-05-25T21:09:18+02:00",
       "published_at": "2025-08-05T11:41:16+02:00",
       "available": true,
       "price_min": 0,

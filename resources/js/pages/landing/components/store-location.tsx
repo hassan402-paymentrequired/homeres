@@ -3,6 +3,8 @@ import { Link } from '@inertiajs/react';
 import { useRef, useEffect, useState } from 'react';
 import { BRAND } from '@/data/brand';
 
+const STORE_IMAGE = '/assets/images/banners/about-banner.jpeg';
+
 const stores = [
     {
         id: 1,
@@ -10,7 +12,7 @@ const stores = [
         name: 'Homère Victoria Island',
         city: 'Lagos',
         address: BRAND.address,
-        image: 'https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800&q=80',
+        image: STORE_IMAGE,
         alt: 'Homère flagship boutique interior in Victoria Island, Lagos',
     },
 ];
@@ -55,14 +57,9 @@ export default function StoreLocations() {
                 Visit Us
             </h2>
             <div
-                style={{
-                    display: 'grid',
-                    gridTemplateColumns: '1fr',
-                    gap: '22px',
-                    maxWidth: '720px',
-                    margin: '0 auto',
-                }}
+                className="grid grid-cols-1 gap-[22px] max-w-4xl mx-auto"
             >
+       
                 {stores.map((store, idx) => (
                     <Link
                         key={store.id}
@@ -83,7 +80,13 @@ export default function StoreLocations() {
                             }}
                             className="store-card"
                         >
-                            <div style={{ aspectRatio: '4/3', overflow: 'hidden' }}>
+                            <div
+                                style={{
+                                    aspectRatio: '4/3',
+                                    overflow: 'hidden',
+                                    background: '#ebeae8',
+                                }}
+                            >
                                 <img
                                     src={store.image}
                                     alt={store.alt}
@@ -91,6 +94,8 @@ export default function StoreLocations() {
                                         width: '100%',
                                         height: '100%',
                                         objectFit: 'cover',
+                                        objectPosition: 'center center',
+                                        display: 'block',
                                     }}
                                 />
                             </div>

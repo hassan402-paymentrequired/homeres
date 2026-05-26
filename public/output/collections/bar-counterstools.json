@@ -1,8 +1,9 @@
 {
   "handle": "bar-counterstools",
-  "label": "Bar- & Counterstools",
+  "label": "BAR- & COUNTERSTOOLS",
   "url": "https://arowonen.com/collections/bar-counterstools",
-  "scraped_at": "2026-05-22T15:56:56.759Z",
+  "scraped_at": "2026-05-25T19:05:41.234Z",
+  "shopify_product_count": 16,
   "product_count": 13,
   "products": [
     {
@@ -18,7 +19,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2026-02-07T18:52:48+01:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2026-02-07T19:11:53+01:00",
       "available": true,
       "price_min": 995,
@@ -94,7 +95,7 @@
         "OUTDOOR"
       ],
       "created_at": "2026-02-07T18:33:17+01:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2026-02-08T13:56:04+01:00",
       "available": true,
       "price_min": 595,
@@ -171,7 +172,7 @@
         "NEW ARRIVALS"
       ],
       "created_at": "2025-11-26T14:28:53+01:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-11-26T14:34:56+01:00",
       "available": true,
       "price_min": 1195,
@@ -253,7 +254,7 @@
         "FURNITURE"
       ],
       "created_at": "2024-04-04T17:59:23+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2024-04-04T18:01:51+02:00",
       "available": true,
       "price_min": 995,
@@ -290,6 +291,12 @@
           "height": 1200
         },
         {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_4_1_1.webp?v=1712246494",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_2_1_1.webp?v=1712246495",
           "alt": null,
           "width": 1200,
@@ -297,12 +304,6 @@
         },
         {
           "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_3_1_1.webp?v=1712246493",
-          "alt": null,
-          "width": 1200,
-          "height": 1200
-        },
-        {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_4_1_1.webp?v=1712246494",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -341,7 +342,7 @@
         "FURNITURE"
       ],
       "created_at": "2024-04-04T17:56:26+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2024-04-04T17:58:50+02:00",
       "available": true,
       "price_min": 995,
@@ -429,7 +430,7 @@
         "FURNITURE"
       ],
       "created_at": "2024-04-04T17:55:06+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2024-04-04T17:55:06+02:00",
       "available": true,
       "price_min": 995,
@@ -499,7 +500,7 @@
         "FURNITURE"
       ],
       "created_at": "2025-07-21T12:19:18+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-07-21T12:21:04+02:00",
       "available": true,
       "price_min": 0,
@@ -611,7 +612,7 @@
         "FURNITURE"
       ],
       "created_at": "2025-07-21T12:25:55+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-07-21T12:27:08+02:00",
       "available": true,
       "price_min": 0,
@@ -681,7 +682,7 @@
         "FURNITURE"
       ],
       "created_at": "2025-07-21T12:24:31+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-07-21T12:24:57+02:00",
       "available": true,
       "price_min": 0,
@@ -751,7 +752,7 @@
         "FURNITURE"
       ],
       "created_at": "2024-04-05T10:59:59+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2024-04-05T11:01:23+02:00",
       "available": true,
       "price_min": 895,
@@ -788,13 +789,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_3_1_1.webp?v=1712307678",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_4_1_1.webp?v=1712307678",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_4_1_1.webp?v=1712307678",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_3_1_1.webp?v=1712307678",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -806,13 +807,13 @@
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_9_1_1.webp?v=1712307678",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_10_1_1.webp?v=1712307678",
           "alt": null,
           "width": 1200,
           "height": 1200
         },
         {
-          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_10_1_1.webp?v=1712307678",
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_9_1_1.webp?v=1712307678",
           "alt": null,
           "width": 1200,
           "height": 1200
@@ -833,7 +834,7 @@
         "FURNITURE"
       ],
       "created_at": "2024-04-05T10:46:55+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2024-04-14T13:06:00+02:00",
       "available": true,
       "price_min": 895,
@@ -903,7 +904,7 @@
         "FURNITURE"
       ],
       "created_at": "2025-07-21T12:23:25+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-07-21T12:23:50+02:00",
       "available": true,
       "price_min": 0,
@@ -960,7 +961,7 @@
         "OUTDOOR"
       ],
       "created_at": "2025-07-21T12:21:28+02:00",
-      "updated_at": "2026-05-22T17:56:56+02:00",
+      "updated_at": "2026-05-25T21:05:41+02:00",
       "published_at": "2025-07-21T12:22:07+02:00",
       "available": true,
       "price_min": 0,

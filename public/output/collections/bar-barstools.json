@@ -1,0 +1,878 @@
+{
+  "handle": "bar-barstools",
+  "label": "BAR & BARSTOOLS",
+  "url": "https://arowonen.com/collections/bar-barstools",
+  "scraped_at": "2026-05-25T19:05:40.217Z",
+  "shopify_product_count": 15,
+  "product_count": 11,
+  "products": [
+    {
+      "id": 15565216153932,
+      "title": "Counter Stool - Condos lyssa sand",
+      "handle": "counter-stool-condos-lyssa-sand",
+      "url": "https://arowonen.com/products/counter-stool-condos-lyssa-sand",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2026-02-07T18:52:48+01:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2026-02-07T19:11:53+01:00",
+      "available": true,
+      "price_min": 995,
+      "price_max": 995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56676583014732,
+          "title": "Default Title",
+          "sku": null,
+          "price": "995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_2_1_1_1200x_41cb362c-7456-415c-b1d6-3287466f1916.webp?v=1770486951",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_4_1_1_1200x_b098a228-8916-4e9a-852b-2b6841041a22.webp?v=1770486950",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_0_1_1_1200x_170d30fe-e8f8-410e-a061-726f5fb11919.webp?v=1770486950",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_3_1_1_1200x_6320c988-5e7c-4367-89e4-407dbb5e5177.webp?v=1770486950",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_5_1_1_1200x_e59e2bda-d5b1-4c5b-9747-0fcccc57402e.webp?v=1770486951",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/117853_2_1_1_1200x_41cb362c-7456-415c-b1d6-3287466f1916.webp?v=1770486951",
+      "description_html": "<p class=\"text-special-sm\"><meta charset=\"utf-8\"><span>Discover the enchanting Counter Stool Condos, where opulent comfort and style combine. Featuring alluring Lyssa Sand upholstery and a brushed brass finish, this stool is crafted to perfection. Embrace a seating experience like no other with the Counter Stool Condos, a remarkable addition that exudes timeless allure and flawless craftsmanship</span></p>\n<p class=\"text-special-sm\"> </p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">General info</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"General info\">Lyssa sand | brushed brass finish</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load KG</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load KG\">150</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Max Weight Load LBS</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Max Weight Load LBS\">330.69</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Fabric composition</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Fabric composition\">63% viscose | 37% polyester</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\" scope=\"row\">Indoor/outdoor</th>\n<td class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\" data-th=\"Indoor/outdoor\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</li>\n</ul>\n<div class=\"m-8\">\n<div></div>\n</div>"
+    },
+    {
+      "id": 15414541943116,
+      "title": "Counter Stool - Dexter",
+      "handle": "counter-stool-dexter",
+      "url": "https://arowonen.com/products/counter-stool-dexter",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE",
+        "NEW ARRIVALS"
+      ],
+      "created_at": "2025-11-26T14:28:53+01:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2025-11-26T14:34:56+01:00",
+      "available": true,
+      "price_min": 1195,
+      "price_max": 1195,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 56081626792268,
+          "title": "Default Title",
+          "sku": null,
+          "price": "1195.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.05.png?v=1764164068",
+          "alt": null,
+          "width": 790,
+          "height": 787
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.39.png?v=1764164099",
+          "alt": null,
+          "width": 788,
+          "height": 788
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.21.png?v=1764164099",
+          "alt": null,
+          "width": 787,
+          "height": 789
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.29.png?v=1764164099",
+          "alt": null,
+          "width": 788,
+          "height": 786
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.49.png?v=1764164069",
+          "alt": null,
+          "width": 781,
+          "height": 779
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.30.10.png?v=1764164068",
+          "alt": null,
+          "width": 780,
+          "height": 781
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Schermafbeelding2025-11-26om14.29.05.png?v=1764164068",
+      "description_html": "<p class=\"text-special-sm\">The Eichholtz Dexter Counter Stool, with its exquisite brushed brass finish and Loki natural fabric, is the quintessential choice for those seeking to enrich their space with an air of exclusivity.</p>\n<p class=\"text-special-sm\"><span>This piece epitomizes the Eichholtz commitment to luxury and craftsmanship, seamlessly integrating into any sophisticated lifestyle.</span><br></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\">\n<meta charset=\"utf-8\">\n<div class=\"pb-6\">\n<div class=\"full-dimensions measurement-cm\">\n<p><span class=\"dimension-value\">W. 53 | D. 50.5 | H. 98 | SD. 43 | SH. 70 | AH. 90 cm</span></p>\n<p> </p>\n<p><span class=\"dimension-value\"><meta charset=\"utf-8\">\n<strong>Specifications</strong></span></p>\n</div>\n</div>\n</li>\n</ul>\n<div class=\"m-8\">\n<div>\n<div class=\"table-wrapper max-w-prose overflow-x-auto text-base\">\n<table class=\"additional-attributes w-full\">\n<tbody>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">General info</th>\n<td data-th=\"General info\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Brushed brass finish | loki natural</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Max Weight Load KG</th>\n<td data-th=\"Max Weight Load KG\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">130</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Max Weight Load LBS</th>\n<td data-th=\"Max Weight Load LBS\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">286.6</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Fabric composition</th>\n<td data-th=\"Fabric composition\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">58% polyester | 42% olefin</td>\n</tr>\n<tr class=\"odd:bg-container\">\n<th scope=\"row\" class=\"col label w-1/2 py-1 text-left text-black product-attribute-label font-bold pl-2\">Indoor/outdoor</th>\n<td data-th=\"Indoor/outdoor\" class=\"col data w-1/2 py-1 pl-2 text-left text-gray-900 product-attribute-value\">Indoor use/dry locations only</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981657166156,
+      "title": "Bar Stool - Sunny",
+      "handle": "bar-stool-sunny",
+      "url": "https://arowonen.com/products/bar-stool-sunny",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-21T12:25:55+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2025-07-21T12:27:08+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960638533964,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUNNYsgabello_gallery01.jpg?v=1753093569",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUNNYsgabello_gallery02.jpg?v=1753093569",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUNNYsgabello_gallery03.jpg?v=1753093569",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUNNYsgabello_gallery04.jpg?v=1753093569",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/SUNNYsgabello_gallery01.jpg?v=1753093569",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Upholstered stool with frame in polished stainless steel, structure of the curved backrest and seat in plywood. Padding in polyurethane in different densities. Main upholstery in leather or fabric. Metal parts available in the met- al finishing selection.</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981655494988,
+      "title": "Bar Stool - Kylo",
+      "handle": "bar-stool-kylo",
+      "url": "https://arowonen.com/products/bar-stool-kylo",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-21T12:24:31+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2025-07-21T12:24:57+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960633356620,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Kylo_stool_01.jpg?v=1753093488",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Kylo_stool_02.jpg?v=1753093488",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Kylo_stool_03.jpg?v=1753093488",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Kylo_stool_04.jpg?v=1753093489",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/2020-Kylo_stool_01.jpg?v=1753093488",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>External structure in curved wood, with legs in conic metal tube and turned feet. Quilted upholstery in leather or fabric and matching pipings on the edges. Metal parts can be lacquered in any colour included in the metal ﬁnish selection.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981651988812,
+      "title": "Bar Stool - Clem",
+      "handle": "bar-stool-clem",
+      "url": "https://arowonen.com/products/bar-stool-clem",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-21T12:23:25+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2025-07-21T12:23:50+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960627687756,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0036_clem-sgabello.jpg?v=1753093432",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/visionnaire_salone_5_2016_0311.jpg?v=1753093432",
+          "alt": null,
+          "width": 500,
+          "height": 672
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/sedie_0036_clem-sgabello.jpg?v=1753093432",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">Frame in squared brass pipe with engraved Visionnaire logo, footrest in stainless steel, seat structure and backrest in curved plywood padded in polyurethane in different densities and acrylic ﬁbre. Fixed upholstery in leather or fabric. Metal parts available in the satinized metal ﬁnishing selection.</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 14981647565132,
+      "title": "Bar Stool - Voluptas",
+      "handle": "bar-stool-voluptas",
+      "url": "https://arowonen.com/products/bar-stool-voluptas",
+      "vendor": "VISIONNAIRE HOME PHILOSOPHY",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2025-07-21T12:19:18+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2025-07-21T12:21:04+02:00",
+      "available": true,
+      "price_min": 0,
+      "price_max": 0,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 52960615137612,
+          "title": "Default Title",
+          "sku": null,
+          "price": "0.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_01.jpg?v=1753093246",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_04.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 750
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_02.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_03.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS_stool_gallery_01.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS_stool_gallery_02.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS_stool_gallery_03.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_VoluptasStool_02.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/Visionnaire_VoluptasStool_03.jpg?v=1753093266",
+          "alt": null,
+          "width": 500,
+          "height": 667
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_05.jpg?v=1753093250",
+          "alt": null,
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_06.jpg?v=1753093249",
+          "alt": null,
+          "width": 500,
+          "height": 711
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/VOLUPTAS-stool_gallery_01.jpg?v=1753093246",
+      "description_html": "<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<meta charset=\"utf-8\">\n<div class=\"view-mode-full clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\">\n<p>Internal structure in plywood, seat and back padding in polyurethane with differentiated densities and acrylic layer. Back panel composed of three cylindrical bands curved and individually upholstered. Rotating stainless steel base consisting of a turned leg, The metal parts are available in the metallic finishes selection.</p>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n<div class=\"view-mode-full field field--name-field-spaces field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n<div class=\"view-mode-full field field--name-field-products field--type-entity-reference field--label-above\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+    },
+    {
+      "id": 8951705665868,
+      "title": "Counter Stool - Cliff - Set of 2 - Grey Velvet",
+      "handle": "bar-stool-cliff-set-of-2-grey-velvet",
+      "url": "https://arowonen.com/products/bar-stool-cliff-set-of-2-grey-velvet",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-04-05T10:59:59+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2024-04-05T11:01:23+02:00",
+      "available": true,
+      "price_min": 895,
+      "price_max": 895,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47940142006604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "895.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_0_1_1.webp?v=1712307677",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_4_1_1.webp?v=1712307678",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_3_1_1.webp?v=1712307678",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_5_1_1.webp?v=1712307679",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_10_1_1.webp?v=1712307678",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_9_1_1.webp?v=1712307678",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114317_0_1_1.webp?v=1712307677",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">Create a wow-worthy interior with the Cliff Bar Stool in Savona grey velvet, that comes in a set of 2.</p>\n<p class=\"text-special-sm\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Featuring black tapered legs with gold caps, the solid frame holds an armless back that is open at the bottom before the seat. Its stylish silhouette is accentuated with black faux leather piping.</span></p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Dimensions</strong></p>\n<ul class=\"dimensions-list\" data-mce-fragment=\"1\">\n<li class=\"odd:bg-container py-1 px-2\" data-mce-fragment=\"1\"><span class=\"dimension-value\" data-mce-fragment=\"1\">W. 51 | D. 52 | H. 103 | SD. 46 | SH. 78.5 cm</span></li>\n</ul>\n<p data-mce-fragment=\"1\"><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-fragment=\"1\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Specifications</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\" data-mce-fragment=\"1\" data-mce-style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span></p>\n<p data-mce-fragment=\"1\">General info: Savona Grey velvet | black faux leather piping<br data-mce-fragment=\"1\">Extra info: Black &amp; brass finish swivel base<br data-mce-fragment=\"1\">Fabric composition: 100% polyester<br data-mce-fragment=\"1\">Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8951682892108,
+      "title": "Bar Stool - Cliff - Set of 2 - Black",
+      "handle": "bar-stool-cliff-set-of-2-black",
+      "url": "https://arowonen.com/products/bar-stool-cliff-set-of-2-black",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-04-05T10:46:55+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2024-04-14T13:06:00+02:00",
+      "available": true,
+      "price_min": 895,
+      "price_max": 895,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47940093542732,
+          "title": "Default Title",
+          "sku": null,
+          "price": "895.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114574_0_1_1.webp?v=1712307285",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114574_2_1_1.webp?v=1712307286",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114574_3_1_1.webp?v=1712307285",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114574_4_1_1.webp?v=1712307285",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114574_0_1_1.webp?v=1712307285",
+      "description_html": "<p class=\"text-special-sm\">Create a wow-worthy interior with the Cliff Bar Stool in Roche black velvet, that comes in a set of 2.</p>\n<p class=\"text-special-sm\"><span>Featuring black tapered legs with gold caps, the solid frame holds an armless back that is open at the bottom before the seat. Its stylish silhouette is accentuated with black faux leather piping.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 51 | D. 52 | H. 103 | SD. 46 | SH. 78.5 cm</span></li>\n</ul>\n<p><strong style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\">Specifications</strong><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;\"> </span></p>\n<p>General info: Roche black velvet | black faux leather piping<br>Extra info: Black &amp; brass finish swivel base<br>Fabric composition: 100% polyester<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8950099476812,
+      "title": "Counter Stool - Cliff - Set of 2 - Greige Velvet",
+      "handle": "counter-stool-cliff-set-of-2-greige-velvet",
+      "url": "https://arowonen.com/products/counter-stool-cliff-set-of-2-greige-velvet",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-04-04T17:59:23+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2024-04-04T18:01:51+02:00",
+      "available": true,
+      "price_min": 995,
+      "price_max": 995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47935419318604,
+          "title": "Default Title",
+          "sku": null,
+          "price": "995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_0_1_1.webp?v=1712246496",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_4_1_1.webp?v=1712246494",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_2_1_1.webp?v=1712246495",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_3_1_1.webp?v=1712246493",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_5_1_1.webp?v=1712246495",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_9_1_1.webp?v=1712246494",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_10_1_1.webp?v=1712246494",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/113712_0_1_1.webp?v=1712246496",
+      "description_html": "<p class=\"text-special-sm\">Create a wow-worthy interior with the Cliff Counter Stool in Savona greige velvet, that comes in a set of 2.</p>\n<p><span>Featuring black tapered legs with gold caps, the solid frame holds an armless back that is open at the bottom before the seat. Its stylish silhouette is accentuated with black faux leather piping.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 51 | D. 52 | H. 92.5 | SD. 45.5 | SH. 69 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Savona greige velvet | black faux leather piping<br>Extra info: Black &amp; brass finish swivel base<br>Fabric composition: 100% polyester<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8950094889292,
+      "title": "Counter Stool - Cliff - Set of 2 - Blue Velvet",
+      "handle": "counter-stool-cliff-set-of-2-blue-velvet",
+      "url": "https://arowonen.com/products/counter-stool-cliff-set-of-2-blue-velvet",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-04-04T17:56:26+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2024-04-04T17:58:50+02:00",
+      "available": true,
+      "price_min": 995,
+      "price_max": 995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47935398969676,
+          "title": "Default Title",
+          "sku": null,
+          "price": "995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_0_1_1.webp?v=1712246306",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_2_1_1.webp?v=1712246308",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_3_1_1.webp?v=1712246306",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_4_1_1.webp?v=1712246307",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_5_1_1.webp?v=1712246307",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_9_1_1.webp?v=1712246307",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_10_1_1.webp?v=1712246307",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114323_0_1_1.webp?v=1712246306",
+      "description_html": "<p class=\"text-special-sm\">Create a wow-worthy interior with the Cliff Counter Stool in Savona blue velvet, that comes in a set of 2.</p>\n<p><span data-mce-fragment=\"1\">Featuring black tapered legs with gold caps, the solid frame holds an armless back that is open at the bottom before the seat. Its stylish silhouette is accentuated with black faux leather piping.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 51 | D. 52 | H. 92.5 | SD. 45.5 | SH. 69 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Savona blue velvet | black faux leather piping<br>Extra info: Black &amp; brass finish swivel base<br>Fabric composition: 100% polyester<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    },
+    {
+      "id": 8950092693836,
+      "title": "Counter Stool - Cliff - Set of 2 - Black Velvet",
+      "handle": "counter-stool-cliff-set-of-2-black-velvet",
+      "url": "https://arowonen.com/products/counter-stool-cliff-set-of-2-black-velvet",
+      "vendor": "EICHHOLTZ",
+      "product_type": "",
+      "tags": [
+        "BAR & BARSTOOLS",
+        "FURNITURE"
+      ],
+      "created_at": "2024-04-04T17:55:06+02:00",
+      "updated_at": "2026-05-25T21:05:40+02:00",
+      "published_at": "2024-04-04T17:55:06+02:00",
+      "available": true,
+      "price_min": 995,
+      "price_max": 995,
+      "compare_at_price": null,
+      "currency": "EUR",
+      "variants_count": 1,
+      "variants": [
+        {
+          "id": 47935390712140,
+          "title": "Default Title",
+          "sku": "",
+          "price": "995.00",
+          "compare_at_price": null,
+          "available": true,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114575_0_1_1.webp?v=1712246111",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114575_2_1_1.webp?v=1712246109",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114575_3_1_1.webp?v=1712246109",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114575_4_1_1.webp?v=1712246110",
+          "alt": null,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "featured_image": "https://cdn.shopify.com/s/files/1/0631/0251/7500/files/114575_0_1_1.webp?v=1712246111",
+      "description_html": "<p class=\"text-special-sm\" data-mce-fragment=\"1\">Create a wow-worthy interior with the Cliff Counter Stool in Roche black velvet, that comes in a set of 2.</p>\n<p><span data-mce-fragment=\"1\">Featuring black tapered legs with gold caps, the solid frame holds an armless back that is open at the bottom before the seat. Its stylish silhouette is accentuated with black faux leather piping.</span></p>\n<p><strong>Dimensions</strong></p>\n<ul class=\"dimensions-list\">\n<li class=\"odd:bg-container py-1 px-2\"><span class=\"dimension-value\">W. 51 | D. 52 | H. 92.5 | SD. 45.5 | SH. 69 cm</span></li>\n</ul>\n<p><strong><span class=\"dimension-value\">Specifications</span></strong></p>\n<p>General info: Roche black velvet | black faux leather piping<br>Extra info: Black &amp; brass finish swivel base<br>Fabric composition: 100% polyester<br>Indoor/outdoor: Indoor use/dry locations only</p>"
+    }
+  ]
+}
