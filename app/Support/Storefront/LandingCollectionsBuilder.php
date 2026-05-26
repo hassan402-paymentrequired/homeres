@@ -18,7 +18,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'home-fragrance',
             'label' => 'Home Fragrances',
-            'image' => '/assets/images/Baobab collection Gentlemen max16.jpg',
+            'image' => '/assets/images/Baobab-collection-Gentlemen-max16.jpg',
             'alt' => 'Luxury candles and home fragrance collection',
         ],
         [
