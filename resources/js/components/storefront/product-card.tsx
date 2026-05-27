@@ -215,7 +215,7 @@ export default function ProductCard({
                 </div>
                 <Link
                     href={product.href}
-                    style={{ textDecoration: 'none', display: 'block' }}
+                    className="no-underline block"
                 >
                     {(product.brand || product.category) && (
                         <p
@@ -226,6 +226,10 @@ export default function ProductCard({
                                 textTransform: 'uppercase',
                                 color: '#999',
                                 margin: '0 0 6px',
+                                display: 'flex',
+                                flexWrap: 'wrap',
+                                alignItems: 'center',
+                                rowGap: 0,
                             }}
                         >
                             {product.brand && product.brandHandle ? (
@@ -236,6 +240,7 @@ export default function ProductCard({
                                         fontWeight: 600,
                                         color: '#060606',
                                         textDecoration: 'none',
+                                        whiteSpace: 'nowrap',
                                     }}
                                 >
                                     {product.brand}
@@ -244,12 +249,33 @@ export default function ProductCard({
                                 product.brand
                             )}
                             {product.brand && product.category && (
-                                <span style={{ color: '#ccc', margin: '0 4px' }}>
-                                    ·
-                                </span>
+                                <>
+                                    <span
+                                        style={{
+                                            color: '#ccc',
+                                            margin: '0 4px',
+                                            display: 'inline',
+                                        }}
+                                    >
+                                        ·
+                                    </span>
+                                    <span
+                                        style={{
+                                            display: 'none',
+                                            width: '100%',
+                                        }}
+                                        className="product-category-line-break"
+                                    />
+                                </>
                             )}
                             {product.category && (
-                                <span style={{ fontWeight: 400 }}>
+                                <span
+                                    style={{
+                                        fontWeight: 400,
+                                        whiteSpace: 'nowrap',
+                                    }}
+                                    className="product-category"
+                                >
                                     {product.category}
                                 </span>
                             )}
@@ -277,7 +303,20 @@ export default function ProductCard({
                     >
                         {product.priceFormatted}
                     </p>
+                    <style jsx>{`
+                        @media (max-width: 600px) {
+                            .product-category-line-break {
+                                display: block !important;
+                                height: 0;
+                            }
+                            .product-category {
+                                display: block !important;
+                                margin-top: 2px;
+                            }
+                        }
+                    `}</style>
                 </Link>
+          
             </div>
             <ProductQuickView
                 product={quickViewProduct}
