@@ -1,0 +1,20 @@
+{
+  "handle": "roberte-cavalli",
+  "logged_at": "2026-05-31T14:31:15.355Z",
+  "shopify_reported_count": 12,
+  "is_brand": true,
+  "collection_api": {
+    "pages": [
+      {
+        "page": 1,
+        "url": "https://arowonen.com/collections/roberte-cavalli/products.json?limit=250&page=1",
+        "status": 200,
+        "raw_bytes": 15,
+        "products_in_response": 0
+      }
+    ],
+    "total": 0
+  },
+  "scrape_method": "collection_api",
+  "scraped_count": 0
+}

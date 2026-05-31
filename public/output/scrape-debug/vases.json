@@ -1,0 +1,27 @@
+{
+  "handle": "vases",
+  "logged_at": "2026-05-31T17:22:07.590Z",
+  "shopify_reported_count": 464,
+  "is_brand": false,
+  "collection_api": {
+    "pages": [
+      {
+        "page": 1,
+        "url": "https://arowonen.com/collections/vases/products.json?limit=250&page=1",
+        "status": 200,
+        "raw_bytes": 882935,
+        "products_in_response": 250
+      },
+      {
+        "page": 2,
+        "url": "https://arowonen.com/collections/vases/products.json?limit=250&page=2",
+        "status": 200,
+        "raw_bytes": 290910,
+        "products_in_response": 98
+      }
+    ],
+    "total": 348
+  },
+  "scrape_method": "collection_api",
+  "scraped_count": 348
+}

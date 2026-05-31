@@ -32,7 +32,7 @@ const slides: Slide[] = [
 },
 {
   id: 3,
-  image: "/assets/images/Baobab collection Platinum_.jpg",
+  image: "/assets/images/banners/about-banner.jpeg",
   alt: 'Modern dining area with designer chairs and statement pendant lighting',
   headline: 'Design Studio',
   subline: 'Bespoke interiors crafted to your vision',

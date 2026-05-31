@@ -1,0 +1,20 @@
+{
+  "handle": "artificial-flowers-plants",
+  "logged_at": "2026-05-31T17:24:39.508Z",
+  "shopify_reported_count": 214,
+  "is_brand": false,
+  "collection_api": {
+    "pages": [
+      {
+        "page": 1,
+        "url": "https://arowonen.com/collections/artificial-flowers-plants/products.json?limit=250&page=1",
+        "status": 200,
+        "raw_bytes": 119551,
+        "products_in_response": 76
+      }
+    ],
+    "total": 76
+  },
+  "scrape_method": "collection_api",
+  "scraped_count": 76
+}

@@ -98,6 +98,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
         >
             {/* Header */}
             <header
+                className="checkout-header"
                 style={{
                     borderBottom: '1px solid #e8e8e1',
                     padding: '0 40px',
@@ -163,6 +164,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
             </header>
 
             <div
+                className="checkout-grid"
                 style={{
                     maxWidth: '1200px',
                     margin: '0 auto',
@@ -232,6 +234,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                         </h2>
                         <div style={{ display: 'grid', gap: '16px' }}>
                             <div
+                                className="checkout-two-col"
                                 style={{
                                     display: 'grid',
                                     gridTemplateColumns: '1fr 1fr',
@@ -276,6 +279,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                                 />
                             </div>
                             <div
+                                className="checkout-two-col"
                                 style={{
                                     display: 'grid',
                                     gridTemplateColumns: '1fr 1fr',
@@ -423,7 +427,10 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                 </form>
 
                 {/* Right: Order Summary */}
-                <div style={{ position: 'sticky', top: '84px' }}>
+                <div
+                    className="checkout-summary"
+                    style={{ position: 'sticky', top: '84px' }}
+                >
                     <h2
                         style={{
                             fontFamily: '"Proza Libre", sans-serif',
@@ -693,12 +700,34 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                 </div>
             </div>
 
-            {/* Responsive styles */}
             <style>{`
-        @media (max-width: 900px) {
-          .checkout-grid { grid-template-columns: 1fr !important; gap: 40px !important; }
-        }
-      `}</style>
+                @media (max-width: 900px) {
+                    .checkout-grid {
+                        grid-template-columns: 1fr !important;
+                        gap: 40px !important;
+                        padding: 40px 24px !important;
+                    }
+                    .checkout-header {
+                        padding: 0 24px !important;
+                    }
+                    .checkout-two-col {
+                        grid-template-columns: 1fr !important;
+                    }
+                    .checkout-summary {
+                        position: static !important;
+                        top: auto !important;
+                    }
+                }
+                @media (max-width: 480px) {
+                    .checkout-grid {
+                        padding: 32px 16px !important;
+                        gap: 32px !important;
+                    }
+                    .checkout-header {
+                        padding: 0 16px !important;
+                    }
+                }
+            `}</style>
         </div>
     );
 }

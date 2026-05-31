@@ -9,6 +9,7 @@ class ImportCatalogProducts extends Command
 {
     protected $signature = 'catalog:import-products
                             {--collection= : Import a single collection handle}
+                            {--brand : Read JSON from public/output/brands/ instead of collections/}
                             {--limit=0 : Maximum products per collection (0 = unlimited)}
                             {--dry-run : Preview without writing to the database}
                             {--publish : Mark imported products as active on the storefront}
@@ -24,6 +25,7 @@ class ImportCatalogProducts extends Command
             dryRun: (bool) $this->option('dry-run'),
             publish: (bool) $this->option('publish'),
             refresh: (bool) $this->option('refresh'),
+            fromBrand: (bool) $this->option('brand'),
         );
 
         $this->info("Imported: {$result['imported']}");

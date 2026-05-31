@@ -41,6 +41,7 @@ class CatalogProductImporter
         bool $dryRun = false,
         bool $publish = false,
         bool $refresh = false,
+        bool $fromBrand = false,
     ): array {
         $result = [
             'imported' => 0,
@@ -52,10 +53,11 @@ class CatalogProductImporter
             'errors' => [],
         ];
 
-        $files = $this->collectionFiles($collection);
+        $files = $this->scrapeFiles($collection, $fromBrand);
+        $assignCategory = $collection !== null;
 
         foreach ($files as $file) {
-            $this->importCollectionFile($file, $limit, $dryRun, $publish, $refresh, $result);
+            $this->importCollectionFile($file, $limit, $dryRun, $publish, $refresh, $assignCategory, $result);
         }
 
         return $result;
@@ -64,7 +66,7 @@ class CatalogProductImporter
     /**
      * @param  array{imported: int, updated: int, skipped: int, categories_created: int, missing_category: int, missing_brand: int, errors: list<string>}  $result
      */
-    private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, bool $refresh, array &$result): void
+    private function importCollectionFile(string $file, int $limit, bool $dryRun, bool $publish, bool $refresh, bool $assignCategory, array &$result): void
     {
         /** @var array{handle?: string, label?: string, products?: array<int, array<string, mixed>>} $payload */
         $payload = json_decode(File::get($file), true, flags: JSON_THROW_ON_ERROR);
@@ -98,7 +100,7 @@ class CatalogProductImporter
                 continue;
             }
 
-            $existing = Product::query()->where('handle', $productHandle)->first();
+            $existing = $this->findExistingProduct($entry, $productHandle);
 
             if ($existing !== null && ! $refresh) {
                 $result['skipped']++;
@@ -122,7 +124,7 @@ class CatalogProductImporter
             }
 
             if ($existing !== null) {
-                $this->syncProduct($existing, $entry, $category, $brand);
+                $this->syncProduct($existing, $entry, $category, $brand, $assignCategory, $defaultPublished);
                 $result['updated']++;
                 $importedInFile++;
 
@@ -134,6 +136,7 @@ class CatalogProductImporter
                 'brand_id' => $brand->id,
                 'name' => (string) ($entry['title'] ?? $productHandle),
                 'handle' => $productHandle,
+                'shopify_product_id' => $this->shopifyProductId($entry),
                 'description' => $this->plainDescription($entry),
                 'specs' => $this->productSpecs($entry),
                 'is_active' => $defaultPublished,
@@ -150,9 +153,9 @@ class CatalogProductImporter
     /**
      * @return list<string>
      */
-    private function collectionFiles(?string $collection): array
+    private function scrapeFiles(?string $collection, bool $fromBrand): array
     {
-        $directory = public_path('output/collections');
+        $directory = public_path($fromBrand ? 'output/brands' : 'output/collections');
 
         if ($collection !== null) {
             $path = $directory.'/'.Str::slug($collection).'.json';
@@ -164,6 +167,38 @@ class CatalogProductImporter
             ->sort()
             ->values()
             ->all();
+    }
+
+    /**
+     * @param  array<string, mixed>  $entry
+     */
+    private function findExistingProduct(array $entry, string $handle): ?Product
+    {
+        $shopifyId = $this->shopifyProductId($entry);
+
+        if ($shopifyId !== null) {
+            $byShopify = Product::query()->where('shopify_product_id', $shopifyId)->first();
+
+            if ($byShopify !== null) {
+                return $byShopify;
+            }
+        }
+
+        return Product::query()->where('handle', $handle)->first();
+    }
+
+    /**
+     * @param  array<string, mixed>  $entry
+     */
+    private function shopifyProductId(array $entry): ?int
+    {
+        $id = $entry['id'] ?? null;
+
+        if ($id === null || $id === '') {
+            return null;
+        }
+
+        return (int) $id;
     }
 
     /**
@@ -265,17 +300,40 @@ class CatalogProductImporter
     /**
      * @param  array<string, mixed>  $entry
      */
-    private function syncProduct(Product $product, array $entry, Category $category, Brand $brand): void
-    {
-        $product->update([
-            'category_id' => $category->id,
+    private function syncProduct(
+        Product $product,
+        array $entry,
+        Category $category,
+        Brand $brand,
+        bool $assignCategory,
+        bool $publish,
+    ): void {
+        $updates = [
             'brand_id' => $brand->id,
             'name' => (string) ($entry['title'] ?? $product->handle),
             'description' => $this->plainDescription($entry),
             'specs' => $this->productSpecs($entry),
-        ]);
+        ];
+
+        if ($assignCategory) {
+            $updates['category_id'] = $category->id;
+        }
+
+        if ($publish) {
+            $updates['is_active'] = true;
+        }
+
+        $shopifyId = $this->shopifyProductId($entry);
+
+        if ($shopifyId !== null && $product->shopify_product_id === null) {
+            $updates['shopify_product_id'] = $shopifyId;
+        }
+
+        $product->update($updates);
 
         $product->variants()->delete();
+        $product->images()->delete();
+        $this->importImages($product, $entry);
         $this->importVariants($product, $entry);
     }
 

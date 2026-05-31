@@ -1,0 +1,20 @@
+{
+  "handle": "scented-candles",
+  "logged_at": "2026-05-31T17:07:49.462Z",
+  "shopify_reported_count": 282,
+  "is_brand": false,
+  "collection_api": {
+    "pages": [
+      {
+        "page": 1,
+        "url": "https://arowonen.com/collections/scented-candles/products.json?limit=250&page=1",
+        "status": 200,
+        "raw_bytes": 809564,
+        "products_in_response": 154
+      }
+    ],
+    "total": 154
+  },
+  "scrape_method": "collection_api",
+  "scraped_count": 154
+}

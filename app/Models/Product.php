@@ -16,6 +16,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
     'brand_id',
     'name',
     'handle',
+    'shopify_product_id',
     'description',
     'specs',
     'sort_order',

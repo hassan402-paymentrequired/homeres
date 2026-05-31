@@ -2,8 +2,9 @@
   "handle": "roberte-cavalli",
   "label": "ROBERTO CAVALLI",
   "url": "https://arowonen.com/collections/roberte-cavalli",
-  "scraped_at": "2026-05-25T19:04:42.646Z",
+  "scraped_at": "2026-05-31T14:31:15.376Z",
   "shopify_product_count": 12,
   "product_count": 0,
+  "scrape_method": "collection_api",
   "products": []
 }

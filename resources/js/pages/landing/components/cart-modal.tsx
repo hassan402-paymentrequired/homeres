@@ -30,10 +30,6 @@ export default function CartModal() {
         };
     }, [isOpen]);
 
-    const handleCheckout = () => {
-        closeCart();
-    };
-
     return (
         <>
             {/* Backdrop */}
@@ -403,10 +399,12 @@ export default function CartModal() {
                         </p>
 
                         {/* Proceed to Checkout */}
-                        <Link href={checkout().url}>
-                            <button className="mb-3 w-full cursor-pointer border-none bg-hemere-black p-4 font-poppins text-xs font-medium tracking-wide text-white uppercase hover:bg-hemere-foreground">
-                                Proceed to Checkout
-                            </button>
+                        <Link
+                            href={checkout().url}
+                            onClick={closeCart}
+                            className="mb-3 block w-full cursor-pointer border-none bg-hemere-black p-4 text-center font-poppins text-xs font-medium tracking-wide text-white uppercase no-underline hover:bg-hemere-foreground"
+                        >
+                            Proceed to Checkout
                         </Link>
                         {/* Continue Shopping */}
                         <button
