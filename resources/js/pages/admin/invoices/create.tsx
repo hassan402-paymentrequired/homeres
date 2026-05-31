@@ -9,13 +9,10 @@ import {
 } from 'lucide-react';
 import { useMemo, useRef, useState } from 'react';
 import { toast } from 'sonner';
-import FormField, { FormSection } from '@/components/admin/form-field';
 import InvoiceDocumentPreview, {
     amountToDisplay,
     type InvoicePreviewPayload,
 } from '@/components/admin/invoice-document-preview';
-import InputError from '@/components/input-error';
-import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import {
     DropdownMenu,
@@ -23,13 +20,20 @@ import {
     DropdownMenuItem,
     DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
 import AdminLayout from '@/layouts/admin-layout';
 import {
     exportInvoicePreviewNode,
     pickFirstVisibleElement,
 } from '@/lib/invoice-preview-export';
+import {
+    adminCompactPrimaryButtonStyle,
+    adminCompactSecondaryButtonStyle,
+    storefrontErrorStyle,
+    storefrontHintStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontTextareaStyle,
+} from '@/lib/storefront-form-styles';
 import { cn } from '@/lib/utils';
 import type {
     InvoiceComposeBreadcrumb,
@@ -71,6 +75,28 @@ type Props = {
     edit_invoice: InvoiceEditPayload | null;
     payment_defaults: PaymentDefaults;
     breadcrumbs: InvoiceComposeBreadcrumb[];
+};
+
+const cardTitleStyle: React.CSSProperties = {
+    fontFamily: '"Proza Libre", sans-serif',
+    fontSize: '16px',
+    fontWeight: 500,
+    color: '#060606',
+    margin: 0,
+};
+
+const tableInputStyle: React.CSSProperties = {
+    ...storefrontInputStyle,
+    padding: '8px 10px',
+    fontSize: '12px',
+};
+
+const linkButtonStyle: React.CSSProperties = {
+    ...adminCompactSecondaryButtonStyle,
+    display: 'inline-flex',
+    alignItems: 'center',
+    gap: '6px',
+    textDecoration: 'none',
 };
 
 function formatDueDate(iso: string): string | null {
@@ -399,13 +425,23 @@ export default function InvoiceCreate({
         >
             <Head title={isEditing ? 'Edit invoice' : 'New invoice'} />
 
-            <div className="flex h-full flex-1 flex-col gap-6 overflow-x-auto p-4 md:p-6">
-                <div className="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
+            <div className="mx-auto flex w-full max-w-6xl flex-1 flex-col gap-6 p-4 md:p-6">
+                <header className="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
                     <div>
-                        <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted-foreground">
+                        <p
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '11px',
+                                fontWeight: 400,
+                                letterSpacing: '2px',
+                                textTransform: 'uppercase',
+                                color: '#999',
+                                margin: '0 0 8px',
+                            }}
+                        >
                             Billing
                         </p>
-                        <h1 className="mt-2 font-serif text-2xl font-medium tracking-wide">
+                        <h1 className="font-serif text-2xl font-medium tracking-wide">
                             {isEditing ? 'Edit invoice' : 'New invoice'}
                         </h1>
                         <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
@@ -418,46 +454,60 @@ export default function InvoiceCreate({
                     </div>
 
                     <div className="flex flex-wrap items-center gap-2">
-                        <label className="flex items-center gap-2 text-sm text-muted-foreground">
+                        <label
+                            className="flex items-center gap-2"
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '12px',
+                                fontWeight: 300,
+                                color: '#6b6b6b',
+                            }}
+                        >
                             <input
                                 type="checkbox"
                                 checked={showPreview}
                                 onChange={(e) => setShowPreview(e.target.checked)}
-                                className="rounded border-border"
+                                style={{ accentColor: '#060606' }}
                             />
                             Show preview
                         </label>
-                        <Button
+                        <button
                             type="button"
-                            variant="outline"
                             disabled={form.processing}
                             onClick={() => postIntent('draft')}
+                            style={linkButtonStyle}
                         >
-                            <FileText className="size-4" />
+                            <FileText className="size-3.5" />
                             Save draft
-                        </Button>
-                        <Button
+                        </button>
+                        <button
                             type="button"
                             disabled={form.processing}
                             onClick={() => postIntent('send')}
+                            style={{
+                                ...adminCompactPrimaryButtonStyle(form.processing),
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '6px',
+                            }}
                         >
-                            <Send className="size-4" />
+                            <Send className="size-3.5" />
                             Send invoice
-                        </Button>
+                        </button>
                         <DropdownMenu>
                             <DropdownMenuTrigger asChild>
-                                <Button
+                                <button
                                     type="button"
-                                    variant="outline"
                                     disabled={
                                         downloadWorking ||
                                         form.processing ||
                                         !showPreview
                                     }
+                                    style={linkButtonStyle}
                                 >
-                                    <Download className="size-4" />
+                                    <Download className="size-3.5" />
                                     Download
-                                </Button>
+                                </button>
                             </DropdownMenuTrigger>
                             <DropdownMenuContent align="end">
                                 <DropdownMenuItem
@@ -475,33 +525,36 @@ export default function InvoiceCreate({
                             </DropdownMenuContent>
                         </DropdownMenu>
                     </div>
-                </div>
+                </header>
 
                 <div
                     className={cn(
                         'grid min-w-0 gap-6',
                         showPreview
-                            ? 'lg:grid-cols-[minmax(0,1fr)_22rem] xl:grid-cols-[minmax(0,1fr)_24rem]'
+                            ? 'lg:grid-cols-[minmax(0,1fr)_minmax(280px,360px)]'
                             : 'grid-cols-1',
                     )}
                 >
                     <div className="flex min-w-0 flex-col gap-6">
                         <Card className="border-sidebar-border/70 py-0 shadow-none">
                             <CardHeader className="border-b border-sidebar-border/70 py-6">
-                                <p className="text-sm font-medium">Invoice details</p>
+                                <p style={cardTitleStyle}>Invoice details</p>
                             </CardHeader>
                             <CardContent className="space-y-6 py-6">
-                                <FormSection>
-                                    <FormField
-                                        label="Bill to"
-                                        htmlFor="customer_name"
-                                        error={form.errors.customer_name}
-                                    >
-                                        <Input
+                                <div style={{ display: 'grid', gap: '20px' }}>
+                                    <div>
+                                        <label
+                                            htmlFor="customer_name"
+                                            style={storefrontLabelStyle}
+                                        >
+                                            Bill to
+                                        </label>
+                                        <input
                                             id="customer_name"
                                             value={form.data.customer_name}
                                             disabled={form.processing}
                                             placeholder="Company or customer name"
+                                            style={storefrontInputStyle}
                                             onChange={(e) =>
                                                 form.setData(
                                                     'customer_name',
@@ -509,18 +562,26 @@ export default function InvoiceCreate({
                                                 )
                                             }
                                         />
-                                    </FormField>
-                                    <FormField
-                                        label="Email"
-                                        htmlFor="customer_email"
-                                        hint="Required to send the invoice."
-                                        error={form.errors.customer_email}
-                                    >
-                                        <Input
+                                        {form.errors.customer_name ? (
+                                            <p style={storefrontErrorStyle}>
+                                                {form.errors.customer_name}
+                                            </p>
+                                        ) : null}
+                                    </div>
+
+                                    <div>
+                                        <label
+                                            htmlFor="customer_email"
+                                            style={storefrontLabelStyle}
+                                        >
+                                            Email
+                                        </label>
+                                        <input
                                             id="customer_email"
                                             type="email"
                                             value={form.data.customer_email}
                                             disabled={form.processing}
+                                            style={storefrontInputStyle}
                                             onChange={(e) =>
                                                 form.setData(
                                                     'customer_email',
@@ -528,18 +589,33 @@ export default function InvoiceCreate({
                                                 )
                                             }
                                         />
-                                    </FormField>
-                                    <div className="grid gap-4 sm:grid-cols-2">
-                                        <FormField
-                                            label="Invoice number"
-                                            htmlFor="invoice_number"
-                                            error={form.errors.invoice_number}
-                                        >
-                                            <Input
+                                        <p style={storefrontHintStyle}>
+                                            Required to send the invoice.
+                                        </p>
+                                        {form.errors.customer_email ? (
+                                            <p style={storefrontErrorStyle}>
+                                                {form.errors.customer_email}
+                                            </p>
+                                        ) : null}
+                                    </div>
+
+                                    <div className="grid gap-5 sm:grid-cols-2">
+                                        <div>
+                                            <label
+                                                htmlFor="invoice_number"
+                                                style={storefrontLabelStyle}
+                                            >
+                                                Invoice number
+                                            </label>
+                                            <input
                                                 id="invoice_number"
-                                                className="font-mono text-sm"
                                                 value={form.data.invoice_number}
                                                 disabled={form.processing}
+                                                style={{
+                                                    ...storefrontInputStyle,
+                                                    fontFamily: 'monospace',
+                                                    fontSize: '12px',
+                                                }}
                                                 onChange={(e) =>
                                                     form.setData(
                                                         'invoice_number',
@@ -547,17 +623,25 @@ export default function InvoiceCreate({
                                                     )
                                                 }
                                             />
-                                        </FormField>
-                                        <FormField
-                                            label="Due date"
-                                            htmlFor="due_date"
-                                            error={form.errors.due_date}
-                                        >
-                                            <Input
+                                            {form.errors.invoice_number ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {form.errors.invoice_number}
+                                                </p>
+                                            ) : null}
+                                        </div>
+                                        <div>
+                                            <label
+                                                htmlFor="due_date"
+                                                style={storefrontLabelStyle}
+                                            >
+                                                Due date
+                                            </label>
+                                            <input
                                                 id="due_date"
                                                 type="date"
                                                 value={form.data.due_date}
                                                 disabled={form.processing}
+                                                style={storefrontInputStyle}
                                                 onChange={(e) =>
                                                     form.setData(
                                                         'due_date',
@@ -565,18 +649,28 @@ export default function InvoiceCreate({
                                                     )
                                                 }
                                             />
-                                        </FormField>
+                                            {form.errors.due_date ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {form.errors.due_date}
+                                                </p>
+                                            ) : null}
+                                        </div>
                                     </div>
-                                    <FormField
-                                        label="Billing address"
-                                        htmlFor="billing_address"
-                                    >
-                                        <Textarea
+
+                                    <div>
+                                        <label
+                                            htmlFor="billing_address"
+                                            style={storefrontLabelStyle}
+                                        >
+                                            Billing address
+                                        </label>
+                                        <textarea
                                             id="billing_address"
                                             rows={3}
                                             value={form.data.billing_address}
                                             disabled={form.processing}
                                             placeholder="Street, city, country…"
+                                            style={storefrontTextareaStyle}
                                             onChange={(e) =>
                                                 form.setData(
                                                     'billing_address',
@@ -584,18 +678,18 @@ export default function InvoiceCreate({
                                                 )
                                             }
                                         />
-                                    </FormField>
-                                </FormSection>
+                                    </div>
+                                </div>
                             </CardContent>
                         </Card>
 
                         <Card className="border-sidebar-border/70 py-0 shadow-none">
                             <CardHeader className="border-b border-sidebar-border/70 py-6">
-                                <p className="text-sm font-medium">Line items</p>
+                                <p style={cardTitleStyle}>Line items</p>
                             </CardHeader>
                             <CardContent className="space-y-4 py-6">
-                                <div className="overflow-hidden rounded-xl border border-sidebar-border/70">
-                                    <table className="w-full text-sm">
+                                <div className="overflow-x-auto rounded-xl border border-sidebar-border/70">
+                                    <table className="w-full min-w-[560px] text-sm">
                                         <thead className="border-b border-sidebar-border/70 bg-muted/30 text-left text-xs uppercase tracking-[0.12em] text-muted-foreground">
                                             <tr>
                                                 <th className="px-3 py-2 font-medium">
@@ -617,10 +711,11 @@ export default function InvoiceCreate({
                                                     className="border-b border-sidebar-border/50 last:border-0"
                                                 >
                                                     <td className="px-3 py-2">
-                                                        <Input
+                                                        <input
                                                             value={row.description}
                                                             disabled={form.processing}
                                                             placeholder="Description"
+                                                            style={tableInputStyle}
                                                             onChange={(e) =>
                                                                 setLineField(
                                                                     row.key,
@@ -631,11 +726,15 @@ export default function InvoiceCreate({
                                                         />
                                                     </td>
                                                     <td className="px-3 py-2">
-                                                        <Input
+                                                        <input
                                                             inputMode="decimal"
-                                                            className="tabular-nums"
                                                             value={row.quantity}
                                                             disabled={form.processing}
+                                                            style={{
+                                                                ...tableInputStyle,
+                                                                fontVariantNumeric:
+                                                                    'tabular-nums',
+                                                            }}
                                                             onChange={(e) =>
                                                                 setLineField(
                                                                     row.key,
@@ -646,11 +745,16 @@ export default function InvoiceCreate({
                                                         />
                                                     </td>
                                                     <td className="px-3 py-2">
-                                                        <Input
+                                                        <input
                                                             inputMode="decimal"
-                                                            className="tabular-nums text-right"
                                                             value={row.rate}
                                                             disabled={form.processing}
+                                                            style={{
+                                                                ...tableInputStyle,
+                                                                textAlign: 'right',
+                                                                fontVariantNumeric:
+                                                                    'tabular-nums',
+                                                            }}
                                                             onChange={(e) =>
                                                                 setLineField(
                                                                     row.key,
@@ -661,10 +765,8 @@ export default function InvoiceCreate({
                                                         />
                                                     </td>
                                                     <td className="px-3 py-2 text-center">
-                                                        <Button
+                                                        <button
                                                             type="button"
-                                                            variant="ghost"
-                                                            size="icon"
                                                             disabled={
                                                                 form.processing ||
                                                                 lineItems.length <= 1
@@ -672,69 +774,157 @@ export default function InvoiceCreate({
                                                             onClick={() =>
                                                                 removeRow(row.key)
                                                             }
+                                                            aria-label="Remove line"
+                                                            style={{
+                                                                background: 'none',
+                                                                border: 'none',
+                                                                cursor:
+                                                                    form.processing ||
+                                                                    lineItems.length <= 1
+                                                                        ? 'not-allowed'
+                                                                        : 'pointer',
+                                                                padding: '6px',
+                                                                opacity:
+                                                                    form.processing ||
+                                                                    lineItems.length <= 1
+                                                                        ? 0.35
+                                                                        : 1,
+                                                            }}
                                                         >
-                                                            <Trash2 className="size-4 text-destructive" />
-                                                        </Button>
+                                                            <Trash2
+                                                                className="size-4"
+                                                                style={{
+                                                                    color: '#b42318',
+                                                                }}
+                                                            />
+                                                        </button>
                                                     </td>
                                                 </tr>
                                             ))}
                                         </tbody>
+                                        <tfoot className="border-t border-sidebar-border/70 text-sm">
+                                            <tr>
+                                                <td
+                                                    colSpan={3}
+                                                    className="px-3 py-2 text-right text-muted-foreground"
+                                                >
+                                                    Subtotal
+                                                </td>
+                                                <td
+                                                    colSpan={1}
+                                                    className="px-3 py-2 text-right font-medium"
+                                                >
+                                                    ₦{previewInvoice.subtotal_display}
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td
+                                                    colSpan={3}
+                                                    className="px-3 py-2 text-right text-muted-foreground"
+                                                >
+                                                    Discount (₦)
+                                                </td>
+                                                <td className="px-3 py-2">
+                                                    <input
+                                                        id="discount"
+                                                        inputMode="decimal"
+                                                        value={form.data.discount}
+                                                        disabled={form.processing}
+                                                        style={{
+                                                            ...tableInputStyle,
+                                                            textAlign: 'right',
+                                                            fontVariantNumeric:
+                                                                'tabular-nums',
+                                                        }}
+                                                        onChange={(e) =>
+                                                            form.setData(
+                                                                'discount',
+                                                                e.target.value,
+                                                            )
+                                                        }
+                                                    />
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td
+                                                    colSpan={3}
+                                                    className="px-3 py-2 text-right text-muted-foreground"
+                                                >
+                                                    Tax (₦)
+                                                </td>
+                                                <td className="px-3 py-2">
+                                                    <input
+                                                        id="tax"
+                                                        inputMode="decimal"
+                                                        value={form.data.tax}
+                                                        disabled={form.processing}
+                                                        style={{
+                                                            ...tableInputStyle,
+                                                            textAlign: 'right',
+                                                            fontVariantNumeric:
+                                                                'tabular-nums',
+                                                        }}
+                                                        onChange={(e) =>
+                                                            form.setData(
+                                                                'tax',
+                                                                e.target.value,
+                                                            )
+                                                        }
+                                                    />
+                                                </td>
+                                            </tr>
+                                            <tr className="border-t border-sidebar-border/70">
+                                                <td
+                                                    colSpan={3}
+                                                    className="px-3 py-2 text-right font-medium"
+                                                >
+                                                    Total
+                                                </td>
+                                                <td className="px-3 py-2 text-right font-serif text-lg font-medium">
+                                                    ₦{previewInvoice.total_display}
+                                                </td>
+                                            </tr>
+                                        </tfoot>
                                     </table>
                                 </div>
-                                <InputError
-                                    message={
-                                        typeof form.errors.items === 'string'
-                                            ? form.errors.items
-                                            : undefined
-                                    }
-                                />
-                                <Button
+
+                                {typeof form.errors.items === 'string' ? (
+                                    <p style={storefrontErrorStyle}>
+                                        {form.errors.items}
+                                    </p>
+                                ) : null}
+
+                                <button
                                     type="button"
-                                    variant="outline"
-                                    className="w-full"
                                     disabled={form.processing}
                                     onClick={addRow}
+                                    style={{
+                                        ...adminCompactSecondaryButtonStyle,
+                                        width: '100%',
+                                        display: 'inline-flex',
+                                        alignItems: 'center',
+                                        justifyContent: 'center',
+                                        gap: '6px',
+                                    }}
                                 >
-                                    <Plus className="size-4" />
+                                    <Plus className="size-3.5" />
                                     Add line item
-                                </Button>
+                                </button>
 
-                                <div className="grid gap-4 border-t border-sidebar-border/70 pt-6 sm:grid-cols-2">
-                                    <FormField label="Discount (₦)" htmlFor="discount">
-                                        <Input
-                                            id="discount"
-                                            inputMode="decimal"
-                                            className="tabular-nums"
-                                            value={form.data.discount}
-                                            disabled={form.processing}
-                                            onChange={(e) =>
-                                                form.setData(
-                                                    'discount',
-                                                    e.target.value,
-                                                )
-                                            }
-                                        />
-                                    </FormField>
-                                    <FormField label="Tax (₦)" htmlFor="tax">
-                                        <Input
-                                            id="tax"
-                                            inputMode="decimal"
-                                            className="tabular-nums"
-                                            value={form.data.tax}
-                                            disabled={form.processing}
-                                            onChange={(e) =>
-                                                form.setData('tax', e.target.value)
-                                            }
-                                        />
-                                    </FormField>
-                                </div>
-                                <FormField label="Notes" htmlFor="customer_note">
-                                    <Textarea
+                                <div>
+                                    <label
+                                        htmlFor="customer_note"
+                                        style={storefrontLabelStyle}
+                                    >
+                                        Notes
+                                    </label>
+                                    <textarea
                                         id="customer_note"
                                         rows={3}
                                         value={form.data.customer_note}
                                         disabled={form.processing}
                                         placeholder="Payment terms or a short memo…"
+                                        style={storefrontTextareaStyle}
                                         onChange={(e) =>
                                             form.setData(
                                                 'customer_note',
@@ -742,18 +932,16 @@ export default function InvoiceCreate({
                                             )
                                         }
                                     />
-                                </FormField>
+                                </div>
                             </CardContent>
                         </Card>
 
                         {showPreview ? (
                             <Card className="border-sidebar-border/70 py-0 shadow-none lg:hidden">
                                 <CardHeader className="border-b border-sidebar-border/70 py-4">
-                                    <p className="text-sm font-medium text-muted-foreground">
-                                        Preview
-                                    </p>
+                                    <p style={cardTitleStyle}>Preview</p>
                                 </CardHeader>
-                                <CardContent className="py-6">
+                                <CardContent className="overflow-x-auto py-6">
                                     <InvoiceDocumentPreview
                                         ref={previewMobileRef}
                                         invoice={previewInvoice}
@@ -767,11 +955,9 @@ export default function InvoiceCreate({
                         <div className="hidden lg:block lg:sticky lg:top-6 lg:self-start">
                             <Card className="border-sidebar-border/70 py-0 shadow-none">
                                 <CardHeader className="border-b border-sidebar-border/70 py-4">
-                                    <p className="text-sm font-medium text-muted-foreground">
-                                        Preview
-                                    </p>
+                                    <p style={cardTitleStyle}>Preview</p>
                                 </CardHeader>
-                                <CardContent className="py-6">
+                                <CardContent className="overflow-x-auto py-6">
                                     <InvoiceDocumentPreview
                                         ref={previewDesktopRef}
                                         invoice={previewInvoice}

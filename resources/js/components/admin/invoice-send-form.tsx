@@ -1,12 +1,12 @@
 import { router } from '@inertiajs/react';
 import { useState } from 'react';
 import {
+    adminCompactPrimaryButtonStyle,
+    adminCompactSecondaryButtonStyle,
     storefrontErrorStyle,
     storefrontHintStyle,
     storefrontInputStyle,
     storefrontLabelStyle,
-    storefrontPrimaryButtonStyle,
-    storefrontSecondaryButtonStyle,
     storefrontTextareaStyle,
 } from '@/lib/storefront-form-styles';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
@@ -116,13 +116,13 @@ export default function InvoiceSendForm({
                 </div>
             </CardContent>
 
-            <CardFooter className="grid grid-cols-1 gap-3 border-t border-sidebar-border/70 py-4 sm:grid-cols-2">
+            <CardFooter className="flex flex-wrap gap-2 border-t border-sidebar-border/70 py-4">
                 {secondaryLabel ? (
                     <button
                         type="button"
                         disabled={processing}
                         onClick={() => submit(false)}
-                        style={storefrontSecondaryButtonStyle}
+                        style={adminCompactSecondaryButtonStyle}
                     >
                         {secondaryLabel}
                     </button>
@@ -131,10 +131,7 @@ export default function InvoiceSendForm({
                     type="button"
                     disabled={processing}
                     onClick={() => submit(secondaryLabel ? true : undefined)}
-                    style={{
-                        ...storefrontPrimaryButtonStyle(processing),
-                        ...(secondaryLabel ? {} : { gridColumn: '1 / -1' }),
-                    }}
+                    style={adminCompactPrimaryButtonStyle(processing)}
                 >
                     {submitLabel}
                 </button>

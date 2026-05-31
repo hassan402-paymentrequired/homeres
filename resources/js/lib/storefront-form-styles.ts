@@ -116,3 +116,37 @@ export const storefrontSecondaryButtonStyle: React.CSSProperties = {
     cursor: 'pointer',
     boxSizing: 'border-box',
 };
+
+export function adminCompactPrimaryButtonStyle(
+    processing = false,
+): React.CSSProperties {
+    return {
+        width: 'auto',
+        background: processing ? '#6b6b6b' : '#060606',
+        color: '#ffffff',
+        border: 'none',
+        padding: '10px 18px',
+        fontFamily: 'Poppins, sans-serif',
+        fontSize: '11px',
+        fontWeight: 500,
+        letterSpacing: '1.5px',
+        textTransform: 'uppercase',
+        cursor: processing ? 'wait' : 'pointer',
+        boxSizing: 'border-box',
+    };
+}
+
+export const adminCompactSecondaryButtonStyle: React.CSSProperties = {
+    width: 'auto',
+    background: 'transparent',
+    color: '#060606',
+    border: '1px solid #d0d0cc',
+    padding: '10px 18px',
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '11px',
+    fontWeight: 400,
+    letterSpacing: '1.5px',
+    textTransform: 'uppercase',
+    cursor: 'pointer',
+    boxSizing: 'border-box',
+};

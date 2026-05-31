@@ -11,12 +11,12 @@ import StockStatusBadge from '@/components/admin/stock-status-badge';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
 import AdminLayout from '@/layouts/admin-layout';
 import {
+    adminCompactPrimaryButtonStyle,
+    adminCompactSecondaryButtonStyle,
     storefrontErrorStyle,
     storefrontHintStyle,
     storefrontInputStyle,
     storefrontLabelStyle,
-    storefrontPrimaryButtonStyle,
-    storefrontSecondaryButtonStyle,
     storefrontTextareaStyle,
 } from '@/lib/storefront-form-styles';
 import type {
@@ -36,8 +36,7 @@ type Props = {
 };
 
 const linkButtonStyle: React.CSSProperties = {
-    ...storefrontSecondaryButtonStyle,
-    width: 'auto',
+    ...adminCompactSecondaryButtonStyle,
     display: 'inline-flex',
     alignItems: 'center',
     gap: '6px',
@@ -184,10 +183,7 @@ export default function OrderShow({
                                             <Link
                                                 href={`/admin/invoices/${invoice.id}/edit`}
                                                 style={{
-                                                    ...storefrontPrimaryButtonStyle(
-                                                        false,
-                                                    ),
-                                                    width: 'auto',
+                                                    ...adminCompactPrimaryButtonStyle(),
                                                     display: 'inline-flex',
                                                     alignItems: 'center',
                                                     textDecoration: 'none',
@@ -454,11 +450,11 @@ export default function OrderShow({
                                     </div>
                                 </CardContent>
 
-                                <CardFooter className="border-t border-sidebar-border/70 py-4">
+                                <CardFooter className="flex flex-wrap gap-2 border-t border-sidebar-border/70 py-4">
                                     <button
                                         type="submit"
                                         disabled={processing}
-                                        style={storefrontPrimaryButtonStyle(
+                                        style={adminCompactPrimaryButtonStyle(
                                             processing,
                                         )}
                                     >

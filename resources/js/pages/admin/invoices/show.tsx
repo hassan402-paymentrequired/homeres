@@ -4,26 +4,25 @@ import { useState } from 'react';
 import AdminDetailSummaryCard, {
     AdminDetailSection,
 } from '@/components/admin/admin-detail-summary-card';
-import FormField, { FormSection } from '@/components/admin/form-field';
 import InvoiceDocumentPreview, {
     type InvoicePreviewPayload,
 } from '@/components/admin/invoice-document-preview';
 import InvoiceSendForm from '@/components/admin/invoice-send-form';
 import InvoiceStatusBadge from '@/components/admin/invoice-status-badge';
-import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from '@/components/ui/select';
-import { Textarea } from '@/components/ui/textarea';
 import AdminLayout from '@/layouts/admin-layout';
+import {
+    adminCompactPrimaryButtonStyle,
+    adminCompactSecondaryButtonStyle,
+    storefrontErrorStyle,
+    storefrontHintStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontTextareaStyle,
+} from '@/lib/storefront-form-styles';
 import type {
     InvoiceBreadcrumb,
+    InvoiceItemRecord,
     InvoiceRecord,
     InvoiceStatus,
     InvoiceStatusOption,
@@ -37,6 +36,22 @@ type Props = {
     canEdit: boolean;
     canDuplicate: boolean;
     breadcrumbs: InvoiceBreadcrumb[];
+};
+
+const linkButtonStyle: React.CSSProperties = {
+    ...adminCompactSecondaryButtonStyle,
+    display: 'inline-flex',
+    alignItems: 'center',
+    gap: '6px',
+    textDecoration: 'none',
+};
+
+const cardTitleStyle: React.CSSProperties = {
+    fontFamily: '"Proza Libre", sans-serif',
+    fontSize: '16px',
+    fontWeight: 500,
+    color: '#060606',
+    margin: 0,
 };
 
 function formatDateTime(iso: string | null): string {
@@ -72,6 +87,22 @@ function formatInvoiceTotal(invoice: InvoiceRecord): string {
     }
 
     return formatMoney(invoice.total);
+}
+
+function formatItemPrice(item: InvoiceItemRecord): string {
+    if (item.price_on_request) {
+        return 'Price on request';
+    }
+
+    return formatMoney(item.unit_price);
+}
+
+function formatLineTotal(item: InvoiceItemRecord): string {
+    if (item.price_on_request) {
+        return 'Enquire';
+    }
+
+    return formatMoney(item.line_total);
 }
 
 export default function InvoiceShow({
@@ -130,27 +161,33 @@ export default function InvoiceShow({
                     </div>
                     <div className="flex flex-wrap gap-2">
                         {canDuplicate ? (
-                            <Button asChild variant="outline">
-                                <Link
-                                    href={`/admin/invoices/create?duplicate=${invoice.id}`}
-                                >
-                                    <Copy className="size-4" />
-                                    Duplicate
-                                </Link>
-                            </Button>
+                            <Link
+                                href={`/admin/invoices/create?duplicate=${invoice.id}`}
+                                style={linkButtonStyle}
+                            >
+                                <Copy className="size-3.5" />
+                                Duplicate
+                            </Link>
                         ) : null}
                         {canEdit ? (
-                            <Button asChild variant="outline">
-                                <Link href={`/admin/invoices/${invoice.id}/edit`}>
-                                    <Pencil className="size-4" />
-                                    Edit draft
-                                </Link>
-                            </Button>
+                            <Link
+                                href={`/admin/invoices/${invoice.id}/edit`}
+                                style={{
+                                    ...adminCompactPrimaryButtonStyle(),
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '6px',
+                                    textDecoration: 'none',
+                                }}
+                            >
+                                <Pencil className="size-3.5" />
+                                Edit draft
+                            </Link>
                         ) : null}
                     </div>
                 </header>
 
-                <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+                <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
                     <AdminDetailSummaryCard title="Bill to">
                         <p className="font-medium">{invoice.customer_name}</p>
                         <p className="mt-2">
@@ -176,16 +213,6 @@ export default function InvoiceShow({
                         ) : (
                             <p className="text-muted-foreground">—</p>
                         )}
-                    </AdminDetailSummaryCard>
-
-                    <AdminDetailSummaryCard title="Invoice total">
-                        <p className="font-serif text-2xl font-medium">
-                            {formatInvoiceTotal(invoice)}
-                        </p>
-                        <p className="mt-1 text-xs text-muted-foreground">
-                            {invoice.items.length}{' '}
-                            {invoice.items.length === 1 ? 'line' : 'lines'}
-                        </p>
                     </AdminDetailSummaryCard>
 
                     <AdminDetailSummaryCard title="Dates">
@@ -220,188 +247,269 @@ export default function InvoiceShow({
                     </AdminDetailSummaryCard>
                 </div>
 
-                <AdminDetailSection title="Invoice document">
-                    <div className="p-4 md:p-6">
-                        <InvoiceDocumentPreview invoice={preview} />
-                    </div>
-                </AdminDetailSection>
-
-                <div className="grid gap-6 lg:grid-cols-2">
-                    <div className="space-y-6">
-                        <AdminDetailSummaryCard title="Invoice totals">
-                            <dl className="space-y-3">
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                <AdminDetailSection title="Line items">
+                    <div className="overflow-x-auto">
+                        <table className="w-full text-sm">
+                            <thead className="border-b border-sidebar-border/70 text-left text-xs uppercase tracking-[0.12em] text-muted-foreground">
+                                <tr>
+                                    <th className="px-4 py-3 font-medium">
+                                        Item
+                                    </th>
+                                    <th className="px-4 py-3 font-medium">
+                                        Qty
+                                    </th>
+                                    <th className="px-4 py-3 font-medium">
+                                        Unit
+                                    </th>
+                                    <th className="px-4 py-3 font-medium text-right">
+                                        Line total
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {invoice.items.map((item) => (
+                                    <tr
+                                        key={item.id}
+                                        className="border-b border-sidebar-border/50 last:border-0"
+                                    >
+                                        <td className="px-4 py-3">
+                                            <p className="font-medium">
+                                                {item.product_name}
+                                            </p>
+                                            <p className="text-xs text-muted-foreground">
+                                                {item.variant_name}
+                                                {item.sku ? ` · ${item.sku}` : ''}
+                                            </p>
+                                        </td>
+                                        <td className="px-4 py-3 text-muted-foreground">
+                                            {item.quantity}
+                                        </td>
+                                        <td className="px-4 py-3 text-muted-foreground">
+                                            {formatItemPrice(item)}
+                                        </td>
+                                        <td className="px-4 py-3 text-right font-medium">
+                                            {formatLineTotal(item)}
+                                        </td>
+                                    </tr>
+                                ))}
+                            </tbody>
+                            <tfoot className="border-t border-sidebar-border/70 text-sm">
+                                <tr>
+                                    <td
+                                        colSpan={3}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Subtotal
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {invoice.has_price_on_request_items &&
                                         invoice.subtotal === null
                                             ? 'Price on request'
                                             : formatMoney(invoice.subtotal)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td
+                                        colSpan={3}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Discount
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {formatMoney(invoice.discount)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td
+                                        colSpan={3}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Tax
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {formatMoney(invoice.tax)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td
+                                        colSpan={3}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Shipping
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {formatMoney(invoice.shipping_total)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4 border-t border-sidebar-border/70 pt-3">
-                                    <dt className="font-medium">Total</dt>
-                                    <dd className="font-serif text-lg font-medium">
+                                    </td>
+                                </tr>
+                                <tr className="border-t border-sidebar-border/70">
+                                    <td
+                                        colSpan={3}
+                                        className="px-4 py-3 text-right font-medium"
+                                    >
+                                        Total
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-serif text-lg font-medium">
                                         {formatInvoiceTotal(invoice)}
-                                    </dd>
-                                </div>
-                            </dl>
-                        </AdminDetailSummaryCard>
-
-                        {invoice.customer_note ? (
-                            <AdminDetailSummaryCard title="Customer note">
-                                <p className="leading-relaxed text-muted-foreground">
-                                    {invoice.customer_note}
-                                </p>
-                            </AdminDetailSummaryCard>
-                        ) : null}
+                                    </td>
+                                </tr>
+                            </tfoot>
+                        </table>
                     </div>
+                </AdminDetailSection>
 
-                    <div className="space-y-6">
-                        {canSend ? (
-                            <InvoiceSendForm
-                                action={`/admin/invoices/${invoice.id}/send`}
-                                defaultEmail={invoice.customer_email}
-                                submitLabel={
-                                    invoice.status === 'draft'
-                                        ? 'Send invoice'
-                                        : 'Resend invoice'
-                                }
-                                errors={errors}
-                                hint="Email this invoice to the customer. Draft and sent invoices will be marked as Sent."
-                            />
-                        ) : null}
+                {invoice.customer_note ? (
+                    <AdminDetailSummaryCard title="Customer note">
+                        <p className="leading-relaxed text-muted-foreground">
+                            {invoice.customer_note}
+                        </p>
+                    </AdminDetailSummaryCard>
+                ) : null}
 
-                        <Form
-                            action={`/admin/invoices/${invoice.id}`}
-                            method="put"
-                            className="w-full"
-                        >
-                            {({ processing, errors: formErrors }) => (
-                                <Card className="border-sidebar-border/70 py-0 shadow-none">
-                                    <CardHeader className="border-b border-sidebar-border/70 py-6">
-                                        <p className="text-sm font-medium">
-                                            Billing status
-                                        </p>
-                                    </CardHeader>
+                <AdminDetailSection title="Invoice document">
+                    <div className="overflow-x-auto p-4 md:p-6">
+                        <InvoiceDocumentPreview invoice={preview} />
+                    </div>
+                </AdminDetailSection>
 
-                                    <CardContent className="space-y-6 py-6">
-                                        <FormSection>
-                                            <FormField
-                                                label="Status"
+                <div
+                    className={`grid gap-6 ${canSend ? 'grid-cols-1 lg:grid-cols-2' : 'grid-cols-1'}`}
+                >
+                    {canSend ? (
+                        <InvoiceSendForm
+                            action={`/admin/invoices/${invoice.id}/send`}
+                            defaultEmail={invoice.customer_email}
+                            submitLabel={
+                                invoice.status === 'draft'
+                                    ? 'Send invoice'
+                                    : 'Resend invoice'
+                            }
+                            errors={errors}
+                            hint="Email this invoice to the customer. Draft and sent invoices will be marked as Sent."
+                        />
+                    ) : null}
+
+                    <Form
+                        action={`/admin/invoices/${invoice.id}`}
+                        method="put"
+                        className="h-full w-full"
+                    >
+                        {({ processing, errors: formErrors }) => (
+                            <Card className="h-full border-sidebar-border/70 py-0 shadow-none">
+                                <CardHeader className="border-b border-sidebar-border/70 py-6">
+                                    <p style={cardTitleStyle}>Billing status</p>
+                                </CardHeader>
+
+                                <CardContent className="space-y-6 py-6">
+                                    <div style={{ display: 'grid', gap: '20px' }}>
+                                        <div>
+                                            <label
                                                 htmlFor="status"
-                                                error={formErrors.status}
+                                                style={storefrontLabelStyle}
                                             >
-                                                <Select
-                                                    value={status}
-                                                    onValueChange={(value) =>
-                                                        setStatus(
-                                                            value as InvoiceStatus,
-                                                        )
-                                                    }
-                                                >
-                                                    <SelectTrigger id="status">
-                                                        <SelectValue placeholder="Select status" />
-                                                    </SelectTrigger>
-                                                    <SelectContent>
-                                                        {statusOptions.map(
-                                                            (option) => (
-                                                                <SelectItem
-                                                                    key={
-                                                                        option.value
-                                                                    }
-                                                                    value={
-                                                                        option.value
-                                                                    }
-                                                                >
-                                                                    {
-                                                                        option.label
-                                                                    }
-                                                                </SelectItem>
-                                                            ),
-                                                        )}
-                                                    </SelectContent>
-                                                </Select>
-                                                <input
-                                                    type="hidden"
-                                                    name="status"
-                                                    value={status}
-                                                />
-                                            </FormField>
+                                                Status
+                                            </label>
+                                            <select
+                                                id="status"
+                                                value={status}
+                                                onChange={(event) =>
+                                                    setStatus(
+                                                        event.target
+                                                            .value as InvoiceStatus,
+                                                    )
+                                                }
+                                                style={storefrontInputStyle}
+                                            >
+                                                {statusOptions.map((option) => (
+                                                    <option
+                                                        key={option.value}
+                                                        value={option.value}
+                                                    >
+                                                        {option.label}
+                                                    </option>
+                                                ))}
+                                            </select>
+                                            <input
+                                                type="hidden"
+                                                name="status"
+                                                value={status}
+                                            />
+                                            {formErrors.status ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {formErrors.status}
+                                                </p>
+                                            ) : null}
+                                        </div>
 
-                                            <FormField
-                                                label="Due date"
+                                        <div>
+                                            <label
                                                 htmlFor="due_at"
-                                                hint="Payment expected by this date."
-                                                error={formErrors.due_at}
+                                                style={storefrontLabelStyle}
                                             >
-                                                <Input
-                                                    id="due_at"
-                                                    name="due_at"
-                                                    type="date"
-                                                    defaultValue={formatDateInput(
-                                                        invoice.due_at,
-                                                    )}
-                                                />
-                                            </FormField>
+                                                Due date
+                                            </label>
+                                            <input
+                                                id="due_at"
+                                                name="due_at"
+                                                type="date"
+                                                defaultValue={formatDateInput(
+                                                    invoice.due_at,
+                                                )}
+                                                style={storefrontInputStyle}
+                                            />
+                                            <p style={storefrontHintStyle}>
+                                                Payment expected by this date.
+                                            </p>
+                                            {formErrors.due_at ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {formErrors.due_at}
+                                                </p>
+                                            ) : null}
+                                        </div>
 
-                                            <FormField
-                                                label="Internal note"
+                                        <div>
+                                            <label
                                                 htmlFor="admin_note"
-                                                hint="Visible to admins only — not shown on customer-facing invoices."
-                                                error={formErrors.admin_note}
+                                                style={storefrontLabelStyle}
                                             >
-                                                <Textarea
-                                                    id="admin_note"
-                                                    name="admin_note"
-                                                    rows={4}
-                                                    defaultValue={
-                                                        invoice.admin_note ?? ''
-                                                    }
-                                                    placeholder="Payment reference, bank transfer details, follow-up notes…"
-                                                />
-                                            </FormField>
-                                        </FormSection>
-                                    </CardContent>
+                                                Internal note
+                                            </label>
+                                            <textarea
+                                                id="admin_note"
+                                                name="admin_note"
+                                                rows={4}
+                                                defaultValue={
+                                                    invoice.admin_note ?? ''
+                                                }
+                                                placeholder="Payment reference, bank transfer details, follow-up notes…"
+                                                style={storefrontTextareaStyle}
+                                            />
+                                            <p style={storefrontHintStyle}>
+                                                Visible to admins only — not shown
+                                                on customer-facing invoices.
+                                            </p>
+                                            {formErrors.admin_note ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {formErrors.admin_note}
+                                                </p>
+                                            ) : null}
+                                        </div>
+                                    </div>
+                                </CardContent>
 
-                                    <CardFooter className="border-t border-sidebar-border/70 py-4">
-                                        <Button
-                                            type="submit"
-                                            disabled={processing}
-                                        >
-                                            Save changes
-                                        </Button>
-                                    </CardFooter>
-                                </Card>
-                            )}
-                        </Form>
-                    </div>
+                                <CardFooter className="flex flex-wrap gap-2 border-t border-sidebar-border/70 py-4">
+                                    <button
+                                        type="submit"
+                                        disabled={processing}
+                                        style={adminCompactPrimaryButtonStyle(
+                                            processing,
+                                        )}
+                                    >
+                                        Save changes
+                                    </button>
+                                </CardFooter>
+                            </Card>
+                        )}
+                    </Form>
                 </div>
             </div>
         </AdminLayout>
