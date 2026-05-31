@@ -11,6 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
+        if (Schema::hasColumn('orders', 'user_id')) {
+            return;
+        }
+
         Schema::table('orders', function (Blueprint $table) {
             $table->foreignUlid('user_id')
                 ->nullable()
@@ -27,6 +31,10 @@ return new class extends Migration
      */
     public function down(): void
     {
+        if (! Schema::hasColumn('orders', 'user_id')) {
+            return;
+        }
+
         Schema::table('orders', function (Blueprint $table) {
             $table->dropConstrainedForeignId('user_id');
         });
