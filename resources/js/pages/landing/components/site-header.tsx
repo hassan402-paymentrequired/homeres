@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import MegaMenu from '@/components/storefront/mega-menu';
 import PreviewBanner from '@/components/storefront/preview-banner';
 import SearchOverlay from '@/components/storefront/search-overlay';
+import StorefrontAccountMenu from '@/components/storefront/storefront-account-menu';
 import StorefrontCurrencySelect from '@/components/storefront/storefront-currency-select';
 import { useCart } from '@/context/CartContext';
 import {
@@ -13,7 +14,7 @@ import {
     useStorefrontNav,
     type StorefrontNavItem,
 } from '@/data/navigation';
-import { home, login } from '@/routes';
+import { home } from '@/routes';
 
 const MOBILE_BREAKPOINT = 768;
 
@@ -439,27 +440,7 @@ export default function SiteHeader() {
                             <button type="button" className="header-icon-btn" onClick={openSearch} aria-label="Open search">
                                 {searchIcon}
                             </button>
-                            <Link
-                                href={login().url}
-                                style={{
-                                    display: 'flex',
-                                    alignItems: 'center',
-                                    gap: '6px',
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '11px',
-                                    fontWeight: 300,
-                                    letterSpacing: '1.5px',
-                                    textTransform: 'uppercase',
-                                    color: '#060606',
-                                    textDecoration: 'none',
-                                }}
-                            >
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-                                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
-                                    <circle cx="12" cy="7" r="4" />
-                                </svg>
-                                <span className="header-account-label">Account</span>
-                            </Link>
+                            <StorefrontAccountMenu />
                             <button type="button" onClick={openCart} style={{ display: 'flex', alignItems: 'center', gap: '6px', fontFamily: 'Poppins, sans-serif', fontSize: '11px', fontWeight: 300, letterSpacing: '1.5px', textTransform: 'uppercase', color: '#060606', position: 'relative', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }} aria-label="Open shopping bag">
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                                     <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
@@ -560,6 +541,10 @@ export default function SiteHeader() {
                                 onNavigate={() => setMobileOpen(false)}
                             />
                         ))}
+                        <StorefrontAccountMenu
+                            variant="mobile"
+                            onNavigate={() => setMobileOpen(false)}
+                        />
                     </nav>
                 )}
             </header>

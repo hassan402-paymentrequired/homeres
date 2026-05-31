@@ -3,9 +3,9 @@
 namespace App\Services;
 
 use App\Enums\InvoiceStatus;
-use App\Mail\InvoiceMail;
 use App\Models\Invoice;
-use Illuminate\Support\Facades\Mail;
+use App\Notifications\InvoiceNotification;
+use Illuminate\Support\Facades\Notification;
 use Illuminate\Validation\ValidationException;
 
 class InvoiceSender
@@ -20,7 +20,8 @@ class InvoiceSender
 
         $invoice->loadMissing('items');
 
-        Mail::to($recipientEmail)->send(new InvoiceMail($invoice, $message));
+        Notification::route('mail', $recipientEmail)
+            ->notify(new InvoiceNotification($invoice, $message));
 
         if ($invoice->status !== InvoiceStatus::Paid) {
             $updates = ['status' => InvoiceStatus::Sent];

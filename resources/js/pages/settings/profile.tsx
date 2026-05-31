@@ -1,12 +1,14 @@
 import { Form, Head, Link, usePage } from '@inertiajs/react';
 import ProfileController from '@/actions/App/Http/Controllers/Settings/ProfileController';
 import DeleteUser from '@/components/delete-user';
-import Heading from '@/components/heading';
-import InputError from '@/components/input-error';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { Label } from '@/components/ui/label';
-import { edit } from '@/routes/profile';
+import {
+    storefrontErrorStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontPrimaryButtonStyle,
+    storefrontSectionDescriptionStyle,
+    storefrontSectionTitleStyle,
+} from '@/lib/storefront-form-styles';
 import { send } from '@/routes/verification';
 
 export default function Profile({
@@ -24,95 +26,114 @@ export default function Profile({
 
             <h1 className="sr-only">Profile settings</h1>
 
-            <div className="space-y-6">
-                <Heading
-                    variant="small"
-                    title="Profile information"
-                    description="Update your name and email address"
-                />
+            <div style={{ marginBottom: '48px' }}>
+                <h2 style={storefrontSectionTitleStyle}>Profile information</h2>
+                <p style={storefrontSectionDescriptionStyle}>
+                    Update your name and email address
+                </p>
 
                 <Form
                     {...ProfileController.update.form()}
                     options={{
                         preserveScroll: true,
                     }}
-                    className="space-y-6"
                 >
                     {({ processing, errors }) => (
-                        <>
-                            <div className="grid gap-2">
-                                <Label htmlFor="name">Name</Label>
-
-                                <Input
+                        <div style={{ display: 'grid', gap: '20px' }}>
+                            <div>
+                                <label htmlFor="name" style={storefrontLabelStyle}>
+                                    Name
+                                </label>
+                                <input
                                     id="name"
-                                    className="mt-1 block w-full"
-                                    defaultValue={auth.user.name}
                                     name="name"
+                                    defaultValue={auth.user.name}
                                     required
                                     autoComplete="name"
                                     placeholder="Full name"
+                                    style={storefrontInputStyle}
                                 />
-
-                                <InputError
-                                    className="mt-2"
-                                    message={errors.name}
-                                />
+                                {errors.name && (
+                                    <p style={storefrontErrorStyle}>{errors.name}</p>
+                                )}
                             </div>
 
-                            <div className="grid gap-2">
-                                <Label htmlFor="email">Email address</Label>
-
-                                <Input
+                            <div>
+                                <label htmlFor="email" style={storefrontLabelStyle}>
+                                    Email address
+                                </label>
+                                <input
                                     id="email"
                                     type="email"
-                                    className="mt-1 block w-full"
-                                    defaultValue={auth.user.email}
                                     name="email"
+                                    defaultValue={auth.user.email}
                                     required
                                     autoComplete="username"
                                     placeholder="Email address"
+                                    style={storefrontInputStyle}
                                 />
-
-                                <InputError
-                                    className="mt-2"
-                                    message={errors.email}
-                                />
+                                {errors.email && (
+                                    <p style={storefrontErrorStyle}>{errors.email}</p>
+                                )}
                             </div>
 
                             {mustVerifyEmail &&
                                 auth.user.email_verified_at === null && (
                                     <div>
-                                        <p className="-mt-4 text-sm text-muted-foreground">
+                                        <p
+                                            style={{
+                                                fontFamily: 'Poppins, sans-serif',
+                                                fontSize: '12px',
+                                                fontWeight: 300,
+                                                color: '#6b6b6b',
+                                                lineHeight: 1.6,
+                                                margin: 0,
+                                            }}
+                                        >
                                             Your email address is unverified.{' '}
                                             <Link
                                                 href={send()}
                                                 as="button"
-                                                className="text-foreground underline decoration-neutral-300 underline-offset-4 transition-colors duration-300 ease-out hover:decoration-current! dark:decoration-neutral-500"
+                                                style={{
+                                                    color: '#060606',
+                                                    textDecoration: 'underline',
+                                                    textUnderlineOffset: '3px',
+                                                    background: 'none',
+                                                    border: 'none',
+                                                    cursor: 'pointer',
+                                                    font: 'inherit',
+                                                }}
                                             >
                                                 Click here to resend the
                                                 verification email.
                                             </Link>
                                         </p>
 
-                                        {status ===
-                                            'verification-link-sent' && (
-                                            <div className="mt-2 text-sm font-medium text-green-600">
+                                        {status === 'verification-link-sent' && (
+                                            <p
+                                                style={{
+                                                    marginTop: '8px',
+                                                    fontFamily: 'Poppins, sans-serif',
+                                                    fontSize: '13px',
+                                                    color: '#1a7a3c',
+                                                }}
+                                            >
                                                 A new verification link has been
                                                 sent to your email address.
-                                            </div>
+                                            </p>
                                         )}
                                     </div>
                                 )}
 
-                            <div className="flex items-center gap-4">
-                                <Button
-                                    disabled={processing}
-                                    data-test="update-profile-button"
-                                >
-                                    Save
-                                </Button>
-                            </div>
-                        </>
+                            <button
+                                type="submit"
+                                disabled={processing}
+                                data-test="update-profile-button"
+                                style={storefrontPrimaryButtonStyle(processing)}
+                            >
+                                {processing ? 'Saving…' : 'Save'}
+                            </button>
+                        </div>
                     )}
                 </Form>
             </div>
@@ -121,12 +142,3 @@ export default function Profile({
         </>
     );
 }
-
-Profile.layout = {
-    breadcrumbs: [
-        {
-            title: 'Profile settings',
-            href: edit(),
-        },
-    ],
-};

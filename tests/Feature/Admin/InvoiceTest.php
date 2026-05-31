@@ -1,17 +1,17 @@
 <?php
 
 use App\Enums\InvoiceStatus;
-use App\Mail\InvoiceMail;
 use App\Models\Admin;
 use App\Models\Invoice;
 use App\Models\InvoiceItem;
 use App\Models\Order;
 use App\Models\OrderItem;
 use App\Models\StoreSetting;
+use App\Notifications\InvoiceNotification;
 use App\Services\InvoiceFromOrderGenerator;
 use Database\Seeders\ProductTemplateSeeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Notification;
 
 uses(RefreshDatabase::class);
 
@@ -154,7 +154,7 @@ test('admins can create a draft invoice from an order', function () {
 });
 
 test('admins can create and send an invoice from an order', function () {
-    Mail::fake();
+    Notification::fake();
 
     $order = Order::factory()->pending()->create([
         'customer_email' => 'customer@example.com',
@@ -175,10 +175,13 @@ test('admins can create and send an invoice from an order', function () {
     expect($invoice->status)->toBe(InvoiceStatus::Sent)
         ->and($invoice->issued_at)->not->toBeNull();
 
-    Mail::assertSent(InvoiceMail::class, function (InvoiceMail $mail) {
-        return $mail->hasTo('customer@example.com')
-            && $mail->personalMessage === 'Thank you for shopping with Homère.';
-    });
+    Notification::assertSentOnDemand(
+        InvoiceNotification::class,
+        function (InvoiceNotification $notification, array $channels, object $notifiable) {
+            return ($notifiable->routes['mail'] ?? null) === 'customer@example.com'
+                && $notification->personalMessage === 'Thank you for shopping with Homère.';
+        },
+    );
 });
 
 test('creating an invoice reuses an existing active invoice instead of duplicating', function () {
@@ -207,7 +210,7 @@ test('cannot create an invoice for an order without line items', function () {
 });
 
 test('admins can send an existing invoice by email', function () {
-    Mail::fake();
+    Notification::fake();
 
     $invoice = Invoice::factory()->draft()->create([
         'customer_email' => 'customer@example.com',
@@ -224,11 +227,14 @@ test('admins can send an existing invoice by email', function () {
 
     expect($invoice->fresh()->status)->toBe(InvoiceStatus::Sent);
 
-    Mail::assertSent(InvoiceMail::class, fn (InvoiceMail $mail) => $mail->hasTo('billing@example.com'));
+    Notification::assertSentOnDemand(
+        InvoiceNotification::class,
+        fn (InvoiceNotification $notification, array $channels, object $notifiable) => ($notifiable->routes['mail'] ?? null) === 'billing@example.com',
+    );
 });
 
 test('void invoices cannot be sent', function () {
-    Mail::fake();
+    Notification::fake();
 
     $invoice = Invoice::factory()->create([
         'status' => InvoiceStatus::Void,
@@ -240,7 +246,7 @@ test('void invoices cannot be sent', function () {
         ])
         ->assertSessionHasErrors('invoice');
 
-    Mail::assertNothingSent();
+    Notification::assertNothingSent();
 });
 
 test('admins can open invoice compose page', function () {

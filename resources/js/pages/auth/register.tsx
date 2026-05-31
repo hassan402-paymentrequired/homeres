@@ -1,14 +1,6 @@
 import { Form, Head, Link } from '@inertiajs/react';
-// import InputError from '@/components/input-error';
-// import PasswordInput from '@/components/password-input';
-// import TextLink from '@/components/text-link';
-// import { Button } from '@/components/ui/button';
-// import { Input } from '@/components/ui/input';
-// import { Label } from '@/components/ui/label';
-// import { Spinner } from '@/components/ui/spinner';
-// import { login } from '@/routes';
 import { useState } from 'react';
-import { home } from '@/routes';
+import { home, login as loginRoute } from '@/routes';
 import { store } from '@/routes/register';
 
 type Props = {
@@ -18,22 +10,7 @@ type Props = {
 export default function Register({ passwordRules }: Props) {
     void passwordRules;
 
-    const [form, setForm] = useState({
-        firstName: '',
-        lastName: '',
-        email: '',
-        password: '',
-        confirmPassword: '',
-    });
     const [showPassword, setShowPassword] = useState(false);
-
-    const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-        setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }));
-    };
-
-    const handleSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-    };
 
     const inputStyle: React.CSSProperties = {
         width: '100%',
@@ -65,11 +42,17 @@ export default function Register({ passwordRules }: Props) {
             <Head title="Register" />
             <Form
                 {...store.form()}
+                transform={(data) => ({
+                    name: `${String(data.firstName ?? '').trim()} ${String(data.lastName ?? '').trim()}`.trim(),
+                    email: data.email,
+                    password: data.password,
+                    password_confirmation: data.password_confirmation,
+                })}
                 resetOnSuccess={['password', 'password_confirmation']}
                 disableWhileProcessing
                 className="flex flex-col gap-6"
             >
-                {() => (
+                {({ processing, errors }) => (
                     <div
                         style={{
                             fontFamily: 'Poppins, sans-serif',
@@ -80,7 +63,6 @@ export default function Register({ passwordRules }: Props) {
                             flexDirection: 'column',
                         }}
                     >
-                        {/* Header */}
                         <header
                             style={{
                                 borderBottom: '1px solid #e8e8e1',
@@ -142,7 +124,6 @@ export default function Register({ passwordRules }: Props) {
                             </Link>
                         </header>
 
-                        {/* Main */}
                         <main
                             style={{
                                 flex: 1,
@@ -153,7 +134,6 @@ export default function Register({ passwordRules }: Props) {
                             }}
                         >
                             <div style={{ width: '100%', maxWidth: '480px' }}>
-                                {/* Title */}
                                 <div
                                     style={{
                                         marginBottom: '40px',
@@ -188,12 +168,9 @@ export default function Register({ passwordRules }: Props) {
                                     </p>
                                 </div>
 
-                                {/* Form */}
-                                <form
-                                    onSubmit={handleSubmit}
-                                    style={{ display: 'grid', gap: '20px' }}
-                                >
+                                <div style={{ display: 'grid', gap: '20px' }}>
                                     <div
+                                        className="register-name-row"
                                         style={{
                                             display: 'grid',
                                             gridTemplateColumns: '1fr 1fr',
@@ -201,64 +178,117 @@ export default function Register({ passwordRules }: Props) {
                                         }}
                                     >
                                         <div>
-                                            <label style={labelStyle}>
+                                            <label
+                                                htmlFor="firstName"
+                                                style={labelStyle}
+                                            >
                                                 First Name
                                             </label>
                                             <input
+                                                id="firstName"
                                                 name="firstName"
                                                 type="text"
-                                                value={form.firstName}
-                                                onChange={handleChange}
+                                                autoComplete="given-name"
                                                 placeholder="First name"
                                                 required
                                                 style={inputStyle}
                                             />
+                                            {errors.firstName && (
+                                                <p
+                                                    style={{
+                                                        color: '#b42318',
+                                                        fontSize: '12px',
+                                                        marginTop: '6px',
+                                                    }}
+                                                >
+                                                    {errors.firstName}
+                                                </p>
+                                            )}
                                         </div>
                                         <div>
-                                            <label style={labelStyle}>
+                                            <label
+                                                htmlFor="lastName"
+                                                style={labelStyle}
+                                            >
                                                 Last Name
                                             </label>
                                             <input
+                                                id="lastName"
                                                 name="lastName"
                                                 type="text"
-                                                value={form.lastName}
-                                                onChange={handleChange}
+                                                autoComplete="family-name"
                                                 placeholder="Last name"
                                                 required
                                                 style={inputStyle}
                                             />
+                                            {errors.lastName && (
+                                                <p
+                                                    style={{
+                                                        color: '#b42318',
+                                                        fontSize: '12px',
+                                                        marginTop: '6px',
+                                                    }}
+                                                >
+                                                    {errors.lastName}
+                                                </p>
+                                            )}
                                         </div>
                                     </div>
+                                    {errors.name && (
+                                        <p
+                                            style={{
+                                                color: '#b42318',
+                                                fontSize: '12px',
+                                                marginTop: '-8px',
+                                            }}
+                                        >
+                                            {errors.name}
+                                        </p>
+                                    )}
 
                                     <div>
-                                        <label style={labelStyle}>
+                                        <label htmlFor="email" style={labelStyle}>
                                             Email Address
                                         </label>
                                         <input
+                                            id="email"
                                             name="email"
                                             type="email"
-                                            value={form.email}
-                                            onChange={handleChange}
+                                            autoComplete="email"
                                             placeholder="your@email.com"
                                             required
                                             style={inputStyle}
                                         />
+                                        {errors.email && (
+                                            <p
+                                                style={{
+                                                    color: '#b42318',
+                                                    fontSize: '12px',
+                                                    marginTop: '6px',
+                                                }}
+                                            >
+                                                {errors.email}
+                                            </p>
+                                        )}
                                     </div>
 
                                     <div>
-                                        <label style={labelStyle}>
+                                        <label
+                                            htmlFor="password"
+                                            style={labelStyle}
+                                        >
                                             Password
                                         </label>
                                         <div style={{ position: 'relative' }}>
                                             <input
+                                                id="password"
                                                 name="password"
                                                 type={
                                                     showPassword
                                                         ? 'text'
                                                         : 'password'
                                                 }
-                                                value={form.password}
-                                                onChange={handleChange}
+                                                autoComplete="new-password"
                                                 placeholder="Create a password"
                                                 required
                                                 style={{
@@ -330,8 +360,7 @@ export default function Register({ passwordRules }: Props) {
                                         </div>
                                         <p
                                             style={{
-                                                fontFamily:
-                                                    'Poppins, sans-serif',
+                                                fontFamily: 'Poppins, sans-serif',
                                                 fontSize: '11px',
                                                 fontWeight: 300,
                                                 color: '#999',
@@ -341,21 +370,46 @@ export default function Register({ passwordRules }: Props) {
                                         >
                                             Minimum 8 characters
                                         </p>
+                                        {errors.password && (
+                                            <p
+                                                style={{
+                                                    color: '#b42318',
+                                                    fontSize: '12px',
+                                                    marginTop: '6px',
+                                                }}
+                                            >
+                                                {errors.password}
+                                            </p>
+                                        )}
                                     </div>
 
                                     <div>
-                                        <label style={labelStyle}>
+                                        <label
+                                            htmlFor="password_confirmation"
+                                            style={labelStyle}
+                                        >
                                             Confirm Password
                                         </label>
                                         <input
-                                            name="confirmPassword"
+                                            id="password_confirmation"
+                                            name="password_confirmation"
                                             type="password"
-                                            value={form.confirmPassword}
-                                            onChange={handleChange}
+                                            autoComplete="new-password"
                                             placeholder="Repeat your password"
                                             required
                                             style={inputStyle}
                                         />
+                                        {errors.password_confirmation && (
+                                            <p
+                                                style={{
+                                                    color: '#b42318',
+                                                    fontSize: '12px',
+                                                    marginTop: '6px',
+                                                }}
+                                            >
+                                                {errors.password_confirmation}
+                                            </p>
+                                        )}
                                     </div>
 
                                     <div
@@ -379,8 +433,7 @@ export default function Register({ passwordRules }: Props) {
                                         <label
                                             htmlFor="terms"
                                             style={{
-                                                fontFamily:
-                                                    'Poppins, sans-serif',
+                                                fontFamily: 'Poppins, sans-serif',
                                                 fontSize: '11px',
                                                 fontWeight: 300,
                                                 color: '#6b6b6b',
@@ -414,9 +467,12 @@ export default function Register({ passwordRules }: Props) {
 
                                     <button
                                         type="submit"
+                                        disabled={processing}
                                         style={{
                                             width: '100%',
-                                            background: '#060606',
+                                            background: processing
+                                                ? '#6b6b6b'
+                                                : '#060606',
                                             color: '#ffffff',
                                             border: 'none',
                                             padding: '16px',
@@ -425,25 +481,18 @@ export default function Register({ passwordRules }: Props) {
                                             fontWeight: 500,
                                             letterSpacing: '2.5px',
                                             textTransform: 'uppercase',
-                                            cursor: 'pointer',
+                                            cursor: processing
+                                                ? 'wait'
+                                                : 'pointer',
                                             marginTop: '8px',
                                         }}
-                                        onMouseEnter={(e) =>
-                                            ((
-                                                e.currentTarget as HTMLButtonElement
-                                            ).style.background = '#333')
-                                        }
-                                        onMouseLeave={(e) =>
-                                            ((
-                                                e.currentTarget as HTMLButtonElement
-                                            ).style.background = '#060606')
-                                        }
                                     >
-                                        Create Account
+                                        {processing
+                                            ? 'Creating account…'
+                                            : 'Create Account'}
                                     </button>
-                                </form>
+                                </div>
 
-                                {/* Login link */}
                                 <p
                                     style={{
                                         textAlign: 'center',
@@ -457,7 +506,7 @@ export default function Register({ passwordRules }: Props) {
                                 >
                                     Already have an account?{' '}
                                     <Link
-                                        href="/login"
+                                        href={loginRoute().url}
                                         style={{
                                             color: '#060606',
                                             fontWeight: 500,
@@ -473,6 +522,14 @@ export default function Register({ passwordRules }: Props) {
                     </div>
                 )}
             </Form>
+
+            <style>{`
+                @media (max-width: 480px) {
+                    .register-name-row {
+                        grid-template-columns: 1fr !important;
+                    }
+                }
+            `}</style>
         </>
     );
 }

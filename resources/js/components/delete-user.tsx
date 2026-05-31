@@ -1,58 +1,124 @@
 import { Form } from '@inertiajs/react';
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 import ProfileController from '@/actions/App/Http/Controllers/Settings/ProfileController';
-import Heading from '@/components/heading';
-import InputError from '@/components/input-error';
-import PasswordInput from '@/components/password-input';
-import { Button } from '@/components/ui/button';
 import {
-    Dialog,
-    DialogClose,
-    DialogContent,
-    DialogDescription,
-    DialogFooter,
-    DialogTitle,
-    DialogTrigger,
-} from '@/components/ui/dialog';
-import { Label } from '@/components/ui/label';
+    storefrontDestructiveButtonStyle,
+    storefrontErrorStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontPrimaryButtonStyle,
+    storefrontSecondaryButtonStyle,
+    storefrontSectionDescriptionStyle,
+    storefrontSectionTitleStyle,
+} from '@/lib/storefront-form-styles';
 
 export default function DeleteUser() {
     const passwordInput = useRef<HTMLInputElement>(null);
+    const [dialogOpen, setDialogOpen] = useState(false);
 
     return (
-        <div className="space-y-6">
-            <Heading
-                variant="small"
-                title="Delete account"
-                description="Delete your account and all of its resources"
-            />
-            <div className="space-y-4 rounded-lg border border-red-100 bg-red-50 p-4 dark:border-red-200/10 dark:bg-red-700/10">
-                <div className="relative space-y-0.5 text-red-600 dark:text-red-100">
-                    <p className="font-medium">Warning</p>
-                    <p className="text-sm">
-                        Please proceed with caution, this cannot be undone.
-                    </p>
-                </div>
+        <div
+            style={{
+                paddingTop: '48px',
+                borderTop: '1px solid #e8e8e1',
+            }}
+        >
+            <h2 style={storefrontSectionTitleStyle}>Delete account</h2>
+            <p style={storefrontSectionDescriptionStyle}>
+                Delete your account and all of its resources
+            </p>
 
-                <Dialog>
-                    <DialogTrigger asChild>
-                        <Button
-                            variant="destructive"
-                            data-test="delete-user-button"
+            <div
+                style={{
+                    border: '1px solid #f0d4d4',
+                    background: '#fdf5f5',
+                    padding: '20px',
+                    marginBottom: '20px',
+                }}
+            >
+                <p
+                    style={{
+                        margin: '0 0 4px',
+                        fontFamily: 'Poppins, sans-serif',
+                        fontSize: '12px',
+                        fontWeight: 500,
+                        letterSpacing: '1px',
+                        textTransform: 'uppercase',
+                        color: '#b42318',
+                    }}
+                >
+                    Warning
+                </p>
+                <p
+                    style={{
+                        margin: 0,
+                        fontFamily: 'Poppins, sans-serif',
+                        fontSize: '12px',
+                        fontWeight: 300,
+                        color: '#6b6b6b',
+                        lineHeight: 1.6,
+                    }}
+                >
+                    Please proceed with caution, this cannot be undone.
+                </p>
+            </div>
+
+            <button
+                type="button"
+                data-test="delete-user-button"
+                onClick={() => setDialogOpen(true)}
+                style={storefrontDestructiveButtonStyle()}
+            >
+                Delete account
+            </button>
+
+            {dialogOpen && (
+                <div
+                    role="dialog"
+                    aria-modal="true"
+                    aria-labelledby="delete-account-title"
+                    style={{
+                        position: 'fixed',
+                        inset: 0,
+                        zIndex: 100,
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        padding: '24px',
+                        background: 'rgba(0,0,0,0.35)',
+                    }}
+                    onClick={() => setDialogOpen(false)}
+                >
+                    <div
+                        style={{
+                            width: '100%',
+                            maxWidth: '440px',
+                            background: '#ffffff',
+                            border: '1px solid #e8e8e1',
+                            padding: '32px 28px',
+                        }}
+                        onClick={(event) => event.stopPropagation()}
+                    >
+                        <h3
+                            id="delete-account-title"
+                            style={{
+                                ...storefrontSectionTitleStyle,
+                                fontSize: '18px',
+                                marginBottom: '12px',
+                            }}
                         >
-                            Delete account
-                        </Button>
-                    </DialogTrigger>
-                    <DialogContent>
-                        <DialogTitle>
                             Are you sure you want to delete your account?
-                        </DialogTitle>
-                        <DialogDescription>
+                        </h3>
+                        <p
+                            style={{
+                                ...storefrontSectionDescriptionStyle,
+                                marginBottom: '24px',
+                            }}
+                        >
                             Once your account is deleted, all of its resources
                             and data will also be permanently deleted. Please
-                            enter your password to confirm you would like to
-                            permanently delete your account.
-                        </DialogDescription>
+                            enter your password to confirm.
+                        </p>
 
                         <Form
                             {...ProfileController.destroy.form()}
@@ -60,61 +126,70 @@ export default function DeleteUser() {
                                 preserveScroll: true,
                             }}
                             onError={() => passwordInput.current?.focus()}
+                            onSuccess={() => setDialogOpen(false)}
                             resetOnSuccess
-                            className="space-y-6"
                         >
                             {({ resetAndClearErrors, processing, errors }) => (
-                                <>
-                                    <div className="grid gap-2">
-                                        <Label
+                                <div style={{ display: 'grid', gap: '20px' }}>
+                                    <div>
+                                        <label
                                             htmlFor="password"
-                                            className="sr-only"
+                                            style={storefrontLabelStyle}
                                         >
                                             Password
-                                        </Label>
-
-                                        <PasswordInput
+                                        </label>
+                                        <input
                                             id="password"
-                                            name="password"
                                             ref={passwordInput}
-                                            placeholder="Password"
+                                            type="password"
+                                            name="password"
+                                            placeholder="Enter your password"
                                             autoComplete="current-password"
+                                            style={storefrontInputStyle}
                                         />
-
-                                        <InputError message={errors.password} />
+                                        {errors.password && (
+                                            <p style={storefrontErrorStyle}>
+                                                {errors.password}
+                                            </p>
+                                        )}
                                     </div>
 
-                                    <DialogFooter className="gap-2">
-                                        <DialogClose asChild>
-                                            <Button
-                                                variant="secondary"
-                                                onClick={() =>
-                                                    resetAndClearErrors()
-                                                }
-                                            >
-                                                Cancel
-                                            </Button>
-                                        </DialogClose>
-
-                                        <Button
-                                            variant="destructive"
-                                            disabled={processing}
-                                            asChild
+                                    <div
+                                        style={{
+                                            display: 'grid',
+                                            gridTemplateColumns: '1fr 1fr',
+                                            gap: '12px',
+                                        }}
+                                    >
+                                        <button
+                                            type="button"
+                                            onClick={() => {
+                                                resetAndClearErrors();
+                                                setDialogOpen(false);
+                                            }}
+                                            style={storefrontSecondaryButtonStyle}
                                         >
-                                            <button
-                                                type="submit"
-                                                data-test="confirm-delete-user-button"
-                                            >
-                                                Delete account
-                                            </button>
-                                        </Button>
-                                    </DialogFooter>
-                                </>
+                                            Cancel
+                                        </button>
+                                        <button
+                                            type="submit"
+                                            disabled={processing}
+                                            data-test="confirm-delete-user-button"
+                                            style={storefrontDestructiveButtonStyle(
+                                                processing,
+                                            )}
+                                        >
+                                            {processing
+                                                ? 'Deleting…'
+                                                : 'Delete account'}
+                                        </button>
+                                    </div>
+                                </div>
                             )}
                         </Form>
-                    </DialogContent>
-                </Dialog>
-            </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }

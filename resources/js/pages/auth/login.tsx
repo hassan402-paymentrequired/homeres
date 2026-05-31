@@ -1,17 +1,8 @@
 import { Form, Head, Link } from '@inertiajs/react';
-// import InputError from '@/components/input-error';
-// import PasswordInput from '@/components/password-input';
-// import TextLink from '@/components/text-link';
-// import { Button } from '@/components/ui/button';
-// import { Checkbox } from '@/components/ui/checkbox';
-// import { Input } from '@/components/ui/input';
-// import { Label } from '@/components/ui/label';
-// import { Spinner } from '@/components/ui/spinner';
-// import { register } from '@/routes';
 import { useState } from 'react';
-import { home } from '@/routes';
+import { home, register } from '@/routes';
+import { email as forgotPassword } from '@/routes/password';
 import { store } from '@/routes/login';
-// import { request } from '@/routes/password';
 
 type Props = {
     status?: string;
@@ -21,45 +12,35 @@ type Props = {
 
 export default function Login({
     status,
-    // canResetPassword,
-    // canRegister,
+    canResetPassword,
+    canRegister,
 }: Props) {
+    const [showPassword, setShowPassword] = useState(false);
 
-    const [form, setForm] = useState({ email: '', password: '' });
-  const [showPassword, setShowPassword] = useState(false);
+    const inputStyle: React.CSSProperties = {
+        width: '100%',
+        fontFamily: 'Poppins, sans-serif',
+        fontSize: '13px',
+        fontWeight: 300,
+        letterSpacing: '0.5px',
+        color: '#060606',
+        background: '#ffffff',
+        border: '1px solid #d0d0cc',
+        padding: '13px 14px',
+        outline: 'none',
+        boxSizing: 'border-box',
+    };
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }));
-  };
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-  };
-
-  const inputStyle: React.CSSProperties = {
-    width: '100%',
-    fontFamily: 'Poppins, sans-serif',
-    fontSize: '13px',
-    fontWeight: 300,
-    letterSpacing: '0.5px',
-    color: '#060606',
-    background: '#ffffff',
-    border: '1px solid #d0d0cc',
-    padding: '13px 14px',
-    outline: 'none',
-    boxSizing: 'border-box',
-  };
-
-  const labelStyle: React.CSSProperties = {
-    fontFamily: 'Poppins, sans-serif',
-    fontSize: '11px',
-    fontWeight: 400,
-    letterSpacing: '1.5px',
-    textTransform: 'uppercase' as const,
-    color: '#060606',
-    display: 'block',
-    marginBottom: '6px',
-  };
+    const labelStyle: React.CSSProperties = {
+        fontFamily: 'Poppins, sans-serif',
+        fontSize: '11px',
+        fontWeight: 400,
+        letterSpacing: '1.5px',
+        textTransform: 'uppercase' as const,
+        color: '#060606',
+        display: 'block',
+        marginBottom: '6px',
+    };
 
     return (
         <>
@@ -70,7 +51,7 @@ export default function Login({
                 resetOnSuccess={['password']}
                 className="flex flex-col gap-6"
             >
-                {() => (
+                {({ processing, errors }) => (
                     <div
                         style={{
                             fontFamily: 'Poppins, sans-serif',
@@ -81,7 +62,6 @@ export default function Login({
                             flexDirection: 'column',
                         }}
                     >
-                        {/* Header */}
                         <header
                             style={{
                                 borderBottom: '1px solid #e8e8e1',
@@ -143,7 +123,6 @@ export default function Login({
                             </Link>
                         </header>
 
-                        {/* Main */}
                         <main
                             style={{
                                 flex: 1,
@@ -154,7 +133,6 @@ export default function Login({
                             }}
                         >
                             <div style={{ width: '100%', maxWidth: '440px' }}>
-                                {/* Title */}
                                 <div
                                     style={{
                                         marginBottom: '40px',
@@ -188,40 +166,62 @@ export default function Login({
                                     </p>
                                 </div>
 
-                                {/* Form */}
-                                <form
-                                    onSubmit={handleSubmit}
-                                    style={{ display: 'grid', gap: '20px' }}
-                                >
+                                {status && (
+                                    <p
+                                        style={{
+                                            fontFamily: 'Poppins, sans-serif',
+                                            fontSize: '13px',
+                                            color: '#1a7a3c',
+                                            textAlign: 'center',
+                                            marginBottom: '20px',
+                                        }}
+                                    >
+                                        {status}
+                                    </p>
+                                )}
+
+                                <div style={{ display: 'grid', gap: '20px' }}>
                                     <div>
-                                        <label style={labelStyle}>
+                                        <label htmlFor="email" style={labelStyle}>
                                             Email Address
                                         </label>
                                         <input
+                                            id="email"
                                             name="email"
                                             type="email"
-                                            value={form.email}
-                                            onChange={handleChange}
+                                            autoComplete="email"
+                                            autoFocus
                                             placeholder="your@email.com"
                                             required
                                             style={inputStyle}
                                         />
+                                        {errors.email && (
+                                            <p
+                                                style={{
+                                                    color: '#b42318',
+                                                    fontSize: '12px',
+                                                    marginTop: '6px',
+                                                }}
+                                            >
+                                                {errors.email}
+                                            </p>
+                                        )}
                                     </div>
 
                                     <div>
-                                        <label style={labelStyle}>
+                                        <label htmlFor="password" style={labelStyle}>
                                             Password
                                         </label>
                                         <div style={{ position: 'relative' }}>
                                             <input
+                                                id="password"
                                                 name="password"
                                                 type={
                                                     showPassword
                                                         ? 'text'
                                                         : 'password'
                                                 }
-                                                value={form.password}
-                                                onChange={handleChange}
+                                                autoComplete="current-password"
                                                 placeholder="Enter your password"
                                                 required
                                                 style={{
@@ -291,36 +291,52 @@ export default function Login({
                                                 )}
                                             </button>
                                         </div>
+                                        {errors.password && (
+                                            <p
+                                                style={{
+                                                    color: '#b42318',
+                                                    fontSize: '12px',
+                                                    marginTop: '6px',
+                                                }}
+                                            >
+                                                {errors.password}
+                                            </p>
+                                        )}
                                     </div>
 
-                                    <div
-                                        style={{
-                                            display: 'flex',
-                                            justifyContent: 'flex-end',
-                                        }}
-                                    >
-                                        <Link
-                                            href="/forgot-password"
+                                    {canResetPassword && (
+                                        <div
                                             style={{
-                                                fontFamily:
-                                                    'Poppins, sans-serif',
-                                                fontSize: '11px',
-                                                fontWeight: 300,
-                                                letterSpacing: '1px',
-                                                color: '#060606',
-                                                textDecoration: 'underline',
-                                                textUnderlineOffset: '3px',
+                                                display: 'flex',
+                                                justifyContent: 'flex-end',
                                             }}
                                         >
-                                            Forgot password?
-                                        </Link>
-                                    </div>
+                                            <Link
+                                                href={forgotPassword().url}
+                                                style={{
+                                                    fontFamily:
+                                                        'Poppins, sans-serif',
+                                                    fontSize: '11px',
+                                                    fontWeight: 300,
+                                                    letterSpacing: '1px',
+                                                    color: '#060606',
+                                                    textDecoration: 'underline',
+                                                    textUnderlineOffset: '3px',
+                                                }}
+                                            >
+                                                Forgot password?
+                                            </Link>
+                                        </div>
+                                    )}
 
                                     <button
                                         type="submit"
+                                        disabled={processing}
                                         style={{
                                             width: '100%',
-                                            background: '#060606',
+                                            background: processing
+                                                ? '#6b6b6b'
+                                                : '#060606',
                                             color: '#ffffff',
                                             border: 'none',
                                             padding: '16px',
@@ -329,96 +345,85 @@ export default function Login({
                                             fontWeight: 500,
                                             letterSpacing: '2.5px',
                                             textTransform: 'uppercase',
-                                            cursor: 'pointer',
+                                            cursor: processing
+                                                ? 'wait'
+                                                : 'pointer',
                                             marginTop: '8px',
                                         }}
-                                        onMouseEnter={(e) =>
-                                            ((
-                                                e.currentTarget as HTMLButtonElement
-                                            ).style.background = '#333')
-                                        }
-                                        onMouseLeave={(e) =>
-                                            ((
-                                                e.currentTarget as HTMLButtonElement
-                                            ).style.background = '#060606')
-                                        }
                                     >
-                                        Sign In
+                                        {processing ? 'Signing in…' : 'Sign In'}
                                     </button>
-                                </form>
-
-                                {/* Divider */}
-                                <div
-                                    style={{
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        gap: '16px',
-                                        margin: '32px 0',
-                                    }}
-                                >
-                                    <div
-                                        style={{
-                                            flex: 1,
-                                            height: '1px',
-                                            background: '#e8e8e1',
-                                        }}
-                                    />
-                                    <span
-                                        style={{
-                                            fontFamily: 'Poppins, sans-serif',
-                                            fontSize: '11px',
-                                            fontWeight: 300,
-                                            color: '#999',
-                                            letterSpacing: '1px',
-                                        }}
-                                    >
-                                        OR
-                                    </span>
-                                    <div
-                                        style={{
-                                            flex: 1,
-                                            height: '1px',
-                                            background: '#e8e8e1',
-                                        }}
-                                    />
                                 </div>
 
-                                {/* Register link */}
-                                <p
-                                    style={{
-                                        textAlign: 'center',
-                                        fontFamily: 'Poppins, sans-serif',
-                                        fontSize: '12px',
-                                        fontWeight: 300,
-                                        color: '#6b6b6b',
-                                        letterSpacing: '0.5px',
-                                        margin: 0,
-                                    }}
-                                >
-                                    New to Homère?{' '}
-                                    <Link
-                                        href="/register"
-                                        style={{
-                                            color: '#060606',
-                                            fontWeight: 500,
-                                            textDecoration: 'underline',
-                                            textUnderlineOffset: '3px',
-                                        }}
-                                    >
-                                        Create an account
-                                    </Link>
-                                </p>
+                                {canRegister && (
+                                    <>
+                                        <div
+                                            style={{
+                                                display: 'flex',
+                                                alignItems: 'center',
+                                                gap: '16px',
+                                                margin: '32px 0',
+                                            }}
+                                        >
+                                            <div
+                                                style={{
+                                                    flex: 1,
+                                                    height: '1px',
+                                                    background: '#e8e8e1',
+                                                }}
+                                            />
+                                            <span
+                                                style={{
+                                                    fontFamily:
+                                                        'Poppins, sans-serif',
+                                                    fontSize: '11px',
+                                                    fontWeight: 300,
+                                                    color: '#999',
+                                                    letterSpacing: '1px',
+                                                }}
+                                            >
+                                                OR
+                                            </span>
+                                            <div
+                                                style={{
+                                                    flex: 1,
+                                                    height: '1px',
+                                                    background: '#e8e8e1',
+                                                }}
+                                            />
+                                        </div>
+
+                                        <p
+                                            style={{
+                                                textAlign: 'center',
+                                                fontFamily: 'Poppins, sans-serif',
+                                                fontSize: '12px',
+                                                fontWeight: 300,
+                                                color: '#6b6b6b',
+                                                letterSpacing: '0.5px',
+                                                margin: 0,
+                                            }}
+                                        >
+                                            New to Homère?{' '}
+                                            <Link
+                                                href={register().url}
+                                                style={{
+                                                    color: '#060606',
+                                                    fontWeight: 500,
+                                                    textDecoration: 'underline',
+                                                    textUnderlineOffset: '3px',
+                                                }}
+                                            >
+                                                Create an account
+                                            </Link>
+                                        </p>
+                                    </>
+                                )}
                             </div>
                         </main>
                     </div>
                 )}
             </Form>
-
-            {status && (
-                <div className="mb-4 text-center text-sm font-medium text-green-600">
-                    {status}
-                </div>
-            )}
         </>
     );
 }

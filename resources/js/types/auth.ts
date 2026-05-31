@@ -9,7 +9,7 @@ export type Admin = {
 };
 
 export type User = {
-    id: number | string;
+    id: string;
     name: string;
     email: string;
     avatar?: string;
