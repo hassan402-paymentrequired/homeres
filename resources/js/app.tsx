@@ -27,6 +27,8 @@ createInertiaApp({
                 return null;
             case name.startsWith('checkout/'):
                 return null;
+            case name.startsWith('account/'):
+                return null;
             case name.startsWith('auth/'):
                 return null;
             case name.startsWith('product/'):

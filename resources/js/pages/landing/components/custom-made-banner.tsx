@@ -37,7 +37,7 @@ observer.observe(ref.current);
       
       {/* Background image */}
       <img
-       src="/assets/images/Globe top gold 3.jpg"
+       src="/assets/images/banners/ex-banner.jpg"
         // {/* src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80" */}
         alt="Homère bespoke interior design studio with custom furniture and architectural details"
         className="absolute inset-0 w-full h-full object-cover"

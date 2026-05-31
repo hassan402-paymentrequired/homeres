@@ -26,7 +26,8 @@ class CheckoutService
      *     shipping_city: string,
      *     shipping_state?: string|null,
      *     customer_note?: string|null,
-     *     items: array<int, array{variant_id: string, quantity: int}>
+     *     items: array<int, array{variant_id: string, quantity: int}>,
+     *     user_id?: string|null
      * }  $data
      */
     public function place(array $data): Order
@@ -41,6 +42,7 @@ class CheckoutService
             $total = $subtotal !== null ? $subtotal + $shippingTotal : null;
 
             $order = Order::query()->create([
+                'user_id' => $data['user_id'] ?? null,
                 'order_number' => $this->orderNumberGenerator->generate(),
                 'status' => OrderStatus::Pending,
                 'payment_status' => $this->paymentStatusForTotal($total, $hasPriceOnRequest),

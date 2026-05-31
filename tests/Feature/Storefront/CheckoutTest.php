@@ -43,6 +43,7 @@ test('checkout creates an order from cart payload', function () {
 
     expect($order)->not->toBeNull()
         ->and($order->customer_name)->toBe('Ada Lovelace')
+        ->and($order->user_id)->toBeNull()
         ->and($order->status)->toBe(OrderStatus::Pending)
         ->and($order->payment_status)->toBe(PaymentStatus::Pending)
         ->and((float) $order->total)->toBe(500000.0)

@@ -29,7 +29,10 @@ class CheckoutController extends Controller
         CheckoutService $checkout,
         PaystackService $paystack,
     ): RedirectResponse|HttpResponse {
-        $order = $checkout->place($request->validated());
+        $order = $checkout->place([
+            ...$request->validated(),
+            'user_id' => $request->user()?->id,
+        ]);
 
         if ($order->payment_status === PaymentStatus::NotRequired) {
             return redirect()

@@ -49,3 +49,4 @@ Route::get('/checkout/complete/{order}', [CheckoutController::class, 'complete']
 Route::post('/paystack/webhook', PaystackWebhookController::class)->name('paystack.webhook');
 
 require __DIR__.'/settings.php';
+require __DIR__.'/account.php';

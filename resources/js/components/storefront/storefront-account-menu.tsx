@@ -1,6 +1,7 @@
 import { Link, router, usePage } from '@inertiajs/react';
 import { useEffect, useRef, useState } from 'react';
-import { home, login, logout } from '@/routes';
+import { login, logout } from '@/routes';
+import { index as ordersIndex } from '@/routes/account/orders';
 import { edit } from '@/routes/profile';
 import type { Auth } from '@/types';
 
@@ -104,6 +105,13 @@ export default function StorefrontAccountMenu({
                 </p>
                 <Link href={edit().url} onClick={onNavigate} style={mobileChildStyle}>
                     Settings
+                </Link>
+                <Link
+                    href={ordersIndex().url}
+                    onClick={onNavigate}
+                    style={mobileChildStyle}
+                >
+                    Order history
                 </Link>
                 <Link
                     href={logout().url}
@@ -211,12 +219,12 @@ export default function StorefrontAccountMenu({
                         Settings
                     </Link>
                     <Link
-                        href={home().url}
+                        href={ordersIndex().url}
                         role="menuitem"
                         onClick={close}
                         style={dropdownItemStyle}
                     >
-                        Continue shopping
+                        Order history
                     </Link>
                     <div style={{ borderTop: '1px solid #f0f0ec' }}>
                         <Link
