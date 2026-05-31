@@ -751,6 +751,10 @@ export default function ProductDetailsPage({
                     .pdp-mobile-bar {
                         display: block;
                     }
+
+                    .pdp-add-btn {
+                        display: none;
+                    }
                 }
             `}</style>
         </StorefrontShell>
