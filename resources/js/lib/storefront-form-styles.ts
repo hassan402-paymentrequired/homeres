@@ -12,6 +12,22 @@ export const storefrontInputStyle: React.CSSProperties = {
     boxSizing: 'border-box',
 };
 
+export const storefrontTextareaStyle: React.CSSProperties = {
+    ...storefrontInputStyle,
+    minHeight: '112px',
+    resize: 'vertical',
+};
+
+export const storefrontHintStyle: React.CSSProperties = {
+    fontFamily: 'Poppins, sans-serif',
+    fontSize: '12px',
+    fontWeight: 300,
+    color: '#6b6b6b',
+    margin: '6px 0 0',
+    letterSpacing: '0.3px',
+    lineHeight: 1.6,
+};
+
 export const storefrontLabelStyle: React.CSSProperties = {
     fontFamily: 'Poppins, sans-serif',
     fontSize: '11px',
@@ -51,9 +67,10 @@ export const storefrontErrorStyle: React.CSSProperties = {
 
 export function storefrontPrimaryButtonStyle(
     processing = false,
+    fullWidth = true,
 ): React.CSSProperties {
     return {
-        width: '100%',
+        width: fullWidth ? '100%' : 'auto',
         background: processing ? '#6b6b6b' : '#060606',
         color: '#ffffff',
         border: 'none',
@@ -64,6 +81,7 @@ export function storefrontPrimaryButtonStyle(
         letterSpacing: '2.5px',
         textTransform: 'uppercase',
         cursor: processing ? 'wait' : 'pointer',
+        boxSizing: 'border-box',
     };
 }
 
@@ -85,14 +103,16 @@ export function storefrontDestructiveButtonStyle(
 }
 
 export const storefrontSecondaryButtonStyle: React.CSSProperties = {
+    width: '100%',
     background: 'transparent',
     color: '#060606',
     border: '1px solid #d0d0cc',
-    padding: '14px 20px',
+    padding: '16px',
     fontFamily: 'Poppins, sans-serif',
     fontSize: '12px',
     fontWeight: 400,
     letterSpacing: '2px',
     textTransform: 'uppercase',
     cursor: 'pointer',
+    boxSizing: 'border-box',
 };

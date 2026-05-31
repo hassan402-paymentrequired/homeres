@@ -4,22 +4,21 @@ import { useState } from 'react';
 import AdminDetailSummaryCard, {
     AdminDetailSection,
 } from '@/components/admin/admin-detail-summary-card';
-import FormField, { FormSection } from '@/components/admin/form-field';
 import InvoiceSendForm from '@/components/admin/invoice-send-form';
 import InvoiceStatusBadge from '@/components/admin/invoice-status-badge';
 import OrderStatusBadge from '@/components/admin/order-status-badge';
 import StockStatusBadge from '@/components/admin/stock-status-badge';
-import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from '@/components/ui/select';
-import { Textarea } from '@/components/ui/textarea';
 import AdminLayout from '@/layouts/admin-layout';
+import {
+    storefrontErrorStyle,
+    storefrontHintStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontPrimaryButtonStyle,
+    storefrontSecondaryButtonStyle,
+    storefrontTextareaStyle,
+} from '@/lib/storefront-form-styles';
 import type {
     OrderBreadcrumb,
     OrderInvoiceSummary,
@@ -34,6 +33,15 @@ type Props = {
     canCreateInvoice: boolean;
     statusOptions: OrderStatusOption[];
     breadcrumbs: OrderBreadcrumb[];
+};
+
+const linkButtonStyle: React.CSSProperties = {
+    ...storefrontSecondaryButtonStyle,
+    width: 'auto',
+    display: 'inline-flex',
+    alignItems: 'center',
+    gap: '6px',
+    textDecoration: 'none',
 };
 
 function formatPlacedAt(iso: string): string {
@@ -90,6 +98,10 @@ export default function OrderShow({
         [order.shipping_city, order.shipping_state].filter(Boolean).join(', '),
     ].filter(Boolean);
 
+    const showInvoiceForm =
+        (canCreateInvoice && !invoice) ||
+        (invoice !== null && invoice.status !== 'void');
+
     return (
         <AdminLayout
             breadcrumbs={breadcrumbs.map((crumb) => ({
@@ -115,7 +127,9 @@ export default function OrderShow({
                     </p>
                 </header>
 
-                <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+                <div
+                    className={`grid gap-4 sm:grid-cols-2 ${canCreateInvoice ? 'xl:grid-cols-3' : 'xl:grid-cols-2'}`}
+                >
                     <AdminDetailSummaryCard title="Customer">
                         <p className="font-medium">{order.customer_name}</p>
                         <p className="mt-2">
@@ -143,16 +157,6 @@ export default function OrderShow({
                         )}
                     </AdminDetailSummaryCard>
 
-                    <AdminDetailSummaryCard title="Order total">
-                        <p className="font-serif text-2xl font-medium">
-                            {formatOrderTotal(order)}
-                        </p>
-                        <p className="mt-1 text-xs text-muted-foreground">
-                            {order.items.length}{' '}
-                            {order.items.length === 1 ? 'item' : 'items'}
-                        </p>
-                    </AdminDetailSummaryCard>
-
                     {canCreateInvoice ? (
                         <AdminDetailSummaryCard title="Invoice">
                             {invoice ? (
@@ -170,25 +174,27 @@ export default function OrderShow({
                                         />
                                     </div>
                                     <div className="flex flex-wrap gap-2 pt-1">
-                                        <Button
-                                            asChild
-                                            variant="outline"
-                                            size="sm"
+                                        <Link
+                                            href={`/admin/invoices/${invoice.id}`}
+                                            style={linkButtonStyle}
                                         >
-                                            <Link
-                                                href={`/admin/invoices/${invoice.id}`}
-                                            >
-                                                View
-                                            </Link>
-                                        </Button>
+                                            View
+                                        </Link>
                                         {invoice.status === 'draft' ? (
-                                            <Button asChild size="sm">
-                                                <Link
-                                                    href={`/admin/invoices/${invoice.id}/edit`}
-                                                >
-                                                    Edit
-                                                </Link>
-                                            </Button>
+                                            <Link
+                                                href={`/admin/invoices/${invoice.id}/edit`}
+                                                style={{
+                                                    ...storefrontPrimaryButtonStyle(
+                                                        false,
+                                                    ),
+                                                    width: 'auto',
+                                                    display: 'inline-flex',
+                                                    alignItems: 'center',
+                                                    textDecoration: 'none',
+                                                }}
+                                            >
+                                                Edit
+                                            </Link>
                                         ) : null}
                                     </div>
                                 </div>
@@ -197,18 +203,13 @@ export default function OrderShow({
                                     <p className="text-muted-foreground">
                                         No invoice yet.
                                     </p>
-                                    <Button
-                                        asChild
-                                        variant="outline"
-                                        size="sm"
+                                    <Link
+                                        href={`/admin/invoices/create?order_id=${order.id}`}
+                                        style={linkButtonStyle}
                                     >
-                                        <Link
-                                            href={`/admin/invoices/create?order_id=${order.id}`}
-                                        >
-                                            <FileText className="size-3.5" />
-                                            Compose
-                                        </Link>
-                                    </Button>
+                                        <FileText className="size-3.5" />
+                                        Compose
+                                    </Link>
                                 </div>
                             )}
                         </AdminDetailSummaryCard>
@@ -282,165 +283,191 @@ export default function OrderShow({
                                     </tr>
                                 ))}
                             </tbody>
-                        </table>
-                    </div>
-                </AdminDetailSection>
-
-                <div className="grid gap-6 lg:grid-cols-2">
-                    <div className="space-y-6">
-                        <AdminDetailSummaryCard title="Order totals">
-                            <dl className="space-y-3">
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                            <tfoot className="border-t border-sidebar-border/70 text-sm">
+                                <tr>
+                                    <td
+                                        colSpan={4}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Subtotal
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {order.has_price_on_request_items &&
                                         order.subtotal === null
                                             ? 'Price on request'
                                             : formatMoney(order.subtotal)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4">
-                                    <dt className="text-muted-foreground">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td
+                                        colSpan={4}
+                                        className="px-4 py-3 text-right text-muted-foreground"
+                                    >
                                         Shipping
-                                    </dt>
-                                    <dd className="font-medium">
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-medium">
                                         {formatMoney(order.shipping_total)}
-                                    </dd>
-                                </div>
-                                <div className="flex justify-between gap-4 border-t border-sidebar-border/70 pt-3">
-                                    <dt className="font-medium">Total</dt>
-                                    <dd className="font-serif text-lg font-medium">
+                                    </td>
+                                </tr>
+                                <tr className="border-t border-sidebar-border/70">
+                                    <td
+                                        colSpan={4}
+                                        className="px-4 py-3 text-right font-medium"
+                                    >
+                                        Total
+                                    </td>
+                                    <td className="px-4 py-3 text-right font-serif text-lg font-medium">
                                         {formatOrderTotal(order)}
-                                    </dd>
-                                </div>
-                            </dl>
-                        </AdminDetailSummaryCard>
-
-                        {order.customer_note ? (
-                            <AdminDetailSummaryCard title="Customer note">
-                                <p className="leading-relaxed text-muted-foreground">
-                                    {order.customer_note}
-                                </p>
-                            </AdminDetailSummaryCard>
-                        ) : null}
+                                    </td>
+                                </tr>
+                            </tfoot>
+                        </table>
                     </div>
+                </AdminDetailSection>
 
-                    <div className="space-y-6">
-                        {canCreateInvoice && !invoice ? (
-                            <InvoiceSendForm
-                                action={`/admin/orders/${order.id}/invoice`}
-                                defaultEmail={order.customer_email}
-                                submitLabel="Create & send"
-                                secondaryLabel="Quick draft"
-                                errors={errors}
-                                hint="Quickly snapshot this order into an invoice. Use Compose for full editing, discounts, and tax."
-                            />
-                        ) : null}
+                {order.customer_note ? (
+                    <AdminDetailSummaryCard title="Customer note">
+                        <p className="leading-relaxed text-muted-foreground">
+                            {order.customer_note}
+                        </p>
+                    </AdminDetailSummaryCard>
+                ) : null}
 
-                        {invoice && invoice.status !== 'void' ? (
-                            <InvoiceSendForm
-                                action={`/admin/invoices/${invoice.id}/send`}
-                                defaultEmail={order.customer_email}
-                                submitLabel={
-                                    invoice.status === 'draft'
-                                        ? 'Send invoice'
-                                        : 'Resend invoice'
-                                }
-                                errors={errors}
-                                hint="Email the invoice to the customer."
-                            />
-                        ) : null}
+                <div
+                    className={`grid gap-6 ${showInvoiceForm ? 'grid-cols-1 lg:grid-cols-2' : 'grid-cols-1'}`}
+                >
+                    {canCreateInvoice && !invoice ? (
+                        <InvoiceSendForm
+                            action={`/admin/orders/${order.id}/invoice`}
+                            defaultEmail={order.customer_email}
+                            submitLabel="Create & send"
+                            secondaryLabel="Quick draft"
+                            errors={errors}
+                            hint="Quickly snapshot this order into an invoice. Use Compose for full editing, discounts, and tax."
+                        />
+                    ) : null}
 
-                        <Form
-                            action={`/admin/orders/${order.id}`}
-                            method="put"
-                            className="w-full"
-                        >
-                            {({ processing, errors: formErrors }) => (
-                                <Card className="border-sidebar-border/70 py-0 shadow-none">
-                                    <CardHeader className="border-b border-sidebar-border/70 py-6">
-                                        <p className="text-sm font-medium">
-                                            Fulfilment
-                                        </p>
-                                    </CardHeader>
+                    {invoice && invoice.status !== 'void' ? (
+                        <InvoiceSendForm
+                            action={`/admin/invoices/${invoice.id}/send`}
+                            defaultEmail={order.customer_email}
+                            submitLabel={
+                                invoice.status === 'draft'
+                                    ? 'Send invoice'
+                                    : 'Resend invoice'
+                            }
+                            errors={errors}
+                            hint="Email the invoice to the customer."
+                        />
+                    ) : null}
 
-                                    <CardContent className="space-y-6 py-6">
-                                        <FormSection>
-                                            <FormField
-                                                label="Status"
+                    <Form
+                        action={`/admin/orders/${order.id}`}
+                        method="put"
+                        className="h-full w-full"
+                    >
+                        {({ processing, errors: formErrors }) => (
+                            <Card className="h-full border-sidebar-border/70 py-0 shadow-none">
+                                <CardHeader className="border-b border-sidebar-border/70 py-6">
+                                    <p
+                                        style={{
+                                            fontFamily:
+                                                '"Proza Libre", sans-serif',
+                                            fontSize: '16px',
+                                            fontWeight: 500,
+                                            color: '#060606',
+                                            margin: 0,
+                                        }}
+                                    >
+                                        Fulfilment
+                                    </p>
+                                </CardHeader>
+
+                                <CardContent className="space-y-6 py-6">
+                                    <div style={{ display: 'grid', gap: '20px' }}>
+                                        <div>
+                                            <label
                                                 htmlFor="status"
-                                                error={formErrors.status}
+                                                style={storefrontLabelStyle}
                                             >
-                                                <Select
-                                                    value={status}
-                                                    onValueChange={(value) =>
-                                                        setStatus(
-                                                            value as OrderStatus,
-                                                        )
-                                                    }
-                                                >
-                                                    <SelectTrigger id="status">
-                                                        <SelectValue placeholder="Select status" />
-                                                    </SelectTrigger>
-                                                    <SelectContent>
-                                                        {statusOptions.map(
-                                                            (option) => (
-                                                                <SelectItem
-                                                                    key={
-                                                                        option.value
-                                                                    }
-                                                                    value={
-                                                                        option.value
-                                                                    }
-                                                                >
-                                                                    {
-                                                                        option.label
-                                                                    }
-                                                                </SelectItem>
-                                                            ),
-                                                        )}
-                                                    </SelectContent>
-                                                </Select>
-                                                <input
-                                                    type="hidden"
-                                                    name="status"
-                                                    value={status}
-                                                />
-                                            </FormField>
+                                                Status
+                                            </label>
+                                            <select
+                                                id="status"
+                                                value={status}
+                                                onChange={(event) =>
+                                                    setStatus(
+                                                        event.target
+                                                            .value as OrderStatus,
+                                                    )
+                                                }
+                                                style={storefrontInputStyle}
+                                            >
+                                                {statusOptions.map((option) => (
+                                                    <option
+                                                        key={option.value}
+                                                        value={option.value}
+                                                    >
+                                                        {option.label}
+                                                    </option>
+                                                ))}
+                                            </select>
+                                            <input
+                                                type="hidden"
+                                                name="status"
+                                                value={status}
+                                            />
+                                            {formErrors.status ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {formErrors.status}
+                                                </p>
+                                            ) : null}
+                                        </div>
 
-                                            <FormField
-                                                label="Internal note"
+                                        <div>
+                                            <label
                                                 htmlFor="admin_note"
-                                                hint="Visible to admins only — not shown to the customer."
-                                                error={formErrors.admin_note}
+                                                style={storefrontLabelStyle}
                                             >
-                                                <Textarea
-                                                    id="admin_note"
-                                                    name="admin_note"
-                                                    rows={4}
-                                                    defaultValue={
-                                                        order.admin_note ?? ''
-                                                    }
-                                                    placeholder="Delivery instructions, supplier follow-up, etc."
-                                                />
-                                            </FormField>
-                                        </FormSection>
-                                    </CardContent>
+                                                Internal note
+                                            </label>
+                                            <textarea
+                                                id="admin_note"
+                                                name="admin_note"
+                                                rows={4}
+                                                defaultValue={
+                                                    order.admin_note ?? ''
+                                                }
+                                                placeholder="Delivery instructions, supplier follow-up, etc."
+                                                style={storefrontTextareaStyle}
+                                            />
+                                            <p style={storefrontHintStyle}>
+                                                Visible to admins only — not shown
+                                                to the customer.
+                                            </p>
+                                            {formErrors.admin_note ? (
+                                                <p style={storefrontErrorStyle}>
+                                                    {formErrors.admin_note}
+                                                </p>
+                                            ) : null}
+                                        </div>
+                                    </div>
+                                </CardContent>
 
-                                    <CardFooter className="border-t border-sidebar-border/70 py-4">
-                                        <Button
-                                            type="submit"
-                                            disabled={processing}
-                                        >
-                                            Save changes
-                                        </Button>
-                                    </CardFooter>
-                                </Card>
-                            )}
-                        </Form>
-                    </div>
+                                <CardFooter className="border-t border-sidebar-border/70 py-4">
+                                    <button
+                                        type="submit"
+                                        disabled={processing}
+                                        style={storefrontPrimaryButtonStyle(
+                                            processing,
+                                        )}
+                                    >
+                                        Save changes
+                                    </button>
+                                </CardFooter>
+                            </Card>
+                        )}
+                    </Form>
                 </div>
             </div>
         </AdminLayout>

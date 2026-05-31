@@ -115,4 +115,15 @@ return [
         'name' => env('MAIL_FROM_NAME', env('APP_NAME', 'Laravel')),
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Order Notification Address
+    |--------------------------------------------------------------------------
+    |
+    | Fallback inbox for new order alerts when store contact email is unset.
+    |
+    */
+
+    'order_admin' => env('MAIL_ORDER_ADMIN'),
+
 ];

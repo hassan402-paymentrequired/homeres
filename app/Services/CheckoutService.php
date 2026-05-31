@@ -15,6 +15,7 @@ class CheckoutService
 {
     public function __construct(
         private OrderNumberGenerator $orderNumberGenerator,
+        private OrderNotificationSender $orderNotificationSender,
     ) {}
 
     /**
@@ -32,7 +33,7 @@ class CheckoutService
      */
     public function place(array $data): Order
     {
-        return DB::transaction(function () use ($data): Order {
+        $order = DB::transaction(function () use ($data): Order {
             $lines = $this->resolveLines($data['items']);
             $hasPriceOnRequest = $lines->contains(fn (array $line): bool => $line['price_on_request']);
             $subtotal = $hasPriceOnRequest
@@ -79,6 +80,10 @@ class CheckoutService
 
             return $order->fresh(['items']);
         });
+
+        $this->orderNotificationSender->send($order);
+
+        return $order;
     }
 
     public function markPaid(Order $order, string $reference, ?string $transactionId = null): void

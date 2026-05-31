@@ -1,10 +1,15 @@
 import { router } from '@inertiajs/react';
 import { useState } from 'react';
-import FormField, { FormSection } from '@/components/admin/form-field';
-import { Button } from '@/components/ui/button';
+import {
+    storefrontErrorStyle,
+    storefrontHintStyle,
+    storefrontInputStyle,
+    storefrontLabelStyle,
+    storefrontPrimaryButtonStyle,
+    storefrontSecondaryButtonStyle,
+    storefrontTextareaStyle,
+} from '@/lib/storefront-form-styles';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
 
 type Props = {
     action: string;
@@ -45,65 +50,94 @@ export default function InvoiceSendForm({
     };
 
     return (
-        <Card className="border-sidebar-border/70 py-0 shadow-none">
+        <Card className="h-full border-sidebar-border/70 py-0 shadow-none">
             <CardHeader className="border-b border-sidebar-border/70 py-6">
-                <p className="text-sm font-medium">Send invoice</p>
+                <p
+                    style={{
+                        fontFamily: '"Proza Libre", sans-serif',
+                        fontSize: '16px',
+                        fontWeight: 500,
+                        color: '#060606',
+                        margin: 0,
+                    }}
+                >
+                    Send invoice
+                </p>
                 {hint ? (
-                    <p className="text-sm text-muted-foreground">{hint}</p>
+                    <p style={{ ...storefrontHintStyle, marginTop: '8px' }}>
+                        {hint}
+                    </p>
                 ) : null}
             </CardHeader>
 
             <CardContent className="space-y-6 py-6">
-                <FormSection>
-                    <FormField
-                        label="Recipient email"
-                        htmlFor="recipient_email"
-                        error={errors.recipient_email}
-                    >
-                        <Input
+                <div style={{ display: 'grid', gap: '20px' }}>
+                    <div>
+                        <label
+                            htmlFor="recipient_email"
+                            style={storefrontLabelStyle}
+                        >
+                            Recipient email
+                        </label>
+                        <input
                             id="recipient_email"
                             type="email"
                             value={email}
                             onChange={(event) => setEmail(event.target.value)}
                             required
+                            style={storefrontInputStyle}
                         />
-                    </FormField>
+                        {errors.recipient_email ? (
+                            <p style={storefrontErrorStyle}>
+                                {errors.recipient_email}
+                            </p>
+                        ) : null}
+                    </div>
 
-                    <FormField
-                        label="Personal message"
-                        htmlFor="message"
-                        hint="Optional note included at the top of the email."
-                        error={errors.message}
-                    >
-                        <Textarea
+                    <div>
+                        <label htmlFor="message" style={storefrontLabelStyle}>
+                            Personal message
+                        </label>
+                        <textarea
                             id="message"
                             rows={3}
                             value={message}
                             onChange={(event) => setMessage(event.target.value)}
                             placeholder="Thank you for your order…"
+                            style={storefrontTextareaStyle}
                         />
-                    </FormField>
-                </FormSection>
+                        <p style={storefrontHintStyle}>
+                            Optional note included at the top of the email.
+                        </p>
+                        {errors.message ? (
+                            <p style={storefrontErrorStyle}>{errors.message}</p>
+                        ) : null}
+                    </div>
+                </div>
             </CardContent>
 
-            <CardFooter className="flex flex-wrap gap-2 border-t border-sidebar-border/70 py-4">
+            <CardFooter className="grid grid-cols-1 gap-3 border-t border-sidebar-border/70 py-4 sm:grid-cols-2">
                 {secondaryLabel ? (
-                    <Button
+                    <button
                         type="button"
-                        variant="outline"
                         disabled={processing}
                         onClick={() => submit(false)}
+                        style={storefrontSecondaryButtonStyle}
                     >
                         {secondaryLabel}
-                    </Button>
+                    </button>
                 ) : null}
-                <Button
+                <button
                     type="button"
                     disabled={processing}
                     onClick={() => submit(secondaryLabel ? true : undefined)}
+                    style={{
+                        ...storefrontPrimaryButtonStyle(processing),
+                        ...(secondaryLabel ? {} : { gridColumn: '1 / -1' }),
+                    }}
                 >
                     {submitLabel}
-                </Button>
+                </button>
             </CardFooter>
         </Card>
     );
