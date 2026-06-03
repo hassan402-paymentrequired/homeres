@@ -4,16 +4,45 @@ import React, { useState } from 'react';
 import { Link, router } from '@inertiajs/react';
 import CartLineImage from '@/components/storefront/cart-line-image';
 import { useCart } from '@/context/CartContext';
+import { useStorefrontCurrency } from '@/hooks/use-storefront-currency';
+import {
+    type CheckoutExchangeRates,
+    convertBetweenDisplayCurrencies,
+    currencyForPaymentProvider,
+    defaultPaymentProvider,
+    formatStorefrontMoney,
+    type PaymentProvider,
+} from '@/lib/currency';
 import { home } from '@/routes';
 
 type Props = {
     paystackConfigured: boolean;
+    stripeConfigured: boolean;
+    exchangeRates: CheckoutExchangeRates;
 };
 
-export default function CheckoutPage({ paystackConfigured }: Props) {
+export default function CheckoutPage({
+    paystackConfigured,
+    stripeConfigured,
+    exchangeRates,
+}: Props) {
     const { items, subtotal, orderNote, hasPriceOnRequest } = useCart();
+    const storefrontCurrency = useStorefrontCurrency();
+    const cartCurrency = storefrontCurrency?.currency ?? 'NGN';
+    const [paymentProvider, setPaymentProvider] = useState<PaymentProvider>(
+        defaultPaymentProvider(storefrontCurrency?.is_nigeria ?? false),
+    );
+    const checkoutCurrency = currencyForPaymentProvider(paymentProvider);
+    const paymentConfigured =
+        paymentProvider === 'stripe' ? stripeConfigured : paystackConfigured;
     const shipping = 0;
-    const total = subtotal + shipping;
+    const checkoutSubtotal = convertBetweenDisplayCurrencies(
+        subtotal,
+        cartCurrency,
+        checkoutCurrency,
+        exchangeRates,
+    );
+    const total = checkoutSubtotal + shipping;
     const [processing, setProcessing] = useState(false);
 
     const [form, setForm] = useState({
@@ -51,6 +80,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                 shipping_city: form.city.trim(),
                 shipping_state: form.state.trim() || null,
                 customer_note: orderNote.trim() || null,
+                payment_provider: paymentProvider,
                 items: items.map((item) => ({
                     variant_id: item.variantId,
                     quantity: item.quantity,
@@ -379,8 +409,10 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                             >
                                 {hasPriceOnRequest
                                     ? 'Items marked price on request will be confirmed by our team before payment.'
-                                    : paystackConfigured
-                                      ? 'You will complete payment securely on Paystack after placing your order.'
+                                    : paymentConfigured
+                                      ? paymentProvider === 'stripe'
+                                          ? 'You will complete payment securely on Stripe after placing your order.'
+                                          : 'You will complete payment securely on Paystack after placing your order.'
                                       : 'Online payment will be enabled soon. Your order will be saved and our team will follow up.'}
                             </p>
                         </div>
@@ -422,7 +454,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                             ? 'Processing…'
                             : hasPriceOnRequest && total === 0
                               ? 'Submit order'
-                              : `Place order — ₦${total.toLocaleString('en-NG')}`}
+                              : `Place order — ${formatStorefrontMoney(total, checkoutCurrency)}`}
                     </button>
                 </form>
 
@@ -544,7 +576,15 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                                     >
                                         {item.priceOnRequest || item.price === null
                                             ? 'Price on request'
-                                            : `₦${(item.price * item.quantity).toLocaleString('en-NG')}`}
+                                            : formatStorefrontMoney(
+                                                  convertBetweenDisplayCurrencies(
+                                                      item.price * item.quantity,
+                                                      cartCurrency,
+                                                      checkoutCurrency,
+                                                      exchangeRates,
+                                                  ),
+                                                  checkoutCurrency,
+                                              )}
                                     </p>
                                 </div>
                             ))
@@ -583,10 +623,7 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                                         color: '#060606',
                                     }}
                                 >
-                                    ₦
-                                    {subtotal.toLocaleString('en-EU', {
-                                        minimumFractionDigits: 2,
-                                    })}
+                                    {formatStorefrontMoney(checkoutSubtotal, checkoutCurrency)}
                                 </span>
                             </div>
                             <div
@@ -646,14 +683,147 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                                         color: '#060606',
                                     }}
                                 >
-                                    ₦
-                                    {total.toLocaleString('en-EU', {
-                                        minimumFractionDigits: 2,
-                                    })}
+                                    {formatStorefrontMoney(total, checkoutCurrency)}
                                 </span>
                             </div>
                         </div>
                     </div>
+
+                    {!hasPriceOnRequest && items.length > 0 && (
+                        <div
+                            style={{
+                                marginTop: '16px',
+                                border: '1px solid #e8e8e1',
+                                padding: '20px 24px',
+                                background: '#fafafa',
+                            }}
+                        >
+                            <p style={{ ...labelStyle, marginBottom: '12px' }}>
+                                Payment provider
+                            </p>
+                            <div
+                                style={{
+                                    display: 'flex',
+                                    flexDirection: 'column',
+                                    gap: '10px',
+                                }}
+                            >
+                                {(
+                                    [
+                                        {
+                                            value: 'paystack' as const,
+                                            label: 'Paystack',
+                                            detail: 'Pay in naira (NGN)',
+                                            configured: paystackConfigured,
+                                        },
+                                        {
+                                            value: 'stripe' as const,
+                                            label: 'Stripe',
+                                            detail: 'Pay in US dollars (USD)',
+                                            configured: stripeConfigured,
+                                        },
+                                    ] as const
+                                ).map((option) => {
+                                    const isSelected =
+                                        paymentProvider === option.value;
+                                    const isDisabled = !option.configured;
+
+                                    return (
+                                        <label
+                                            key={option.value}
+                                            style={{
+                                                display: 'flex',
+                                                alignItems: 'flex-start',
+                                                gap: '12px',
+                                                padding: '14px 16px',
+                                                border: `1px solid ${
+                                                    isSelected
+                                                        ? '#060606'
+                                                        : '#d0d0cc'
+                                                }`,
+                                                background: isSelected
+                                                    ? '#ffffff'
+                                                    : 'transparent',
+                                                cursor: isDisabled
+                                                    ? 'not-allowed'
+                                                    : 'pointer',
+                                                opacity: isDisabled ? 0.5 : 1,
+                                            }}
+                                        >
+                                            <input
+                                                type="radio"
+                                                name="paymentProvider"
+                                                value={option.value}
+                                                checked={isSelected}
+                                                disabled={isDisabled}
+                                                onChange={() =>
+                                                    setPaymentProvider(
+                                                        option.value,
+                                                    )
+                                                }
+                                                style={{
+                                                    marginTop: '2px',
+                                                    accentColor: '#060606',
+                                                    flexShrink: 0,
+                                                }}
+                                            />
+                                            <span>
+                                                <span
+                                                    style={{
+                                                        display: 'block',
+                                                        fontFamily:
+                                                            'Poppins, sans-serif',
+                                                        fontSize: '13px',
+                                                        fontWeight: 400,
+                                                        color: '#060606',
+                                                    }}
+                                                >
+                                                    {option.label}
+                                                    {isDisabled
+                                                        ? ' — unavailable'
+                                                        : ''}
+                                                </span>
+                                                <span
+                                                    style={{
+                                                        display: 'block',
+                                                        marginTop: '2px',
+                                                        fontFamily:
+                                                            'Poppins, sans-serif',
+                                                        fontSize: '11px',
+                                                        fontWeight: 300,
+                                                        color: '#999',
+                                                    }}
+                                                >
+                                                    {option.detail}
+                                                </span>
+                                            </span>
+                                        </label>
+                                    );
+                                })}
+                            </div>
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '11px',
+                                    fontWeight: 300,
+                                    color: '#999',
+                                    letterSpacing: '0.5px',
+                                    margin: '12px 0 0',
+                                    lineHeight: 1.5,
+                                }}
+                            >
+                                You will be charged in{' '}
+                                {checkoutCurrency === 'USD'
+                                    ? 'US dollars'
+                                    : 'naira'}{' '}
+                                via{' '}
+                                {paymentProvider === 'stripe'
+                                    ? 'Stripe'
+                                    : 'Paystack'}
+                                .
+                            </p>
+                        </div>
+                    )}
 
                     {/* Trust badges */}
                     <div
@@ -669,7 +839,10 @@ export default function CheckoutPage({ paystackConfigured }: Props) {
                             { icon: '↩', text: 'Free returns within 30 days' },
                             {
                                 icon: '📦',
-                                text: 'Free shipping on orders over ₦500',
+                                text:
+                                    checkoutCurrency === 'USD'
+                                        ? 'Free shipping on orders over $500'
+                                        : 'Free shipping on orders over ₦500',
                             },
                         ].map((badge) => (
                             <div

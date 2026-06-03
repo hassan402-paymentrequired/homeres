@@ -21,6 +21,7 @@ function checkoutNotificationPayload(ProductVariant $variant): array
         'shipping_address' => '12 Marina',
         'shipping_city' => 'Lagos',
         'shipping_state' => 'Lagos',
+        'payment_provider' => 'paystack',
         'items' => [
             ['variant_id' => $variant->id, 'quantity' => 1],
         ],
@@ -35,11 +36,12 @@ function createCheckoutVariantForNotifications(): ProductVariant
         'category_id' => $category->id,
         'brand_id' => $brand->id,
         'is_active' => true,
+        'specs' => ['currency' => 'EUR'],
     ]);
 
     return ProductVariant::factory()->create([
         'product_id' => $product->id,
-        'price' => 250000,
+        'price' => 100,
         'price_on_request' => false,
         'is_active' => true,
     ]);
@@ -47,6 +49,7 @@ function createCheckoutVariantForNotifications(): ProductVariant
 
 test('checkout sends order confirmation emails to customer and admin', function () {
     Notification::fake();
+    config(['paystack.secret_key' => null]);
 
     StoreSetting::current()->update([
         'contact_email' => 'orders@homere.com',
@@ -54,7 +57,8 @@ test('checkout sends order confirmation emails to customer and admin', function 
 
     $variant = createCheckoutVariantForNotifications();
 
-    $this->post(route('checkout.store'), checkoutNotificationPayload($variant))
+    $this->withHeader('CF-IPCountry', 'NG')
+        ->post(route('checkout.store'), checkoutNotificationPayload($variant))
         ->assertRedirect();
 
     Notification::assertSentOnDemand(
@@ -70,6 +74,7 @@ test('checkout sends order confirmation emails to customer and admin', function 
 
 test('checkout skips admin notification when no admin email is configured', function () {
     Notification::fake();
+    config(['paystack.secret_key' => null]);
 
     StoreSetting::current()->update([
         'contact_email' => null,
@@ -79,7 +84,8 @@ test('checkout skips admin notification when no admin email is configured', func
 
     $variant = createCheckoutVariantForNotifications();
 
-    $this->post(route('checkout.store'), checkoutNotificationPayload($variant))
+    $this->withHeader('CF-IPCountry', 'NG')
+        ->post(route('checkout.store'), checkoutNotificationPayload($variant))
         ->assertRedirect();
 
     Notification::assertSentOnDemand(CustomerOrderConfirmationNotification::class);

@@ -34,6 +34,8 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
     'payment_status',
     'paystack_reference',
     'paystack_transaction_id',
+    'stripe_session_id',
+    'stripe_payment_intent_id',
 ])]
 class Order extends Model
 {

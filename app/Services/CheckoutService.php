@@ -6,7 +6,9 @@ use App\Enums\OrderStatus;
 use App\Enums\PaymentStatus;
 use App\Enums\StockStatus;
 use App\Models\Order;
+use App\Models\Product;
 use App\Models\ProductVariant;
+use App\Support\Storefront\StorefrontPriceConverter;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Validation\ValidationException;
@@ -16,6 +18,7 @@ class CheckoutService
     public function __construct(
         private OrderNumberGenerator $orderNumberGenerator,
         private OrderNotificationSender $orderNotificationSender,
+        private StorefrontPriceConverter $priceConverter,
     ) {}
 
     /**
@@ -27,14 +30,17 @@ class CheckoutService
      *     shipping_city: string,
      *     shipping_state?: string|null,
      *     customer_note?: string|null,
+     *     payment_provider: 'paystack'|'stripe',
      *     items: array<int, array{variant_id: string, quantity: int}>,
      *     user_id?: string|null
      * }  $data
      */
     public function place(array $data): Order
     {
-        $order = DB::transaction(function () use ($data): Order {
-            $lines = $this->resolveLines($data['items']);
+        $checkoutCurrency = $data['payment_provider'] === 'stripe' ? 'USD' : 'NGN';
+
+        $order = DB::transaction(function () use ($data, $checkoutCurrency): Order {
+            $lines = $this->resolveLines($data['items'], $checkoutCurrency);
             $hasPriceOnRequest = $lines->contains(fn (array $line): bool => $line['price_on_request']);
             $subtotal = $hasPriceOnRequest
                 ? null
@@ -58,7 +64,7 @@ class CheckoutService
                 'shipping_total' => $shippingTotal,
                 'total' => $total,
                 'has_price_on_request_items' => $hasPriceOnRequest,
-                'currency' => 'NGN',
+                'currency' => $checkoutCurrency,
                 'placed_at' => now(),
             ]);
 
@@ -96,6 +102,16 @@ class CheckoutService
         ]);
     }
 
+    public function markPaidFromStripe(Order $order, string $sessionId, ?string $paymentIntentId = null): void
+    {
+        $order->update([
+            'payment_status' => PaymentStatus::Paid,
+            'status' => OrderStatus::Confirmed,
+            'stripe_session_id' => $sessionId,
+            'stripe_payment_intent_id' => $paymentIntentId,
+        ]);
+    }
+
     /**
      * @param  array<int, array{variant_id: string, quantity: int}>  $items
      * @return Collection<int, array{
@@ -111,7 +127,7 @@ class CheckoutService
      *     line_total: float|null
      * }>
      */
-    private function resolveLines(array $items): Collection
+    private function resolveLines(array $items, string $checkoutCurrency): Collection
     {
         if ($items === []) {
             throw ValidationException::withMessages([
@@ -119,7 +135,7 @@ class CheckoutService
             ]);
         }
 
-        return collect($items)->map(function (array $item): array {
+        return collect($items)->map(function (array $item) use ($checkoutCurrency): array {
             $variant = ProductVariant::query()
                 ->with(['product' => fn ($query) => $query->published()])
                 ->where('id', $item['variant_id'])
@@ -134,7 +150,14 @@ class CheckoutService
 
             $quantity = max(1, (int) $item['quantity']);
             $priceOnRequest = (bool) $variant->price_on_request || $variant->price === null || (float) $variant->price <= 0;
-            $unitPrice = $priceOnRequest ? null : (float) $variant->price;
+            $sourceAmount = $priceOnRequest ? null : (float) $variant->price;
+            $unitPrice = $sourceAmount !== null
+                ? $this->priceConverter->convert(
+                    $sourceAmount,
+                    $this->sourceCurrency($variant->product),
+                    $checkoutCurrency,
+                )
+                : null;
             $lineTotal = $unitPrice !== null ? round($unitPrice * $quantity, 2) : null;
 
             return [
@@ -159,5 +182,16 @@ class CheckoutService
         }
 
         return PaymentStatus::Pending;
+    }
+
+    private function sourceCurrency(Product $product): string
+    {
+        if (! is_array($product->specs)) {
+            return 'EUR';
+        }
+
+        $currency = $product->specs['currency'] ?? null;
+
+        return is_string($currency) && $currency !== '' ? strtoupper($currency) : 'EUR';
     }
 }

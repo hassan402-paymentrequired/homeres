@@ -1,6 +1,6 @@
 import { Head, Link } from '@inertiajs/react';
 import StorefrontShell from '@/components/storefront/storefront-shell';
-import { formatNaira } from '@/lib/cart';
+import { formatStorefrontMoney } from '@/lib/currency';
 
 type OrderPayload = {
     id: string;
@@ -9,6 +9,7 @@ type OrderPayload = {
     payment_status: string;
     customer_name: string;
     total: number | null;
+    currency: 'NGN' | 'USD';
     has_price_on_request_items: boolean;
 };
 
@@ -20,7 +21,7 @@ export default function CheckoutCompletePage({ order }: Props) {
     const totalLabel =
         order.has_price_on_request_items || order.total === null
             ? 'Price on request'
-            : formatNaira(order.total);
+            : formatStorefrontMoney(order.total, order.currency);
 
     return (
         <StorefrontShell>

@@ -20,6 +20,7 @@ function checkoutPayload(ProductVariant $variant): array
         'shipping_city' => 'Lagos',
         'shipping_state' => 'Lagos',
         'customer_note' => 'Please call on arrival.',
+        'payment_provider' => 'paystack',
         'items' => [
             ['variant_id' => $variant->id, 'quantity' => 2],
         ],
@@ -34,21 +35,25 @@ function createCheckoutVariant(): ProductVariant
         'category_id' => $category->id,
         'brand_id' => $brand->id,
         'is_active' => true,
+        'specs' => ['currency' => 'EUR'],
     ]);
 
     return ProductVariant::factory()->create([
         'product_id' => $product->id,
-        'price' => 250000,
+        'price' => 100,
         'price_on_request' => false,
         'is_active' => true,
     ]);
 }
 
 test('checkout links order to authenticated user', function () {
+    config(['paystack.secret_key' => null]);
+
     $user = User::factory()->create();
     $variant = createCheckoutVariant();
 
     $this->actingAs($user)
+        ->withHeader('CF-IPCountry', 'NG')
         ->post(route('checkout.store'), checkoutPayload($variant))
         ->assertRedirect();
 
@@ -59,9 +64,12 @@ test('checkout links order to authenticated user', function () {
 });
 
 test('guest checkout leaves order unlinked', function () {
+    config(['paystack.secret_key' => null]);
+
     $variant = createCheckoutVariant();
 
-    $this->post(route('checkout.store'), checkoutPayload($variant))
+    $this->withHeader('CF-IPCountry', 'NG')
+        ->post(route('checkout.store'), checkoutPayload($variant))
         ->assertRedirect();
 
     expect(Order::query()->first()->user_id)->toBeNull();

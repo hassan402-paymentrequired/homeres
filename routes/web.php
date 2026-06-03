@@ -8,6 +8,7 @@ use App\Http\Controllers\Storefront\ProductLookupController;
 use App\Http\Controllers\Storefront\SearchController;
 use App\Http\Controllers\Storefront\ShopController;
 use App\Http\Controllers\Storefront\StorefrontCurrencyController;
+use App\Http\Controllers\Storefront\StripeWebhookController;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
@@ -44,9 +45,11 @@ Route::post('/storefront/currency', [StorefrontCurrencyController::class, 'updat
 Route::get('/checkout', [CheckoutController::class, 'create'])->name('checkout');
 Route::post('/checkout', [CheckoutController::class, 'store'])->name('checkout.store');
 Route::get('/checkout/callback', [CheckoutController::class, 'callback'])->name('checkout.callback');
+Route::get('/checkout/stripe/callback', [CheckoutController::class, 'stripeCallback'])->name('checkout.stripe.callback');
 Route::get('/checkout/complete/{order}', [CheckoutController::class, 'complete'])->name('checkout.complete');
 
 Route::post('/paystack/webhook', PaystackWebhookController::class)->name('paystack.webhook');
+Route::post('/stripe/webhook', StripeWebhookController::class)->name('stripe.webhook');
 
 require __DIR__.'/settings.php';
 require __DIR__.'/account.php';

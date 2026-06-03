@@ -12,32 +12,40 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 uses(RefreshDatabase::class);
 
 test('checkout creates an order from cart payload', function () {
+    config([
+        'storefront.exchange_rates.EUR.NGN' => 1000,
+        'paystack.secret_key' => null,
+    ]);
+
     $category = Category::factory()->create();
     $brand = Brand::factory()->create();
     $product = Product::factory()->create([
         'category_id' => $category->id,
         'brand_id' => $brand->id,
         'is_active' => true,
+        'specs' => ['currency' => 'EUR'],
     ]);
     $variant = ProductVariant::factory()->create([
         'product_id' => $product->id,
-        'price' => 250000,
+        'price' => 100,
         'price_on_request' => false,
         'is_active' => true,
     ]);
 
-    $this->post(route('checkout.store'), [
-        'customer_name' => 'Ada Lovelace',
-        'customer_email' => 'ada@example.com',
-        'customer_phone' => '+2348000000000',
-        'shipping_address' => '12 Marina',
-        'shipping_city' => 'Lagos',
-        'shipping_state' => 'Lagos',
-        'customer_note' => 'Please call on arrival.',
-        'items' => [
-            ['variant_id' => $variant->id, 'quantity' => 2],
-        ],
-    ])->assertRedirect();
+    $this->withHeader('CF-IPCountry', 'NG')
+        ->post(route('checkout.store'), [
+            'customer_name' => 'Ada Lovelace',
+            'customer_email' => 'ada@example.com',
+            'customer_phone' => '+2348000000000',
+            'shipping_address' => '12 Marina',
+            'shipping_city' => 'Lagos',
+            'shipping_state' => 'Lagos',
+            'customer_note' => 'Please call on arrival.',
+            'payment_provider' => 'paystack',
+            'items' => [
+                ['variant_id' => $variant->id, 'quantity' => 2],
+            ],
+        ])->assertRedirect();
 
     $order = Order::query()->first();
 
@@ -46,7 +54,8 @@ test('checkout creates an order from cart payload', function () {
         ->and($order->user_id)->toBeNull()
         ->and($order->status)->toBe(OrderStatus::Pending)
         ->and($order->payment_status)->toBe(PaymentStatus::Pending)
-        ->and((float) $order->total)->toBe(500000.0)
+        ->and($order->currency)->toBe('NGN')
+        ->and((float) $order->total)->toBe(200000.0)
         ->and($order->items)->toHaveCount(1);
 });
 
