@@ -74,12 +74,49 @@ export default function AboutPage() {
                     for excellence, sophistication, and customer satisfaction.
                 </p>
                 <h2 style={headingStyle}>Our Mission</h2>
-                <p style={{ ...bodyStyle, marginBottom: 0 }}>
+                <p style={bodyStyle}>
                     To transform every house into a warm and inviting home through our
                     meticulously curated selection of top-tier products — combining beauty
                     and practicality so each piece enhances both aesthetics and
                     functionality of your living space.
                 </p>
+                <h2 style={headingStyle}>Get in Touch</h2>
+                <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 20px' }}>
+                    {(
+                        [
+                            { label: 'Operations', email: BRAND.emails.operations },
+                            { label: 'Partnerships', email: BRAND.emails.partnerships },
+                            { label: 'Business', email: BRAND.emails.business },
+                        ] as const
+                    ).map((item) => (
+                        <li key={item.email} style={{ marginBottom: '12px' }}>
+                            <p
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '10px',
+                                    fontWeight: 500,
+                                    letterSpacing: '2px',
+                                    textTransform: 'uppercase',
+                                    color: '#999',
+                                    margin: '0 0 4px',
+                                }}
+                            >
+                                {item.label}
+                            </p>
+                            <a
+                                href={`mailto:${item.email}`}
+                                style={{
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '14px',
+                                    fontWeight: 300,
+                                    color: '#060606',
+                                }}
+                            >
+                                {item.email}
+                            </a>
+                        </li>
+                    ))}
+                </ul>
             </div>
             <StoreLocations />
         </StorefrontShell>

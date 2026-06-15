@@ -3,7 +3,14 @@ export const BRAND = {
     legalName: 'Homère Nigeria Limited',
     tagline:
         'Transform every house into a warm and inviting home through carefully curated luxury home decor.',
-    email: 'homerenigerialimited@gmail.com',
+    email: 'support@homere.com',
+    emails: {
+        support: 'support@homere.com',
+        info: 'info@homere.com',
+        operations: 'operations@homere.com',
+        partnerships: 'partnerships@homere.com',
+        business: 'business@homere.com',
+    },
     phone: '+2349115754421',
     phoneHref: 'tel:+2349115754421',
     address:

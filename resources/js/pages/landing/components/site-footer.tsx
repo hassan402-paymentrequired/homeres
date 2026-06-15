@@ -312,9 +312,15 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
                 {BRAND.phone}
               </a>
             </li>
-            <li style={{ marginBottom: '12px' }}>
+            {(
+              [
+                { label: 'Operations', email: BRAND.emails.operations },
+                { label: 'Support', email: BRAND.emails.support },
+              ] as const
+            ).map((item) => (
+            <li key={item.email} style={{ marginBottom: '12px' }}>
               <a
-                href={`mailto:${BRAND.email}`}
+                href={`mailto:${item.email}`}
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -338,9 +344,10 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                   <polyline points="22,6 12,13 2,6" />
                 </svg>
-                {BRAND.email}
+                {item.email}
               </a>
             </li>
+            ))}
           </ul>
         </div>
 

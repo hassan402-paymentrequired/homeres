@@ -52,31 +52,39 @@ export default function ContactPage() {
                         friendly team is here to help.
                     </p>
                     <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-                        <li style={{ marginBottom: '20px' }}>
-                            <p
-                                style={{
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '10px',
-                                    fontWeight: 500,
-                                    letterSpacing: '2px',
-                                    textTransform: 'uppercase',
-                                    color: '#999',
-                                    margin: '0 0 4px',
-                                }}
-                            >
-                                Email
-                            </p>
-                            <a
-                                href={`mailto:${BRAND.email}`}
-                                style={{
-                                    fontFamily: 'Poppins, sans-serif',
-                                    fontSize: '14px',
-                                    color: '#060606',
-                                }}
-                            >
-                                {BRAND.email}
-                            </a>
-                        </li>
+                        {(
+                            [
+                                { label: 'Support', email: BRAND.emails.support },
+                                { label: 'General inquiries', email: BRAND.emails.info },
+                                { label: 'Operations', email: BRAND.emails.operations },
+                            ] as const
+                        ).map((item) => (
+                            <li key={item.email} style={{ marginBottom: '20px' }}>
+                                <p
+                                    style={{
+                                        fontFamily: 'Poppins, sans-serif',
+                                        fontSize: '10px',
+                                        fontWeight: 500,
+                                        letterSpacing: '2px',
+                                        textTransform: 'uppercase',
+                                        color: '#999',
+                                        margin: '0 0 4px',
+                                    }}
+                                >
+                                    {item.label}
+                                </p>
+                                <a
+                                    href={`mailto:${item.email}`}
+                                    style={{
+                                        fontFamily: 'Poppins, sans-serif',
+                                        fontSize: '14px',
+                                        color: '#060606',
+                                    }}
+                                >
+                                    {item.email}
+                                </a>
+                            </li>
+                        ))}
                         <li style={{ marginBottom: '20px' }}>
                             <p
                                 style={{
