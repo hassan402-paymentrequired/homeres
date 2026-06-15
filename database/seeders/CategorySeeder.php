@@ -350,16 +350,19 @@ class CategorySeeder extends Seeder
                 'aggregate' => true,
                 'children' => [
                     [
-                        'links' => [
-                            array_merge($leaf('home-fragrance', 'fragrance'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('candle-holders-accessories', 'fragrance'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('coasters'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('boxes'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('games'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('watch-winders'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('objects'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('picture-frames'), ['nav_group' => 'Home Accessories']),
-                            array_merge($leaf('bowls'), ['nav_group' => 'Home Accessories']),
+                        'handle' => 'home-accessories',
+                        'aggregate' => true,
+                        'nav_group' => 'Home Accessories',
+                        'children' => [
+                            $leaf('candle-holders-accessories', 'fragrance'),
+                            $leaf('coasters'),
+                            $leaf('boxes'),
+                            $leaf('games'),
+                            $leaf('watch-winders'),
+                            $leaf('objects'),
+                            $leaf('picture-frames'),
+                            $leaf('bowls'),
+                            $leaf('wallpaper', 'wallpaper'),
                         ],
                     ],
                     [
@@ -397,7 +400,6 @@ class CategorySeeder extends Seeder
                             $leaf('plaids-bedspreads', 'textile'),
                         ],
                     ],
-                    ['links' => [$leaf('wallpaper', 'wallpaper')]],
                     [
                         'handle' => 'dining-serveware',
                         'aggregate' => true,

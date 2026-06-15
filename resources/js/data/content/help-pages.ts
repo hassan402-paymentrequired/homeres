@@ -106,7 +106,7 @@ export const HELP_PAGES: Record<string, HelpPage> = {
             },
             {
                 heading: 'Contact',
-                body: 'For privacy enquiries, email homerenigerialimited@gmail.com.',
+                body: 'For privacy enquiries, email support@homere.com',
             },
         ],
     },
