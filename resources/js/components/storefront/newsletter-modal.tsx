@@ -1,4 +1,4 @@
-import { router, usePage } from '@inertiajs/react';
+import { usePage } from '@inertiajs/react';
 import { useCallback, useEffect, useState } from 'react';
 import {
     deferNewsletterPrompt,
@@ -10,49 +10,37 @@ const SHOW_DELAY_MS = 1800;
 
 export default function NewsletterModal() {
     const { showNewsletterModal } = usePage<{ showNewsletterModal: boolean }>().props;
-    const [locallySuppressed, setLocallySuppressed] = useState(false);
+    const [locallyDismissed, setLocallyDismissed] = useState(false);
     const [visible, setVisible] = useState(false);
     const [email, setEmail] = useState('');
     const [submitting, setSubmitting] = useState(false);
     const [success, setSuccess] = useState(false);
     const [error, setError] = useState<string | null>(null);
 
-    const suppressPrompt = useCallback(() => {
-        setLocallySuppressed(true);
-        setVisible(false);
-        router.reload({ only: ['showNewsletterModal'] });
-    }, []);
-
     const dismiss = useCallback(async () => {
         setVisible(false);
+        setLocallyDismissed(true);
 
-        const ok = await dismissNewsletterPrompt();
-
-        if (ok) {
-            suppressPrompt();
-        }
-    }, [suppressPrompt]);
+        await dismissNewsletterPrompt();
+    }, []);
 
     useEffect(() => {
-        if (!showNewsletterModal || locallySuppressed) {
+        if (!showNewsletterModal || locallyDismissed) {
             return undefined;
         }
 
         const timer = window.setTimeout(() => setVisible(true), SHOW_DELAY_MS);
 
         return () => window.clearTimeout(timer);
-    }, [showNewsletterModal, locallySuppressed]);
+    }, [showNewsletterModal, locallyDismissed]);
 
     useEffect(() => {
         if (!visible) {
             return undefined;
         }
 
-        void deferNewsletterPrompt().then((ok) => {
-            if (ok) {
-                setLocallySuppressed(true);
-            }
-        });
+        // Record that the prompt was shown (3-hour cooldown) without closing the modal.
+        void deferNewsletterPrompt();
 
         const previousOverflow = document.body.style.overflow;
         document.body.style.overflow = 'hidden';
@@ -86,14 +74,14 @@ export default function NewsletterModal() {
             }
 
             setSuccess(true);
-            setLocallySuppressed(true);
+            setLocallyDismissed(true);
             window.setTimeout(() => setVisible(false), 2200);
         } finally {
             setSubmitting(false);
         }
     };
 
-    if (!showNewsletterModal || locallySuppressed || !visible) {
+    if (!showNewsletterModal || locallyDismissed || !visible) {
         return null;
     }
 
