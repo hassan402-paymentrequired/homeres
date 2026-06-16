@@ -213,10 +213,7 @@ export default function ProductCard({
                         {wishlisted ? '♥' : '♡'}
                     </button>
                 </div>
-                <Link
-                    href={product.href}
-                    className="no-underline block"
-                >
+                <div className="no-underline block">
                     {(product.brand || product.category) && (
                         <p
                             style={{
@@ -235,7 +232,6 @@ export default function ProductCard({
                             {product.brand && product.brandHandle ? (
                                 <Link
                                     href={`/brands/${product.brandHandle}`}
-                                    onClick={(e) => e.stopPropagation()}
                                     style={{
                                         fontWeight: 600,
                                         color: '#060606',
@@ -281,41 +277,38 @@ export default function ProductCard({
                             )}
                         </p>
                     )}
-                    <p
+                    <Link
+                        href={product.href}
                         style={{
-                            fontFamily: 'Poppins, sans-serif',
-                            fontSize: '12px',
-                            fontWeight: 300,
-                            color: '#060606',
-                            margin: '0 0 4px',
+                            display: 'block',
+                            textDecoration: 'none',
+                            color: 'inherit',
                         }}
                     >
-                        {product.name}
-                    </p>
-                    <p
-                        style={{
-                            fontFamily: 'Poppins, sans-serif',
-                            fontSize: '12px',
-                            fontWeight: 400,
-                            color: '#060606',
-                            margin: 0,
-                        }}
-                    >
-                        {product.priceFormatted}
-                    </p>
-                    <style jsx>{`
-                        @media (max-width: 600px) {
-                            .product-category-line-break {
-                                display: block !important;
-                                height: 0;
-                            }
-                            .product-category {
-                                display: block !important;
-                                margin-top: 2px;
-                            }
-                        }
-                    `}</style>
-                </Link>
+                        <p
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '12px',
+                                fontWeight: 300,
+                                color: '#060606',
+                                margin: '0 0 4px',
+                            }}
+                        >
+                            {product.name}
+                        </p>
+                        <p
+                            style={{
+                                fontFamily: 'Poppins, sans-serif',
+                                fontSize: '12px',
+                                fontWeight: 400,
+                                color: '#060606',
+                                margin: 0,
+                            }}
+                        >
+                            {product.priceFormatted}
+                        </p>
+                    </Link>
+                </div>
           
             </div>
             <ProductQuickView

@@ -2,6 +2,7 @@
 
 namespace App\Http\Middleware;
 
+use App\Services\Storefront\OpenAiChatService;
 use App\Support\Storefront\NewsletterPromptResolver;
 use App\Support\Storefront\StorefrontCurrencyResolver;
 use App\Support\Storefront\StorefrontNavigationBuilder;
@@ -50,6 +51,9 @@ class HandleInertiaRequests extends Middleware
             'showNewsletterModal' => $request->is('admin', 'admin/*')
                 ? false
                 : app(NewsletterPromptResolver::class)->shouldShow($request),
+            'aiChatEnabled' => $request->is('admin', 'admin/*')
+                ? false
+                : OpenAiChatService::isConfigured(),
             'auth' => [
                 'user' => $request->user(),
                 'admin' => $request->user('admin'),

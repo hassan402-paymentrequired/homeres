@@ -18,6 +18,7 @@ declare module '@inertiajs/core' {
             storefrontNav: StorefrontNavItem[];
             storefrontCurrency: StorefrontCurrencyProps | null;
             showNewsletterModal: boolean;
+            aiChatEnabled: boolean;
             [key: string]: unknown;
         };
     }

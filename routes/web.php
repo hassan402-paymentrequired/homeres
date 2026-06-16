@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Storefront\ChatController;
 use App\Http\Controllers\Storefront\CheckoutController;
 use App\Http\Controllers\Storefront\HomeController;
 use App\Http\Controllers\Storefront\NewsletterDismissController;
@@ -41,6 +42,9 @@ Route::get('/brands', ShopController::class)->name('brands');
 
 Route::get('/products/{product}', [ProductController::class, 'show'])->name('products.show');
 Route::post('/storefront/products/lookup', ProductLookupController::class)->name('storefront.products.lookup');
+Route::post('/storefront/chat', ChatController::class)
+    ->middleware('throttle:30,1')
+    ->name('storefront.chat');
 Route::post('/storefront/newsletter', NewsletterSubscriptionController::class)->name('storefront.newsletter');
 Route::post('/storefront/newsletter/dismiss', NewsletterDismissController::class)->name('storefront.newsletter.dismiss');
 Route::post('/storefront/newsletter/seen', NewsletterDismissController::class)->name('storefront.newsletter.seen');

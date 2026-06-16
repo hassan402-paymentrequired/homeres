@@ -226,3 +226,15 @@
         @apply bg-background text-foreground;
     }
 }
+
+@media (max-width: 600px) {
+    .product-category-line-break {
+        display: block !important;
+        height: 0;
+    }
+
+    .product-category {
+        display: block !important;
+        margin-top: 2px;
+    }
+}
