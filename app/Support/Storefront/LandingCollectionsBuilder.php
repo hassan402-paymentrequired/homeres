@@ -39,6 +39,18 @@ final class LandingCollectionsBuilder
             'image' => '/assets/images/Golden Chandelier-1.jpg',
             'alt' => 'Statement lighting including chandeliers and floor lamps',
         ],
+        [
+            'handle' => 'decorative-cushions-pillows',
+            'label' => 'Cushions',
+            'image' => 'https://arowonen.com/cdn/shop/files/imgi_4_119371_0_1_700x_8b31b312-00ff-4e25-b1a0-c9d439d83a26.webp?v=1777378944',
+            'alt' => 'Decorative cushions and throw pillows',
+        ],
+        [
+            'handle' => 'textiles',
+            'label' => 'Textiles',
+            'image' => 'https://arowonen.com/cdn/shop/files/IMG_6373.heic?v=1737123924',
+            'alt' => 'Luxury home textiles including plaids and bedspreads',
+        ],
     ];
 
     public function __construct(

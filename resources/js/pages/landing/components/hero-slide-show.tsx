@@ -32,7 +32,7 @@ const slides: Slide[] = [
 },
 {
   id: 3,
-  image: "/assets/images/banners/about-banner.jpeg",
+  image: "/assets/images/banners/brand.jpg",
   alt: 'Modern dining area with designer chairs and statement pendant lighting',
   headline: 'Design Studio',
   subline: 'Bespoke interiors crafted to your vision',
@@ -127,8 +127,8 @@ clearInterval(intervalRef.current);
           <div className="absolute inset-0 bg-black" style={{ opacity: 0.35 }} />
           {/* Content */}
           <div
-            className="absolute inset-0 flex flex-col items-center justify-center text-center"
-            style={{ padding: '0 30px' }}
+            className="absolute inset-0 flex flex-col items-center justify-end text-center"
+            style={{ padding: '0 30px clamp(96px, 14vh, 160px)' }}
           >
             <div className="max-w-page mx-auto w-full text-center">
               <p

@@ -22,6 +22,49 @@ type Props = {
     collections: ShopCollection[];
 };
 
+const CURATED_CATEGORY_SLUGS = [
+    'decor-accessories',
+    'home-fragrance',
+    'coffee-table-books-1',
+    'furniture',
+    'lighting',
+    'decorative-cushions-pillows',
+    'textiles',
+] as const;
+
+const FALLBACK_COLLECTIONS: ShopCollection[] = [
+    {
+        id: 'decorative-cushions-pillows',
+        name: 'Cushions',
+        slug: 'decorative-cushions-pillows',
+        image: 'https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_1749.jpg?v=1778063054',
+        alt: 'Decorative cushions and throw pillows',
+        productCount: 0,
+    },
+    {
+        id: 'textiles',
+        name: 'Textiles',
+        slug: 'textiles',
+        image: 'https://cdn.shopify.com/s/files/1/0631/0251/7500/files/DSC_1845.jpg?v=1778063069',
+        alt: 'Luxury home textiles including plaids and bedspreads',
+        productCount: 0,
+    },
+];
+
+function orderCollections(collections: ShopCollection[]): ShopCollection[] {
+    const bySlug = new Map(collections.map((collection) => [collection.slug, collection]));
+
+    for (const fallback of FALLBACK_COLLECTIONS) {
+        if (!bySlug.has(fallback.slug)) {
+            bySlug.set(fallback.slug, fallback);
+        }
+    }
+
+    return CURATED_CATEGORY_SLUGS.map((slug) => bySlug.get(slug)).filter(
+        (collection): collection is ShopCollection => collection !== undefined,
+    );
+}
+
 function collectionHref(slug: string): string {
     return `/shop/${slug}`;
 }
@@ -163,7 +206,14 @@ export default function CollectionsGrid({ collections }: Props) {
     const sliderRef = useRef<HTMLDivElement>(null);
     const slideRefs = useRef<(HTMLAnchorElement | null)[]>([]);
 
-    const rows = useMemo(() => buildRows(collections), [collections]);
+    const rows = useMemo(
+        () => buildRows(orderCollections(collections)),
+        [collections],
+    );
+    const orderedCollections = useMemo(
+        () => orderCollections(collections),
+        [collections],
+    );
 
     useEffect(() => {
         const mq = window.matchMedia('(max-width: 768px)');
@@ -204,7 +254,7 @@ export default function CollectionsGrid({ collections }: Props) {
         syncActiveSlide();
         track.addEventListener('scroll', syncActiveSlide, { passive: true });
         return () => track.removeEventListener('scroll', syncActiveSlide);
-    }, [isMobile, syncActiveSlide, collections.length]);
+    }, [isMobile, syncActiveSlide, orderedCollections.length]);
 
     const goToSlide = (index: number) => {
         slideRefs.current[index]?.scrollIntoView({
@@ -232,7 +282,7 @@ export default function CollectionsGrid({ collections }: Props) {
 
     let tileIndex = 0;
 
-    if (collections.length === 0) {
+    if (orderedCollections.length === 0) {
         return null;
     }
 
@@ -265,7 +315,7 @@ export default function CollectionsGrid({ collections }: Props) {
                             WebkitOverflowScrolling: 'touch',
                         }}
                     >
-                        {collections.map((col, idx) => (
+                        {orderedCollections.map((col, idx) => (
                             <SliderTile
                                 key={col.id}
                                 collection={col}
@@ -294,7 +344,7 @@ export default function CollectionsGrid({ collections }: Props) {
                             aria-label="Category slides"
                             className="flex max-w-[220px] flex-wrap justify-center gap-[6px]"
                         >
-                            {collections.map((col, idx) => (
+                            {orderedCollections.map((col, idx) => (
                                 <button
                                     key={col.id}
                                     type="button"
@@ -314,7 +364,7 @@ export default function CollectionsGrid({ collections }: Props) {
                         <button
                             type="button"
                             onClick={() => goToSlide(activeSlide + 1)}
-                            disabled={activeSlide === collections.length - 1}
+                            disabled={activeSlide === orderedCollections.length - 1}
                             aria-label="Next category"
                             className="flex h-9 w-9 shrink-0 items-center justify-center border border-[#e0e0d8] bg-white text-sm text-[#060606] transition-colors hover:border-[#060606] hover:bg-[#f5f5f3] disabled:cursor-not-allowed disabled:opacity-35"
                         >
