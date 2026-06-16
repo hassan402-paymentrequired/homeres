@@ -2,7 +2,10 @@
 
 namespace App\Services\Storefront;
 
+use App\Support\Storefront\ChatContextPrefetcher;
+use App\Support\Storefront\ChatReplySanitizer;
 use App\Support\Storefront\ChatToolExecutor;
+use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\RequestException;
 use Illuminate\Support\Facades\Http;
 use RuntimeException;
@@ -11,11 +14,21 @@ final class OpenAiChatService
 {
     public function __construct(
         private ChatToolExecutor $tools,
+        private ChatContextPrefetcher $prefetcher,
     ) {}
 
     public static function isConfigured(): bool
     {
+        if (self::usesLocalAi()) {
+            return filled(config('ollama.base_url')) && filled(config('ollama.model'));
+        }
+
         return filled(config('openai.api_key'));
+    }
+
+    public static function usesLocalAi(): bool
+    {
+        return (bool) config('app.is_ai_local', false);
     }
 
     /**
@@ -33,6 +46,12 @@ final class OpenAiChatService
             ...$messages,
         ];
 
+        $prefetched = $this->prefetcher->build($messages);
+
+        if ($prefetched !== null) {
+            $conversation[] = ['role' => 'system', 'content' => $prefetched];
+        }
+
         $products = [];
         $maxRounds = (int) config('openai.max_tool_rounds', 5);
 
@@ -41,14 +60,16 @@ final class OpenAiChatService
             $assistantMessage = $response['choices'][0]['message'] ?? null;
 
             if ($assistantMessage === null) {
-                throw new RuntimeException('Unexpected response from OpenAI.');
+                throw new RuntimeException('Unexpected response from the AI provider.');
             }
 
             $toolCalls = $assistantMessage['tool_calls'] ?? [];
 
             if ($toolCalls === []) {
                 return [
-                    'reply' => trim((string) ($assistantMessage['content'] ?? '')),
+                    'reply' => ChatReplySanitizer::sanitize(
+                        trim((string) ($assistantMessage['content'] ?? '')),
+                    ),
                     'products' => $this->uniqueProducts($products),
                 ];
             }
@@ -75,7 +96,9 @@ final class OpenAiChatService
         }
 
         return [
-            'reply' => 'I found some options for you — let me know if you would like to narrow your search.',
+            'reply' => ChatReplySanitizer::sanitize(
+                'I found some options for you — let me know if you would like to narrow your search.',
+            ),
             'products' => $this->uniqueProducts($products),
         ];
     }
@@ -86,12 +109,22 @@ final class OpenAiChatService
      */
     private function request(array $messages): array
     {
+        return self::usesLocalAi()
+            ? $this->requestOllama($messages)
+            : $this->requestOpenAi($messages);
+    }
+
+    /**
+     * @param  list<array<string, mixed>>  $messages
+     * @return array<string, mixed>
+     */
+    private function requestOpenAi(array $messages): array
+    {
         $baseUrl = rtrim((string) config('openai.base_url'), '/');
 
         try {
-            $response = Http::withToken((string) config('openai.api_key'))
-                ->timeout(60)
-                ->acceptJson()
+            $response = $this->httpClient()
+                ->withToken((string) config('openai.api_key'))
                 ->post("{$baseUrl}/chat/completions", [
                     'model' => config('openai.model'),
                     'messages' => $messages,
@@ -110,23 +143,72 @@ final class OpenAiChatService
         return $response->json();
     }
 
+    /**
+     * @param  list<array<string, mixed>>  $messages
+     * @return array<string, mixed>
+     */
+    private function requestOllama(array $messages): array
+    {
+        $baseUrl = rtrim((string) config('ollama.base_url'), '/');
+
+        try {
+            $response = $this->httpClient(
+                connectTimeout: (int) config('ollama.connect_timeout', 3),
+                timeout: (int) config('ollama.timeout', 30),
+            )
+                ->post("{$baseUrl}/v1/chat/completions", [
+                    'model' => config('ollama.model'),
+                    'messages' => $messages,
+                    'tools' => ChatToolExecutor::toolDefinitions(),
+                    'tool_choice' => 'auto',
+                    'temperature' => 0.4,
+                    'stream' => false,
+                ])
+                ->throw();
+        } catch (RequestException $exception) {
+            throw new RuntimeException(
+                'Unable to reach the local AI assistant. Make sure Ollama is running.',
+                previous: $exception,
+            );
+        }
+
+        return $response->json();
+    }
+
+    private function httpClient(?int $connectTimeout = null, ?int $timeout = null): PendingRequest
+    {
+        $client = Http::acceptJson();
+
+        if ($connectTimeout !== null) {
+            $client = $client->connectTimeout($connectTimeout);
+        }
+
+        if ($timeout !== null) {
+            $client = $client->timeout($timeout);
+        } else {
+            $client = $client->timeout(60);
+        }
+
+        return $client;
+    }
+
     private function systemPrompt(): string
     {
         return <<<'PROMPT'
 You are the Homère shopping assistant for Homère Nigeria Limited, a luxury home decor boutique in Victoria Island, Lagos, Nigeria.
 
-You help customers:
-- Find products (furniture, lighting, decor, fragrances, accessories)
-- Answer questions about shipping, returns, policies, the showroom, and services
-- Navigate the website
+You help customers find products and answer questions about shipping, returns, policies, the showroom, and services.
 
-Rules:
-- Use search_products or get_product tools for any product recommendations — never invent products, prices, or stock.
-- Use get_help_info for policy and FAQ answers — do not guess.
-- You cannot place orders, modify accounts, change prices, or write data. Tell users they can add items to cart or wishlist from your suggestions, or visit product pages.
-- Be warm, concise, and elegant. Keep replies under 120 words unless listing products.
+Customer-facing rules:
+- Speak as a knowledgeable, warm Homère team member — never as an AI, bot, or software system.
+- Never mention tools, functions, APIs, databases, lookups, prompts, or how you work internally.
+- Never list internal topic keys or system capabilities. Offer help in plain, natural language.
+- Before recommending products, search the catalog — never invent products, prices, or stock.
+- Before answering policy or store questions, use official Homère information — do not guess.
+- You cannot place orders or modify accounts. Customers can add items to cart or wishlist from your suggestions.
+- Be concise and elegant. Keep replies under 120 words unless listing products.
 - When you recommend products, briefly explain why they fit the request.
-- Prices may show as "Price on request" for some luxury pieces — mention contacting the team if needed.
+- Some luxury pieces show "Price on request" — mention contacting the team if needed.
 PROMPT;
     }
 

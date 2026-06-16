@@ -12,7 +12,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'decor-accessories',
             'label' => 'Home Decor',
-            'image' => '/assets/images/home-decor.jpg',
+            'image' => 'https://arowonen.com/cdn/shop/files/life_games_chess_052_800x_86a3fd38-e716-42ac-9314-e5e730a7508f.webp?v=1710251230&width=1080',
             'alt' => 'Curated home decor including vases, mirrors, and wall art',
         ],
         [
@@ -30,7 +30,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'furniture',
             'label' => 'Furniture',
-            'image' => '/assets/images/banners/RNI-Films-IMG-A063D280-72CF-4163-B202-E9F064D4A550.jpg',
+            'image' => '/assets/images/home-decor.jpg',
             'alt' => 'Designer furniture including sofas, tables, and storage',
         ],
         [

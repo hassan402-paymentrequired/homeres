@@ -9,8 +9,11 @@ use Illuminate\Support\Facades\Http;
 
 uses(RefreshDatabase::class);
 
-test('chat endpoint returns service unavailable when openai is not configured', function () {
-    config(['openai.api_key' => null]);
+test('chat endpoint returns service unavailable when no ai provider is configured', function () {
+    config([
+        'app.is_ai_local' => false,
+        'openai.api_key' => null,
+    ]);
 
     $this->postJson(route('storefront.chat'), [
         'messages' => [
@@ -33,8 +36,11 @@ test('chat endpoint validates messages', function () {
         ->assertJsonValidationErrors(['messages']);
 });
 
-test('chat returns assistant reply and product cards', function () {
-    config(['openai.api_key' => 'sk-test']);
+test('chat returns assistant reply and product cards via openai', function () {
+    config([
+        'app.is_ai_local' => false,
+        'openai.api_key' => 'sk-test',
+    ]);
 
     $category = Category::factory()->create(['name' => 'Lighting']);
     $brand = Brand::factory()->create(['name' => 'Homère']);
@@ -91,8 +97,52 @@ test('chat returns assistant reply and product cards', function () {
         ->assertJsonPath('products.0.name', 'Brass Table Lamp');
 });
 
+test('chat returns assistant reply via ollama when local ai is enabled', function () {
+    config([
+        'app.is_ai_local' => true,
+        'ollama.base_url' => 'http://127.0.0.1:11434',
+        'ollama.model' => 'qwen2.5:3b',
+        'openai.api_key' => null,
+    ]);
+
+    Http::fake([
+        '127.0.0.1:11434/v1/chat/completions' => Http::response([
+            'choices' => [[
+                'message' => [
+                    'role' => 'assistant',
+                    'content' => 'Hello from Ollama.',
+                ],
+            ]],
+        ]),
+    ]);
+
+    $this->postJson(route('storefront.chat'), [
+        'messages' => [
+            ['role' => 'user', 'content' => 'Hello'],
+        ],
+    ])
+        ->assertSuccessful()
+        ->assertJsonPath('reply', 'Hello from Ollama.');
+});
+
 test('storefront exposes ai chat enabled when openai is configured', function () {
-    config(['openai.api_key' => 'sk-test']);
+    config([
+        'app.is_ai_local' => false,
+        'openai.api_key' => 'sk-test',
+    ]);
+
+    $this->get(route('home'))
+        ->assertOk()
+        ->assertInertia(fn ($page) => $page->where('aiChatEnabled', true));
+});
+
+test('storefront exposes ai chat enabled when ollama local ai is configured', function () {
+    config([
+        'app.is_ai_local' => true,
+        'ollama.base_url' => 'http://127.0.0.1:11434',
+        'ollama.model' => 'qwen2.5:3b',
+        'openai.api_key' => null,
+    ]);
 
     $this->get(route('home'))
         ->assertOk()

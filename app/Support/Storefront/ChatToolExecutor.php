@@ -33,8 +33,6 @@ final class ChatToolExecutor
      */
     public static function toolDefinitions(): array
     {
-        $helpTopics = implode(', ', ChatHelpKnowledge::topicKeys());
-
         return [
             [
                 'type' => 'function',
@@ -78,7 +76,7 @@ final class ChatToolExecutor
                 'type' => 'function',
                 'function' => [
                     'name' => 'get_help_info',
-                    'description' => 'Get official Homère policy and store information. Topics: '.$helpTopics,
+                    'description' => 'Look up official Homère help and policy content for a topic.',
                     'parameters' => [
                         'type' => 'object',
                         'properties' => [

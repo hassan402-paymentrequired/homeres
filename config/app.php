@@ -43,6 +43,18 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Local AI (Ollama)
+    |--------------------------------------------------------------------------
+    |
+    | When true, the storefront chat assistant uses Ollama instead of OpenAI.
+    | Set IS_AI_LOCAL=true in .env for local development; leave false in prod.
+    |
+    */
+
+    'is_ai_local' => (bool) env('IS_AI_LOCAL', false),
+
+    /*
+    |--------------------------------------------------------------------------
     | Application URL
     |--------------------------------------------------------------------------
     |
