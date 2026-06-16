@@ -5,7 +5,7 @@ use App\Http\Controllers\Admin\Auth\AuthenticatedSessionController;
 use App\Http\Controllers\Admin\BrandController;
 use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\DashboardController;
-use App\Http\Controllers\Admin\InvoiceController;
+use App\Http\Controllers\Admin\NewsletterSubscriberController;
 use App\Http\Controllers\Admin\OrderController;
 use App\Http\Controllers\Admin\OrderInvoiceController;
 use App\Http\Controllers\Admin\ProductController;
@@ -41,6 +41,8 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::post('invoices/{invoice}/send', [InvoiceController::class, 'send'])
             ->name('invoices.send');
         Route::get('analytics', AnalyticsController::class)->name('analytics.index');
+        Route::get('newsletter-subscribers', [NewsletterSubscriberController::class, 'index'])
+            ->name('newsletter-subscribers.index');
         Route::get('settings', [SettingsController::class, 'edit'])->name('settings.edit');
         Route::put('settings', [SettingsController::class, 'update'])->name('settings.update');
     });

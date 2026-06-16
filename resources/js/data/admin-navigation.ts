@@ -4,6 +4,7 @@ import {
     FolderTree,
     LayoutGrid,
     LayoutTemplate,
+    Mail,
     Package,
     Settings,
     ShoppingBag,
@@ -59,6 +60,12 @@ export const ADMIN_NAV_ITEMS: AdminNavItem[] = [
         href: '/admin/analytics',
         icon: BarChart3,
         description: 'Sales and traffic insights',
+    },
+    {
+        title: 'Newsletter',
+        href: '/admin/newsletter-subscribers',
+        icon: Mail,
+        description: 'Email signups from the storefront',
     },
     // {
     //     title: 'Settings',

@@ -17,6 +17,7 @@ declare module '@inertiajs/core' {
             sidebarOpen: boolean;
             storefrontNav: StorefrontNavItem[];
             storefrontCurrency: StorefrontCurrencyProps | null;
+            showNewsletterModal: boolean;
             [key: string]: unknown;
         };
     }

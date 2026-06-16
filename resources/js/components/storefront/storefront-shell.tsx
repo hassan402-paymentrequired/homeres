@@ -1,4 +1,5 @@
 import React from 'react';
+import NewsletterModal from '@/components/storefront/newsletter-modal';
 import SiteFooter from '@/pages/landing/components/site-footer';
 import SiteHeader from '@/pages/landing/components/site-header';
 
@@ -49,6 +50,7 @@ export default function StorefrontShell({ children }: StorefrontShellProps) {
             <SiteHeader />
             <main id="MainContent">{children}</main>
             <SiteFooter />
+            <NewsletterModal />
         </div>
     );
 }

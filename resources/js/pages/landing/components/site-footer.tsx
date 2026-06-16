@@ -3,15 +3,32 @@
 import { Link } from '@inertiajs/react';
 import React, { useState } from 'react';
 import { BRAND } from '@/data/brand';
+import { subscribeNewsletter } from '@/lib/newsletter-subscription';
 
 export default function SiteFooter() {
   const [email, setEmail] = useState('');
   const [subscribed, setSubscribed] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  const handleSubscribe = (e: React.FormEvent) => {
+  const handleSubscribe = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
+    setSubmitting(true);
 
-    if (email) setSubscribed(true);
+    try {
+      const result = await subscribeNewsletter(email, 'footer');
+
+      if (!result.ok) {
+        setError(result.message);
+
+        return;
+      }
+
+      setSubscribed(true);
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (
@@ -69,6 +86,7 @@ export default function SiteFooter() {
             </p>
             </div>
             {!subscribed ? (
+            <>
             <form
               className="footer-newsletter-form"
               onSubmit={handleSubscribe}
@@ -97,6 +115,7 @@ export default function SiteFooter() {
               <button
                 type="submit"
                 className="footer-newsletter-submit"
+                disabled={submitting}
                 style={{
                   background: '#060606',
                   color: '#ffffff',
@@ -113,9 +132,22 @@ export default function SiteFooter() {
                   whiteSpace: 'nowrap',
                 }}
               >
-                Subscribe
+                {submitting ? 'Subscribing…' : 'Subscribe'}
               </button>
             </form>
+            {error && (
+              <p
+                style={{
+                  fontFamily: 'Poppins, sans-serif',
+                  fontSize: '12px',
+                  color: '#b42318',
+                  margin: '12px 0 0',
+                }}
+              >
+                {error}
+              </p>
+            )}
+            </>
           ) : (
             <p className="footer-newsletter-success">
               Thank you for subscribing!

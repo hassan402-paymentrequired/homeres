@@ -2,6 +2,7 @@
 
 namespace App\Http\Middleware;
 
+use App\Support\Storefront\NewsletterPromptResolver;
 use App\Support\Storefront\StorefrontCurrencyResolver;
 use App\Support\Storefront\StorefrontNavigationBuilder;
 use Illuminate\Http\Request;
@@ -46,6 +47,9 @@ class HandleInertiaRequests extends Middleware
             'storefrontCurrency' => $request->is('admin', 'admin/*')
                 ? null
                 : app(StorefrontCurrencyResolver::class)->resolve($request)->toArray(),
+            'showNewsletterModal' => $request->is('admin', 'admin/*')
+                ? false
+                : app(NewsletterPromptResolver::class)->shouldShow($request),
             'auth' => [
                 'user' => $request->user(),
                 'admin' => $request->user('admin'),

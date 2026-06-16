@@ -2,6 +2,8 @@
 
 use App\Http\Controllers\Storefront\CheckoutController;
 use App\Http\Controllers\Storefront\HomeController;
+use App\Http\Controllers\Storefront\NewsletterDismissController;
+use App\Http\Controllers\Storefront\NewsletterSubscriptionController;
 use App\Http\Controllers\Storefront\PaystackWebhookController;
 use App\Http\Controllers\Storefront\ProductController;
 use App\Http\Controllers\Storefront\ProductLookupController;
@@ -39,6 +41,9 @@ Route::get('/brands', ShopController::class)->name('brands');
 
 Route::get('/products/{product}', [ProductController::class, 'show'])->name('products.show');
 Route::post('/storefront/products/lookup', ProductLookupController::class)->name('storefront.products.lookup');
+Route::post('/storefront/newsletter', NewsletterSubscriptionController::class)->name('storefront.newsletter');
+Route::post('/storefront/newsletter/dismiss', NewsletterDismissController::class)->name('storefront.newsletter.dismiss');
+Route::post('/storefront/newsletter/seen', NewsletterDismissController::class)->name('storefront.newsletter.seen');
 Route::get('/storefront/search', SearchController::class)->name('storefront.search');
 Route::post('/storefront/currency', [StorefrontCurrencyController::class, 'update'])->name('storefront.currency');
 

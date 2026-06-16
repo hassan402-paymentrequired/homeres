@@ -22,7 +22,12 @@ return Application::configure(basePath: dirname(__DIR__))
         },
     )
     ->withMiddleware(function (Middleware $middleware): void {
-        $middleware->encryptCookies(except: ['appearance', 'sidebar_state']);
+        $middleware->encryptCookies(except: [
+            'appearance',
+            'sidebar_state',
+            'newsletter_subscribed',
+            'newsletter_next_prompt_at',
+        ]);
 
         $middleware->validateCsrfTokens(except: [
             'paystack/webhook',

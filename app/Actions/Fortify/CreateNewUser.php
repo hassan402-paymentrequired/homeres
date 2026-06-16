@@ -6,6 +6,7 @@ use App\Concerns\PasswordValidationRules;
 use App\Concerns\ProfileValidationRules;
 use App\Models\User;
 use App\Notifications\WelcomeNotification;
+use App\Support\Storefront\NewsletterPromptResolver;
 use Illuminate\Support\Facades\Validator;
 use Laravel\Fortify\Contracts\CreatesNewUsers;
 
@@ -32,6 +33,8 @@ class CreateNewUser implements CreatesNewUsers
         ]);
 
         $user->notify(new WelcomeNotification);
+
+        app(NewsletterPromptResolver::class)->linkSubscriberToUser($user);
 
         return $user;
     }
