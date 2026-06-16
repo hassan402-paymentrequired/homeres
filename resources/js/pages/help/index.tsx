@@ -26,8 +26,7 @@ export default function HelpIndex() {
                         lineHeight: 1.7,
                     }}
                 >
-                    Policies and answers for Homère Nigeria Limited. This preview uses
-                    sample policy text for client approval.
+                    Policies and answers for Homère Nigeria Limited.
                 </p>
                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                     {HELP_NAV.map((item) => (

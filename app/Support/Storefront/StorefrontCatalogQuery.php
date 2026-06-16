@@ -36,7 +36,8 @@ final class StorefrontCatalogQuery
             $query->where(function (Builder $builder) use ($term): void {
                 $builder->whereRaw('LOWER(name) LIKE ?', [$term])
                     ->orWhereRaw('LOWER(description) LIKE ?', [$term])
-                    ->orWhereHas('brand', fn (Builder $brand) => $brand->whereRaw('LOWER(name) LIKE ?', [$term]));
+                    ->orWhereHas('brand', fn (Builder $brand) => $brand->whereRaw('LOWER(name) LIKE ?', [$term]))
+                    ->orWhereHas('category', fn (Builder $category) => $category->whereRaw('LOWER(name) LIKE ?', [$term]));
             });
         }
 

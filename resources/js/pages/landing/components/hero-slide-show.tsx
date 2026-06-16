@@ -126,8 +126,11 @@ clearInterval(intervalRef.current);
           {/* Dark overlay */}
           <div className="absolute inset-0 bg-black" style={{ opacity: 0.35 }} />
           {/* Content */}
-          <div className="absolute inset-0 flex flex-col justify-end" style={{ padding: '0 30px 48px' }}>
-            <div className="max-w-page mx-auto w-full">
+          <div
+            className="absolute inset-0 flex flex-col items-center justify-center text-center"
+            style={{ padding: '0 30px' }}
+          >
+            <div className="max-w-page mx-auto w-full text-center">
               <p
               className="text-white mb-3"
               style={{

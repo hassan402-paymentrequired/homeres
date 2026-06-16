@@ -1,4 +1,4 @@
-import { Link } from '@inertiajs/react';
+import { Link, router } from '@inertiajs/react';
 import { useEffect, useRef, useState } from 'react';
 import type { StorefrontProduct } from '@/types/storefront-product';
 
@@ -114,7 +114,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
         };
     }, [query]);
 
-    const applySearch = (term: string) => {
+    const goToSearchResults = (term: string) => {
         const t = term.trim();
 
         if (!t) {
@@ -122,8 +122,9 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
         }
 
         saveRecent(t);
-        setQuery(t);
-        setRecent(readRecent());
+        setQuery('');
+        onClose();
+        router.get('/shop', { q: t });
     };
 
     if (!isOpen) {
@@ -182,7 +183,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                 <form
                     onSubmit={(e) => {
                         e.preventDefault();
-                        applySearch(query);
+                        goToSearchResults(query);
                     }}
                 >
                     <input
@@ -231,7 +232,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                                         <button
                                             key={term}
                                             type="button"
-                                            onClick={() => applySearch(term)}
+                                            onClick={() => goToSearchResults(term)}
                                             style={{
                                                 padding: '8px 14px',
                                                 border: '1px solid #e8e8e1',
@@ -265,7 +266,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                                 <button
                                     key={term}
                                     type="button"
-                                    onClick={() => applySearch(term)}
+                                    onClick={() => goToSearchResults(term)}
                                     style={{
                                         padding: '8px 14px',
                                         border: '1px solid #e8e8e1',
@@ -303,6 +304,7 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                         </p>
 
                         {results.length > 0 ? (
+                            <>
                             <ul
                                 style={{
                                     listStyle: 'none',
@@ -363,6 +365,24 @@ export default function SearchOverlay({ isOpen, onClose }: SearchOverlayProps) {
                                     </li>
                                 ))}
                             </ul>
+                            <Link
+                                href={`/shop?q=${encodeURIComponent(query.trim())}`}
+                                onClick={handleClose}
+                                style={{
+                                    display: 'inline-block',
+                                    marginTop: '24px',
+                                    fontFamily: 'Poppins, sans-serif',
+                                    fontSize: '12px',
+                                    fontWeight: 500,
+                                    letterSpacing: '1.5px',
+                                    textTransform: 'uppercase',
+                                    color: '#060606',
+                                    textDecoration: 'none',
+                                }}
+                            >
+                                View all results →
+                            </Link>
+                            </>
                         ) : (
                             <p
                                 style={{

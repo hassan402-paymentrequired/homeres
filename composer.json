@@ -66,6 +66,15 @@
             "npm run types:check",
             "@test"
         ],
+        "deploy:prep": [
+            "Composer\\Config::disableProcessTimeout",
+            "@php artisan config:clear --ansi",
+            "@lint:check",
+            "npm run lint:check",
+            "npm run types:check",
+            "npm run build",
+            "@php artisan test"
+        ],
         "test": [
             "@php artisan config:clear --ansi",
             "@lint:check",
