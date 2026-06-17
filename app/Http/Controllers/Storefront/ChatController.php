@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\Storefront\StoreChatRequest;
 use App\Services\Storefront\OpenAiChatService;
 use Illuminate\Http\JsonResponse;
+use Illuminate\Support\Facades\Log;
 use RuntimeException;
 use Throwable;
 
@@ -22,10 +23,12 @@ class ChatController extends Controller
         try {
             $result = $chat->chat($request->chatMessages());
         } catch (RuntimeException $exception) {
+            Log::error('ChatController: ' . $exception->getMessage());
             return response()->json([
                 'message' => $exception->getMessage(),
             ], 503);
-        } catch (Throwable) {
+        } catch (Throwable $ex) {
+            Log::error('ChatController: ' . $ex->getMessage());
             return response()->json([
                 'message' => 'Something went wrong. Please try again.',
             ], 500);

@@ -24,7 +24,7 @@ final class LandingCollectionsBuilder
         [
             'handle' => 'coffee-table-books-1',
             'label' => 'Books',
-            'image' => '/assets/images/Book-1.jpg',
+            'image' => 'https://cdn.shopify.com/s/files/1/0631/0251/7500/files/MontblancInspireWriting05.jpg?v=1731250734',
             'alt' => 'Coffee table books — design, travel, art, and luxury editions',
         ],
         [

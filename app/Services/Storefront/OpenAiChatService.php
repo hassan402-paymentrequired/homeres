@@ -8,6 +8,7 @@ use App\Support\Storefront\ChatToolExecutor;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\RequestException;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
 use RuntimeException;
 
 final class OpenAiChatService
@@ -134,6 +135,7 @@ final class OpenAiChatService
                 ])
                 ->throw();
         } catch (RequestException $exception) {
+            Log::error('OpenAiChatService: ' . $exception->getMessage());
             throw new RuntimeException(
                 'Unable to reach the AI assistant right now.',
                 previous: $exception,

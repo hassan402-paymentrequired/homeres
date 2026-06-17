@@ -69,6 +69,20 @@ function collectionHref(slug: string): string {
     return `/shop/${slug}`;
 }
 
+function imageObjectPosition(slug: string): string {
+    return (
+        {
+            'decor-accessories': 'center 45%',
+            'home-fragrance': 'center 40%',
+            'coffee-table-books-1': 'center 36%',
+            furniture: 'center 42%',
+            lighting: 'center 38%',
+            'decorative-cushions-pillows': 'center 46%',
+            textiles: 'center 44%',
+        }[slug] ?? 'center center'
+    );
+}
+
 // ─── Staggered row config ─────────────────────────────────────────────────────
 
 const ROW_PATTERNS = [
@@ -76,7 +90,7 @@ const ROW_PATTERNS = [
     ['35%', '35%', '30%'],
 ];
 
-const ROW_HEIGHTS = [260, 200, 240, 220, 220];
+const ROW_HEIGHTS = [280, 220, 260, 240, 240];
 
 function buildRows(
     items: ShopCollection[],
@@ -140,7 +154,8 @@ const CollectionTile = forwardRef<
                 src={collection.image}
                 alt={collection.alt}
                 loading="lazy"
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] group-hover:scale-[1.07]"
+                className="absolute inset-0 h-full w-full object-cover object-center transition-transform duration-700 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] group-hover:scale-[1.07]"
+                style={{ objectPosition: imageObjectPosition(collection.slug) }}
             />
 
             <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent transition-all duration-300 group-hover:from-black/75 group-hover:via-black/15" />
@@ -175,7 +190,7 @@ const SliderTile = forwardRef<
             className="group relative block shrink-0 snap-center overflow-hidden rounded-[14px]"
             style={{
                 flexBasis: 'min(82vw, 300px)',
-                aspectRatio: '5/4',
+                aspectRatio: '4/3',
                 opacity: visible ? 1 : 0,
                 transform: visible ? 'translateY(0)' : 'translateY(20px)',
                 transition: `opacity 0.5s ease ${index * 0.04}s, transform 0.5s ease ${index * 0.04}s`,
@@ -185,7 +200,8 @@ const SliderTile = forwardRef<
                 src={collection.image}
                 alt={collection.alt}
                 loading="lazy"
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.06]"
+                className="absolute inset-0 h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-[1.06]"
+                style={{ objectPosition: imageObjectPosition(collection.slug) }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/62 via-black/05 to-transparent" />
             <div className="absolute bottom-0 left-0 p-4">
