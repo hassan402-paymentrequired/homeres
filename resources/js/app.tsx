@@ -31,6 +31,8 @@ createInertiaApp({
                 return null;
             case name.startsWith('auth/'):
                 return null;
+            case name === 'site-unlock':
+                return null;
             case name.startsWith('product/'):
                 return null;
             case name.startsWith('admin/'):

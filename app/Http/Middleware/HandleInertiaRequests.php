@@ -42,16 +42,16 @@ class HandleInertiaRequests extends Middleware
         return [
             ...parent::share($request),
             'name' => config('app.name'),
-            'storefrontNav' => $request->is('admin', 'admin/*')
+            'storefrontNav' => $request->is('admin', 'admin/*', 'site-unlock')
                 ? []
                 : app(StorefrontNavigationBuilder::class)->build(),
-            'storefrontCurrency' => $request->is('admin', 'admin/*')
+            'storefrontCurrency' => $request->is('admin', 'admin/*', 'site-unlock')
                 ? null
                 : app(StorefrontCurrencyResolver::class)->resolve($request)->toArray(),
-            'showNewsletterModal' => $request->is('admin', 'admin/*')
+            'showNewsletterModal' => $request->is('admin', 'admin/*', 'site-unlock')
                 ? false
                 : app(NewsletterPromptResolver::class)->shouldShow($request),
-            'aiChatEnabled' => $request->is('admin', 'admin/*')
+            'aiChatEnabled' => $request->is('admin', 'admin/*', 'site-unlock')
                 ? false
                 : OpenAiChatService::isConfigured(),
             'auth' => [

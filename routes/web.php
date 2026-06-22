@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\SiteLockController;
 use App\Http\Controllers\Storefront\ChatController;
 use App\Http\Controllers\Storefront\CheckoutController;
 use App\Http\Controllers\Storefront\HomeController;
@@ -14,6 +15,11 @@ use App\Http\Controllers\Storefront\StorefrontCurrencyController;
 use App\Http\Controllers\Storefront\StripeWebhookController;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
+
+Route::get('/site-unlock', [SiteLockController::class, 'show'])->name('site-lock.show');
+Route::post('/site-unlock', [SiteLockController::class, 'store'])
+    ->middleware('throttle:10,1')
+    ->name('site-lock.store');
 
 Route::get('/', HomeController::class)->name('home');
 
