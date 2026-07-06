@@ -16,9 +16,7 @@ class SiteLockController extends Controller
             return redirect()->route('home');
         }
 
-        return Inertia::render('site-unlock', [
-            'appName' => config('app.name'),
-        ]);
+        return Inertia::render('site-unlock');
     }
 
     public function store(UnlockSiteRequest $request, SiteLock $siteLock): RedirectResponse

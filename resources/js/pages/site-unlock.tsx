@@ -2,11 +2,7 @@ import { Form, Head } from '@inertiajs/react';
 import { useState } from 'react';
 import { store } from '@/routes/site-lock';
 
-type Props = {
-    appName: string;
-};
-
-export default function SiteUnlock({ appName }: Props) {
+export default function SiteUnlock() {
     const [showPassword, setShowPassword] = useState(false);
 
     const inputStyle: React.CSSProperties = {
@@ -74,16 +70,17 @@ export default function SiteUnlock({ appName }: Props) {
                                 >
                                     Private preview
                                 </p>
-                                <h1
+                                <img
+                                    src="/logo.png"
+                                    alt="HOMÈRE"
                                     style={{
-                                        fontSize: '28px',
-                                        fontWeight: 400,
-                                        letterSpacing: '0.5px',
-                                        margin: 0,
+                                        width: '120px',
+                                        height: '60px',
+                                        objectFit: 'contain',
+                                        display: 'block',
+                                        margin: '0 auto',
                                     }}
-                                >
-                                    {appName}
-                                </h1>
+                                />
                                 <p
                                     style={{
                                         fontSize: '14px',
