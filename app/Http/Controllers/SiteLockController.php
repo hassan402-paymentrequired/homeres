@@ -27,6 +27,6 @@ class SiteLockController extends Controller
 
         $request->unlock($siteLock);
 
-        return redirect()->intended(route('home'));
+        return redirect()->intended(route('checkout'));
     }
 }

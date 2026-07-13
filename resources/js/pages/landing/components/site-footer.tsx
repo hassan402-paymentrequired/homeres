@@ -431,13 +431,57 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
         </div>
       </div>
 
+      <div
+        style={{
+          borderTop: '1px solid rgba(6,6,6,0.12)',
+          maxWidth: '1500px',
+          margin: '0 auto',
+          padding: '28px 30px 0',
+        }}
+        className="footer-disclaimer-wrap"
+      >
+        <p
+          style={{
+            fontFamily: 'Poppins, sans-serif',
+            fontSize: '10px',
+            fontWeight: 400,
+            letterSpacing: '1.5px',
+            textTransform: 'uppercase',
+            color: '#060606',
+            margin: '0 0 10px',
+          }}
+        >
+          Disclaimer
+        </p>
+        <p
+          style={{
+            fontFamily: 'Poppins, sans-serif',
+            fontSize: '11px',
+            fontWeight: 300,
+            letterSpacing: '0.3px',
+            color: '#6b6b6b',
+            lineHeight: 1.7,
+            margin: 0,
+            maxWidth: '920px',
+          }}
+        >
+          The products, brand names, trademarks, logos, and images displayed on
+          this website are used for reference, inspiration, and product
+          identification purposes where applicable. Homère is an independent
+          business and is not affiliated with, endorsed by, sponsored by, or
+          officially associated with any of the brands featured on this website
+          unless expressly stated. All trademarks and intellectual property
+          remain the property of their respective owners.
+        </p>
+      </div>
+
       {/* Bottom bar */}
       <div
         style={{
           borderTop: '1px solid rgba(6,6,6,0.12)',
           padding: '20px 30px',
           maxWidth: '1500px',
-          margin: '0 auto',
+          margin: '20px auto 0',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
@@ -552,6 +596,10 @@ Discover the art of elegant living with Homère Nigeria Limited. Transform your 
         }
         @media (max-width: 480px) {
           .footer-wrapper {
+            padding-left: 16px !important;
+            padding-right: 16px !important;
+          }
+          .footer-disclaimer-wrap {
             padding-left: 16px !important;
             padding-right: 16px !important;
           }

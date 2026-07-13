@@ -22,6 +22,10 @@ class SiteLock
             return true;
         }
 
+        if (! $request->routeIs('checkout', 'checkout.*')) {
+            return true;
+        }
+
         if ($request->routeIs('site-lock.*')) {
             return true;
         }

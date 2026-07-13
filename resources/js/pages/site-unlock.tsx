@@ -32,7 +32,7 @@ export default function SiteUnlock() {
 
     return (
         <>
-            <Head title="Enter access password" />
+            <Head title="Continue to checkout" />
 
             <Form
                 {...store.form()}
@@ -44,18 +44,38 @@ export default function SiteUnlock() {
                         style={{
                             fontFamily: 'Poppins, sans-serif',
                             color: '#060606',
-                            background: '#ffffff',
                             minHeight: '100vh',
                             display: 'flex',
                             alignItems: 'center',
                             justifyContent: 'center',
                             padding: '24px',
+                            position: 'relative',
+                            backgroundImage:
+                                'url(/assets/images/lock-backround.png)',
+                            backgroundSize: 'cover',
+                            backgroundPosition: 'center',
+                            backgroundRepeat: 'no-repeat',
                         }}
                     >
                         <div
+                            aria-hidden
                             style={{
+                                position: 'absolute',
+                                inset: 0,
+                                background:
+                                    'linear-gradient(180deg, rgba(250, 250, 247, 0.72) 0%, rgba(232, 232, 225, 0.82) 100%)',
+                            }}
+                        />
+
+                        <div
+                            style={{
+                                position: 'relative',
                                 width: '100%',
                                 maxWidth: '420px',
+                                background: 'rgba(255, 255, 255, 0.94)',
+                                border: '1px solid rgba(6, 6, 6, 0.08)',
+                                padding: '40px 32px 36px',
+                                boxShadow: '0 24px 60px rgba(6, 6, 6, 0.12)',
                             }}
                         >
                             <div style={{ textAlign: 'center', marginBottom: '32px' }}>
@@ -68,7 +88,7 @@ export default function SiteUnlock() {
                                         marginBottom: '12px',
                                     }}
                                 >
-                                    Private preview
+                                    Continue to checkout
                                 </p>
                                 <img
                                     src="/logo.png"
@@ -90,8 +110,8 @@ export default function SiteUnlock() {
                                         lineHeight: 1.6,
                                     }}
                                 >
-                                    This site is password protected. Enter the
-                                    access password you received to continue.
+                                    Enter the access password to place your order
+                                    securely.
                                 </p>
                             </div>
 
@@ -160,7 +180,7 @@ export default function SiteUnlock() {
                                     cursor: processing ? 'not-allowed' : 'pointer',
                                 }}
                             >
-                                {processing ? 'Verifying...' : 'Unlock site'}
+                                {processing ? 'Verifying...' : 'Continue'}
                             </button>
                         </div>
                     </div>

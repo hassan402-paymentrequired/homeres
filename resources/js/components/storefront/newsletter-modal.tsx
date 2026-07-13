@@ -5,12 +5,14 @@ import {
     dismissNewsletterPrompt,
     subscribeNewsletter,
 } from '@/lib/newsletter-subscription';
+import { hasDismissedWelcome } from '@/lib/welcome-modal';
 
 const SHOW_DELAY_MS = 1800;
 
 export default function NewsletterModal() {
     const { showNewsletterModal } = usePage<{ showNewsletterModal: boolean }>().props;
     const [locallyDismissed, setLocallyDismissed] = useState(false);
+    const [welcomeReady, setWelcomeReady] = useState(() => hasDismissedWelcome());
     const [visible, setVisible] = useState(false);
     const [email, setEmail] = useState('');
     const [submitting, setSubmitting] = useState(false);
@@ -25,14 +27,28 @@ export default function NewsletterModal() {
     }, []);
 
     useEffect(() => {
-        if (!showNewsletterModal || locallyDismissed) {
+        if (welcomeReady) {
+            return undefined;
+        }
+
+        const onWelcomeDismissed = () => setWelcomeReady(true);
+
+        window.addEventListener('homere:welcome-dismissed', onWelcomeDismissed);
+
+        return () => {
+            window.removeEventListener('homere:welcome-dismissed', onWelcomeDismissed);
+        };
+    }, [welcomeReady]);
+
+    useEffect(() => {
+        if (!showNewsletterModal || locallyDismissed || !welcomeReady) {
             return undefined;
         }
 
         const timer = window.setTimeout(() => setVisible(true), SHOW_DELAY_MS);
 
         return () => window.clearTimeout(timer);
-    }, [showNewsletterModal, locallyDismissed]);
+    }, [showNewsletterModal, locallyDismissed, welcomeReady]);
 
     useEffect(() => {
         if (!visible) {

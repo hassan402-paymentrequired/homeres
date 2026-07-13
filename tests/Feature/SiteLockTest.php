@@ -19,39 +19,45 @@ test('site is accessible when lock is disabled', function () {
     config(['site-lock.enabled' => false]);
 
     $this->get(route('home'))->assertOk();
+    $this->get(route('checkout'))->assertOk();
 });
 
 test('site is accessible when lock is enabled without a password', function () {
     config(['site-lock.password' => null]);
 
     $this->get(route('home'))->assertOk();
+    $this->get(route('checkout'))->assertOk();
 });
 
-test('locked site redirects visitors to the unlock page', function () {
-    $this->get(route('home'))
+test('storefront remains open while checkout is locked', function () {
+    $this->get(route('home'))->assertOk();
+});
+
+test('checkout redirects visitors to the unlock page when locked', function () {
+    $this->get(route('checkout'))
         ->assertRedirect(route('site-lock.show'));
 });
 
-test('unlock page is accessible while site is locked', function () {
+test('unlock page is accessible while checkout is locked', function () {
     $this->get(route('site-lock.show'))
         ->assertOk()
         ->assertInertia(fn ($page) => $page->component('site-unlock'));
 });
 
-test('correct password grants access to the site', function () {
+test('correct password grants access to checkout', function () {
     $this->post(route('site-lock.store'), ['password' => 'preview-secret'])
-        ->assertRedirect(route('home'));
+        ->assertRedirect(route('checkout'));
 
-    $this->get(route('home'))->assertOk();
+    $this->get(route('checkout'))->assertOk();
 });
 
 test('bcrypt password hash can be used instead of plain text', function () {
     config(['site-lock.password' => Hash::make('hashed-preview')]);
 
     $this->post(route('site-lock.store'), ['password' => 'hashed-preview'])
-        ->assertRedirect(route('home'));
+        ->assertRedirect(route('checkout'));
 
-    $this->get(route('home'))->assertOk();
+    $this->get(route('checkout'))->assertOk();
 });
 
 test('incorrect password is rejected', function () {
@@ -60,12 +66,14 @@ test('incorrect password is rejected', function () {
         ->assertRedirect(route('site-lock.show'))
         ->assertSessionHasErrors('password');
 
-    $this->get(route('home'))
+    $this->get(route('home'))->assertOk();
+
+    $this->get(route('checkout'))
         ->assertRedirect(route('site-lock.show'));
 });
 
-test('json requests are blocked without access', function () {
-    $this->getJson(route('home'))
+test('json checkout requests are blocked without access', function () {
+    $this->getJson(route('checkout'))
         ->assertForbidden()
         ->assertJson(['message' => 'Site access required.']);
 });
@@ -78,11 +86,11 @@ test('payment webhooks bypass the site lock', function () {
         ->assertStatus(400);
 });
 
-test('authenticated admins can bypass the site lock', function () {
+test('authenticated admins can bypass the checkout lock', function () {
     $admin = Admin::factory()->create();
 
     $this->actingAs($admin, 'admin')
-        ->get(route('home'))
+        ->get(route('checkout'))
         ->assertOk();
 });
 
@@ -92,7 +100,7 @@ test('admin bypass can be disabled', function () {
     $admin = Admin::factory()->create();
 
     $this->actingAs($admin, 'admin')
-        ->get(route('home'))
+        ->get(route('checkout'))
         ->assertRedirect(route('site-lock.show'));
 });
 
