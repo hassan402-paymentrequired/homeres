@@ -7,6 +7,25 @@ use Illuminate\Support\Facades\Hash;
 
 class SiteLock
 {
+    /**
+     * Route name patterns that require the site password when the lock is enabled.
+     *
+     * @var list<string>
+     */
+    private const LOCKED_ROUTES = [
+        'products.show',
+        'shop',
+        'shop.*',
+        'collections.*',
+        'brands',
+        'brands.*',
+        'wishlist',
+        'storefront.search',
+        'storefront.products.lookup',
+        'checkout',
+        'checkout.*',
+    ];
+
     public function isEnabled(): bool
     {
         if (! config('site-lock.enabled')) {
@@ -16,13 +35,22 @@ class SiteLock
         return filled(config('site-lock.password'));
     }
 
+    public function protectsRoute(Request $request): bool
+    {
+        if (! $this->isEnabled()) {
+            return false;
+        }
+
+        return $request->routeIs(...self::LOCKED_ROUTES);
+    }
+
     public function shouldBypass(Request $request): bool
     {
         if (! $this->isEnabled()) {
             return true;
         }
 
-        if (! $request->routeIs('checkout', 'checkout.*')) {
+        if (! $this->protectsRoute($request)) {
             return true;
         }
 

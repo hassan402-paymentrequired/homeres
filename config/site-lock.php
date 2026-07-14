@@ -8,9 +8,10 @@ return [
     |--------------------------------------------------------------------------
     |
     | Temporary gate for preview/staging access. When enabled, visitors must
-    | enter the configured password before starting checkout. Browsing the
-    | rest of the storefront remains open. Set SITE_LOCK_ENABLED=false to
-    | disable entirely.
+    | enter the configured password before viewing products, shop pages, or
+    | checkout. Browsing marketing pages (home, about, contact) remains open.
+    | The storefront shows a lock modal; direct product URLs still redirect
+    | to the unlock page. Set SITE_LOCK_ENABLED=false to disable entirely.
     |
     */
 

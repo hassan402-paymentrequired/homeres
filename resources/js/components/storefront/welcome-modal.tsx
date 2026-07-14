@@ -1,10 +1,17 @@
+import { usePage } from '@inertiajs/react';
 import { useCallback, useEffect, useState } from 'react';
+import {
+    consumeQueuedWelcome,
+    SHOW_WELCOME_EVENT,
+} from '@/lib/site-lock';
 import {
     hasDismissedWelcome,
     markWelcomeDismissed,
 } from '@/lib/welcome-modal';
 
 export default function WelcomeModal() {
+    const { siteLock, flash } = usePage().props;
+    const lockEnabled = siteLock?.enabled ?? false;
     const [visible, setVisible] = useState(false);
 
     const dismiss = useCallback(() => {
@@ -12,15 +19,40 @@ export default function WelcomeModal() {
         setVisible(false);
     }, []);
 
-    useEffect(() => {
+    const openIfNeeded = useCallback(() => {
         if (hasDismissedWelcome()) {
+            return;
+        }
+
+        setVisible(true);
+    }, []);
+
+    useEffect(() => {
+        if (flash?.showWelcome || consumeQueuedWelcome()) {
+            openIfNeeded();
+        }
+    }, [flash?.showWelcome, openIfNeeded]);
+
+    useEffect(() => {
+        const onShowWelcome = () => openIfNeeded();
+
+        window.addEventListener(SHOW_WELCOME_EVENT, onShowWelcome);
+
+        return () => {
+            window.removeEventListener(SHOW_WELCOME_EVENT, onShowWelcome);
+        };
+    }, [openIfNeeded]);
+
+    useEffect(() => {
+        // When product lock is enabled, welcome opens after unlock instead of on landing.
+        if (lockEnabled || hasDismissedWelcome()) {
             return undefined;
         }
 
         const timer = window.setTimeout(() => setVisible(true), 400);
 
         return () => window.clearTimeout(timer);
-    }, []);
+    }, [lockEnabled]);
 
     useEffect(() => {
         if (!visible) {

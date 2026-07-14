@@ -19,6 +19,18 @@ declare module '@inertiajs/core' {
             storefrontCurrency: StorefrontCurrencyProps | null;
             showNewsletterModal: boolean;
             aiChatEnabled: boolean;
+            siteLock: {
+                enabled: boolean;
+                unlocked: boolean;
+            };
+            flash: {
+                success?: string | null;
+                error?: string | null;
+                warning?: string | null;
+                info?: string | null;
+                importResult?: unknown;
+                showWelcome?: boolean;
+            };
             [key: string]: unknown;
         };
     }

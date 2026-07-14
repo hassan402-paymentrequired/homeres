@@ -1,6 +1,7 @@
 import { Link } from '@inertiajs/react';
 import { useRef, useEffect, useState } from 'react';
 import ProductCard from '@/components/storefront/product-card';
+import ProductLockOverlay from '@/components/storefront/product-lock-overlay';
 import type { StorefrontProduct } from '@/types/storefront-product';
 
 export default function NewArrivals({
@@ -78,23 +79,26 @@ export default function NewArrivals({
                     View all
                 </Link>
             </div>
-            <div
-                style={{
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(5, 1fr)',
-                    gap: '22px',
-                }}
-                className="products-grid"
-            >
-                {newArrivals.map((product, idx) => (
-                    <ProductCard
-                        key={product.id}
-                        product={product}
-                        index={idx}
-                        animate
-                        visible={visible}
-                    />
-                ))}
+            <div style={{ position: 'relative' }}>
+                <div
+                    style={{
+                        display: 'grid',
+                        gridTemplateColumns: 'repeat(5, 1fr)',
+                        gap: '22px',
+                    }}
+                    className="products-grid"
+                >
+                    {newArrivals.map((product, idx) => (
+                        <ProductCard
+                            key={product.id}
+                            product={product}
+                            index={idx}
+                            animate
+                            visible={visible}
+                        />
+                    ))}
+                </div>
+                <ProductLockOverlay label="Unlock to explore New Arrivals" />
             </div>
             <style>{`
                 @media (max-width: 1200px) {

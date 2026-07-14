@@ -3,6 +3,7 @@
 namespace App\Http\Middleware;
 
 use App\Services\Storefront\OpenAiChatService;
+use App\Support\SiteLock;
 use App\Support\Storefront\NewsletterPromptResolver;
 use App\Support\Storefront\StorefrontCurrencyResolver;
 use App\Support\Storefront\StorefrontNavigationBuilder;
@@ -39,21 +40,28 @@ class HandleInertiaRequests extends Middleware
      */
     public function share(Request $request): array
     {
+        $siteLock = app(SiteLock::class);
+        $isStorefrontExcluded = $request->is('admin', 'admin/*', 'site-unlock');
+
         return [
             ...parent::share($request),
             'name' => config('app.name'),
-            'storefrontNav' => $request->is('admin', 'admin/*', 'site-unlock')
+            'storefrontNav' => $isStorefrontExcluded
                 ? []
                 : app(StorefrontNavigationBuilder::class)->build(),
-            'storefrontCurrency' => $request->is('admin', 'admin/*', 'site-unlock')
+            'storefrontCurrency' => $isStorefrontExcluded
                 ? null
                 : app(StorefrontCurrencyResolver::class)->resolve($request)->toArray(),
-            'showNewsletterModal' => $request->is('admin', 'admin/*', 'site-unlock')
+            'showNewsletterModal' => $isStorefrontExcluded
                 ? false
                 : app(NewsletterPromptResolver::class)->shouldShow($request),
-            'aiChatEnabled' => $request->is('admin', 'admin/*', 'site-unlock')
+            'aiChatEnabled' => $isStorefrontExcluded
                 ? false
                 : OpenAiChatService::isConfigured(),
+            'siteLock' => [
+                'enabled' => $siteLock->isEnabled(),
+                'unlocked' => ! $siteLock->isEnabled() || $siteLock->hasAccess($request),
+            ],
             'auth' => [
                 'user' => $request->user(),
                 'admin' => $request->user('admin'),
@@ -65,6 +73,7 @@ class HandleInertiaRequests extends Middleware
                 'warning' => $request->session()->get('warning'),
                 'info' => $request->session()->get('info'),
                 'importResult' => $request->session()->get('importResult'),
+                'showWelcome' => (bool) $request->session()->get('showWelcome'),
             ],
         ];
     }

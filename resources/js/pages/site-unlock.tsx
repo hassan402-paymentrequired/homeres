@@ -32,7 +32,7 @@ export default function SiteUnlock() {
 
     return (
         <>
-            <Head title="Continue to checkout" />
+            <Head title="Unlock products" />
 
             <Form
                 {...store.form()}
@@ -88,7 +88,7 @@ export default function SiteUnlock() {
                                         marginBottom: '12px',
                                     }}
                                 >
-                                    Continue to checkout
+                                    Continue to the collection
                                 </p>
                                 <img
                                     src="/logo.png"
@@ -110,8 +110,8 @@ export default function SiteUnlock() {
                                         lineHeight: 1.6,
                                     }}
                                 >
-                                    Enter the access password to place your order
-                                    securely.
+                                    Enter the access password to view products
+                                    and continue shopping.
                                 </p>
                             </div>
 
