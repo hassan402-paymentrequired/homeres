@@ -84,6 +84,18 @@ export default function WelcomeModal() {
 
                 <div className="welcome-modal-divider" aria-hidden />
 
+                <p className="welcome-modal-disclaimer-label">Disclaimer</p>
+                <p className="welcome-modal-disclaimer">
+                    The products, brand names, trademarks, logos, and images
+                    displayed on this website are used for reference,
+                    inspiration, and product identification purposes where
+                    applicable. Homère is an independent business and is not
+                    affiliated with, endorsed by, sponsored by, or officially
+                    associated with any of the brands featured on this website
+                    unless expressly stated. All trademarks and intellectual
+                    property remain the property of their respective owners.
+                </p>
+
                 <p className="welcome-modal-body">
                     At Homère, our mission is to make luxury more accessible by
                     offering competitive pricing, exceptional value, and a
@@ -200,6 +212,29 @@ export default function WelcomeModal() {
                     height: 1px;
                     background: rgba(6, 6, 6, 0.2);
                     margin: 0 auto 20px;
+                }
+
+                .welcome-modal-disclaimer-label {
+                    font-family: Poppins, sans-serif;
+                    font-size: 10px;
+                    font-weight: 400;
+                    letter-spacing: 1.5px;
+                    text-transform: uppercase;
+                    color: #060606;
+                    margin: 0 0 8px;
+                }
+
+                .welcome-modal-disclaimer {
+                    font-family: Poppins, sans-serif;
+                    font-size: 11px;
+                    font-weight: 300;
+                    letter-spacing: 0.3px;
+                    color: #6b6b6b;
+                    line-height: 1.7;
+                    margin: 0 0 18px;
+                    padding: 14px 16px;
+                    background: rgba(6, 6, 6, 0.04);
+                    border-left: 2px solid rgba(6, 6, 6, 0.16);
                 }
 
                 .welcome-modal-body,
